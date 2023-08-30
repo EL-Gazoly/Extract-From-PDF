@@ -7,8 +7,6 @@ with open('JohnsonUniversityUndergraduateAcademic.txt', 'r', encoding='utf-8') a
 
     # Create a regex pattern to match course data
     pattern = re.compile(r'([A-Z]{4}\s\d{4})\s(.*?)\s\((\d+)\)\.\s((?:.|\n)*?)(?=\n[A-Z]{4}\s\d{4}|$)', re.DOTALL)
-    
-
     # Initialize a list to store extracted course data
     course_data = []
 
