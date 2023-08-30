@@ -3,7 +3,7 @@ import re
 import csv
 
 # Open the PDF file
-with open('./try.pdf', 'rb') as pdf_file:
+with open('./JacksonCollege.pdf', 'rb') as pdf_file:
     pdf_reader = PyPDF2.PdfReader(pdf_file)
     
     # Create a regex pattern to match course data
@@ -21,7 +21,7 @@ with open('./try.pdf', 'rb') as pdf_file:
         course_data.extend(matches)
         
 # Write the extracted course data to a CSV file
-with open('course_data.csv', 'w', newline='', encoding='utf-8') as csv_file:
+with open('JacksonCollege.csv.csv', 'w', newline='', encoding='utf-8') as csv_file:
     csv_writer = csv.writer(csv_file)
     
     # Write header row
