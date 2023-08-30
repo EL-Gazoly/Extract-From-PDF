@@ -3,7 +3,7 @@ import re
 import csv
 
 # Open the PDF file
-with open('./JacksonCollege.pdf', 'rb') as pdf_file:
+with open('./your/pdf/file/path.pdf', 'rb') as pdf_file:
     pdf_reader = PyPDF2.PdfReader(pdf_file)
     
     # Create a regex pattern to match course data

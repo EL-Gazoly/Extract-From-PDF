@@ -2,7 +2,7 @@ import re
 import csv
 
 # Read the text from the input file
-with open('./GraceCollegeandTheologicalSeminary.pdf', 'r', encoding='utf-8') as input_file:
+with open('./your file path', 'r', encoding='utf-8') as input_file:
     input_text = input_file.read()
 
 # Create a regex pattern to match course data
