@@ -6,8 +6,7 @@ with open('./FranklinCollege.txt', 'r', encoding='utf-8') as input_file:
     input_text = input_file.read()
 
 # Regular expression pattern
-pattern = re.compile(r'([A-Z]{3,4}\s\d{3,4})\s(.+?)\n(\d+\s+credit\s?hours?)\s+([\s\S]+?)(?=\n[A-Z]{3,4}\s\d{3,4}|$)')
-
+pattern = re.compile(r'([A-Z\/\s\d]+?[A-Z\/]{3,}\s?\d{3,}[A-Z]*)(?:\s(.+?))?\n(\d+)\s*credit\s?hours?\s+([\s\S]+?)(?=\n[A-Z]{3,4}\s\d{3,4}|$)', re.IGNORECASE)
 # Find all matches in the input text
 matches = pattern.findall(input_text)
 
@@ -18,7 +17,7 @@ course_data = []
 for match in matches:
     course_code = match[0]
     course_name = match[1].strip()
-    credit_hours = match[2].strip()
+    credit_hours = match[2].strip()  # Only the number of credit hours
     description = match[3].strip()
     course_data.append([course_code, course_name, credit_hours, description])
 
