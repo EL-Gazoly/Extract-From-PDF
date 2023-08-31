@@ -6,7 +6,7 @@ with open('./GraceChristianUniversity.txt', 'r', encoding='utf-8') as txt_file:
     txt_content = txt_file.read()
 
     # Create a regex pattern to match course data
-    pattern = re.compile(r'([A-Z]{3}\s\d{3})\s–\s(.+?)\s+Credit Hours:\s(\d+)\s+([\s\S]+?)(?=\n[A-Z]{3}\s\d{3}\s–|$)')
+    pattern = re.compile(r'([A-Z/ ]+\d{3}[A-Z]?)\s–\s(.+?)\s+Credit Hours:\s(\d+(?:-\d+)?)\s+([\s\S]+?)(?=\n[A-Z/]+\s\d{3}\s–|$)')
     
     # Initialize a list to store extracted course data
     course_data = []
@@ -26,4 +26,4 @@ with open('GraceChristianUniversity.csv', 'w', newline='', encoding='utf-8') as 
     for course in course_data:
         csv_writer.writerow(course)
 
-print("CSV file 'JohnsonUniversityUndergraduateAcademic.csv' has been created with the extracted course data.")
+print("CSV file 'GraceChristianUniversity.csv' has been created with the extracted course data.")
