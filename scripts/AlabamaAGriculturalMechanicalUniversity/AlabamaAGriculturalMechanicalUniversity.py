@@ -6,7 +6,7 @@ with open('./AlabamaAGriculturalMechanicalUniversity.txt', 'r', encoding='utf-8'
     txt_content = txt_file.read()
 
     # Create a regex pattern to match course data
-    pattern = re.compile(r'([A-Z]+\s\d+[A-Z]*\s?[A-Z]*)\s+([\w\s\-]+)\s*–\s*(\d+ credit hours)[\s\S]*?([\s\S]+?)(?=\n[A-Z]+\s\d+|\Z)')
+    pattern = re.compile(r'([A-Z]+\s\d+[A-Z]*\s?[A-Z]*)\s+([\w\s\-]+)\s*–\s*(\d+) credit hours[\s\S]*?([\s\S]+?)(?=\n[A-Z]+\s\d+|\Z)')
     
     # Initialize a list to store extracted course data
     course_data = []
@@ -14,7 +14,12 @@ with open('./AlabamaAGriculturalMechanicalUniversity.txt', 'r', encoding='utf-8'
     # Find all matches in the text content
     matches = pattern.findall(txt_content)
     for match in matches:
-        course_data.append(match)
+        course_code = match[0]
+        course_title = match[1]
+        credit_hours = match[2]  # Only the number of credit hours
+        description = match[3].strip()
+
+        course_data.append((course_code, course_title, credit_hours, description))
 
 # Write the extracted course data to a CSV file
 with open('./AlabamaAGriculturalMechanicalUniversity.csv', 'w', newline='', encoding='utf-8') as csv_file:
@@ -24,7 +29,6 @@ with open('./AlabamaAGriculturalMechanicalUniversity.csv', 'w', newline='', enco
     csv_writer.writerow(['Course Code', 'Course Title', 'Credit Hours', 'Description'])
 
     # Write course data rows
-    for course in course_data:
-        csv_writer.writerow([course[0], course[1], course[2], course[3].strip()])
+    csv_writer.writerows(course_data)
 
 print("CSV file 'AlabamaAGriculturalMechanicalUniversity.csv' has been created with the extracted course data.")
