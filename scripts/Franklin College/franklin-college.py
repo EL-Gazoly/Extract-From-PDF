@@ -2,7 +2,7 @@ import re
 import csv
 
 # Read the text from the input file
-with open('./FranklinCollege.txt', 'r', encoding='utf-8') as input_file:
+with open('./franklin-college.txt', 'r', encoding='utf-8') as input_file:
     input_text = input_file.read()
 
 # Regular expression pattern
@@ -22,13 +22,13 @@ for match in matches:
     course_data.append([course_code, course_name, credit_hours, description])
 
 # Write the extracted course data to a CSV file
-with open('FranklinCollege.csv', 'w', newline='', encoding='utf-8') as csv_file:
+with open('franklin-college.csv', 'w', newline='', encoding='utf-8') as csv_file:
     csv_writer = csv.writer(csv_file)
     
     # Write header row
-    csv_writer.writerow(['Course Code', 'Course Name', 'Credit Hours', 'Description'])
+    csv_writer.writerow(['Code', 'Name', 'Credit', 'Description'])
     
     # Write course data rows
     csv_writer.writerows(course_data)
         
-print("CSV file 'FranklinCollege.csv' has been created with the extracted course data.")
+print("CSV file 'franklin-college.csv' has been created with the extracted course data.")
