@@ -20,7 +20,7 @@ with open('grace-college-and-theological-seminary.csv', 'w', newline='', encodin
     csv_writer = csv.writer(csv_file)
 
     # Write header row
-    csv_writer.writerow(['Course Code', 'Course Title', 'Credit Hours', 'Description'])
+    csv_writer.writerow(['Code', 'Title', 'Hours', 'Description'])
 
     # Write course data rows
     for course in course_data:

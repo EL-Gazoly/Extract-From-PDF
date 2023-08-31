@@ -12,8 +12,8 @@ def extract_text_from_pdf(input_pdf, output_text, start_page, end_page):
     pdf_document.close()
 
 if __name__ == "__main__":
-    input_pdf_file = "./GraceChristianUniversity.pdf"  # Replace with your input PDF file path
-    output_text_file = "GraceChristianUniversity.text"  # Replace with the desired output text file path
+    input_pdf_file = "./grace-christian-university.pdf"  # Replace with your input PDF file path
+    output_text_file = "grace-christian-university.text"  # Replace with the desired output text file path
     start_page_number = 160 # Replace with the starting page number
     end_page_number = 220  # Replace with the ending page number
     
