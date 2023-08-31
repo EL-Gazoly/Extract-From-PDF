@@ -6,7 +6,7 @@ with open('./AlabamaAGriculturalMechanicalUniversity.txt', 'r', encoding='utf-8'
     txt_content = txt_file.read()
 
     # Create a regex pattern to match course data
-    pattern = re.compile(r'([A-Z]+\s\d+)\s+([\w\s\-]+)\s*–\s*(\d+ credit hours)[\s\S]*?([\s\S]+?)(?=\n[A-Z]+\s\d+|\Z)')
+    pattern = re.compile(r'([A-Z]+\s\d+[A-Z]*\s?[A-Z]*)\s+([\w\s\-]+)\s*–\s*(\d+ credit hours)[\s\S]*?([\s\S]+?)(?=\n[A-Z]+\s\d+|\Z)')
     
     # Initialize a list to store extracted course data
     course_data = []
