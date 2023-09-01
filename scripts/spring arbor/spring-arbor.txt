@@ -1934,24 +1934,16 @@ interventions. Includes resume and cover letter preparation and mock job intervi
 seeking an endorsement in early elementary or special education take a respective seminar course. "B-" or better. 
 Prerequisites: Completion of all EDU and program courses, 120 hours of pre-student teaching field experience, and 
 approved to student teach. 
-Corequisites: EDU 450E/S 
+Corequisites: EDU 450E
  
 EDU 433 Applied Core Teaching Practices Across the Curriculum (PK-6) (4) 
 A practical learning laboratory. Candidates apply learned math, science, and social studies content using a variety of 
 techniques, activities, and methods that directly align to core teaching practices. Emphasizes understanding and using 
 Michigan elementary curriculum benchmarks in developing and presenting objective-based lesson plans and 
 standards-based units. Requires a minimum 20 hours of teaching and learning in a site-based clinical experience 
-supervised by a certified teacher. Core teaching practices are observed and documented with evidence.  
+supervised by a certified teacher. Core teaching practices are observed and documented with evidence. 
+Corequisites: ed
  
- 
- 
- 
- 
- 
-COURSE DESCRIPTIONS 
-  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-253 
  
 EDU 450E Directed Teaching: Elementary (Fall, Spring) 
 Mentored elementary school teaching. Provides observation and management of the classroom and the learning 
