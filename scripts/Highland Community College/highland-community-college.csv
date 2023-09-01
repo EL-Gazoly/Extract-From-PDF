@@ -1,0 +1,916 @@
+Code,Name,Credit Hours,Description
+A 101,Art Appreciation,3,This course is an introduction to the fundamentals of the visual
+A 103,Two-Dimensional (2D) Design,3,This course provides an introductory study of the elements and
+A 104,Three-Dimensional (3D) Design,3,This studio design course covers the elements and principles
+A 105,Prints I,3,"This course provides an introduction to the tools, methods, and"
+A 107,Drawing I,3,This course will cover the fundamentals of drawing as applied
+A 108,Drawing II,3,This class continues the investigation of various drawing media
+A 107,A 110 Painting I,3,"This course will provide a brief history of painting and an in-
+troduction to the color wheel and various painting techniques."
+A 111,Painting II,3,This course will provide a continuation of Painting I concepts and
+A 110,A 112 Ceramics I,3,This course will provide an introduction to the use of clay as an
+^A 113,Typography,3,"This course will provide a study of the principles of contem-po-
+rary typographic design. The course will focus on size, form, con-
+trast, color, spacing, and design of the printed word and printed"
+A 114,Watercolor I,3,This is a fundamental course in the use of color via the medium
+A 115,Watercolor II,3,This is an advanced course in the use of color via the medium of
+A 114,A 117 Ceramics II,3,This course continues the instruction and skill building begun
+A 112,^A 121 Design Software Applications,3,"This course provides an introduction to computer hardware,"
+A 201,Art History Survey: Prehistoric to Medieval,3,"This course provides an introductory survey of the art and archi-
+tecture of the Western world from Prehistoric times through"
+A 202,Art History Survey: Renaissance-Contemporary,3,This course provides an introductory survey of the art and
+A 205,Art Methods,3,An examination of the principles and practices of teaching art to
+^A 215,Graphic Design,3,"This course covers the resources, materials, and procedures of"
+^A 223,Computer Graphics - Illustration,3,"This course provides an introduction to contemporary illustra-
+tion practice, including the use of traditional drawing, painting,"
+A 103,"or 
+A 121 recommended)
+^A 224 Computer Graphics - Enhanced Photography",3,"This course provides experience in the use of high-tech en-
+hanced photography software. Course projects will incorporate"
+A 240,Art Seminar,1,"This course is designed for students interested in research, dis-
+cussion, and studio experience in various media within academic"
+A 250,Advanced Studio I,1,This studio course is designed for the student with an interest in
+A 251,Advanced Studio II,1,This studio course is designed for the student with an interest in
+A 250,A 252 Advanced Studio III,1,This studio course is designed for the student with an interest in
+A 251,A 260 Portfolio Preparation,1,This course is intended to provide students with the skills and
+AB 108,Principles of Animal Science,3,This course will introduce the field of animal science. The course
+AB 114,Ag Orientation,2,This course will provide an introduction to the various careers
+^AB 116,Applied Agronomy for Precision Ag,3,"This course presents instruction in plant identification, plant"
+^AB 118,Agriculture GIS,3,"This course focuses on the concepts and procedures used in dis-
+covering and applying the spatial relationships within and among"
+AB 126,Principles of Agronomy,3,"This course presents instruction in crop plant classification, use,"
+^AB 128,Agriculture Electronic Devices & Systems,3,This course is designed to teach a person with basic electrical
+^AB 130,Precision Farming Systems,3,"This course provides an overview of precision agriculture con-
+cepts and the tools of the discipline: Global Navigation Satellite"
+^AB 132,Agriculture Data Management Systems,3,This course will prepare the student in the use of various spatial
+^AB 134,Precision Farming Hardware,3,"This course will prepare the student in the use of various preci-
+sion farming hardware components. Basic concepts of electricity,"
+^AB 136,Introduction to Agricultural GIS,3,"This introductory course focuses on the concepts and proce-
+dures used in discovering and applying the spatial relationships"
+^AB 138,Remote Sensing,3,This course examines fundamental concepts and theories from
+^AB 142,Field Mapping for Decision Making,3,"The primary purpose is to demonstrate the various tools avail-
+able in industry to assist GIS Specialists, Precision Ag Technicians,"
+^AB 144,Intermediate Agricultural GIS,3,This intermediate course builds upon on the concepts and
+^AB 146,Aerial Systems Management,2,"This course introduces Unmanned Aerial Systems (UAS) plat-
+forms, their history, and commercial applications, with special"
+^AB 148,Positioning Systems Management,3,"The Global Navigation Satellite System (GNSS) is a worldwide,"
+AB 202,Agriculture Economics,3,This course provides an introduction to the field of agricultural
+AB 203,Soils and Soils Lab,4,"This course will provide a study of the physical, chemical, and bi-
+ological properties of soils and how these properties determine"
+AB 210,"and 
+PS 111 or",2,"years high school chemistry or Instructor Permis-
+sion"
+AB 207,Fundamentals of Animal Nutrition,3,"This course covers the role of carbohydrates, proteins, lipids,"
+AB 108,"or Instruc-
+tor Permission
+AB 208 Applied Animal Nutrition",3,This advanced course will cover various techniques involved in
+AB 207,"or Instructor Permission
+AB 210 Crop Science",4,This course will examine plant morphology and anatomy and
+AB 212,Livestock Production,3,This advanced animal science course is designed so students can
+AB 108,"or Instructor Permission
+AB 216 Farm Marketing",3,This introductory course will cover operations involved in the
+AB 202,"or 
+Instructor Permission
+AB 220 Beef Production",3,This course will cover the basic husbandry practices used in
+AB 108,"or Instructor Permission
+AB 222 Sheep Production",3,This course is designed to introduce the technology required
+AB 108,"or Instructor Permission
+AB 224 Range Management",3,This course is designed to give students knowledge about forage
+AB 210,"or Instructor Permis-
+sion
+AB 225 Animal Diseases and Health",3,"This course will cover general concepts and applications for de-
+signing and developing an effective flock or herd health program."
+AB 227,Ag Microcomputer,3,"This course is designed for students who have had some ex-
+perience with computers. The course will cover the start-up"
+^AB 244,Precision Agriculture Capstone,3,The primary goal and function of this capstone course is to
+^ACR105,Painting & Refinishing I,3,"This course is the first in a four-course sequence covering all as-
+pects of painting and refinishing auto body surfaces.  The course"
+^ACR115,Non-Structural Analysis & Damage Repair I,4,This course is the first in a four-course sequence covering all
+^ACR125,Structural Analysis & Damage Repair I,2,This course is the first in a four-course sequence covering all
+^ACR135,"Airbrush, Fiberglass, and Pin Striping",3,This course is designed to enhance skills in auto collision repair
+^ACR155,Painting & Refinishing II,3,This course is the second in a four-course sequence covering all
+^ACR165,Non-Structural Analysis & Damage Repair II,4,This course is the second in a four-course sequence covering all
+^ACR175,Structural Analysis & Damage Repair II,2,This course is the second in a four-course sequence covering
+^ACR185,Panel Fabrication,3,This course is designed to give students the skills needed to
+ACR 125,^ACR205 Painting & Refinishing III,3,This course is the third in a four-course sequence covering all
+ACR 155,^ACR215 Non-Structural Analysis & Damage Repair III,4,This course is the third in a four-course sequence covering all
+ACR 165,^ACR220 Introduction to Estimating,3,Damage analysis and estimating covers the process of analyzing
+^ACR225,Structural Analysis & Damage Repair III,3,This course is the third in a four-course sequence covering all
+ACR 175,^ACR235 Fleet and Commercial Vehicles,3,This course is designed to allow students to use knowledge
+ACR 175,^ACR255 Painting and Refinishing IV,4,This course is the final one in a four-course sequence covering
+ACR 205,^ACR265 Non-Structural Analysis & Damage Repair IV,5,This course is the final one in a four-course sequence covering
+ACR 215,^ACR270 Advanced Estimating & Bluepriting,3,This course teaches systematic approaches to determining the
+^ACR275,Structural Analysis & Damage Repair IV,3,This course is the final one in a four-course sequence covering
+ACR 225,^ACR285 Mechanical & Electrical,3,"This course will focus specifically on auto mechanical and elec-
+trical systems and will cover inspection, diagnosis, service, and"
+ACR 225,^ACR295 Occupational Work Experience,0,Occupational Work Experiences are available to students who
+^ADM115,Administrative Procedures I,3,"This course provides for an understanding of the concepts,
+69
+terminology, skills and procedures needed for employment in an"
+^ADM116,Office Simulations I,3,This course is designed to give students simulated practice with
+^ADM121,Proofreading and Editing,3,This course is designed to assist students in identifying and
+^ADM131,Microcomputer Applications I,3,"This course is designed to examine and apply the skills, tools, and"
+^ADM135,Business Finance,3,This course is designed to reinforce an understanding of business
+^ADM138,Project Management I,2,"This course aims to develop a foundation base of the con-
+cepts and solutions a student would need for successful proj-
+ect management. Focus areas for this course combine project"
+^ADM141,Applied Media Technology,3,This course offers an overview of the role that media play in
+^ADM152,Office Simulations II,3,This course is a continuation of material presented in ADM116.
+ADM 116,^ADM161 Administrative Procedures II,3,This course provides additional information on mail and shipping
+ADM 115,^ADM171 Microcomputer Applications II,3,This course provides advanced instruction on how to use
+^ADM180,Accounting I,3,"This course gives students a broad overview of business opera-
+tions and the basic skills needed to keep better financial records."
+^ADM182,Project Management II,2,"This course aims to develop a foundation base of the con-
+cepts and solutions a student would need for successful proj-
+ect management. Focus areas for this course combine project"
+ANT112,General Anthropology,3,"This survey course will cover the biological and cultural evolu-
+tion of humans and will emphasize culture as an adaptive and"
+^AUT101,Electrical I,3,This course is designed for the study of automotive electrical
+^AUT121,Auto Electricity and Electronics,2,"This course deals with the operation, diagnosis, and service of"
+^AUT122,Brakes I,3,"This course is designed to provide students with an understand-
+ing of how various basic and antilock brake systems work."
+^AUT125,Undercar Maintenance,3,In this course students will study and perform tasks from the
+^AUT126,Underhood Maintenance,3,In this course students will study and perform tasks from the
+^AUT132,Engine Performance I,3,This course provides current information to develop the skills
+^AUT142,Automotive Technology Lab I,5,This lab course is designed to give students practical work
+^AUT151,Heating and Air Conditioning,2,This course is designed provide knowledge of basic heating
+AUT 142,^AUT161 Steering and Suspension I,3,The suspension and steering systems course is a lecture course
+^AUT192,Automotive Technology Lab II,5,This course is a lab course designed to give students practical
+AUT 142,^AUT193 Hybrid and Fuel Cell Vehicles,1,This course is designed to give students an introduction to
+^AUT201,Manual Drive Trains and Axles,2,This course is designed to provide an in-depth study of torque
+AUT 192,^AUT211 Automatic Transmissions/Transaxles I,2,This course provides an in-depth study of torque delivery and
+AUT 192,^AUT221 Engine Performance/Drivability II,2,This course provides current information to develop more
+AUT 192,^AUT242 Automotive Technology Lab III,7,This lab course is designed to give students practical work
+AUT 192,^AUT251 Engine Repair I,2,This course begins with basic engine diagnostics and progresses
+AUT 242,^AUT255  Automatic Transmission/Transaxle II,1,This course continues the study of automatic transmissions and
+AUT 242,^AUT261 Auto Service Management,2,This interactive course covers the essentials and rationale for
+AUT 242,^AUT281 Automotive Technology Lab IV,7,This lab course is designed to give students practical work
+AUT 242,^AUT291 Service Management Practicum,1,"This course is a continuation of the AUT261 Auto Service Man-
+agement course intended to develop skills to assist the student"
+AUT 242,"71
+^AUT295 Occupational Work Experience",0,Occupational Work Experiences are available to students who
+BS 101,College Biology,5,This general education course will examine the plant and animal
+MAT 090,", ENG 095, or Assessment 
+BS 104 Human Anatomy",4,This course is an anatomical study of the systems forming the
+BS 105,Human Physiology,4,This course provides a physio-chemical study of the systems
+BS 107,Introduction to Environmental Science,4,This interdisciplinary science course is designed to stimulate
+BS 109,Medical Terminology,3,"This course is designed to teach basic competency in the vocab-
+ulary and comprehension of medical terms. The course will focus"
+BS 110,Nutrition,3,This course is a study of the fundamentals of human nutrition
+BS 111,"Nutrition for Health, Fitness, Sports",3,This course will provide a study of food and the effect nutrition
+BS 112,"Nutrition for Health, Fitness, Sport w/ Lab",5,This course will provide a study of food and the effect nutrition
+BS 201,General Zoology,5,This course covers the anatomy and physiology of representative
+BS 101,"or Instructor 
+Permission
+BS 202 General Botany",5,This course provides a study of the structure of plants and how
+BS 203,Microbiology,5,"This course will provide a study of the morphology, physiology,"
+BS 101,or BS 105 or,5,Credit Hour Anatomy and Physiology with lab
+BS 220,Pathophysiology,4,An introduction to the basic concepts of pathophysiology as it
+BS 104,"and BS 105
+^BS 240 Emergency Medical Training - Basic 
+12
+This course is designed to provide training for giving medical 
+care to patients in the pre-hospital setting. The course will offer 
+instruction and practical experience for students to develop the 
+knowledge, skills, and attitudes needed for certification and prac-
+72
+tice as an Emergency Medical Technician-Basic (EMT-B) in Kansas. 
+ 
+BS 241 CPR Basic",1,This course is designed to give students the knowledge and skills
+^BS 244,Emergency Medical Training - Intermediate,6,This course is designed to provide advanced training for giving
+^BS 246,"Advance Emergency Medical Technician 
+13
+This course is designed to provide advanced training for giving 
+medical care to patients in the pre-hospital setting. The course 
+will offer instruction and practical experience for students to
+develop the knowledge, skills, and attitudes needed for certifica-
+tion and practice as an Advance Emergency Medical Technician 
+(AEMT) in Kansas. Prerequisite: EMT-B Certification
+^BTT105 Safety & Orientation (OSHA 10)",1,This course covers the tools and materials required for the
+^BTT106,Introductory Craft Skills,3,This course includes the general and specific introduction
+^BTT109,Carpentry Basics,4,This is a step by step class that teaches the student how to use
+^BTT111,Roof & Framing,3,"A practical study of roof styles including gambrel, gamble, shed,"
+^BTT119,"Floors, Walls, & Ceiling Framing",4,This course provides experience in construction of the sub-floor
+BTT111,^BTT121 Residential Concrete Construction,2,"Though the finishing of footings, foundations, and floor slabs is"
+^BTT155,Residential Interior Finish Carpentry,5,The attractiveness of a home is often determined by the quality
+BTT 121,"^BTT159 Windows, Doors, & Stairs",3,"This course is a study of the exterior sheathings, windows,"
+^BTT170,"Painting, Finishing, & Decorating",4,Wood and certain other covering material used on inside and
+BTT 159,BUS101 Introduction to Business,3,This course provides a preview of business which includes
+BUS102,Personal Finance,3,For non-business as well as for business majors. The course is
+BUS103,Accounting I,3,"The recording, classification, and analysis of economic transac-
+tions of the sole proprietorship form of business ownership are"
+BUS105,Accounting II,3,This course is a continuation of Accounting I.  The focus of the
+BUS 103,"with a C or higher
+BUS112 The Business of Personal Training",3,This course will provide a study of the entrepreneurial process
+^BUS115,Business Math Using Calculators,3,This course covers basic business math operations and focuses
+BUS116,Introduction to Accounting,3,"This course provides an introduction to the fundamental princi-
+ples of accounting as applied to business enterprises. The entire"
+^BUS117,Computerized Accounting,3,"This course provides an introduction to computerized account-
+ing. The course will offer practical experience in establishing main-
+taining accounting systems and records for single proprietorships"
+BUS125,Human Resources,3,"This course will examine the development and role of human re-
+sources management in an organization. The course will focus on"
+BUS127,Principles of Entrepreneurship I,3,"This course emphasizes the major issues confronting entrepre-
+neurs and those in small business.  It provides guidance regarding"
+BUS130,"Microcomputer Applications I: Word Processing, 
+Spreadsheet, Database, Presentation",3,This course is designed to give students knowledge and practice
+BUS133,Microcomputer Applications I: Spreadsheet,3,This course focuses on Microsoft Excel spreadsheet concepts
+BUS139,Microcomputer Apps I: Word Processing,3,This course is designed to provide students instruction on word
+BUS181,Microcomputer Apps I: Word Processing,1,"This course is designed to provide instruction in using word pro-
+cessing software. (Note: Students who have already completed"
+BUS 139,"cannot take this course.) 
+BUS183 Microcomputer Applications I: Spreadsheet",1,This course focuses on Microsoft Excel spreadsheet concepts
+BUS 133,"cannot take this course.)
+ 
+BUS189 Microcomputer Apps I: Electronic Business 
+Presentation",1,This course focuses on using Microsoft PowerPoint to create
+BUS 151,"cannot take this course.) 
+BUS200 Financial Accounting",4,"This course covers the basic accounting mode, the measurement"
+BUS 116,"or Instructor Permission
+BUS201 Principles of Management",3,"This course presents a basic understanding of the field of man-
+agement and management practices. Management functions of"
+BUS203,Macroeconomics,3,"This course provides a study of basic macroeconomic concepts,"
+MAT 100,BUS204 Microeconomics,3,"This course provides a study of basic microeconomic theory ap-
+74
+plied to the analysis of prices, markets, production, profits, rents,"
+MAT 100,BUS205 Business Law,3,This course provides a basic study of law related to business.
+BUS210,Marketing,3,Introduces the role and importance of marketing techniques to
+BUS213,Business Communications,3,"This course covers both traditional and innovative communi-
+cation skills.  The primary focus will be on writing employment"
+ENG 101,BUS216 Managerial Accounting,3,"This course covers the concepts of materials, labor, and overhead"
+BUS 105,"or BUS 200 with a C or higher
+BUS230 Principles of Entrepreneurship II",3,This course will provide a study of the basic entrepreneurial
+^CAD101,Technical Drawing I,4,"This course teaches the basic concepts of drafting communi-
+cation. Subjects include line types, orthographic projections,"
+^CAD131,Computer Graphics I,5,"This course is designed to provide students with a basic under-
+standing of the uses and applications of computer drafting hard-
+ware and software.  The course will also explore and develop"
+^CAD151,Technical Drawing II,4,This course is a continuation of Technical Drawing I and teaches
+^CAD182,Computer Graphics II,5,This course is designed to provide students with an advanced
+CAD131,^CAD201 Technical Drawing III,4,"This course covers advanced concepts of drafting communica-
+tion pertaining to mechanical engineering.  Subjects include line"
+^CAD211,Spreadsheets,3,This spreadsheet application course is designed to show students
+^CAD221,Geometry,2,"This course covers the principles of basic geometric construc-
+tion: lines, arcs, circles, angles, and the relationships between geo-
+metric forms. The course will focus how these principles apply to"
+^CAD232,Computer Graphics III,5,"This advanced course will cover hardware, networking, and In-
+ternet concepts.  The course will cover how to install hardware"
+CAD182,^CAD232B Computer Graphics III,2,"This advanced course will cover hardware, networking, and In-
+ternet concepts.  The course will cover how to install hardware"
+CAD182,^CAD251 Technical Drawing IV,4,"This course covers advanced concepts of drafting communica-
+tion pertaining to mechanical engineering.  Subjects include line"
+^CAD261,Database,4,This database application course is designed to show students
+^CAD271,Trigonometry,2,"This course covers trigonometric functions, solution of triangles,"
+^CAD282,Computer Graphics IV,5,This course covers advanced parametric modeling.  Working with
+CAD232,^CAD295 Occupational Work Experience,0,Occupational Work Experiences are available to students who
+CJ 100,Introduction to Criminal Justice,3,This is an introductory course in the field of criminal justice.  The
+CJ 105,Introduction to Corrections,3,"This course is an introductory study of the entire field of cor-
+rections, beginning with conviction. The course will cover the"
+CJ 110,Criminal Investigation,3,This course explores issues including the effective interview and
+CJ 116,Criminal Justice Interview and Report Writing,3,Focuses on the unique types of writing required in a criminal
+CJ 120,Juvenile Delinquency & Justice,3,This course examines the historical precedents and philosophical
+CJ 140,Criminal Procedures,3,This course introduces basic court system procedures and the
+CJ 201,Criminal Law,3,"This course examines the history, scope, and nature of law. It"
+CJ 100,"or Instructor Permission
+CJ 204 Professional Responsibility in Criminal Justice",3,"Explores the major components involved in the study of ethics,"
+CJ 100,CJ 205 Law Enforcement Operations and Procedures,3,Examines the role of police in society and the application of key
+CJ 100,CJ 212 Agency Administration,3,Conducts a practical analysis of modern administration theory
+CJ 220,Practicum in Administration of Justice,3,The focus of this course is hands-on practical experience and
+COL 103,College Success,1,This course is an introduction to the world of college. The
+COL 162,Careers in Sports and Fitness,2,The purpose of this course is to make students aware of the
+COL 170A - 170D,"Leadership Organization & Goals  .5
+This course will provide practical instruction and experience 
+in student government and leadership.  The course will cover 
+leadership qualities, parliamentary procedures, time management, 
+conflict resolution, budgeting, and team building.  Students will 
+be actively involved in student government, as well as fundrais-
+ing, community projects, student activities, entertainment, and 
+programs.  This course is designed for individuals with little or 
+no background in student government. Prerequisite: Instructor 
+Permission
+COL182 Student Success Seminar",1,"This course is designed to enhance student success and reten-
+tion as well as create a greater understanding of what it takes to"
+^CRT190,Certification Training Lab,1,This class is designed to give the second semester student
+^CST103,Operating Systems,2,This course provides instruction on the most commonly used
+^CST105,Industrial Computer Applications,2,This is an introductory course appropriate for all technical
+^CST106,Introduction to Networking: CCNA,1,"3
+This course introduces the architecture, structure, functions,"
+^CST107,Introduction to Computers & Applications,3,"This course is designed to examine and apply the skills, tools"
+^CST115,PC Troubleshooting Lab,1,This course is intended to introduce the student to various
+^CST118,Linux Essentials,2,"The course is designed to introduce students to the Linux oper-
+ating system basics. Major topics include discussions on Open-
+Source software, the Linux file system, command line syntax,"
+^CST124,PC Troubleshooting Essentials,2,This course is intended to introduce the student to various
+^CST125,Web Design,2,"This course is designed to introduce students to web design us-
+ing HTML5 and CSS3.  Concepts discussed include understanding"
+^CST154,CompTIA A+ Essentials,3,"This course is designed to give the student instruction on com-
+plex hardware installation and prevention of and recovery from"
+^CST158,CompTIA A+ Practical Applications,3,"This course is designed to give the Computer Support Technol-
+77
+ogy student instruction on how to troubleshoot and resolve"
+^CST159,Routers and Routing: CCNA2,4,"This course describes the architecture, components, and opera-
+tion of routers, and explains the principles of routing and routing"
+^CST201,Advanced Operating Systems,3,This course is designed to provide advanced instruction on the
+^CST206,Programming,2,"This course is designed as an introduction to computer pro-
+gramming. The course will cover basic programming skills such"
+^CST207,Tech Support Lab I,2,This course is designed for second-year students who are
+^CST212,LAN Switching and Wireless: CCNA3,3,"This course provides a comprehensive, theoretical, and practical"
+^CST218,Linux,2,The course is designed to introduce students to the Linux
+CST219,Server Operations Systems & Virtualization,3,"This course is designed as an introduction to server operat-
+ing systems and virtualization. The course will examine typical"
+^CST223,Server Administration,3,This course is designed to introduce students to various aspects
+^CST224,Computer & Network Security,3,"This course is designed as an introduction to computer net-
+working administration and maintenance. The course will"
+^CST225,Web Development,3,"This course is designed to introduce students to web develop-
+ment using PHP and MySQL. Concepts discussed include Apache"
+^CST295,Occupational Work Experience,0,"This course is designed to finish students’ preparation for em-
+ployment in the Information Technology industry. Students will"
+^DSL102,OSHA 10,1,"This course will: explain job/site safety and precautions for job/
+site hazards; determine the uses of personal protective equip-
+ment (PPE); identify the safety equipment and procedures related"
+^DSL111,Fundamentals of Operating Principles,4,This course teaches the history of the diesel engine from the
+^DSL121,Engine Maintenance,2,"This course covers standard DB, DB@ and DM pump disassem-
+ble inspection and overhaul. Ity teaches removal, installation and"
+^DSL133,Diesel Engines I,5,This course teaches the three major engine companies products.
+^DSL141,Welding & Fabrication Lab,1,This course includes basic principles and fundamentals of arc
+^DSL152,Fuel System Diagnosis/Repair,4,This course teaches the operating of fuel systems used on most
+^DSL162,Electrical/Electronic Systems,5,This course of basic electrical systems on the diesel engine
+^DSL172,Brakes,3,"This course teaches disassembly, inspection, and troubleshoot-
+ing of the three major types of clutch systems used by present"
+^DSL182,Introduction to Hydraulics,3,"This course gives a student a short introduction to hydraulic sys-
+tems.  It covers major component identifications, their functions"
+^DSL192,Advanced Engine Maintenance,2,"This course covers standard Db, DB2, and DM pump disassemble"
+^DSL201,Shop Safety II,1,This course is continuation of Shop Safety I and is designed to
+^DSL212,Advanced Engine Overhaul,3,This is an advanced training course in engine overhaul.  Advanced
+^DSL222,Advanced Electrical/Electronic Systems,5,Students will become proficient in the diagnosis and repair of
+^DSL232,Hydraulic Diagnosis/Repair,3,This course teaches the theory of both open and closed center
+^DSL251,Electronic Computer Diagnosis/Repair,3,"This course covers the study of the electrical and electronic con-
+trol system used on diesel powered equipment.  This course also"
+^DSL261,Air Conditioning Diagnosis/Repair,2,"This course covers refrigeration theory, operation, testing, and"
+^DSL272,Suspension and Steering,3,"This course teaches troubleshooting disassembly, inspection, and"
+^DSL275,Diesel Management,3,This course introduces the concepts and principles of effective
+^DSL281,Transmission Overhaul/Diagnosis,3,After completion of this course the student should be able to
+^DSL291,Advanced Clutch & Power Train,3,Students will become proficient in the diagnosis and repair of
+^DSL295,Occupational Work Experience,0,Occupational Work Experiences are available to student who
+^ECH100,Early Childhood Fundamentals,3,Students will develop baseline knowledge and skills needed
+^ECH101,"Recognizing Child Abuse, Neglect, 
+& Head Trauma",1,Participants enrolled in this course will be able to define the
+^ECH102,"Understanding Multiple Intelligences 
+and Children’s Learning Styles",1,This course will focus on Howard Gardner’s theory of multiple
+^ECH104,Early Childhood Curriculum Planning,3,Students will discover what professionals need to know and
+^ECH105,Early Childhood Cultural Competency,1,This course will examine cultural competency when working
+^ECH106,Understanding Children’s Temperament,1,This course provides an overview of temperament traits and
+^ECH107,Supporting Children’s Learning Through Play,1,This course will examine the nature and characteristics of play
+^ECH108,Childhood Obesity and Good Nutrition,1,This course will examine the common reasons for childhood
+^ECH109,Bullying Prevention and Response,1,This course will examine types of bullying and consequences for
+^ECH110,Early Childhood Credential Portfolio I,3,Students will acquire the skills and knowledge associated with
+ECH112,Introduction to Early Childhood Education,3,This course will provide you with the opportunity to explore
+^ECH115,Early Childhood Credential Portfolio II,3,Students will learn ways to establish positive relationships with
+^ECH150,Creative Experiences with Young Children,3,This course is a core requirement for the Early Childhood
+^ECH160,Observing & Interacting w/ Young Children,3,This course is designed for practitioners who work with children
+^ECH180,ECH Literacy & Language Development,3,"This course will prepare current or future early childhood teach-
+ers to enhance the early literacy outcomes of young children by"
+^ECH182,Early Childhood CDA Renewal,3,This course is for students who have a current preschool or
+^ECH200,Program Planning and Development,3,Students in this course will be introduced to the total range of
+^ECH202,Early Childhood Mentoring,3,This course is for the committed Early Childhood Professional.
+^ECH210,Family Involvement in Education,3,"This course will provide a study of family involvement in educa-
+tion from an interdisciplinary approach.  The course will cover"
+^ECH220,Principles of Inclusion,3,This course explores the barriers to and influences on inclusive
+ECH 100,"and ECH 160 or Instructor Permission
+^ECH250 Early Childhood Practicum",3,This course is designed for students who are assuming teaching
+ED 101,Pre-Professional Lab I,1,This course is designed to provide an introductory hands-on
+ED 102,Pre-Professional Lab II,1,This course is a continuation of
+ED 101,"and is designed to 
+provide additional hands-on experience for students majoring in 
+81
+education. The course will consist of direct experience observing 
+a professional educator in the classroom as well as tutoring and 
+participation in classroom activities. Prerequisite: ED 101 and 
+Clean Criminal Background Screening within the past 12 months
+ED 110 Intro to Elementary & Secondary Education",3,"This course will cover the historical and sociological develop-
+ment of elementary and secondary American education, the role"
+^EGT106,Computer Numeric Control Concepts,3,"This introductory course the concepts and capabilities of Com-
+puter Numeric Control machine tools. Topics to include setup,"
+^EGT186,Engineering Graphics Application,2,This course teaches the basic concepts of Computer Aided
+^EGT206,Machining Processes,3,This introductory course teaches basic machine shop operations.
+^EGT 226,Computer CAD/CAM Operation,4,This course instructs the concepts and capabilities of Computer
+^ELE102,Safety (OSHA 10),1,"This course will: explain job/site safety and precautions for job/
+site hazards; determine the uses of personal protective equip-
+ment (PPE); identify the safety equipment and procedures related"
+^ELE112,AC/DC Circuits  I,4,"The focus of this course is to give the student a ground level un-
+derstanding of direct current (DC) and alternating current (AC)"
+^ELE115,Print Reading,2,Students learn to read specification manuals and prints as applied
+^ELE122,Residential Wiring I,4,"An introductory course on residential wiring methods that in-
+cludes practical application hand-on experience in implementing"
+^ELE125,Generators & Transformers,3,"Students will gain a working knowledge of the theory and practi-
+cal application of single-phase and 3-phase electrical components."
+^ELE132,Commercial Wiring I,4,An introductory course on commercial wiring methods that
+^ELE135,Troubleshooting Techniques,4,This course will provide troubleshooting and repair techniques.
+^ELE142,National Electrical Code I,4,An introductory course on the use and interpretation of the
+^ELE152,Industrial Construction Wiring & Design,4,This course will take a look at what is required in the industrial
+^ELE162,Electrical Motor Operations & Control,5,"In this course students will begin a study of electric motor oper-
+ation and systems used to control their operation. Fundamentals"
+^ELE163,Electrical Motor Operations & Control II,5,"This course is a continuation of ELE162 Electrical Motor Oper-
+ations & Control. Its purpose is to provide an understanding of"
+^ELE165,Blueprints & Schematics,3,This course prepares the student to interpret standard electrical
+^ELE172,"Fundamentals of Programmable Logic 
+Controllers",2,This course provides an introduction to programmable logic
+^ELE175,Troubleshooting Techniques II,4,This course will provide practical and a real-world systematic
+^ELE182,National Electrical Code II,4,A continuation of the National Electrical Code I course on the
+^ELE195,Occupational Work Experience,0,Occupational Work Experiences are available to students who
+ENG094,ESL Orientation,1,"An English Second Language course which focuses on orienta-
+tion into the American culture, academic success, and foundation"
+ENG095,Fundamentals of Reading,2,This course is constructed to develop student proficiency in
+ENG096,"Fundamentals of Reading & 
+Writing-Advanced",3,This course is designed to develop student proficiency in college
+ENG 101,"College English I and in the workforce. Prerequisite: Assessment
+ENG097 Fundamentals of English-
+Accelerated Learning",3,This course is designed as intensive instruction and practice in
+ENG098,English Language Learner Success,3,An English Second Language course which focuses on the
+ENG101,Composition I,3,This course provides instruction and practice in the principles
+ENG102,Composition II: Literature and Research,3,This is the second of a two-course sequence in college English
+ENG103,Composition II: Rhetoric and Research,3,This is the second of a two-course sequence in college English
+ENG104,Introduction to Literature,3,"This course will enable the student to discuss and interpret rep-
+resentative English-language literary works in a variety of genres."
+ENG110,Technical Composition,3,Offers intensive drill in using rhetorical writing methods applied
+ENG 096,"or Assessment
+ENG202 American Literature: Pre-Colonial-Civil War",3,"The purpose of this course is to provide a survey study of sig-
+nificant writers, works, and developments in American literature"
+ENG205,Old Testament Literature,3,This course provides a survey of the Old Testament as a literary
+ENG208,Introduction to the Short Story,3,The purpose of this course is to provide a study of the literary
+ENG209,American Literature: Reconstruction-Present,3,"This course provides a survey of the significant writers, works,"
+ENG210,World Literature: Beginnings to Renaissance,3,"This course focuses on the scope of world literature with selec-
+tions generally regarded as masterpieces. The time range repre-
+sented by the selections is roughly from 2000 BCE to 1650 CE."
+ENG211,World Literature: Enlightenment to Present,3,"This course focuses on the scope of world literature with selec-
+tions generally regarded as masterpieces. The time range repre-
+sented by the selections is roughly from 1650 CE to the present."
+ENG212,British Literature: Middle Ages to 1800,3,"This course provides a survey of the significant writers, works,"
+ENG213,British Literature: 1800 to Present,3,"This course provides a survey of the significant writers, works,"
+ENG215,Diverse Voices in Literature,3,"This course explores significant topics, themes, and genres over a"
+ENG223,Creative Writing,3,This course is designed to give students an opportunity to write
+^ENO116,Introduction to Enology,3,This introductory course is designed to provide students with an
+^ENO130,Intermediate Enology,3,This intermediate course is built on the fundamentals of science
+^ENO147,Fruit Wine Production,2,"This course will cover the history of fruit wine making, starting"
+^ENO148,Winery Sanitation,3,This is a course in the basic science and technology of winery
+^ENO160,Winery Equipment Operations,2,This course covers process technologies and process systems
+^ENO210,Introduction to Wine Microorganisms,2,This course is an introduction to the variety of both beneficial
+^ENO250,"Equipment Technology for the Wine Business 
+Entrepreneur",3,"This course covers equipment and technologies used in vineyard,"
+^ENO257,Fall Winery Production Technology,3,This course is designed for the individual anticipating a career
+^ENO259,Cellar Operation Technology,2,This course is designed to provide students initiated in the field
+^ENO266,Sensory Evaluation,3,"This course is intended for students who need to develop an un-
+derstanding of the principles of sensory evaluation used in com-
+mercial winemaking. It will also be of benefit to the wine enthusi-
+ast who is interested in reaching advanced levels of appreciation"
+^ENO 268,Wine and Must Analysis,3,"This course is designed to provide students with an understand-
+ing of the principles of grape juice and wine analysis and the"
+PS 107,"or Instructor 
+Permission
+^ENO280 Winery Establishment & Design",2,"This course will discuss the major aspects of winery establish-
+ment and design, including the legal and regulatory process, lay-
+85
+out, and design and those effects on winery economics, cash flow,"
+GEO212,World Regional Geography,3,This course provides a general survey of the distinguishing
+HIS101,United States History I to 1877,3,This course provides a survey of United States history from
+HIS102,United States History II since 1877,3,This course provides a survey of United States history from
+HIS103,History of Western Civilization I,3,This course provides a survey of the development of western
+HIS104,History of Western Civilization II,3,This course provides a survey of the history of Europe from the
+HMS100,Fundamentals of Human Services,3,This course provides an overview of the field of human services.
+HMS105,Case Management in Human Services,3,This course provides a foundation in effective case management
+HMS110,Health and Physical Aspects of Aging,3,This course examines the physical changes in the human body
+PSY205,HMS112 Home Visitor I ECH,3,This course will cover all areas of child development and will
+HMS100,HMS115 Home Visitor II ECH,3,This course will cover the final steps necessary for requesting
+HMS100,"and HMS112
+HMS118 Ethics in Helping Professions",3,"This course provides an analysis of ethics in the helping profes-
+sions, application of professional ethical codes, and decision-mak-
+ing models when standards are in conflict. The course will"
+SOC104,HMS 250 Human Services Practicum I,3,This course is designed to provide the student with a hands-on
+^HS 101,Introduction to Health Information,4,This course provides an introduction to health information
+^HS 103,Legal and Ethical Issues in Healthcare,3,"This course introduces the U.S. legal system, laws and ethical"
+^HS 105,Insurance & Health Information Compliance,3,This course introduces the study of the uses of coded data
+^HS 110,Pathopharmacology for Health Science,4,This course is designed for the Health Science student to study
+^HS 115,"International Classification of Disease (ICD) 
+Coding I",3,"This course helps the student develop an understanding of cod-
+ing and classification systems in order to assign valid diagnostic"
+BS 109,"with a C or higher 
+^HS 118 Current Procedural Terminology (CPT) 
+Coding I",3,This course helps the student develop an understanding of
+BS 109,"with a C or higher
+^HS 120 Healthcare Computer Applications 
+& Electronic Encoder",3,This course provides an introduction to software applications in
+^HS 125,"International Classification of Disease (ICD) 
+Procedural Coding Systems",3,"This course helps the student develop an understanding of cod-
+ing and classification systems in order to assign valid diagnostic"
+HS 115,"with a C or 
+higher or Program Director Permission
+^HS 130 Reimbursement Methodologies (Physician)",3,"This course studies the uses of coded data and health informa-
+tion in reimbursement and payment systems appropriate to all"
+^HS 210,"International Classification of Disease (ICD) 
+Coding II",3,"This course helps the student develop an understanding of cod-
+ing and classification systems in order to assign valid diagnostic"
+HS 115,"with a C or 
+higher
+^HS 218 Current Procedural Terminology (CPT) 
+Coding II",3,This course helps the student develop an understanding of
+HS 118,"with a C or higher
+ 
+^HS 225 Healthcare Coding Practicum",3,"To provide the student with coding practices in a hospital, phy-
+sician’s office, clinical, or other healthcare setting, with directed"
+^HVA102,Blueprint Reading and Sketching,2,"This course will introduce students to a basic set of house plans,"
+^HVA103,Hand and Power Tools,1,This course will introduce students to the various hand and
+^HVA104,Safety Orientation/OHSA 10,1,"This course will: explain job/site safety and precautions for job/
+site hazards; determine the uses of personal protective equip-
+ment (PPE); identify the safety equipment and procedures related"
+^HVA106,Technical Math,2,This course is designed to provide students a review of the basic
+^HVA112,EPA 608,1,"Students will be certified in federal regulations of safe refriger-
+ant handling practices. Successful completion of the certification"
+^HVA118,Electrical Fundamentals,4,"This unit covers generating electricity, types of electricity- direct"
+^HVA121,Domestic Refrigeration,3,This course includes terminology associated with domestic
+^HVA126,Plumbing I,3,This course is designed to provide an understanding of the
+^HVA136,Electric Circuits & Controls,3,This course includes electric control circuits in ladder diagram
+^HVA140,Workplace Skills,1,"Upon successful completion of this course, the student should"
+^HVA145,Sheet Metal,3,This course introduces the student to pattern development and
+^HVA158,Heating System Fundamentals,3,This course is designed to introduce the student to terminology
+^HVA170,Air Conditioning Control Systems,3,"This course is designed to help students to understand the op-
+eration of the control systems in heating and cooling equipment"
+^HVA175,Commercial Refrigeration,3,"This course includes the study of condensing units, condensers,"
+^HVA181,Plumbing II,2,This course is a continuation of Plumbing I dealing with the
+^HVA195,Occupational Work Experience,0,Occupational Work Experiences are available to students who
+IDS110,Contemporary Issues in Sustainability,3,This interdisciplinary course is designed to introduce students to
+IDS120,Introduction to Leadership Concepts,3,"This interdisciplinary course is designed to provide an intro-
+duction to the academic discipline of leadership.  The course"
+IDS130,Culture and Context,3,"This interdisciplinary leadership course is designed to discov-
+er and examine personal cultural identity from a values based"
+IDS140,Creativity Across the Disciplines,3,This interdisciplinary course is designed to explore human
+^IWT105,Welding Safety/OSHA 10,1,Through a variety of classroom and /or lab learning and assessment
+^IWT115,Cutting Processes,3,Through classroom and/or shop/lab fearing and assessment
+^IWT125,Shielded Metal Arc Welding (SMAW),3,Through classroom and /or lab/shop learning and assessment
+^IWT135,Gas Metal Arc Welding (GMAW),3,Through classroom and /or lab/shop learning and assessment
+^IWT145,Gas Tungsten Arc Welding (GTAW),3,Through classroom and /or lab/shop learning and assessment
+^IWT162,Blueprint Reading,4,Through a variety of classroom and/or shop/lab learning and
+^IWT175,Shielded Metal Arc Welding II (SMAW II),5,Through classroom and /or lab/shop learning and assessment
+^IWT180,Gas Metal Arc Welding II (GMAW II),5,Through classroom and /or lab/shop learning and assessment
+^IWT185,Gas Tungsten Arc Welding II (GTAW II),5,Through classroom and /or lab/shop learning and assessment
+^IWT190,Blueprint Reading II,3,Through a variety of classroom and/or shop/lab learning and
+^IWT195,Occupational Work Experience,0,Occupational Work Experiences are available to students who
+^IWT202,Gas Tungsten Arc Welding (Pipe),6,Through classroom and/or lab/shop learning and assessment
+^IWT 212,Combination Pipe Welding,6,Through classroom and/or lab/shop learning and assessment
+IWT175,"and IWT185 
+ 
+LG 100 Conversational Spanish",2,"This course emphasizes the development of basic Spanish com-
+munications skills through practice in listening, speaking, reading,"
+LG 101,Spanish I,5,"This course covers the fundamentals of Spanish pronunciation,"
+LG 102,Spanish II,5,This course builds on Spanish I and provides continued emphasis
+LG 101,LG 105 American Sign Language I,3,This is a first course of study of the American Sign Language
+LG 106,American Sign Language II,3,This course continues study begun in
+LG 105,"and will focus on 
+continued development of American Sign Language (ASL) skills, 
+concentrating on comprehension and production. The course will 
+also provide information about the linguistic and cultural features 
+relevant to language learning. Prerequisite: LG 105
+LG 201 Spanish III",3,This course builds on Spanish II and provides continued emphasis
+LG 102,"or 
+permission
+ 
+LS 102 Children`s Literature",3,This course is designed to introduce students to the field of
+M 146,"or TH 146 but 
+cannot enroll in or receive credit for both courses.
+M  152 Opera Production I",1,This course is designed for both music majors and other
+M 154,M  162 Introduction to World Music,3,This course will provide an introduction to music across the
+M 153,M  253 Opera Production IV,1,This course is designed for both music majors and other
+MAT090,Fundamentals of Math,3,Fundamentals of Math precedes the algebra sequence of courses.
+MAT100,Beginning Algebra,3,"This course focuses on basic algebra fundamentals and is de-
+signed to prepare students for the Intermediate Algebra course."
+MAT102,Technical Math,3,"Technical math focuses on measurement, algebraic operations,"
+MAT103,Intermediate Algebra,3,Intermediate Algebra is a thorough study of the fundamental
+MAT104,College Algebra,3,College Algebra is a comprehensive study of the fundamental
+MAT105,Trigonometry,3,This course includes the study of circular functions and their
+MAT104,"with a C or higher or Assessment
+MAT106 Calculus I",5,Calculus I is the first in a three-semester sequence of calculus
+MAT105,"with a C or higher, or high school Trigonometry and 
+Assessment
+MAT107 General Calculus and Linear Algebra",3,"This course provides an introduction to calculus and linear alge-
+bra concepts that are particularly useful in the study of econom-
+ics and business administration. The course will cover the basic"
+MAT108,Contemporary Math,3,This course is designed to develop problem-solving skills by
+MAT103,"with a C or higher or Assessment
+ 
+MAT110 Calculus II",5,"Calculus II is the second in a three-semester sequence of cal-
+culus courses. This course consists of working with logarithms"
+MAT201,Calculus III,5,Calculus III is the final course in the three-semester sequence
+MAT202,Differential Equations,5,"Differential Equations covers standard types of ordinary differen-
+93
+tial equations of first and second order, linear equations solu-
+tions by series and Laplace transformations, systems of equations,"
+MAT203,Basic Statistics,3,This course is an introductory study of the fundamentals of
+^MFT110,Blueprint Reading & Geometric Dimensioning,3,This course teaches the basic concepts of print reading for
+^MFT120,Precision Measurement,2,The course provides for the study of basic measuring tools used in
+^MFT 240,Precision Measurement II,2,The course provides for the study of measuring tools used in
+^MOA109,Emergency Preparedness,1,This course is designed to provide health care professionals with
+^MOA110,Medical Administrative Aspects I,4,This course contains the administrative skills of the health care
+^MOA113,Clinical Externship I,2,This course is designed to provide experience related to the
+^MOA114,Patient Care I,4,This course is the beginning of the student’s journey to a
+^MOA121,Principles of Pharmacology,3,"An introduction to the principles of pharmacology, including drug"
+^MOA123,Insurance Billing and Coding,3,This course is designed to educate the health care team member
+^MOA125,Medical Terminology,3,"The content of this course focuses on the introduction to medi-
+cal terminology. Vocabulary is explored to structure of word, pre-
+fixes, suffixes and root words. Emphasis is based on proper usage,"
+^MOA128,Body Structures and Functions,3,This course is designed to teach the basics of human structure
+^MOA133,Medical Administrative Aspects II,3,This course covers the administrative skills needed as a health
+^MOA134,Patient Care II,3,"This course allows the student to advance their technical knowl-
+edge by introducing the students to cast application/removal,"
+^MOA135,Clinical Externship II,2,This course is designed to provide experience related to the
+^MOA136,Clinical Laboratory Procedures,4,This course is intended to introduce the student to various
+^MOA137,Medical Professional Issues,2,The course focuses on the basic concept of professional practice
+^MOA295,Occupational Work Experience,0,"This experience is designed to provide the student with pur-
+poseful occupational experience in the Medical Assistant field."
+MT 110,Introduction to Mass Communications,3,"This course examines the role of mass media in modern society,"
+^NET125,Introduction to Net+,3,This course is intended to introduce the student to various
+^NET196,Certification Training Lab Net+,2,This class is designed to give the second semester student
+^NUR103,PN Success,1,This course provides orientation to the program and promotes
+^NUR106,KSPN Foundations of Nursing,4,This course provides an introduction to practical nursing and roles
+^NUR109,"KSPN Fundamentals of Pharmacology & Safe 
+Medication Administration",2,"This course provides an introduction to the principles of phar-
+macology. Emphasis is placed on nursing care related to the safe"
+^NUR122,KSPN Nursing Care of Adults I,5,This course focuses on the care of adult clients experiencing
+^NUR126,KSPN Foundations of Nursing Clinical,2,This course provides an introduction to the skills required to
+^NUR127,KSPN Nursing Care of Adults I Clinical,2,"This course focuses on the care of adult clients with com-
+mon medical/surgical health alterations. The clinical laboratory"
+^NUR150,KSPN Care of Aging Adults,2,This course is designed to explore issues related to aging adults.
+^NUR156,KSPN Mental Health Nursing,2,This course explores basic concepts and trends in mental health
+^NUR157,KSPN Maternal Child Nursing,2,"This course provides an integrative, family-centered approach to"
+^NUR159,KSPN Nursing Care of Adults II,5,This course focuses on the care of adult clients experiencing
+^NUR163,"KSPN Leadership, Roles, and Issues",2,This course provides orientation to leadership roles of the LPN
+^NUR168,KSPN Maternal Child Nursing Clinical,1,"This course provides an integrative, family-centered approach"
+^NUR170,KSPN Nursing Care of Adults II Clinical,2,This course focuses on the care of adult clients with common
+^NUR201,Certified Nurse Aide,6,This course is based on the Kansas Department of Health and
+^NUR202,Certified Medication Aide,5,This course is based on the Kansas Department of Health and
+^NUR203,Certified Med Aide Certification Update I,1,Provides continued certification for the Certified Medication
+^NUR220,LPN to RN Transition,1,This hybrid course prepares the licensed practical nurse to
+^NUR225,Health Assessment & Advanced Nursing Skills,4,This course provides the framework for preparing students to
+^NUR230,Advanced Medical-Surgical Nursing,6,This course focuses on the care of adult clients with complex
+^NUR235,Advanced Mental Health Nursing,3,"This course focuses on the care of clients across the lifespan ex-
+periencing cognitive, mental and behavioral disorders. Emphasis"
+^NUR240,Nurse as Leader,2,This course facilitates the transition of the student to the role
+^NUR245,High Risk Maternal-Child Nursing,2,"This course provides an integrative, family-centered approach to"
+^NUR250,Professional Nursing Practicum,4,This course provides the student the opportunity to function
+PE 102,PE for Women,1,"Strengthens and improves overall fitness through exercise. Indi-
+viduals will gain an understanding of how to apply exercises to"
+PE 103,Volleyball (WVA),1,"Deals with fundamental skills and strategies necessary to com-
+pete at the collegiate level."
+PE 104,Basketball (WVA),1,Improves and enriches the individual’s knowledge and skills in
+PE 105,Football (MVA),1,"Teaches the following aspects of football; punting, kicking, offen-
+sive line play, defensive line play, offensive back play, and defensive"
+PE 106,Basketball (MVA),1,Improves and enriches the individual’s knowledge and skills in
+PE 107,Dance Team I,1,Emphasizes development of technical and chorographical skills
+PE 108,Dance Team II,1,Continues Dance Team I.
+PE 110,Rules and Officiating I,2,"This course introduces the general concepts of rules and offi-
+ciating in football and volleyball. The course will include a brief"
+PE 111,History and Principals of PE,3,This is the foundation course for all physical education majors.
+PE 112,Personal and Community Health,3,"This course provides an overview of the physical, mental, emo-
+tional, social, and spiritual components of health that affect the"
+PE 113,First Aid and Safety,3,This course focuses on the knowledge and skills needed to give
+PE 114,Track (WVA),1,Improves and enriches the individual’s knowledge and skills in the
+PE 115,Softball (WVA),1,"An activity class, open only to women athletes interested in par-
+ticipating in an organized sport at the collegiate level."
+PE 116,Track (MVA),1,Improves and enriches the individual’s knowledge and skills in the
+PE 117,Baseball (MVA),1,Improves and enriches the individual’s knowledge and skills in
+PE 118,Cross Country I (MVA),1,Improves and enriches the student’s knowledge and techniques
+PE 119,Tennis,1,"This course provides instruction and practice in the basic skills,"
+PE 121,Volleyball I,1,This course is designed to provide instruction in the basic skills
+PE 122,Archery,1,"This course provides instruction in the basic skills, fundamentals,"
+PE 123,Introduction to Physical Education,3,"This course provides a survey study of the historical background,"
+PE 124,Weightlifting I,1,This course provides a program and instruction in weightlifting
+PE 125,Introduction to Recreation,3,This course is designed for the student interested in a career in
+PE 126,Physical Fitness Management,1,This course is designed to provide each student the opportunity
+PE 127,Cheerleading I,1,Emphasizes the development of technical skills for performance
+PE 128,Cheerleading II,1,Continues Cheerleading I. Prerequisite:
+PE 127,PE 131 Soccer I (WVA),1,Improves and enriches the individual’s knowledge and skills in
+PE 134,Golf,1,"Provides individualized instruction in the rules, fundamentals, and"
+PE 135,Running Awareness,1,"Covers the proper mechanics of running and training, exercise"
+PE 136,Baseball Conditioning I,1,Improves the student’s physical strength and endurance through
+PE 137,Basketball Conditioning I - Men,1,"Provides weight training and conditioning for the men’s basket-
+ball program. Enrollment is limited to those enrolled in basketball"
+PE 138,Basketball Conditioning I - Women,1,"Provides weight training and conditioning program for the wom-
+en’s basketball program. Enrollment is limited to those enrolled"
+PE 139,Lifetime Fitness,2,This course is designed to provide an individual exercise and
+PE 140,Advanced Weightlifting and Conditioning,1,Contributes to the health and wellbeing of the individual through
+PE 141,PE for Men,1,"Strengthens and improves overall fitness through exercise. Indi-
+viduals will gain an understanding of how to apply exercises to"
+PE 143,Introduction to Athletic Training I,3,Provides the individual with an overview of the athletic training
+PE 147,Cross Country I (WVA),1,Improves and enriches the individual’s knowledge and techniques
+PE 149,Softball Conditioning I,1,"The course will teach the following aspects of softball: hitting, pitch-
+ing, fielding, and base running. This is accomplished by teaching the"
+^PE 150,Personal Trainer Field Experience I,1,"This introductory course provides practical experience for stu-
+dents pursuing a personal trainer degree. The course will focus"
+PE 150,^PE 150B  Personal Trainer Field Experience III,1,"This course provides more advanced practical experience for stu-
+dents pursuing a personal trainer degree. The course will consist"
+PE 151,Clinical Experience Athletic Training I,2,This course will provide students with an introduction to clinical
+PE 151,PE 151C Clinical Experience Athletic Train III,2,This course will provide an advanced level of clinical experiences
+PE 203,Volleyball II (WVA),1,Continues Volleyball I.
+PE 204,Basketball II (WVA),1,Continues Basketball I (Women).
+PE 205,Football II (MVA),1,Continues Football I.
+PE 206,Basketball II (MVA),1,Continues Basketball I (Men).
+PE 207,Dance Team III,1,Continues Dance Team II.
+PE 208,Dance Team IV,1,Continues Dance Team III.  Prerequisite:
+PE 207,PE 210 Advanced Concepts of Personal Training,5,"Released by the National Council on Strength & Fitness (NCSF),"
+PE 214,Track II (WVA),1,Continuation of Track I (Women).
+PE 215,Softball II (WVA),1,Continues Softball II (Women).
+PE 216,Track II (MVA),1,Continues Track I (Men).
+PE 218,Cross Country II (MVA),1,A general education course for students to participate in an
+PE 220,Theory of Coaching Basketball,2,Presents all phases of the game of basketball to give students a
+PE 221,Theory of Coaching Track/Field,2,"Presents to the student a history of the sport, theories of coach-
+ing, and shows fundamental coaching techniques in the area of"
+PE 222,Theory of Coaching Football,2,"Presents to the student a history of the sport, theories of coach-
+ing, and shows fundamental coaching techniques in the area of"
+PE 223,Theory of Coaching Baseball,2,"This course covers basic techniques for coaching the fundamen-
+tals of hitting, fielding, and throwing relative to baseball positions."
+PE 224,Care and Prevention of Athletic Injuries,3,"This course provides an introduction to athletic training tech-
+niques for trainers, coaches, athletes, and physical education"
+PE 225,Theory of Coaching Volleyball,2,This course is designed to provide an understanding of the
+PE 227,Cheerleading III,1,Continuation of
+PE 228,Cheerleading IV,1,Continuation of
+PE 231,Soccer II (WVA),1,Continues Soccer I.
+PE 236,Baseball Conditioning II,1,"The course will teach the following aspects of baseball: hitting,"
+PE 237,Advanced Basketball Conditioning- Men,1,An introductory course designed to prepare the student with
+PE 238,Advanced Basketball Conditioning - Women,1,An introductory course designed to prepare the student with
+PE 138,PE 240 Advanced Weightlifting & Conditioning II,1,This course is designed to contribute to the health and wellbeing
+PE 241,Weightlifting II,1,This course contributes to the health and well-being of the
+PE 124,PE 243 Introduction to Athletic Training II,3,"This course covers documentation of athletic injuries, principles"
+PE 143,"and permission
+PE 245 Baseball II (MVA)",1,"The course will teach the following aspects of baseball: hitting,"
+PE 247,Cross Country II (WVA),1,Continues Cross Country I (Women).
+PE 249,Softball Conditioning II,1,"The course will teach the following aspects of softball: hitting,"
+PE 250,Exercise Physiology,3,This course investigates the fundamental physiological processes
+BS 105,PHI101 Introduction to Philosophy,3,This course provides a study of major philosophical ideas of the
+PHI102,Introduction to Ethics,3,"An introduction to ethical theory focusing on the major tradi-
+tions of Western philosophical ethics and their practical applica-
+tion to contemporary moral issues."
+PHI103,Logic and Critical Thinking,3,The study of critical thinking and logic allows the student to
+PHI105,Religions of the World,3,This course provides an objective and impartial survey of the
+POL100,United States Government,3,This course focuses on the political arena and public affairs
+POL101,Introduction to Political Science,3,"This course provides an introduction to the field of political sci-
+ence. The course will examine the nature of politics and political"
+POL115,State and Local Government,3,"This course examines the interrelationships between the federal,"
+PS 101,College Physical Science,5,This course provides an introduction to the major concepts in
+MAT 100,"or Assessment
+PS 102 Concepts of Physics",4,This course provides a qualitative introduction to the science of
+PS 104,Physical Geology,4,This course provides an introduction to the basic principles of
+PS 107,General Chemistry,5,"This course provides a basic introduction to chemistry, with"
+PS 108,Astronomy,4,Provides a qualitative introduction to the nature of the solar
+MAT 100,"or 
+Assessment
+PS 111 College Chemistry I",5,This course provides a college-level introduction to chemistry
+MAT 103,"or Assessment
+PS 112 College Chemistry II",5,This course continues the study begun in
+PS 111,"and is intend-
+ed for students going into technological, scientific, engineering, 
+or medical fields. The course is required in certain pre-profes-
+sional programs, such as pre-medicine, pre-veterinary medicine, 
+pre-dentistry, etc. Course topics will include crystals and solids, 
+reaction kinetics, chemical equilibrium, solution chemistry includ-
+ing acid-base and complex-ion equilibria, thermodynamics, and 
+electrochemistry. The course will also include a brief discussion 
+of organic chemistry, biochemistry, and nuclear chemistry. Pre-
+requisite:  PS 111
+PS 203 General Physics I",5,"This course provides a study of units, physical quantities and"
+MAT 104,"(or MAT 106 placement)
+101
+PS 204 General Physics II",5,"This course includes the study of electricity, magnetism, electro-
+magnetic induction, electromagnetic waves, optics, and atomic"
+PS 203,PS 210 Organic Chemistry I,5,This course is the first in a two-sequence semester. The course
+PS 212,Organic Chemistry II,5,This course is the second in a two-sequence semester. The
+PS 210,"and how they apply to chemical synthesis and structure deter-
+mination. The topics will be applied to aldehydes and ketones, 
+carboxylic acids and their derivatives, amines, aromaticity, ben-
+zene and its derivatives, organometallic compounds, conjugated 
+and unconjugated unsaturated systems, and pericyclic reactions. 
+Selected applications to biochemistry, medicinal and pharmaceu-
+tical chemistry, and industrial chemistry will also be discussed. 
+Prerequisite:  PS 210 and permission
+PS 215 College Physics I",5,"This course covers the analysis of units, physical quantities and"
+MAT 110,PS 216 College Physics II,5,"This course includes the study of electricity, magnetism, electro-
+magnetic induction, electromagnetic waves, optics, and atomic"
+PS 215,PSY101 General Psychology,3,This general survey course provides a broad background in the
+PSY105,Industrial/Organizational Psychology,3,This course provides a survey of industrial and organizational
+PSY202,Child Psychology,3,This course is a study of child development from conception to
+PSY 101,PSY205 Human Growth and Development,3,This course focuses on human development using normative
+PSY206,Social Psychology,3,"This course provides a psychological perspective on social be-
+havior and the processes involved in being a member of a social"
+PSY 101,PSY280 Health Psychology,3,"This course examines multiple, interactive factors relevant to"
+PSY 101,PSY290 Abnormal Psychology,3,This course is a study of emotional and behavioral disorders.
+PSY 101,SOC100 Creating Positive Settings for Child/Families,1,This course will examine how children’s mental health and
+SOC101,General Sociology,3,This course provides an introduction to sociology and the basic
+SOC102,Marriage and the Family,3,"This course examines the nature, development, functions, and"
+SOC104,Introduction to Social Work,3,This course provides an introduction to the field of social work.
+SOC105,"Death, Loss, and Grief",3,This course will examine aspects of death and dying. The course
+SOC106,Diversity & Inclusiveness,3,"This course examines human diversity and integrates person-
+al and organizational perspectives, research, and theories. The"
+SOC108,Social Gerontology,3,"This course examines how historical, psychological, cultural,"
+SOC110,Crisis Intervention,3,"This course will provide an introduction to the basic theories,"
+SOC114,Alcohol & Substance Disorders,3,"This course will examine the use and misuse of drugs and alco-
+hol. The course will cover the biological and psychological effects"
+SOC150,Community Leadership,3,This course will focus on leadership skills and community
+SOC200,Sociology through Film,3,Students will be exposed to an array of films and study the major
+ENG101,"with a B or higher and SOC101, SOC102, or ANT112 
+with a C or higher
+SOC210 Social Problems",3,"This course will examine a wide variety of social problems,"
+SP 101,Oral Communications,3,The purpose of this course is to develop the knowledge and
+SP 103,Oral Interpretation,3,"The purpose of this course is to study and practice the tech-
+niques of effective oral reading and performance. The focus will"
+SP 105,Interpersonal Communication,3,This course is designed to improve student effectiveness in
+SP 106,Public Speaking,3,"The purpose of this course is to increase student understand-
+ing of the principles and applications of public speaking through"
+TCH100,OSHA 10,1,"This course will explain job/site safety and precautions for job/
+site hazards; determine the uses of personal protective equip-
+103
+ment (PPE); identify the safety equipment and procedures related"
+TH 103,Theatre Practicum I,1,This course is designed for both theatre majors and other
+TH 104,Theatre Practicum II,1,This course continues
+TH 103,"and is designed to provide addi-
+tional practical experience for both theatre majors and other 
+students interested in performing onstage or working back-
+stage to provide practical experience as a member of a theatre 
+production crew. Students will have the opportunity to perform 
+onstage, or serve as crew members, who may work in sever-
+al technical or production areas, including stage management, 
+costumes, set design and construction, lighting, sound, properties, 
+house management, and publicity. This course provides an oppor-
+tunity for performance self-expression and continued develop-
+ment of individual and ensemble skills and also offers exposure 
+to the performing arts as a profession.  Prerequisite: TH 103
+TH 105 Introduction to Dramatics",3,This course will provide a thorough survey of the basic elements
+TH 106,Play Production,3,This course provides an introduction to the elements of play
+TH 108,History and Appreciation of Theatre Art,3,"This course is designed to provide an introduction to the devel-
+opment of theatrical presentation from antiquity to the modern"
+TH 109,Fundamental Style and Principles of Acting,3,This course provides an introduction to the basics of acting
+TH 110,Acting I,3,This course continues
+TH 109,"and provides additional expe-
+rience in the basics of acting. The course is geared towards 
+students with limited performance experience. The course will 
+focus on rehearsal procedures and techniques, terminology, actor 
+discipline, and public performance. Prerequisite:  TH 109
+TH 146 Musical Theatre History",3,This course provides a survey of American musical theatre.  The
+TH 146,"or M 146 but 
+cannot enroll in or receive credit for both courses. 
+TH 152 Stagecraft I",3,"This course provides an introduction to the basic tools and prin-
+ciples of stagecraft. The course will focus on basic tools and their"
+TH 203,Theatre Practicum III,1,This course continues
+TH 104,"and is designed to provide addi-
+tional practical experience for both theatre majors and other 
+students interested in performing onstage or working back-
+stage to provide practical experience as a member of a theatre 
+production crew. Students will have the opportunity to perform 
+onstage, or serve as crew members, who may work in sever-
+al technical or production areas, including stage management, 
+costumes, set design and construction, lighting, sound, properties, 
+house management, and publicity. This course provides an oppor-
+tunity for performance self-expression and continued develop-
+ment of individual and ensemble skills and also offers exposure 
+to the performing arts as a profession.Prerequisite:  TH 104
+TH 204 Theatre Practicum IV",1,This course continues
+TH 203,"and is designed to provide addi-
+tional practical experience for both theatre majors and other 
+students interested in performing onstage or working back-
+stage to provide practical experience as a member of a theatre 
+production crew. Students will have the opportunity to perform 
+onstage, or serve as crew members, who may work in sever-
+al technical or production areas, including stage management, 
+costumes, set design and construction, lighting, sound, properties, 
+house management, and publicity. This course provides an oppor-
+tunity for performance self-expression and continued develop-
+ment of individual and ensemble skills and also offers exposure 
+to the performing arts as a profession. Prerequisite: TH 203
+TH 206 Acting II",3,This course continues
+TH 110,"and provides additional expe-
+rience in the basics of acting. The course is geared towards 
+students with some performance experience.  The course will 
+focus on rehearsal procedures and techniques, terminology, actor 
+discipline, and public performance. Prerequisite: TH 110
+TH 207 Acting III",3,This course continues
+TH 206,"and provides additional experi-
+ence in acting. The course is geared towards students with some 
+performance experience.  The course will focus on rehearsal 
+procedures and techniques, terminology, actor discipline, and 
+public performance. Prerequisite: TH 206
+104
+TH 208 Film Appreciation",3,This course is designed to provide an introduction to the history
+TH 211,Stagecraft II,3,This course continues
+TH 152,"and provides additional experi-
+ence in the use of basic tools and principles of stagecraft. The 
+course will focus on basic tools and their uses, shop organization 
+and maintenance, construction, rigging, and painting. Course par-
+ticipants will be responsible for building, maintaining, and striking 
+sets used in performances. Prerequisite: TH 152
+^VIN111 Intro to Viticulture/Vineyard Establishment",3,"This course is designed to introduce students to current prac-
+tices for establishing a commercial vineyard and maintaining its"
+^VIN117,Cold Climate Viticulture & Enology,1,This course offers a practical understanding of the obstacles and
+^VIN211,Integrated Pest Management,2,This course focuses on how effective grape production depends
+^VIN212,Winter Viticulture Technology,2,This course is designed to provide practical experience in winter
+^VIN213,Midwest Vineyard Management,2,"This course is a study of commercial grape growing in the Mid-
+west United States. Topics include cultivars, vine nutrition, irriga-
+tion, canopy management, pests, maturity sampling and harvest,"
+^VIN214,Spring Viticulture Technology,2,This course is designed to provide practical experience in spring
+^VIN215,Summer-Fall Viticulture Technology,2,This course is designed to provide practical experience in
+^VIN293,Soils for Viticulture,3,This course will explore soil properties and behavior and their
