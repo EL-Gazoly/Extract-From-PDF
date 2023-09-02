@@ -25,8 +25,7 @@ with open('./blackburn-college.txt', 'r', encoding='utf-8') as txt_file:
             'code': code,
             'name': name,
             'credit hours': credit_hours,
-            'description': description,
-            'prerequisites': prerequisites
+            'description': description + '' + prerequisites
         }
 
         course_data.append(course_info)
@@ -36,10 +35,10 @@ with open('blackburn-college.csv', 'w', newline='', encoding='utf-8') as csv_fil
     csv_writer = csv.writer(csv_file)
 
     # Write header row
-    csv_writer.writerow(['Code', 'Name', 'Credit Hours', 'Description', 'Prerequisites'])
+    csv_writer.writerow(['Code', 'Name', 'Credit Hours', 'Description'])
 
     # Write course data rows
     for course in course_data:
-        csv_writer.writerow([course['code'], course['name'], course['credit hours'], course['description'], course['prerequisites']])
+        csv_writer.writerow([course['code'], course['name'], course['credit hours'], course['description']])
 
 print("CSV file 'blackburn-college.csv' has been created with the extracted course data.")
