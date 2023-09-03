@@ -31,15 +31,14 @@ with open('./rose-state-college.txt', 'r', encoding='utf-8') as txt_file:
             'Code': course_code,
             'Title': course_name,
             'Credits': credit_hours,
-            'Description': description,
-            'Prerequisite': prerequisite
+            'Description': description + '' + prerequisite
         }
 
         course_data.append(course_info)
 
 # Write the extracted course data to a CSV file
 with open('rose-state-college.csv', 'w', newline='', encoding='utf-8') as csv_file:
-    csv_writer = csv.DictWriter(csv_file, fieldnames=['Code', 'Title', 'Credits', 'Description', 'Prerequisite'])
+    csv_writer = csv.DictWriter(csv_file, fieldnames=['Code', 'Title', 'Credits', 'Description'])
 
     # Write header row
     csv_writer.writeheader()
