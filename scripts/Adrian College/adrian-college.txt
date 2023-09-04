@@ -201,7 +201,7 @@ race, semiotic, and rhetoric theories will serve as critical
 frames for examining the development and changes within 
 these media. Every other  
  
-AHIS335.  Architectural Studies (3) (HUMANITIES). 
+AHIS335.  Architectural Studies (3) HUMANITIES. 
 This course examines aesthetic theories and canon of 
 Western architecture through a close reading of primary 
 source literature, analysis of contemporary scholarship, and 
@@ -5080,8 +5080,7 @@ An examination of what is leadership, the forms it can take,
 and the various theories of it.  A study of leadership in the 
 works of Homer, Plato, Aristotle, Machiavelli, Confucius, 
 Marcus Aurelius, Martin Luther King Jr. and several other 
-thinkers.  Offered as needed.  Previously listed as 
-PHIL160. 
+thinkers.  Offered as needed.  Previously 
  
 LDRS199.  Exploratory Internship (1-3). 
  
@@ -5095,24 +5094,24 @@ of life.
 LDRS360.  Leadership & Ethics (3).  
 This is a study of the various moral theories applicable to 
 leadership and the examination of moral questions, moral 
-dilemmas, and moral case studies in leadership.  Previously listed as PHIL360. 
+dilemmas, and moral case studies in leadership.  Previously 
  
 LDRS361.  Non-Western Perspectives of Leadership  
 (3) (NON-WESTERN). 
 An examination of non-western views of leadership It 
 includes the study of ideas on leadership from such figures 
 as Sun Tzu, Lao Tzu, Confucius, Nelson Mandela, 
-Mahatma Gandhi, Sitting Bull and others  Previously listed as RELG361.
+Mahatma Gandhi, Sitting Bull and others  Previously 
 LDRS362.  Directed Reading on Leadership (1).  
 A close study of a text on leadership or related to the study 
-of leadership Offered as needed  Previously listed as PHIL362. 
+of leadership Offered as needed  Previously 
  
 LDRS363.  Leaders in Context (3).  
 An exploration of the movements and moments (social,  
 political, and cultural context) that gave rise to leaders in 
 politics, religion, business, education, the Arts, the military 
 or other areas, and an evaluation of leadership in these 
-areas.  Offered as needed Previously listed as PHIL363. 
+areas.  Offered as needed Previously 
  
 LDRS364.  Leadership in Language (3). 
 An investigation of the discourses surrounding various 
@@ -5140,7 +5139,7 @@ Topics include the relationship of ethics and values to
 organizational success, creating and maintaining an ethical 
 culture, incentivizing ethical behavior, and recognizing 
 ethical warning signs.  Offered as needed Previously 
-listed as PHIL36. 
+
  
 LDRS368.  Feminist Models of Leadership (3). 
 An exploration of how leaders may drive change in an 
@@ -8686,8 +8685,7 @@ business of sport including an in-depth analysis of the sport
 and sport-related industries; emphasis given to applying the 
 rational decision making model in the manager’s planning, 
 organizing, leading, controlling decisions.  Includes 
-exploration of career opportunities. Previously listed as 
-SMGT261. 
+exploration of career opportunities. Previously 
  
 SMGT101.  Introduction to eSports Management (3). 
 Students will navigate the structure of eSports leagues, 
@@ -8734,33 +8732,9 @@ development, managing information, ethical considerations
 in decision making and cross-cultural business negotiations. 
 May be repeated with a different topic (Prerequisite: 
 permission of instructor) Offered as needed  Previously 
-listed as B AD350. 
+listed. 
  
-SMGT362.  Sports Marketing (3). 
-Application of marketing principles to sports, sports events, 
-and sports products.  Use of marketing strategies and 
-techniques including public relations, sales, promotions and 
-advertising for sports.  Emphasis includes; sports as a 
-marketing tool for other products, marketing of sports 
-products; and emerging considerations in the sports 
-marketing field. (Prerequisite: MKTG230).  Previously 
-listed as  
-B AD362. 
- 
-SMGT364.  Facility Planning & Management (3). 
-Explores the competencies necessary to manage and operate 
-sport and other public event facilities.  Topics include 
-facility design, scheduling, security and supervision, 
-housekeeping 
-and 
-maintenance, 
-concessions 
-and 
-merchandise, risk management and insurance.  Includes 
-conceptual and technical aspects related to developing and 
-operating sport-related events. (Prerequisite: MGMT243).  
-Previously listed as B AD364.  
- 
+
 SMGT369.  Professional Sports Management  
 Internship (3). 
 Professional internship in sports management field 
@@ -8775,7 +8749,7 @@ junior
 or 
 senior 
 standing).   
-Previously listed as B AD369. 
+Previously 
  
 SMGT375.  Sport in Film (3). 
 This course will critically examine visual representations of 
@@ -8797,11 +8771,28 @@ Topics may include negligence; liability; violence/crowd
 control; product liability; risk management; contracts; labor 
 agreements; antitrust; gender equity.  Explores and analyzes 
 specific legal and ethical dilemmas. (Prerequisite: junior 
-standing).  Previously listed as B AD363. 
+standing).  Previously 
 SMGT499.  Advanced Experimental Course (1-3). 
  
+SMGT362.  Sports Marketing (3). 
+Application of marketing principles to sports, sports events, 
+and sports products.  Use of marketing strategies and 
+techniques including public relations, sales, promotions and 
+advertising for sports.  Emphasis includes; sports as a 
+marketing tool for other products, marketing of sports 
+products; and emerging considerations in the sports 
+marketing field. (Prerequisite: MKTG230).  Previously 
+listed  
  
-Courses in Sociology (SOC) 
+SMGT364.  Facility Planning Management (3). 
+Application of marketing principles to sports, sports events, 
+and sports products.  Use of marketing strategies and 
+techniques including public relations, sales, promotions and 
+advertising for sports.  Emphasis includes; sports as a 
+marketing tool for other products, marketing of sports 
+products; and emerging considerations in the sports 
+marketing field. (Prerequisite: MKTG230).   
+  
  
 SOC104.  Introduction to Sociology (3) (SOCIAL 
 SCIENCE). 
