@@ -1,7 +1,4 @@
-Code,Title,Credits,Description
-numbered 1123,"signifies a freshman course with three credit hours.)  Courses beginning with a number 0 are transitional and pre-collegiate, are",,"not for credit and do not apply towards graduation.  Course numbers ending in 0 signifies that the credit carried varies.   
- 
-ACADEMIC SUCCESS (COL)"
+code,title,credits,description
 COL 1211,SUCCESS STRATEGIES,one,"Prerequisite: NONE 
 This course is designed to support new students develop skills for collegiate 
 success in and out of the classroom.  This course focuses on topics related 
@@ -12,6 +9,14 @@ credit, they will need to enroll in both the New Student Symposium and the
 Success Strategies course.  This course will take place the first 5 weeks of 
 a regular term and will consist of face time instruction, activity projects, 
 online participation and application exercises."
+COL 1211L,AGGIE DAY NEW STUDENT SYMPOSIUM,one,"Prerequisite: NONE 
+The New Student Symposium will take place on a day prior to the start of a 
+regular semester.  This event places a crucial role in your first-year 
+experience and participation is required on this day as it will count towards 
+completion of the Success Strategies course credit.  An introduction to the 
+Murray State College environment, academic expectations and useful 
+resources will be presented this day to help students prepare for the start of 
+a new semester."
 COL 1212,EDUCATIONAL TECHNOLOGY,two,"Prerequisite: NONE 
 In this online or blended course, learn the essential computer technology 
 you need to know to enhance your successful experience at Murray State 
@@ -491,9 +496,10 @@ fundamentals of general chemistry and consists of lectures, recitations,
 written exercises and laboratory experiments. It is essential that students 
 of this course be well grounded in mathematics. Three lecture and three 
 laboratory hours per week."
-CHM 1214,GENERAL CHEMISTRY II,,"Prerequisite: Must have a C or better in CHM 1114 
+CHM 1214,GENERAL CHEMISTRY II,four,"Prerequisite: Must have a C or better in CHM 1114 
 Given each semester, this course is a continuation of course 1114. It is 
-required of the same students and is conducted in the same manner as"
+required of the same students and is conducted in the same manner as 
+course 1114. Three lecture and three laboratory hours per week."
 CHM 1313,GENERAL ORGANIC BIOCHEMISTRY,three,"Prerequisite:  NONE 
 This course provides an overview of general inorganic chemistry, organic 
 chemistry, and biochemistry.  Course content will include unit conversions, 
@@ -2015,11 +2021,6 @@ HUM 1111,HUMANITIES,one,"Prerequisite: NONE
 This course is composed of a series of humanities-related events (concerts, 
 art shows, plays, etc.). Students earn credit by attending these events and 
 completing assignments as described in the course syllabus."
-approximately 1,week and will include,three,"theoretical concepts and hands on clinical experiences.  Students will tour 
-and/or participate in care in a variety of acute and community settings and 
-have opportunities to collaborate with health professionals from the host 
-country and/or other college/university students, and visiting health care 
-teams."
 HUM 2113,HUMANITIES I,three,"Prerequisite: NONE 
 Humanities I is a study of how the significant ideas of western and other 
 world cultures have been expressed in the visual arts, architecture, music, 
@@ -2527,11 +2528,6 @@ individual patients.  The nursing student will collaborate with patients through
 the nursing process to deliver holistic culturally appropriate care.  Students 
 will demonstrate accountability and responsibility for their evolving identity 
 as a nurse committed to safe quality care."
-approximately 1,week and will include,three,"theoretical concepts and hands on clinical experiences.  Students will tour 
-and/or participate in care in a variety of acute and community settings and 
-have opportunities to collaborate with health professionals from the host 
-country and/or other college/university students, and visiting health care 
-teams."
 NUR 2219,HEALTH PROMOTION & THE NURSING PROCESS II,nine,"Prerequisite: NUR 1118 and NUR 1129  
 This course is designed to build upon knowledge of the nursing process 
 gained in previous nursing courses; additionally, mental health, maternity, 
@@ -2669,12 +2665,13 @@ clarify and solidify of proper patterns of occupational therapy practice is the
 focus of this course. A reflection of licensure requirements and a guide for 
 preparing for the NBCOT exam will be reviewed. Sixteen lecture hours per 
 week."
-OTA 2253,CLINICAL FIELDWORK IIA,,"Prerequisite: Acceptance to the Occupational Therapy Assistant Program 
+OTA 2253,CLINICAL FIELDWORK IIA,three,"Prerequisite: Acceptance to the Occupational Therapy Assistant Program 
 This course is an eight-week full-time clinical experience under the 
 supervision of a licensed occupational therapy assistant or occupational 
 therapist. Fieldwork requirements must be completed within 12 months of 
-technical coursework. Fieldwork requirements must be completed"
-within 12,months after successful completion of the didactic,three,coursework. Forty clinical hours p e r  week.
+technical coursework. Fieldwork requirements must be completed 
+within 12 months after successful completion of the didactic 
+coursework. Forty clinical hours p e r  week."
 OTA 2263,CLINICAL FIELDWORK IIB,three,"Prerequisite: Acceptance to the Occupational Therapy Assistant Program 
 This course is an eight-week full-time clinical experience under the 
 supervision of a licensed occupational therapy assistant or  

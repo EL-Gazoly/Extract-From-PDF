@@ -5,8 +5,8 @@ import csv
 with open('./murray-state-college.txt', 'r', encoding='utf-8') as txt_file:
     txt_content = txt_file.read()
 
-    # Create a regex pattern to match course data
-    pattern = re.compile(r'([a-zA-Z]+\s+\d+)\s+(.*?)(?=\s*Credit:\s+((?:\w+(?:\s+\w+)?|None))\s+semester\s+hour(?:s)?|$|\n[a-zA-Z]+\s+\d+|\Z)', re.DOTALL)
+    # Create a regex pattern to match course data with the new course code format
+    pattern = re.compile(r'([A-Z]+\s+\d+[A-Z]*\d*\w*)\s+(.*?)(?=\s*Credit:\s+((?:\w+(?:\s+\w+)?|None))\s+semester\s+hour(?:s)?|$|\n[A-Z]+\s+\d+|\Z)', re.DOTALL)
 
     # Initialize a list to store extracted course data
     course_data = []
@@ -33,8 +33,8 @@ with open('./murray-state-college.txt', 'r', encoding='utf-8') as txt_file:
 
         course_info = {
             'code': code,
-            'name': title.strip(),
-            'credit hours': credits,
+            'title': title.strip(),
+            'credits': credits,
             'description': description.strip()
         }
 
@@ -45,10 +45,10 @@ with open('murray-state-college.csv', 'w', newline='', encoding='utf-8') as csv_
     csv_writer = csv.writer(csv_file)
 
     # Write header row
-    csv_writer.writerow(['Code', 'Title', 'Credits', 'Description'])
+    csv_writer.writerow(['code', 'title', 'credits', 'description'])
 
     # Write course data rows
     for course in course_data:
-        csv_writer.writerow([course['code'], course['name'], course['credit hours'], course['description']])
+        csv_writer.writerow([course['code'], course['title'], course['credits'], course['description']])
 
 print("CSV file 'murray-state-college' has been created with the extracted course data.")
