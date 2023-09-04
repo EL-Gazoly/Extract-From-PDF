@@ -5,8 +5,8 @@ import csv
 with open('./manchester-university.txt', 'r', encoding='utf-8') as txt_file:
     txt_content = txt_file.read()
 
-    # Create a regex pattern to match course data
-    pattern = re.compile(r'((?:\d+\s?or\s\d+|[A-Z]?\d{3}[A-Z]?|[A-Z]+\s\d+)(?:\s?or\s(?:\d+\s?or\s\d+|[A-Z]?\d{3}[A-Z]?|[A-Z]+\s\d+))*)\s+(.*?)\s-\s((?:\d*(?:\.\d+)?(?:\s?or\s\d*(?:\.\d+)?)?|\d+\s?to\s\d*(?:\.\d+)?)?(?:\s?-\s?(?:\d*(?:\.\d+)?|\d+\s?or\s\d*(?:\.\d+)?|\d+\s?to\s\d*(?:\.\d+)?))?)\s+(?:hour|hours?)\s+(.*?)\n(?=(?:\d+\s?or\s\d+|[A-Z]?\d{3}[A-Z]?|[A-Z]+\s\d+)(?:\s?or\s(?:\d+\s?or\s\d+|[A-Z]?\d{3}[A-Z]?|[A-Z]+\s\d+))*)', re.DOTALL | re.IGNORECASE)
+    # Create a regex pattern to match course data with codes like "3XX"
+    pattern = re.compile(r'((?:\d+\s?or\s\d+|[A-Z]?\d{3}[A-Z]?|[A-Z]+\s\d+|(?:\d+|[\dX]{3})[A-Z]?))\s+(.*?)\s-\s((?:\d*(?:\.\d+)?(?:\s?or\s\d*(?:\.\d+)?)?|\d+\s?to\s\d*(?:\.\d+)?)?(?:\s?-\s?(?:\d*(?:\.\d+)?|\d+\s?or\s\d*(?:\.\d+)?|\d+\s?to\s\d*(?:\.\d+)?))?)\s+(?:hour|hours?)\s+(.*?)\n(?=(?:\d+\s?or\s\d+|[A-Z]?\d{3}[A-Z]?|[A-Z]+\s\d+|(?:\d+|[\dX]{3})[A-Z]?))', re.DOTALL | re.IGNORECASE)
 
     # Initialize a list to store extracted course data
     course_data = []
