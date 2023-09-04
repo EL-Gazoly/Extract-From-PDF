@@ -1,4 +1,3 @@
-BIBLE
 BIB 205 – Bible Study Methods and Application
 Credit Hours: 3
 An introduction to the principles and practice of inductive Bible study, with emphasis on the effective 
@@ -22,8 +21,7 @@ Credit Hours: 3
 Origins, literary forms, archaeological illuminations and theology of the Mosaic documents, 
 institutions, and legislation. Offered alternate years.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 156
-TABLE OF CONTENTS / COURSE INFORMATION
+
 BIB 304 – Old Testament Historical Books
 Credit Hours: 3
 The Israelite conquest, settlement, and state in its rise, decline, and restoration. Theology of the 
@@ -50,8 +48,7 @@ A study of the theology of John’s Gospel, including the origin and social sett
 The course will examine John’s unique contribution to theology as well as the pastoral significance of 
 the Johannine literature. Offered alternate years.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 157
-TABLE OF CONTENTS / COURSE INFORMATION
+
 BIB 375 – Jesus in Cultural Context
 Credit Hours: 3
 This course introduces students to the historical and cultural background of Jesus in Second Temple 
@@ -75,8 +72,7 @@ Credit Hours: 3
 Political and social background of Israel’s prophets and their ethical themes; special emphasis on the 
 prophetic view of the messianic future and Israel’s role in world redemption. Offered alternate years.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 158
-TABLE OF CONTENTS / COURSE INFORMATION
+
 BIB 410 – Corinthian Letters 
 Credit Hours: 3
 A study of the contents and theology of 1-2 Corinthians, including the origin and social setting of 
@@ -102,8 +98,7 @@ biblical history, geography and Pauline missionary strategies. This will include
 and history as well as the history and culture of modern Turkey. Credit will not be given for more than 
 6 credit hours. Additional fee required. Offered alternate years.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 159
-TABLE OF CONTENTS / COURSE INFORMATION
+
 BIB 459 – Biblical Studies Travel
 Credit Hours: 3
 A study tour immersing the student in the world of the Bible by traveling in the Holy Land to sites 
@@ -130,8 +125,7 @@ Credit Hours: 3
 This course is designed to survey the literature of the New Testament in its historical setting, literary 
 types, and main ideas. Attention is given to outstanding persons and major events.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 160
-TABLE OF CONTENTS / COURSE INFORMATION
+
 BUSINESS
 BUS 110 – Fundamentals of Business
 Credit Hours: 3
@@ -158,9 +152,8 @@ A continuation of BUS 210 and managerial accounting topics. Long-term liabilitie
 cash flow and interpretation of financial statements, cost accounting and managerial accounting and 
 analysis will be introduced. Prerequisite: BUS 210
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 
-161
-TABLE OF CONTENTS / COURSE INFORMATION
+
+
 BUS 255 – Fundamentals of Business Law
 Credit Hours: 3
 This course introduces the ethics and legal framework of business. Emphasis is placed on contracts, 
@@ -187,8 +180,7 @@ basic styles of management, principles of planning, organizing, motivating, dire
 staffing, controlling work and work performance in a business. There is a major emphasis on business 
 as mission and how our faith fits into workforce management.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 162
-TABLE OF CONTENTS / COURSE INFORMATION
+
 BUS 303 – Introduction to Finance
 Credit Hours: 3
 This course is an introduction to the role of finance in the business world. Topics will include an 
@@ -217,8 +209,7 @@ performance management, and the unique needs of employees to ensure that the kno
 skills, abilities, and performance of the workforce meet current and future organizational and 
 individual needs.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 163
-TABLE OF CONTENTS / COURSE INFORMATION
+
 BUS 475 – Operations Management
 Credit Hours: 3
 A problem-oriented course in production and operations management. Topics include inventory 
@@ -243,8 +234,7 @@ A faculty-supervised internship that integrates previous classroom learning with
 acquired at an approved internship site for a total of 120 hours. Emphasis will be on application of 
 skills and concepts in a business setting.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 164
-TABLE OF CONTENTS / COURSE INFORMATION
+
 BUS 515 – Financial Stewardship
 Credit Hours: 3
 This course introduces the principles of financial management. Students will review basic concepts 
@@ -275,8 +265,7 @@ anchored in a biblical perspective. By paying attention to important communicati
 historical developments, and key communication scholars and journals, students will recognize how 
 communication can be used to serve others.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 165
-TABLE OF CONTENTS / COURSE INFORMATION
+
 COM 220 – Intercultural Communication
 Credit Hours: 3
 This course introduces students to global communication by exploring issues related to intercultural 
@@ -300,8 +289,7 @@ communication in a global world. Emphasis will be given to communication concept
 professional interviewing, organized informational presentations, and cultural intelligence in the 
 workplace. Prerequisite: COM 131
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 166
-TABLE OF CONTENTS / COURSE INFORMATION
+
 COM 330 – Culture and Conflict Management
 Credit Hours: 3
 This course provides students with a basic overview of conflict resolution. The history, methods, 
@@ -326,8 +314,7 @@ This course introduces students to the field of crisis communication. The course
 the use of case studies both internal and external as well as reactive and proactive models to 
 crisis communication.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 167
-TABLE OF CONTENTS / COURSE INFORMATION
+
 COM 420 – Public Relations
 Credit Hours: 3
 This course provides an introduction to public relations and its role in American society. Basic 
@@ -360,8 +347,7 @@ law, administrative law, family law, constitutional law, criminal law, criminal 
 evidence and other legal matters.  This course also provides a hands-on application of legal research, 
 legal writing, and case briefing.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 168
-TABLE OF CONTENTS / COURSE INFORMATION
+
 CJS 251 – Introduction to Criminal Justice
 Credit Hours: 3
 Introduction to Criminal Justice focuses on the various processing stages, practices, and personnel 
@@ -393,8 +379,7 @@ a minimum of 120 hours under agency supervision. Students also complete addition
 in collaboration with their supervising faculty for practical integration and growth of the developing 
 human services professional.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 169
-TABLE OF CONTENTS / COURSE INFORMATION
+
 CJS 330 – Law Enforcement and Corrections
 Credit Hours: 3
 Law Enforcement and Corrections examines the history, policies and laws that impact those working 
@@ -428,8 +413,7 @@ course will also review legal issues, identifying suspicious behavior, technolog
 and structural security, internal and external threats and other related topics. Prerequisite: CJS 251 or 
 consent of the instructor
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 170
-TABLE OF CONTENTS / COURSE INFORMATION
+
 CJS/PSY 415 - Sex Crime: Investigation, Trauma, and Psychosocial Implications
 Credit Hours: 3
 This course will review the laws and investigation processes relating to various sex crimes such as 
@@ -454,9 +438,8 @@ internship requires a minimum of 240 hours under agency supervision. Students al
 coursework in collaboration with their supervising faculty for practical integration and growth of the 
 developing professional. Prerequisite: Senior standing
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 
-171
-TABLE OF CONTENTS / COURSE INFORMATION
+
+
 CJS 430 – Survival Psychology
 Credit Hours: 3
 Survival Psychology focuses on the traits responsible for surviving in high-stress environments 
@@ -484,8 +467,7 @@ to develop the learner’s cultural intelligence and foster compassion and a gre
 of diverse groups who are affected by the criminal justice system. Prerequisite: CJS 251 or consent 
 of the instructor
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 172
-TABLE OF CONTENTS / COURSE INFORMATION
+
 EDUCATION
 EDU 281 – Principles and Philosophy of Education
 Credit Hours: 3
@@ -516,8 +498,7 @@ Students will learn to evaluate, synthesize, document and integrate scholarly so
 writing while adhering to the conventions of English grammar and mechanics. A final research 
 paper is required.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 173
-TABLE OF CONTENTS / COURSE INFORMATION
+
 ENG 101+ – English Composition with Lab
 Credit Hours: 4
 The purpose of this course is to engage students in the writing process, which includes prewriting, 
@@ -543,8 +524,7 @@ and society. The reading will take a historical approach, beginning with the uto
 continuing with dystopian classics and popular present-day adult and young adult dystopian fiction. 
 Prerequisite: ENG 223 or consent of instructor
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 174
-TABLE OF CONTENTS / COURSE INFORMATION
+
 ENG 301 – Creative Writing
 Credit Hours: 3
 With the emphasis on individual expression, students will explore and compose different genres of 
@@ -568,8 +548,7 @@ stories for publishing across multiple platforms. Students will build interviewi
 and storytelling skills, and deepen their understanding of ethical issues in media and mass 
 communication. Prerequisite: Sophomore standing or consent of instructor.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 175
-TABLE OF CONTENTS / COURSE INFORMATION
+
 ENG 409 – Multiethnic Literature 
 Credit Hours: 3
 Through the works of various authors from different time periods, locations, and ethnicities, students 
@@ -602,8 +581,7 @@ programs. Includes research tools and methods for biblical and theological resea
 to students in the 4+1 program. The successful completion of GEN 501M is considered a prerequisite 
 for all other graduate courses.)
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 176
-TABLE OF CONTENTS / COURSE INFORMATION
+
 HISTORY
 HST 113 – World History to 1500
 Credit Hours: 3
@@ -631,8 +609,7 @@ training in the interpretation of primary sources, historical reasoning, the eva
 data and are acquainted with historiography. Students learn how to create a historical argument by 
 developing a research question, annotated bibliography, and a research prospectus or research paper.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 177
-TABLE OF CONTENTS / COURSE INFORMATION
+
 HST 210 – Independent Study in History
 Credit Hours: 3
 Individual guided research in issues of historical concern. Prerequisites: HST 113 or 114 and 
@@ -661,8 +638,7 @@ Credit Hours: 3
 Students will examine the political, social, religious and economic history of the United States from 
 Colonial times until the Civil War.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 178
-TABLE OF CONTENTS / COURSE INFORMATION
+
 HST 332 – United States History 1877 to Present
 Credit Hours: 3
 Students will examine the political, social, religious and economic history of the United States from 
@@ -687,8 +663,7 @@ Credit Hours: 3
 A study of history and literature of the Second Temple Period, from the end of the exile through the 
 first Jewish War. This material will serve as background material to illuminate New Testament texts.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 179
-TABLE OF CONTENTS / COURSE INFORMATION
+
 INTERDISCIPLINARY STUDIES
 IDS 338 – Interdisciplinary Studies Internship I
 Credit Hours: 1-3
@@ -718,8 +693,7 @@ Credit Hours: 3
 An introductory study of the grammar and vocabulary of biblical Greek. Elementary readings from 
 biblical authors and beginning elements of syntax.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 180
-TABLE OF CONTENTS / COURSE INFORMATION
+
 LAN 332 – Elementary Biblical Greek II
 Credit Hours: 3
 A continuation of the study of the grammar and vocabulary of biblical Greek. Elementary readings 
@@ -744,9 +718,8 @@ LAN 422 – Method of Greek Exegesis
 Credit Hours: 3
 Practice in translation and exegetical procedures in both the Gospels and Epistles.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 
-181
-TABLE OF CONTENTS / COURSE INFORMATION
+
+
 LAN 429 – Independent Study in Biblical Languages
 Credit Hours: 1-3
 Individual guided research in special areas of language study by arrangement with Instructor.
@@ -769,8 +742,7 @@ This course includes a study of the principles of effective leadership and admin
 within the local church. It integrates biblical principles for church leadership with principles of current 
 organizational theory and practice.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 182
-TABLE OF CONTENTS / COURSE INFORMATION
+
 LEA 273 – Issues in Christian Leadership
 Credit Hours: 3
 Issues in Christian Leadership addresses the seminal issues in Christian leadership in both the church 
@@ -795,8 +767,7 @@ graces and the importance of professional image. Emphasis is placed on a compari
 Judeo-Christian and secular ethical paradigms, as well as the social responsibility of organizations to 
 contribute to the common good. (Available only to students in the 4+1 program.)
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 183
-TABLE OF CONTENTS / COURSE INFORMATION
+
 LEA 515 – Coaching and Communication Strategies
 Credit Hours: 3
 This course teaches practical skills of personal and professional coaching necessary for moving 
@@ -829,8 +800,7 @@ Students will examine literature and perspectives from the fields of anthropolog
 organizational leadership as well as study cultural engagement in light of the biblical narrative. 
 (Available only to students in the 4+1 program.)
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 184
-TABLE OF CONTENTS / COURSE INFORMATION
+
 LEA 550 – Leveraging Innovation
 Credit Hours: 3
 This course introduces students to the topic of Innovation and Innovation Management. Innovation, 
@@ -862,8 +832,7 @@ rapidly changing business climate will from a biblical perspective evaluate best
 systems proved to the life cycle of the system application. The course will explore career and mission 
 opportunities with various information systems.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 185
-TABLE OF CONTENTS / COURSE INFORMATION
+
 MKT 315 – Advertising and Promotions
 Credit Hours: 3
 This course will focus on using major marketing communication tools: advertising, direct marketing, 
@@ -892,8 +861,7 @@ plans to achieve a person's overall financial objectives. Students will analyze 
 markets, and assets to aid personal budgeting. A unified partial differential equation approach will 
 evaluate investment decisions and risk and valuation.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 186
-TABLE OF CONTENTS / COURSE INFORMATION
+
 MTH 110 – College Math
 Credit Hours: 3
 An introductory course of mathematical thinking across the sub-disciplines of college mathematics. 
@@ -918,8 +886,7 @@ of various types of series and sequences, and applications related to area, volu
 parametric equations, and polar equations are emphasized. Prerequisite MTH 140. Available only in 
 the Dual Enrollment program.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 187
-TABLE OF CONTENTS / COURSE INFORMATION
+
 MTH 150 – Statistics
 Credit Hours: 3
 This introductory course will include descriptions of sample data, theoretical frequency distributions, 
@@ -947,8 +914,7 @@ will be given to personal, congregational, and social issues commonly encountere
 of ministry in order to equip the pastor with the understanding and skills necessary to meet 
 these challenges.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 188
-TABLE OF CONTENTS / COURSE INFORMATION
+
 MIN 331 – Foundations of Women’s Ministry
 Credit Hours: 3
 This course provides a biblical, theological, and philosophical introduction for ministering to women 
@@ -977,8 +943,7 @@ Preaching and teaching experience involving the preparation, presentation, and e
 different genres of sermons intended to prepare students for an effective ministry in a variety of 
 settings. Prerequisite: MIN 351
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 189
-TABLE OF CONTENTS / COURSE INFORMATION
+
 MIN 401 – Ministry of the Local Church
 Credit Hours: 3
 This course examines the dynamics affecting congregational ministry. It will explore the differences in 
@@ -1002,8 +967,7 @@ will be given to understanding the origins and history of the emerging church an
 theological variations within it. Students will be expected to read extensively and assist with 
 class lectures.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 190
-TABLE OF CONTENTS / COURSE INFORMATION
+
 MIN 438 – Ministry Internship
 Credit Hours: 3
 A faculty-supervised experience in an approved ministry situation which allows the student to 
@@ -1029,9 +993,8 @@ and application of principles related to beginning counseling skills, as well as
 strengths and challenges the student brings to the counseling process. (Available only to students in 
 the 4+1 program.)
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 
-191
-TABLE OF CONTENTS / COURSE INFORMATION
+
+
 MIN 530 – Transformational Leadership
 Credit Hours: 3
 This course introduces students to the biblical foundations, principles, and practices of effective 
@@ -1056,8 +1019,7 @@ Credit Hours: 3
 An in-depth pursuit of personal mission interests through the reading of mission-related journals, 
 periodicals and books, and the writing of reports which are shared in class.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 192
-TABLE OF CONTENTS / COURSE INFORMATION
+
 MIS 335 – Religions of the World
 Credit Hours: 3
 A study of major non-Christian religions in the world. Special attention is given to Hinduism, 
@@ -1084,8 +1046,7 @@ students toward a deeper understanding of musical elements found in today’s mu
 inversions, 7th chords, chord progressions, extended chords, and non-harmonic tones. Prerequisite: 
 MWT 112 or demonstrated music theory proficiency.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 193
-TABLE OF CONTENTS / COURSE INFORMATION
+
 MWT 260/360 – MWT Creative Experience
 Credit Hours: 1
 This course provides the opportunity for students to demonstrate their music performance, worship 
@@ -1111,8 +1072,7 @@ running live sound, controlling stage lighting, managing media presentation soft
 online live streaming. This course is ideal for anyone interested learning how to use audio and visual 
 equipment and software within a house of worship or similar organization.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 194
-TABLE OF CONTENTS / COURSE INFORMATION
+
 MWT/WAM 470 – MWT Internship
 Credit Hours: 3
 A faculty-supervised internship is an essential capstone experience of 120 hours required of all Music, 
@@ -1143,8 +1103,7 @@ and fitness. Each class meeting will consist of warm-up, instruction and trainin
 patterns, as well as a workout combining high-intensity interval training, body weight movement, and 
 cardiovascular conditioning. Additional fee required.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 195
-TABLE OF CONTENTS / COURSE INFORMATION
+
 PED 224 – Disc Golf
 Credit Hours: 1
 This course is designed to encourage growth and wellness through the avenue of disc golf. Students 
@@ -1171,8 +1130,7 @@ cell research, and assisted suicide. From a biblical perspective, students will 
 affected culture, how culture affects beliefs, and how our beliefs influence action regarding the 
 sanctity of human life.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 196
-TABLE OF CONTENTS / COURSE INFORMATION
+
 PHL 305 – Ethics
 Credit Hours: 3
 Analysis of personal and social ethics, with particular attention to the ethical problems in 
@@ -1199,8 +1157,7 @@ of teamwork, role of power, motivation, role of emotional intelligence, expectat
 and various factors affecting future leadership in the 21st century. All of this will be studied from a 
 Christian worldview of servant leadership. Offered alternate years.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 197
-TABLE OF CONTENTS / COURSE INFORMATION
+
 PSY 236 – Developmental Psychology
 Credit Hours: 3
 This course is designed to explore human development, including spiritual, from conception through 
@@ -1228,8 +1185,7 @@ explored include the formulation of questions and hypotheses, appropriate experi
 sampling methodology, data analysis, and the presentation of results using graphical summaries and 
 proper statistical notation. Offered alternate years.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 198
-TABLE OF CONTENTS / COURSE INFORMATION
+
 PSY 310 – Abnormal Psychology
 Credit Hours: 3
 An introduction to the classification, description, and interpretation of behavior identified as 
@@ -1256,8 +1212,7 @@ include depression and illness, traumatic injuries, neuromuscular diseases, canc
 Psychological treatment involving wellness behaviors, smoking cessation, substance abuse, proper 
 nutrition and exercise are studied from the biopsychosocial model.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 199
-TABLE OF CONTENTS / COURSE INFORMATION
+
 PSY 341 – Adult Psychology
 Credit Hours: 3
 This course explores various topics such as physical changes, physical and mental health issues, 
@@ -1284,8 +1239,7 @@ Broad overview of death and dying topics including choices an aging population n
 ethics and Christian perspective of those choices; and the experience of grief and mourning. 
 Prerequisite: Sophomore Status
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 200
-TABLE OF CONTENTS / COURSE INFORMATION
+
 PSY/CJS 415 - Sex Crime: Investigation, Trauma, and Psychosocial Implications
 Credit Hours: 3
 This course will review the laws and investigation processes relating to various sex crimes such as 
@@ -1318,8 +1272,7 @@ leadership versus the need for teamwork in responding to stressful events. Healt
 are examined that lead to career effectiveness and avoiding burnout, such as managing vicarious 
 trauma and promoting self-care.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 201
-TABLE OF CONTENTS / COURSE INFORMATION
+
 PSY 457 – Seminar in Counseling
 Credit Hours: 3
 This course continues the process of developing counseling skills by using a problem/management, 
@@ -1349,8 +1302,7 @@ to historical development, modern civilization, and life itself. Explores proper
 chemical manufacturing, disposal, and use. Instruction includes lectures and labs. Available only in 
 the Dual Enrollment program.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 202
-TABLE OF CONTENTS / COURSE INFORMATION
+
 SCI 152 – Introduction to Chemistry 2
 Credit Hours: 4
 A continuation of SCI 151 with concentration on thermochemistry, kinetics, equilibria, group 
@@ -1377,8 +1329,7 @@ This course explores the relationship between man and the environment. Topics in
 environmental conservation, food and agriculture, climate, air pollution, water resources, energy and 
 other environmental hazards.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 203
-TABLE OF CONTENTS / COURSE INFORMATION
+
 SOCIAL SCIENCE
 SSC 298 – AA Capstone
 Credit Hours: 3
@@ -1403,8 +1354,7 @@ Credit Hours: 3
 Study of contemporary Western society with emphasis on culture, socialization, group life, social 
 institutions, social processes and social change.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 204
-TABLE OF CONTENTS / COURSE INFORMATION
+
 SOC 255 – Introduction to Human Services
 Credit Hours: 3
 The course includes an introduction to human services in public and private settings. Course 
@@ -1431,8 +1381,7 @@ sociological explanations and research. Students will be exposed to the Christia
 problems and are expected to be able to articulate a Christian perspective, response, and solution to 
 major problems.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 205
-TABLE OF CONTENTS / COURSE INFORMATION
+
 SOC 320 – Human Services Internship I
 Credit Hours: 3
 A faculty-supervised internship that involves placement in a local human service agency. The student 
@@ -1460,8 +1409,7 @@ of the Christian faith and theology for an understanding of social justice and t
 for community transformation. Social issues will be examined such as poverty, prejudice, racism, 
 education, and urban and rural justice.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 206
-TABLE OF CONTENTS / COURSE INFORMATION
+
 SOC 352 – Popular Music and Youth Culture
 Credit Hours: 3
 This course is intended to help students think creatively and critically about popular music. We will 
@@ -1487,8 +1435,7 @@ biblical, historical, theological, ethical, pastoral, and socio-political lenses
 to create a new and more positive narrative on immigration, which focuses on understanding, 
 acceptance, and love.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 207
-TABLE OF CONTENTS / COURSE INFORMATION
+
 SOC 365 – Long-Term Care System
 Credit Hours: 3
 Exploration of the continuum of long-term care services available in the United States. Examination 
@@ -1516,8 +1463,7 @@ Credit Hours: 4
 A continuation of SPN 101 with additional skills to understand and speak Spanish. Course content 
 continues to cover basic conversational patterns, expressions, and grammar.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 208
-TABLE OF CONTENTS / COURSE INFORMATION
+
 SPORTS MANAGEMENT
 SMG 201 - Introduction to Sports Communication and Media
 Credit Hours: 3
@@ -1541,8 +1487,7 @@ Global Mission. The study of these topics will then be applied to cultural chall
 sharing the gospel in cross-cultural contexts. Christian Ministry requirements are also embedded 
 in this course.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 209
-TABLE OF CONTENTS / COURSE INFORMATION
+
 THE 213 – Biblical Christian Thought
 Credit Hours: 3
 This course emphasizes Scripture as the basis of Christian thought about God and surveys a 
@@ -1570,8 +1515,7 @@ Credit Hours: 3
 A study of the essential elements of dispensational theology with special emphasis given to the 
 distinctive ministry and message of the Apostle Paul. Prerequisite: THE 213
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 210
-TABLE OF CONTENTS / COURSE INFORMATION
+
 THE 323 – Apologetics
 Credit Hours: 3
 This course is designed to introduce students to the field of Christian apologetics Ð the ability to 
@@ -1600,9 +1544,8 @@ exploration of how art has and continues to impact Christian theology, community
 Students will create a number of pieces of visual art for display on and off campus. Prerequisite: 
 Junior standing or instructor consent.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 
-211
-TABLE OF CONTENTS / COURSE INFORMATION
+
+
 THE 363 -  Theology of Spiritual Formation
 Credit Hours: 3
 This course focuses on the practical outworking of the Holy Spirit in the life of the believer. Special 
@@ -1629,8 +1572,7 @@ In-depth readings of selected literature related to dispensational theology, esp
 on mid-Acts dispensational theology. The completion of assignments and/or discussion based on 
 these assigned readings is required.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 212
-TABLE OF CONTENTS / COURSE INFORMATION
+
 THE 425 – Theology of Karl Barth
 Credit Hours: 3
 This course will explore the ways that Karl Barth, 20th century protestant theologian and his 
@@ -1658,8 +1600,7 @@ The Chapel/Ministry Team is a group of vocalists and instrumentalist that prepar
 for weekly campus chapel services and other special events with potential for travel and ministry off 
 campus. Open to all students. Audition required.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 213
-TABLE OF CONTENTS / COURSE INFORMATION
+
 WAM/MWT 186 – Tech Team
 Credit Hours: 1
 The Tech Team is a group of creative, tech-savvy students who oversee the live sound, media, 
@@ -1686,8 +1627,7 @@ The Tech Team Leader is tasked with planning, coordinating, rehearsing and leadi
 in live corporate worship experiences.  Prerequisite:  WAM 329 and successful completion of at least 
 two credits of WAM/MWT 186.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 214
-TABLE OF CONTENTS / COURSE INFORMATION
+
 YOUTH MINISTRY
 YTH 121 – Introduction to Youth Ministry
 Credit Hours: 3
@@ -1715,8 +1655,7 @@ A study of early adolescents, without a doubt, one of the most important and str
 within the context of the local church. Topics include characteristics of middle school students and 
 ministry programming.
   
-ON CAMPUS UNDERGRADUATE ACADEMIC CATALOG 215
-TABLE OF CONTENTS / COURSE INFORMATION
+
 YTH 332 – The Dublin Experience
 Credit Hours: 3
 This course will be structured around the Dublin Christian Mission, Dublin, Ireland as well as include 
