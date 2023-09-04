@@ -1,4 +1,4 @@
-Code,Title,Hours,Description
+code,title,hours,description
 UNIV 010,Strategies for College Success,"2 non-credit hours, traditional undergrad","By participating in this course, students will explore their identity as image bearers of God and 
 look at how this identity shapes their lives as students at CCU. Through the lenses of Purpose, 
 Work, Rationality, and Value, students will be introduced to the concepts and skills that build 
@@ -862,13 +862,10 @@ COMM 160,Communication Arts Design & Development,3 hours,"A survey of theoretica
 on layout, construction of effective publications, the printing process, and scanned images and 
 graphics.  Students will be involved in hands-on activities and practical applications. 
 (Recommended: COMM 110)"
-"COMM 210, 211" ,Student Newspaper ,3," hours each of two semesters) 
-A lab course introducing a variety of skills used by those in the communication arts field. The 
+"COMM 210, 211",Student Newspaper,3 hours each of two semesters,"A lab course introducing a variety of skills used by those in the communication arts field. The 
 course will provide instruction and hands-on experience in writing, editing, and designing 
 journalistic material for both print and online formats. Students will produce a weekly newspaper 
-in both formats. (Prerequisites: ENGL 110, ENGL 111 or their equivalents. Recommended: 
-COMM 110, COMM 160 or their equivalents)"
-
+in both formats. (Prerequisites: ENGL 110, ENGL 111 or their equivalents. Recommended:"
 COMM 261,Video Production,3 hours,"A lab course introducing video production skills. The course provides experience in video 
 camera operation and editing skills as well as script development and realization. Weekly 
 projects will contribute to development of a larger production.  (Prerequisites: ENGL 110,"
@@ -1387,6 +1384,40 @@ One objective of the convocations is to provide opportunity for all applied stud
 public performance in a master class format.  The convocation is considered to be a group 
 applied lesson.  Other objectives of the convocation are to keep communication lines open, to 
 provide training from local practitioners, and to provide a corporate worship experience."
+MUAP 110g,Guitar Methods,1 hour,"Group instruction (meeting two hours each week) for the student with little or no previous 
+training in guitar. Covers fretboard technique, music reading, chord charts, left hand and right 
+hand skills. Designed to introduce all students to guitars and their use in worship. Private applied 
+lessons may be substituted in the case of students with previous experience, at the discretion of 
+the instructor."
+MUAP 110p,Keyboard Methods 1,1 hour,"Group instruction in a lab format (meeting two hours each week), designed for the student with 
+little or no previous training in keyboard playing. Covers healthy technique, improvisation from 
+charts, playing from chord charts and notation, and nuancing live sounds. Designed to introduce 
+184 
+ 
+all students to digital keyboards and their use in worship. Private applied lessons may be 
+substituted in the case of students with previous experience, at the discretion of the instructor."
+MUAP 110x,Percussion Methods,1 hour,"Group instruction in a lab format (meeting 2 hours each week) designed for the student with little 
+or no previous training in drum set/percussion playing. Covers healthy technique, improvisation 
+with and without charts, playing from rhythm charts and notation, and manipulation of acoustic 
+and electronic sounds. Designed to introduce all students to acoustic and digital drums and 
+percussion and their use in worship. Private applied lessons may be substituted in the case of 
+students with previous experience, at the discretion of the instructor."
+MUAP 110v,Voice Methods 1,1 hour,"An introductory course designed to establish basic vocal technique, a beginning understanding of 
+the singing voice, performance and memory skills, and healthy practice habits. Topics covered 
+include diction, microphone use and styling techniques."
+MUAP,121_ Applied Music Elector,1 hour,"A thirty-minute lesson each week whose credit does not count toward a worship leadership 
+degree program, with a minimum requirement of weekly practice."
+MUAP,151_ or 161_ Applied Music Major,1 or 2 hours,MUAP 152_ or 162_ Applied Music Major (1 or 2 hours)
+MUAP,251_ or 261_ Applied Music Major,1 or 2 hours,"MUAP 252_ or 262_ Applied Music Major (1 or 2 hours) 
+A thirty-minute lesson each week plus semi-monthly Convocation attendance. Repertoire is at 
+the discretion of the instructor; generally contemporary worship, unless the instructor deems it 
+best for the student to work on some other genre. Evaluation of progress is made verbally and in 
+writing on a weekly basis, and a final public performance (board, shared event, etc.) may be 
+prescribed. (Prerequisite: acceptance into the BSMW degree or declaration as a minor in music 
+and worship, plus successful completion of previous level.)"
+MUAP,351_ or 361_ Applied Music Major,1 or 2 hours,"A thirty-minute lesson each week plus weekly Convocation attendance, with a minimum 
+requirement of weekly practice. (Prerequisites: acceptance by audition as an applied major) Five 
+semesters of study culminate in a 30-minute (half) recital."
 MUAP 390,Worship Event,0 hours,"MUAP 490 Senior Project (0 hours) 
 185 
  
@@ -1674,6 +1705,8 @@ Israel’s national life."
 BSOT 645,Deuteronomy,3 hours,"A study of the historical background and critical problems relating to this book, followed by 
 exegetical analysis. Links between this text and the larger trajectory of Israel’s history are 
 explored."
+BSOT,650-653 History of Israel,3 hours,"A survey of sources and contexts used in the study of the history of Israel. Emphasis is placed on 
+the Biblical narrative and current efforts to integrate it into the larger history of the region."
 BSOT 661,Isaiah,3 hours,"A study of the historical background and critical problems relating to this book, followed by 
 exegetical analysis. Tensions generated by a message of condemnation and hope are probed."
 BSOT 662,Jeremiah,3 hours,"197 
@@ -1819,203 +1852,98 @@ PMIN 790,Directed Study in Professional Ministries,1-3 hours,"The student is dir
 or church administration according to the individual’s problems, needs, or interests. The course 
 includes conferences with a faculty supervisor and papers, projects, or examinations. To be 
 arranged with the approval of the Dean of the Russell School of Ministry."
-COUN 500,Foundations of Mental Health Counseling,3 hours,"This course provides an overview of professional issues within the field of clinical mental health 
-counseling.  This course focuses on the history and philosophy of the counseling profession, the 
-professional identity and role of clinical mental health counselors, the public and private practice 
-of mental health counseling, and the general framework of consultation with other helping 
-professionals."
-COUN 502,Spirituality & Counseling,3 hours,"The course will address questions related to the interaction of the mind with classical approaches 
-to integrating spirituality and religiosity into counseling. Spiritual formation with attention to 
-specific actions designed to facilitate healthy spiritual development in both counselors and 
-clients will be addressed. Additional topics include the impact of trauma, family of origin issues, 
-and neuroscience on spiritual and moral development and growth."
-COUN 510,Counseling Theories and Methods,3 hours,"A survey of contemporary counseling theories and techniques. Topics covered will include the 
-counseling process, comparison of various theoretical approaches, and an introduction to 
-professional ethical issues in counseling. 
+PMIN,792/793 SLE/SME,Internship,"in Pastoral Leadership (3 hours) 
+This is a program to provide a link between the classroom and the field. A student may observe 
+and do work under the direction of a person who has developed expertise in a given area of 
+ministry. May be arranged for additional hours in some cases. 
+204 
  
-#COUN 511 Diagnosis of Mental and Emotional Disorders (3 hours) 
-This course provides an examination and practical use of the current edition of the Diagnostic & 
-Statistical Manual for Mental Disorders and an understanding of the International Classification 
-of Diseases. This course focuses on conducting mental status examinations, and on the 
-development and recognition of a framework for identifying symptomatology, etiology, and 
-psychodynamics of mental and emotional disorders. (Offered online only)"
-COUN 512,Ethical and Professional Issues in Counseling,3 hours,"205 
  
-A review of ethical and legal considerations in professional counseling, which includes an 
-introduction to ethical guidelines and standards of the American Counseling Association (ACA) 
-and Ohio Law (4757). An examination of professional issues, including counselor identity, 
-history, and philosophy of the counseling profession, professional organizations, credentialing, 
-and counselor self care. Attention is given to the identity, professional standards, organizations, 
-and employment settings of the mental health counselor as well as an examination, management 
-and evaluation of mental health services including community programs, community 
-interventions, and needs assessment in the public, private, and church organizations."
-COUN 515,Human & Family Development,3 hours,"This course provides information regarding human development theory and research. Changing 
-trends and issues are also explored with focus upon family life cycle variations. Emphasis is 
-given to the application of scientific knowledge to select issues and thematic narratives of 
-lifespan development as well as to information regarding child development in families and their 
-socio-cultural contexts."
-COUN 518,Theological Foundations & Counseling,3 hours,"This course provides an overview of how Christian theological foundations are relevant within 
-mental health counseling, especially related to the concepts of grace, sin, suffering, healing, 
-redemption, sanctification, and the image/nature of both humanity and God. Additional topics 
-addressed within this course include integration of theological concepts and counseling, models 
-of faith development, moral development and reasoning, cultural theologies related to 
-counseling, spiritual warfare, and the personal/spiritual implications of death and 
-heaven/eternity. 
  
-*COUN 534 Pre-Marital Counseling (3 hours) 
-An examination of the need for pre-marital counseling and a rationale and several methods to 
-meet the need of helping couples prepare for a successful marriage."
-COUN 561,Group Counseling,3 hours,"This course provides theoretical and experiential knowledge of group counseling. Emphasis will 
-be placed on understanding group purpose, development, dynamics, roles, leadership, theories, 
-methods and skills."
-COUN 570,Career Counseling,3 hours,"206 
- 
-This course concentrates on career development theories and their implication for appraisal of 
-vocationally related interests, aptitudes and personality characteristics. It will emphasize the 
-practice of career development and planning for those individuals and groups desiring career 
-counseling in various settings. (Only offered online with two on-site meetings at the Cincinnati 
-campus)"
-COUN 575,Social & Cultural Foundations,3 hours,"This course will provide an introduction to many of the current issues that counselors and 
-ministers face in terms of how culture impacts their work with others. Areas of focus include: 
-theories of multicultural counseling; identity development; advocacy and social justice; 
-characteristics and concerns when working with diverse groups nationally and internationally; 
-attitudes, beliefs, understandings and acculturative experiences designed to foster understanding 
-of self and others; strategies for working competently with diverse populations; and counselors’ 
-roles in promoting optimal wellness and growth of human spirit, mind and body as well as 
-eliminating biases, prejudices, oppression and discrimination.  
- 
-#COUN 580 Counseling Assessment (3 hours) 
-This course is an examination of the use of assessment and testing instruments in counseling. 
-Discussions include the purpose of counseling, education, and psychological assessment; client 
-welfare; competence to use and interpret tests; informed consent; release of information; proper 
-diagnosis; test selection; conditions of test administration; diversity and culture; test scoring and 
-interpretation; test security; obsolete and outdated test results and test construction in counseling. 
-(Only offered online with 3 on-site meetings at the Cincinnati campus) 
- 
-#COUN 582 Counseling Techniques (3 hours) 
-Practical application of basic helping skills, clinical documentation, and professional behaviors 
-in counseling at the campus counseling center. An experience of initiating, developing, and 
-sustaining a professional relationship. (Offered in hybrid format) 
- 
-#COUN 592 Counseling Practicum (3 hours) 
-Initial supervised practice of counseling in the campus counseling center. Individual/triadic 
-supervision and seminar discussion are used for the continued development of counseling skills, 
-strategies, techniques, interventions, and professional role. (By permission only.)"
-COUN 595,Substance Abuse Counseling,1 hour,"This course provides an introduction and overview of substance abuse/dependence counseling 
-that includes alcohol, prescription and nonprescription drugs for adolescents and adults. Various 
-theoretical models will be introduced along with the stages and process of change toward 
-recovery. Assessment, interventions, treatment modalities, motivational interviewing, dual 
-diagnosis, effect of trauma on addiction, treatment planning, relapse prevention are included. 
-Additionally, the impact of addiction on families and how addiction manifests itself on adult 
-children will be addressed. Ethical issues in the treatment of substance abuse/dependence and 
-licensure requirements are discussed. (Online)"
-COUN 597,Psychopharmacology for Counselors,1 hour,"An examination of psychopharmacological medications most frequently used in the treatment of 
-mental health problems, including classifications, indications, contraindications and side effects. 
-The course will also focus on when and how to make an appropriate referral for a medication 
-evaluation."
-COUN 598,Substance Abuse Prevention Strategies,1 hour,"This course will introduce the student to substance abuse prevention, including models of 
-prevention, prevention and intervention strategies, needs assessments, and related factors that 
-contribute to addictions and compulsive behaviors. This course is designed to partially meet 
-credentialing requirements for a Licensed Chemical Dependency Counselor credential, under the 
-Ohio Chemical Dependency Professionals Board (http://ocdp.ohio.gov/): Prevention Strategies 
-(12 hours) and Pharmacology (3 hours)."
-COUN 599,Marriage & Family Counseling,1 hour,"The purpose of this course is to provide students with an overview of prominent history, theories 
-family systems, strategies, techniques and practices when working with couples and families. 
-This course provides an introduction to the theory, research, and practice of marriage and family 
-208 
- 
-counseling. Students will gain an understanding of healthy marriage/family systems, the 
-therapeutic process, and the practice, marriage and family counseling.  (Online) 
- 
-*COUN 618 Applications of Christian Counseling (3 hours) 
+*COUN 618,Applications of Christian Counseling,3,," 
 This course will address practical applications of faith-based resources in a counseling 
 environment to address mental health concerns that are confronted in both mental health and 
 pastoral counseling settings. Appropriate Biblical resources and ethical considerations of their 
 application will also be addressed. The course focuses on the study of and the integration of 
-psychological theory and practice with theology, spirituality and Christianity. 
+psychological theory and practice with theology, spirituality and Christianity." 
  
-*COUN 620 Theory and Techniques in Marriage and Family Counseling (3 hours) 
+*COUN 620,Theory and Techniques in Marriage and Family Counseling,3," 
 The treatment of individuals, couples, and families from a relational/systemic perspective. 
 Students will gain an understanding of healthy, marital and family systems, the therapeutic 
-process, and the practice of marriage and family counseling. 
+process, and the practice of marriage and family counseling. "
  
-*COUN 622 Women's Issues in Counseling (3 hours) 
+COUN 622, Women's Issues in Counseling,3," 
 Women are frequent consumers of mental health treatment and often present issues related to 
 their biological and gender roles. We will explore societal, relational, and internal/biological 
-origins and dynamics of some common problems women present within therapy. 
+origins and dynamics of some common problems women present within therapy." 
  
-*COUN 624 Crisis and Grief Counseling (3 hours) 
+*COUN 624, Crisis and Grief Counseling,3," 
 An examination of the dynamics of a crisis or disaster, the recommended steps in crisis 
 intervention, disaster mental health, and the role of the church in prevention as well as in a caring 
 response. An examination of the dynamics within the person, family and community when 
 severe or terminal illness has been diagnosed or the bereavement process has been initiated. The 
-course also includes methods and resources for helping. 
+course also includes methods and resources for helping." 
  
-*COUN 628 Solution Focused/Brief Counseling (3 hours) 
+*COUN 628,Solution Focused/Brief Counseling,3," 
 An introduction to Solution Focused and Brief Counseling Theories. The focus will be on 
 practical application in a variety of clinical and pastoral settings. (Prerequisite: COUN 510.) 
- 
-*COUN 632 Addictions and Compulsive Behavior Counseling (3 hours) 
+ "
+*COUN 632,Addictions and Compulsive Behavior Counseling,3," 
 This course provides an introduction and overview of addictions and their treatment. This 
 overview includes both process (behavioral) and substance abuse addictions. The pathology of 
 addiction and the effects of compulsive behavior on the individual and families are explored 
 while examining the signs, symptoms and stages involved. Various theoretical models of 
 addiction will be presented along with the process and stages of change toward recovery. 
-209 
- 
-Assessment, interventions, treatment modalities, motivational interviewing, dual diagnosis, the 
-effects of trauma on addiction, family dynamics, as well as relapse prevention are also included 
-within the course framework. Additionally, the role of the church for the addicted individual and 
-the development of support/recovery groups will be addressed. 
- 
-*COUN 633 Advanced Substance Abuse Counseling (3 hours) 
+209 "
+
+*COUN 633, Advanced Substance Abuse Counseling,3," 
 An overview of substance abuse and treatment. The impact of medication/drugs/substances on 
 individuals and the pathology of substance abuse are explored while examining the signs, 
 symptoms and stages involved. Students will examine treatment methods, research findings, 
 appropriate referrals to agencies and professional counseling, and liaison work with public 
 service agencies, government offices, human service agencies and local churches. Special 
 attention will be given to the development of support/recovery groups in the local church and 
-appropriate resources for helping individuals. (Prerequisite: COUN 595.) 
+appropriate resources for helping individuals. (Prerequisite: COUN 595.)" 
  
-*COUN 634 Counseling Children: Play Therapy Techniques (3 hours) 
+*COUN 634,Counseling Children: Play Therapy Techniques,3," 
 Specific training designed for counselors who work with young children (under age 12) whose 
 ability to communicate feelings verbally is limited. Students practice play therapy techniques 
 with other students and with child clients (when legally and ethically appropriate). Discussion 
 includes research literature, which supports the appropriate utility of play therapy techniques 
 with young children affected by circumstances such as divorce, single parenting, ADHD, and 
-sexual abuse. 
+sexual abuse. "
  
-*COUN 636 Counseling Adolescents (3 hours) 
+*COUN 636, Counseling Adolescents,3," 
 A didactic and experiential seminar focusing on intrapersonal dynamics of adolescents 
 frequently referred to counselors. Counseling procedures, treatment plans and referral for 
-resistant and recalcitrant youth will be covered. 
+resistant and recalcitrant youth will be covered." 
  
-*COUN 640 Human Sexuality (3 hours) 
+*COUN 640,Human Sexuality,3," 
 This course is an exploration of human sexuality development and transitions across the life span 
 of an individual within the context of cultural diversity and life style differences. Utilizing 
 current research, the assessment and treatment strategies for specific sexual disorders, identified 
 in the latest edition of the DSM, will be covered. Personal self-awareness of values will be 
 emphasized as students examine various topics. Ethical and legal considerations will be 
-presented. 
+presented. "
  
-*#COUN 642 Supervision of Counselors (3 hours) 
-210 
+*#COUN 642,Supervision of Counselors,3, "
  
 Study of supervisory processes in terms of theoretical perspectives and practices of supervision. 
 Reviews relevant literature related to supervisee development, supervisee evaluation, supervisor 
 roles and functions, risk management issues, and other ethical considerations. (By permission 
 only.) 
+"
  
-*#COUN 645 Existential Theories in Counseling (3 hours) 
+*#COUN 645, Existential Theories in Counseling,3," 
 This course is designed to provide intensive study of existential counseling theories, their 
 application to the counseling process, and their research base. Course topics will be planned 
 around basic existential themes from the American and British schools of therapy and associated 
 existential concepts. At completion of this course, students will have a greater understanding of 
 the existential theories, how to implement these theoretical concepts into counseling practice, 
 and be able to articulate their understanding of existence and progress toward individual 
-meaning. This course will also consider existential philosophies from a Christian perspective. 
+meaning. This course will also consider existential philosophies from a Christian perspective." 
  
-*#COUN 648: Advanced Individual Practicum (3 hours) 
+*#COUN 648,Advanced Individual Practicum,3," 
 Advanced supervised experience in campus counseling center. Students meet for individual 
 supervision and in seminar groups to assess and improve their effectiveness in helping 
 relationships. (By permission only.)"
@@ -2030,52 +1958,976 @@ interpretation, treatment planning, and more. Through quizzes, writing responses
 discussion, and other assignments students will demonstrate a working knowledge of principles  
 of helping clients (and their families). (Prerequisite: COUN 653) 
  
-#COUN 680 Evaluation of Mental and Emotional Status (3 hours) 
-211 
- 
+#COUN 680,Evaluation of Mental and Emotional Status,3," 
 This course is an examination and practical use of assessment procedures in diagnosis and 
 treatment planning as well as case conceptualization. This course focuses on the administering, 
 interpreting and report writing of individual and group standardized tests of mental ability, 
-personality, and measurement. (Prerequisites: COUN 511 and COUN 580.) 
+personality, and measurement. (Prerequisites: COUN 511 and COUN 580.)" 
  
-#COUN 711 Treatment of Psychopathology (3 hours) 
+#COUN 711,Treatment of Psychopathology,3," 
 An advanced study of the etiology and treatment of mental disorders. Focus on using 
 biopsychosocial framework and counseling theory to conceptualize client presentation and select 
 appropriate counseling interventions. Course includes a review of empirically supported 
 treatments and discussion about etiology and treatment from a Christian perspective. 
-(Prerequisite: COUN 511.) 
+(Prerequisite: COUN 511.) "
  
-*COUN 750 Special Topics in Counseling (3 hours) 
-Presentations of special interest in the field of counseling. 
+*COUN 750,Special Topics in Counseling,3," 
+Presentations of special interest in the field of counseling." 
  
-#COUN 792 Internship I (3 hours) 
+#COUN 792,Internship I,3" 
 On site training under the professional guidance of a Licensed Clinical Counselor with 
 Supervision designation. Students will continue to gain experience with assessment, diagnosis, 
 and treatment of clients while building additional skills needed to serve in a variety of 
 community mental health agencies. Individual as well as group supervision will be provided as 
 students are given the opportunity to process their growth as a professional. (By permission 
-only.) 
+only.) "
  
-#COUN 793 Internship II (3 hours) 
+#COUN 793, Internship II,3," 
 Continued on-site training under the professional guidance of a Licensed Clinical Counselor with 
 Supervision designation. Students will continue to gain experience with assessment, diagnosis, 
 and treatment of clients while building additional skills needed to serve in a variety of 
 community mental health agencies. Individual as well as group supervision will be provided as 
 students are given the opportunity to process their growth as a professional. (By permission 
-only.) 
+only.) "
  
-*#COUN 794 Advanced Internship III (3 hours) 
+*#COUN 794,Advanced Internship III,3," 
 Advanced on-site training under the professional guidance of a Licensed Clinical Counselor with 
 Supervision designation. Students will continue to gain experience with assessment, diagnosis, 
 and treatment of clients while building additional skills needed to serve in a variety of 
 community mental health agencies. Individual as well as group supervision will be provided as 
-212 
+212
  
 students are given the opportunity to process their growth as a professional. (By permission 
-only.) 
+only.)" 
  
-#COUN 800 Comprehensive Review & Examination (0 hours) 
+#COUN 800, Comprehensive Review & Examination,0," 
 This capstone course provides a student demonstration of knowledge in each of the eight 
 common core curricular areas that are required of all students in counselor education as defined 
 by Council for Accreditation of Counseling and Related Educational Programs (CACREP) and 
 the American Counseling Association (ACA). (By permission only.)"
+MUAP 121_ Applied Music Elector (1 hour) 
+A thirty-minute lesson each week whose credit does not count toward a worship leadership 
+degree program, with a minimum requirement of weekly practice. 
+ 
+MUAP 151_ or 161_, Applied Music Major,1 or 2,"" 
+MUAP 152_ or 162_,Applied Music Major,1 or 2,"" 
+MUAP 251_ or 261_,Applied Music Major,1 or 2,"" 
+MUAP 252_ or 262_,Applied Music Major,1 or 2," 
+A thirty-minute lesson each week plus semi-monthly Convocation attendance. Repertoire is at 
+the discretion of the instructor; generally contemporary worship, unless the instructor deems it 
+best for the student to work on some other genre. Evaluation of progress is made verbally and in 
+writing on a weekly basis, and a final public performance (board, shared event, etc.) may be 
+prescribed. (Prerequisite: acceptance into the BSMW degree or declaration as a minor in music 
+and worship, plus successful completion of previous level.)" 
+ 
+MUAP 351_ or 361_,Applied Music Major,1 or 2," 
+A thirty-minute lesson each week plus weekly Convocation attendance, with a minimum 
+requirement of weekly practice. (Prerequisites: acceptance by audition as an applied major) Five 
+semesters of study culminate in a 30-minute (half) recital."
+UNIV 010,Strategies for College Success,0,
+BSCS 100,Bible Lands and Lifeways,0,
+A,"survey of environmental, cultural, and social issues, which add perspective to biblical",0,
+BSCS 380,Archaeological Fieldwork,0,
+BSCS 381,Tours of Bible Lands,0,
+BSEG 100,Introduction to Biblical Interpretation,0,
+BSEG 101,Christian Belief & Practice 1,0,
+BSOT 100,"or 150, BSNT 100 or 150)",0,
+BSEG 201,Christian Belief & Practice 2,0,
+BSEG,101),0,
+BSEG 110,Bible Survey,0,
+BSEG 150,Theology of Work,0,
+A,course designed to integrate theology and the practice of labor in society.,0,
+BSEG 295,Biblical Studies Tutorial,0,
+BSEG 300,Biblical Exegesis and Hermeneutics,0,
+BSOT,"220, BSOT 225, BSOT 230,",0,
+BSNT,"220, BSNT 230)",0,
+BSEG 321,eTools for Biblical Languages and Research,0,
+BSEG,100),0,
+BSEG 350,Theology of Contemporary Christian Thought,0,
+BSEG 480,Seminar on the Bible & Culture,0,
+CCU,college level degree programs. The,0,
+BA,in Biblical Studies degree.),0,
+BSGK 210,New Testament Greek 1,0,
+BSGK 211,New Testament Greek 2,0,
+BSGK,210),0,
+BSGK 310–319,Greek Exegesis,0,
+A,study of selected New Testament texts. Emphasis is placed on the process of translation and,0,
+BSGK,"210, BSGK 211)",0,
+BSGK 311,"Greek Exegesis: Matthew, Hebrews, & Septuagint",0,
+BSGK 312,Greek Exegesis: Pastoral and Prison Epistles,0,
+BSGK 313,"Greek Exegesis: Mark, 1&2 Peter, Jude, 1&2 Thessalonians",0,
+BSGK 314,Greek Exegesis: Readings in Pauline Theology,0,
+BSGK 315,Greek Exegesis: Readings in New Testament Ethics,0,
+BSGK 319,Greek Exegesis: Selected New Testament Readings,0,
+BSHB 210,Biblical Hebrew 1,0,
+BSHB 211,Biblical Hebrew 2,0,
+BSHB,210),0,
+BSHB 311–315,Advanced Hebrew,0,
+BSHB,"210, BSHB 211)",0,
+BSHB 311,Hebrew Exegesis: Ruth and Esther,0,
+BSHB 313,Hebrew Exegesis: Selected Texts,0,
+BSHB 314,Hebrew Exegesis: Life of David,0,
+BSHB 315,Hebrew Exegesis: Elijah and Elisha,0,
+BSHB 316,Aramaic: Daniel,0,
+A,"study primarily of the Aramaic portion of Daniel, with a view toward its translation and",0,
+BSHB,"210, BSHB 211)",0,
+BSOT 100,level courses may count toward overall degree credit.,0,
+BSOT 100,Old Testament Introduction,0,
+BSOT 120,Survey of the Pentateuch,0,
+BSOT 150,Origins of the People of God I,0,
+BSOT 220,Pentateuch: Teachings & Perspectives,0,
+BSOT 100,or BSOT 150),0,
+BSOT 225,Prophets: Teachings & Perspectives,0,
+BSOT 100,or,0,
+BSOT,150),0,
+BSOT 230,Wisdom: Teachings & Perspectives,0,
+BSOT 100,or BSOT 150),0,
+BSOT 250,Old Testament History,0,
+A,study of the history of Israel from Abraham through the Babylonian Captivity to the time of,0,
+BSOT,"100, BSEG 100)",0,
+BSOT 260,Old Testament Prophecy,0,
+BSOT,"100, BSEG 100)",0,
+BSOT 300,Old Testament Teachings & Perspectives,0,
+BSOT,"100, BSNT 100, BSEG 101)",0,
+BSOT 351,Genesis,0,
+A,careful study of the first book of the Bible noting particularly the history of the patriarchs and,0,
+BSEG,"100, BSOT 100)",0,
+BSOT 352,Exodus,0,
+A,study of the foundational event of the nation of Israel.,0,
+BSEG,"100, BSOT 100)",0,
+BSOT 355,Deuteronomy,0,
+A,systematic study of the book of Deuteronomy analyzing the foundations and implications of,0,
+BSEG,"100, BSOT",0,
+BSOT 361,Isaiah,0,
+BSEG,"100, BSOT 100)",0,
+BSOT 362,Jeremiah,0,
+A,systematic study examining Jeremiah’s prophecies and life in his role as proclaimer of divine,0,
+BSEG,"100, BSOT 100)",0,
+BSOT 363,Ezekiel,0,
+A,"study of the critical problems associated with this book, its historical background, and its",0,
+BSEG,"100, BSOT 100)",0,
+BSOT 364,Daniel,0,
+A,"thorough study of Daniel placing emphasis upon the prophetic sections, giving attention to the",0,
+BSEG,"100, BSOT",0,
+BSOT 365,Minor Prophets,0,
+A,"study of introductory matters and a survey of the background, personality, and teachings of the",0,
+BSEG,"100, BSOT 100)",0,
+BSOT 370,The Wisdom of Solomon for Life,0,
+A,"study of Hebrew wisdom dealing with the phases of life. The role of the Song of Solomon,",0,
+BSEG,"100, BSOT 100)",0,
+BSOT 371,Job and Lamentations,0,
+BSEG,"100, BSOT 100)",0,
+BSOT 372,The Psalms,0,
+A,critical introduction to the book of Psalms followed by a study of individual Psalms selected,0,
+BSEG,"100, BSOT 100)",0,
+BSOT 380,Special Themes in Old Testament Studies,0,
+BSEG,"100, BSOT 100)",0,
+A,study of the Old Testament polemic against other religions,0,
+A,study of humanity’s earliest ages.,0,
+BSEG,"101, BSOT 220, BSOT 225, BSOT 230)",0,
+BSNT 100,New Testament Introduction,0,
+BSNT 130,Survey of Pauline Epistles,0,
+BSNT 150,Origins of the People of God II,0,
+BSNT 100,level courses may count toward overall degree credit.,0,
+BSNT 220,Jesus and the Gospels,0,
+BSNT 100,or BSNT 150),0,
+BSNT 230,Paul and the New Testament Letters,0,
+BSEG,"100,",0,
+BSNT 100,or BSNT 150),0,
+BSNT 300,New Testament Teachings & Perspectives,0,
+BSOT,"100, BSNT 100, BSEG 101)",0,
+BSNT 321,Gospel of Matthew,0,
+A,survey of the background and distinct theological perspective of Matthew’s Gospel followed,0,
+BSNT,220),0,
+BSNT 322,Gospel of Mark,0,
+A,survey of the background and distinct theological perspective of Mark’s Gospel followed by,0,
+BSNT,220),0,
+BSNT 323,Gospel of Luke,0,
+A,survey of the background and distinct theological perspective of the Luke’s Gospel followed,0,
+BSNT,220),0,
+BSNT 324,Gospel of John,0,
+A,survey of the background and distinct theological perspective of the fourth Gospel followed by,0,
+BSNT,220),0,
+BSNT 331,Romans,0,
+BSNT,230),0,
+BSNT 332,Corinthian Letters,0,
+A,study of 1 & 2 Corinthians that emphasizes their socio-historical situations in the context of,0,
+BSNT,230),0,
+BSNT 335,Prison Epistles,0,
+BSNT,230),0,
+BSNT 336,Thessalonian Letters & Early Church Eschatology,0,
+BSNT,230),0,
+BSNT 338,Pastoral Epistles & Early Church Ecclesiology,0,
+BSNT,230),0,
+BSNT 341,Epistle to the Hebrews,0,
+BSNT,230),0,
+BSNT 342,Theology of James,0,
+A,careful study of the problems of introduction and the exegesis of the epistles,0,
+BSEG,"101, BSNT 230)",0,
+BSNT 343,Epistles of Peter,0,
+BSEG,"101, BSNT 230)",0,
+BSNT 349,Book of Revelation,0,
+A,careful exegesis of the text of the book of Revelation keeping the practical purpose of the book,0,
+BSEG,"101, BSNT 220, BSNT 230)",0,
+BSNT 350,Acts of Apostles,0,
+BSEG,"101, BSNT 220; BSNT 230)",0,
+BSOT 490,Senior Thesis,0,
+BSPT 200/SOCI 200,Public Theology,0,
+BSEG,101),0,
+BSPT 310,"Bible, Culture and Justice",0,
+BSPT,200),0,
+BSPT 311,"Bible, Culture and Ecology",0,
+BSPT,200),0,
+BSPT 312,"Bible, Culture, Gender and Sexuality",0,
+BSPT,200),0,
+BSPT 315,"Bible, Culture and Race",0,
+ACCT 210,& ACCT 220 Introduction to Accounting 1 & 2,0,
+ACCT 210,is a,0,
+ACCT,220.),0,
+ACCT 210,& ACCT 220,0,
+ACCT 310,Financial Reporting and Analysis,0,
+GAAP,regulations.,0,
+ACCT 320,Cost Accounting,0,
+ACCT 330,Non-Profit and Government Accounting,0,
+ACCT 410,Fundamentals of Tax Accounting,0,
+ACCT 420,Accounting Information Systems,0,
+ACCT 430,Auditing and Professional Ethics,0,
+ACCT 395,Accounting Internship,0,
+BUSN 120,Microeconomics,0,
+BUSN 130,Macroeconomics,0,
+US,banking,0,
+BUSN,120),0,
+BUSN 140,Personal Finance,0,
+A,study that applies biblical principles to financial decision making through the instrument of a,0,
+BUSN 210,Managing and Leading Organizations,0,
+A,study of the basic management functions and processes in a variety of organizations.  Topics,0,
+BUSN 230,Management of Information Technology,0,
+A,study in the successful application of IT systems within a business organization. Topics,0,
+BUSN 235,Business Applications,0,
+BUSN 240,Finance for Managers,0,
+A,"study of financial decision making within business organizations including financial analysis,",0,
+BUSN,120),0,
+BUSN 250,Research for Business,0,
+A,"course designed to introduce students to the process of gathering, recording and analyzing data",0,
+BUSN,"230, MATH 240)",0,
+BUSN 295,Mentoring Experience,0,
+BUSN 310,Marketing,0,
+BUSN 320,Human Resource Management,0,
+A,"study of an organization's effort to select, evaluate, retain and develop effective workers who",0,
+BUSN,210),0,
+BUSN 325,Teams & the Workplace,0,
+BUSN 330,Organizational Communication,0,
+SPCH,"110, ENGL 111, BUSN 230)",0,
+BUSN 331,Professional Selling,0,
+BUSN 330,in addition,0,
+BUSN 340,Operations,0,
+A,"study of the operations area in business organizations including commercial, service, and",0,
+BUSN 346,Organizational Finance,0,
+A,"study of the preparation, analysis, communication, and interpretation of financial information",0,
+BUSN 360,International Business,0,
+A,"study of the challenges of conducting business in foreign markets.  Topics address the cultural,",0,
+BUSN 380,Nonprofit Management,0,
+A,study on the role of the nonprofit sector in society as well as an examination of both the,0,
+BUSN 395,Internship,0,
+BUSN 395,or 396 Field Experience,0,
+A,course designed to allow students to obtain real world training experience. Students will,0,
+CALL,only.,0,
+BUSN 401,Diversity in Sport,0,
+BUSN 410,Strategic Management,0,
+ACCT,"220, BUSN 220, BUSN 240, BUSN 310)",0,
+BUSN 420,Contemporary Issues in Leadership,0,
+A,"course examining current issues for today's leaders such as leading a diverse workforce,",0,
+ACCT,"220, BUSN 230, BUSN 240, and BUSN 310)",0,
+BUSN 430,Economics in the Neighborhood,0,
+BUSN 120,for Business majors; BSPT 200 for Public Theology majors; SOCI 110 or 200 for,0,
+UICS,majors),0,
+BUSN 440,Project Management,0,
+A,study of the tools and processes of project management with emphasis on organizational,0,
+BUSN 450/PMIN 450,Leading Change,0,
+A,study of the forces that drive organizations to change. The course examines resistance to,0,
+ENTR 210,Introduction to Entrepreneurship,0,
+BUSN,120),0,
+ENTR 310,Workplace Innovation and Strategic Planning,0,
+ENTR,210),0,
+ENTR 410,Managerial Economics,0,
+ENTR,210),0,
+IT,Management,0,
+ITMT 210,Information Technology Systems Design and Development,0,
+BUSN,230),0,
+ITMT 220,Introduction to Modern Analysis and Programming,0,
+BUSN,230),0,
+ITMT 310,Issues in Management of Information Systems,0,
+BUSN,230),0,
+ITMT 410,Business Intelligence Tools and Application,0,
+A,course that will give students applied experience with BI tools and theories.,0,
+BUSN,230),0,
+MKTG 320,Marketing Research,0,
+A,"study of the qualitative and quantitative methods used to design, collect, interpret, and report",0,
+BUSN,"310, MATH 240)",0,
+MKTG 340,Entrepreneurial Marketing,0,
+ENTR 210,and BUSN 310 to create a,0,
+BUSN,"310, ENTR 210)",0,
+MKTG 360/COMM 360,Internet and Social Media Marketing,0,
+A,study of the basic principles of marketing applied to the growing fields of internet and social,0,
+BUSN,"230, BUSN 310;",0,
+ENGL,"110, ENGL 111, COMM 160)",0,
+MKTG 410,Advanced Marketing,0,
+BUSN,"110, BUSN 210,",0,
+BUSN,310),0,
+SMGT 210,Principles of Sports Management,0,
+A,study of the expanding field of sports and recreation with a wide-ranging examination of the,0,
+SMGT 212,Coaching Skills: Basketball,0,
+SMGT 310,Sports Marketing and Public Relations,0,
+A,"study of the basic marketing practices, procedures and operations of professional, college and",0,
+SMGT 311,Coaching Skills: Spiritual Development,0,
+SMGT 320,Legal Issues in Sports Management,0,
+A,study of the legal system as applied to professional and amateur sport organizations.  Students,0,
+SMGT 330,Sports in Society,0,
+A,"study of sport as it occurs in and is influenced by social groups, government, religion, and",0,
+SMGT 340,Coaching and Game Management,0,
+A,"study of coaching philosophy, objectives, and style.  Topics will include communication and",0,
+SMGT 395,Sports Management Internship,0,
+PSYC 110,Introductory Psychology,0,
+PSYC 110,or the equivalent.,0,
+PSYC 150,Theories of Psychotherapy,0,
+PSYC 220,Developmental Psychology,0,
+PSYC 230,Marriage and the Family,0,
+PSYC 235,Child and Adolescent Psychology,0,
+PSYC 240,Research in the Behavioral Sciences 1,0,
+MATH,240),0,
+PSYC 241,Research in the Behavioral Sciences 2,0,
+PSYC,240),0,
+PSYC 250/PMIN 250,Basic Counseling Skills,0,
+PSYC,150),0,
+PSYC 251,Grief and Crisis Counseling,0,
+PSYC,150),0,
+PSYC 252,Child Therapy,0,
+PSYC,150),0,
+PSYC 260,Sport Psychology,0,
+PSYC 270,Learning and Memory,0,
+PSYC 272,Cognitive Psychology,0,
+PSYC 275,Motivation and Emotion,0,
+PSYC 280,Personality Psychology,0,
+PSYC 285,Social Psychology,0,
+PSYC 290,Physiological Psychology,0,
+PSYC 292,Sensation and Perception,0,
+PSYC 295,Human Sexuality,0,
+A,Biblical,0,
+PSYC 310,Psychological Testing,0,
+PSYC 350,Abnormal Psychology,0,
+PSYC 352,Addictions and Substance Abuse,0,
+PSYC 353,Addictions & Substance Abuse 1,0,
+PSYC 360,History and Systems of Psychology,0,
+PSYC 370,Applied Psychology,0,
+PSYC 395,Psychology Practicum,0,
+A,field experience available in summer and school year formats focusing on functioning within,0,
+PSYC 480,Psychology and the Bible Seminar,0,
+EDUC 101,Introduction to Teaching,0,
+EDUC 101,during the fall semester. All other education majors will enroll in,0,
+EDUC 101,during the spring semester.,0,
+EDUC 220,Human Development & Learning,0,
+PSYC,110),0,
+EDUC 225,Communication Development & Disorders,0,
+A,focus on communication development of the young child with a particular emphasis on,0,
+EDUC,220),0,
+EDUC 235,Children’s Literature,0,
+A,"survey of the scope and variety of literature written for children, designed to highlight the use",0,
+CEMN 110,or EDUC,0,
+EDUC 240,Instructional Technology,0,
+EDUC 245,Integrating the Arts: Curriculum & Practice for Young Learners,0,
+EDUC,101),0,
+EDUC 250,Teaching Students with Diverse Needs,0,
+A,"survey course in the identification, assessment, and inclusion of children with diverse needs in",0,
+CEMN 110,"or EDUC 101, and EDUC 220.  EDUC 220 may be taken concurrently.)",0,
+EDUC 280,Methods of Teaching,0,
+A,preliminary course that focuses on the practical side of planning and assessment in the,0,
+EDUC,101),0,
+EDUC 305,"Youth Health, Safety & Nutrition",0,
+EDUC 310,Preschool Education Clinical Experience,0,
+A,total of 75 hours of field experience are completed in this course. Participants must be,0,
+EDUC 320,Theory & Practice in Educational Settings,0,
+EDUC,101),0,
+EDUC 350,Social Studies for the Child,0,
+EDUC 355,Mathematics for the Child,0,
+EDUC 360,Foundations of Reading,0,
+EDUC 361,Teaching Adolescent & Young Adult Composition,0,
+AYA,setting will be,0,
+EDUC 362,Teaching Adolescent & Young Adult Literature,0,
+EDUC 365,Science for the Child,0,
+EDUC 370,Phonics & Linguistics,0,
+EDUC 375,Reading Evaluation & Diagnosis,0,
+EDUC 380,"Critical Issues in Education: Connecting Home, School, & Community",0,
+NAEYC,Code of Ethical Conduct and the Bible are utilized as tools for,0,
+EDUC 390,Early Childhood Classroom Management with Clinical Experience,0,
+A,total of 75 hours of field experience are completed in this course. Participants,0,
+EDUC 391,Special Education Classroom Management with Clinical Experience,0,
+A,total of 75 hours of field experience are completed in this course. Participants,0,
+EDUC 392,Music Education Classroom Management with Clinical Experience,0,
+EDUC 393,Middle School & AYA Classroom Management with Clinical Experience,0,
+AYA,education,0,
+AYA,education,0,
+A,total of 75 hours of field,0,
+EDUC 399,Teaching in the Content Areas,0,
+EDUC 400,Clinical Field Experience/ Student Teaching,0,
+EDUC 450,Social Studies in the Middle Grades,0,
+EDUC 455,Mathematics in the Middle Grades,0,
+EDUC 460,Language Arts in the Middle Grades,0,
+EDUC 465,Science in the Middle Grades,0,
+EDUC 490,Teaching & Learning in the Middle Grades,0,
+COMM 110,Introduction to Communication Arts,0,
+COMM 160,Communication Arts Design & Development,0,
+A,survey of theoretical concepts and current trends in computer-aided publishing with emphasis,0,
+COMM,110),0,
+"COMM 210, 211",Student Newspaper,0,
+A,lab course introducing a variety of skills used by those in the communication arts field. The,0,
+ENGL,"110, ENGL 111 or their equivalents. Recommended:",0,
+COMM,"110, COMM 160 or their equivalents)",0,
+COMM 261,Video Production,0,
+A,lab course introducing video production skills. The course provides experience in video,0,
+ENGL,"110,",0,
+ENGL,"111, or their equivalents.  Recommended: COMM 110, COMM 160 or their equivalents)",0,
+COMM 262/MUTC 262,Digital Technology in Worship,0,
+A,lab course providing an overview of theoretical principles and current trends in technologies,0,
+ENGL,"110, ENGL 111 or their equivalents.",0,
+COMM,"110, COMM 160 or their equivalents)",0,
+COMM 264,Website Design & Management,0,
+A,lab course providing an overview of theoretical principles and current trends in designing and,0,
+ENGL,"110, ENGL 111 or their equivalents.  Recommended:",0,
+COMM,"110, COMM 160 or their equivalents)",0,
+COMM 290,Cross-Cultural Communication,0,
+A,study of communication as it is informed and affected by individual and cultural contexts,0,
+ENGL,"110, ENGL 111,",0,
+ENGL,220),0,
+COMM 360/MKTG 360,Internet and Social Media Marketing,0,
+A,study of the basic principles of marketing applied to the growing fields of internet and social,0,
+ENGL,"111, COMM",0,
+BUSN,"230, BUSN 310)",0,
+COMM 370,Public & Internal Communication,0,
+A,survey course designed to equip students for work in three aspects of public relations:,0,
+ENGL,"110, ENGL 111 or their equivalents.  Recommended: COMM 110,",0,
+COMM 160,or their equivalents),0,
+COMM 395,Communication Arts Internship,0,
+ENGL,"110, ENGL 111, COMM 110, COMM 160, or their",0,
+DEAF 100,Ministry with Deaf People,0,
+DEAF 101,Beginning American Sign Language 1,0,
+ASL,"vocabulary,",0,
+DEAF 102,Beginning American Sign Language 2,0,
+A,continuation of DEAF 101 with additional work in each area.,0,
+DEAF,101),0,
+ACT,or,0,
+SAT,or,0,
+ACT,or,0,
+SAT,Basic English,0,
+ACT,or,0,
+SAT,164,0,
+ENGL 011,Basic English,0,
+A,course required of those who test below the acceptable level for ENGL 110. Class sessions,0,
+ENGL 110,College English 1,0,
+A,general composition course enabling students to practice communicating in appropriate and,0,
+ENGL,011),0,
+ENGL 111,College English 2,0,
+A,companion course to ENGL 110 covering additional patterns of development and writing,0,
+A,"major research project forms a part of the requirements. Also, attention is given to",0,
+ENGL 110,or its equivalent),0,
+ENGL,"110, ENGL 111 or their equivalents.",0,
+ENGL 220,Survey of Multicultural Literature,0,
+ENGL,"110, ENGL 111 or their equivalents)",0,
+ENGL 221,Theological Ethics in the Novel,0,
+A,"course that examines the intersection of concepts of God, religious truth, religious community,",0,
+ENGL 222,Introduction to Short Fiction,0,
+ENGL 224,The Literature of C. S. Lewis,0,
+A,brief survey of his life is used to,0,
+ENGL 230,Shakespeare,0,
+A,"study of representative histories, tragedies, and comedies by William Shakespeare.  This",0,
+ENGL 231,Theological Themes in Film,0,
+ENGL 240,Introduction to Poetry,0,
+A,survey course acquainting students with a variety of poetic forms. Special attention is given to,0,
+ENGL 250,Creative Writing: Non-Fiction,0,
+A,survey course examining various types of inspirational and expository writing. Students will,0,
+ENGL 251,"Creative Writing: Poetry, Fiction, and Drama",0,
+A,survey course studying and producing the three basic writing forms mentioned in the course,0,
+ENGL 310,English for Teaching and Editing,0,
+ENGL 321,19th and 20th Century Women Writers,0,
+ENGL 220,or its equivalent),0,
+ENGL 330,Survey of Dramatic Literature,0,
+A,period literature survey,0,
+ENGL 220,or its equivalent),0,
+ENGL 335,Drama Production and Performance,0,
+A,"survey course leading students step by step through the elements of drama production, from",0,
+ENGL 380,Literary Theory and Criticism,0,
+ENGL 220,or its equivalent),0,
+HIST 110,Ancient Near Eastern History,0,
+HIST 120,Classical Greek and Roman History,0,
+HIST 140,US History 1,0,
+A,"survey of United States history from its colonial beginnings to the Civil War, emphasizing",0,
+HIST 141,US History 2,0,
+A,"survey of United States history from the conclusion of the Civil War to the present,",0,
+HIST 145,American Civil War Experience,0,
+HIST 150,Modern World History,0,
+A,"survey of world events, issues, and movement from the Renaissance to the present.  Emphasis",0,
+HIST 220,History of Christianity in the Western World,0,
+A,"survey of Christianity from its origins to the present, placed in the context of western",0,
+HIST 230,History of the Restoration Movement,0,
+A,survey of the Restoration Movement identifying the leading thoughts and figures that have,0,
+HIST 350,Researching History & the Social Sciences,0,
+A,course designed to introduce students of history and the social sciences to the basic skills,0,
+HIST 381,History Study Tour,0,
+HNRS 305,Honors Seminar,0,
+LANG 110,Spanish 1,0,
+LANG 111,Spanish 2,0,
+A,continuation of the study of Spanish language and culture. In addition to working to increase,0,
+LANG 110,or its equivalent),0,
+LANG 210,Spanish 3,0,
+A,course designed to build proficiency in the use of Spanish.  Emphasis is placed on more,0,
+LANG 111,or its,0,
+LANG 211,Spanish 4,0,
+A,course creating an environment in which students communicate in more complex Spanish,0,
+LANG 210,or its equivalent),0,
+LANG 120,French 1,0,
+LANG 121,French 2,0,
+A,continuation of the study of French language and culture. In addition to working to increase,0,
+LANG 120,or its equivalent),0,
+LANG 220,French 3,0,
+A,course designed to build proficiency in the use of French.  Emphasis is placed on more,0,
+LANG 121,or its,0,
+LANG 221,French 4,0,
+A,course creating an environment in which students communicate in more complex French,0,
+LANG 220,or its equivalent),0,
+LANG 130,German 1,0,
+LANG 131,German 2,0,
+A,continuation of the study of German language and culture. In addition to working to increase,0,
+LANG 130,or its equivalent),0,
+LANG 230,German 3,0,
+A,course designed to build proficiency in the use of German.  Emphasis is placed on more,0,
+LANG 131,or its,0,
+LANG 231,German 4,0,
+A,course creating an environment in which students communicate in more complex German,0,
+LANG 230,or its equivalent),0,
+MATH 010,Developmental Math,0,
+MATH,010.,0,
+MATH 110,Problem Solving and Number Systems,0,
+MATH 120,Geometry and Measurement,0,
+MATH 130,Mathematics for Business,0,
+MATH 210,Pre-Calculus,0,
+A,"course covering algebra concepts ranging from polynomial, rational, and exponential functions",0,
+MATH 230,College Algebra,0,
+A,"study of algebraic expressions, equations, inequalities, relations, functions and graphs,",0,
+A,wide range of applications will be included.,0,
+MATH 240,Statistics,0,
+A,"study in the application of statistical analysis, hypothesis testing, and regression analysis in",0,
+PHIL 210,Introduction to Philosophy,0,
+PHIL 220,World Religions,0,
+PHIL 230,Critical Thinking,0,
+A,"basic introduction to the principles and practice of logic, both deductive and inductive,",0,
+PHIL 240,Political Theories,0,
+PHIL 250,Business Ethics,0,
+A,study of the ethical foundations for sound decision making in management with a focus on,0,
+A,special emphasis will be placed on biblical ethics and its influence on managerial,0,
+PHIL 310,Contemporary Philosophy,0,
+PHIL 340,Survey of World Views,0,
+PLAW 100,Introduction to American Government,0,
+A,course designed to give students an analytical perspective on political science in the United,0,
+PLAW 200,Introduction to the Legal System,0,
+PLAW 210,Introduction to Constitutional Law,0,
+PLAW 330,Business Law,0,
+A,"course spanning the broad realm of the most current law in the areas of contract formation,",0,
+PLAW 350,Non-Profit Law,0,
+A,survey course navigating through the varied challenges in operations and government,0,
+NSCI 200,Principles of Scientific Discovery,0,
+NSCI 205,Integrated Science,0,
+A,"study of the techniques and methods that make science unique, with emphasis placed on basic",0,
+NSCI 210,Geology 1,0,
+NSCI 211,Geology 2,0,
+A,study of the work of ice and winds as agents of sculpture on a planet whose crust is affected by,0,
+NSCI 215,Dangerous Earth,0,
+NSCI 220,Biology,0,
+NSCI 230,Chemistry,0,
+NSCI 240,Physics,0,
+SOCI 110,Introductory Sociology,0,
+SOCI 115,Cultural Studies in Public Life,0,
+SOCI 200/BSPT 200,Public Theology,0,
+BSOT,"100, BSNT 100)",0,
+SOCI 210,"People, Places, & Cultures of the World",0,
+A,course designed to get students thinking about the complex and dynamic relationships among,0,
+SOCI 220,Practical Anthropology and Lab,0,
+SOCI 230,Dynamics of World Cities,0,
+A,"survey of the world’s largest cities, factors which lead to growing urbanization, and the",0,
+SOCI 260,Urban Community Development,0,
+SPCH 110,Public Speaking,0,
+SPCH 220,Advanced Communication,0,
+SPCH,110),0,
+PMIN 010,Spiritual Development,0,
+PMIN 110,Introduction to Ministry 1: Calling and Spiritual Formation,0,
+PMIN 111,Introduction to Ministry 2: Practices of Ministry,0,
+PMIN,110),0,
+PMIN 220,Biblical Preaching and Teaching,0,
+SPCH,110),0,
+PMIN 222,Principles and Practices of Teaching Adults,0,
+SPCH,110),0,
+PMIN 250/PSYC 250,Basic Counseling Skills,0,
+PSYC,150),0,
+PMIN 310,Leadership,0,
+PMIN 320,Communication for Leadership,0,
+PMIN 325,Biblical Exposition,0,
+A,"study of the principles and techniques involved in expository preaching and teaching, with",0,
+PMIN,220.),0,
+PMIN 330,Women in Ministry,0,
+PMIN 336,Teams & the Work Process,0,
+PMIN 340,Church Growth and Planting,0,
+A,survey of the principles and strategies necessary for planting and growing churches in the U.S.,0,
+PMIN 345,Strategic Planning & Decision Making,0,
+A,study of the current philosophies and strategies of ministry and non-profit programming.,0,
+PMIN 346,Financial Decision Making,0,
+PMIN 355,Preaching and Teaching from the Old Testament,0,
+A,study of the proper way to responsibly and effectively prepare sermons and lessons from Old,0,
+PMIN,220),0,
+PMIN 358,Leading a Multi-Ethnic Church,0,
+A,focused study of the biblical foundations and best practices in the church's ministry to people,0,
+PMIN 365,Preaching and Teaching from the New Testament,0,
+A,study of the proper ways to responsibly and effectively prepare sermons and lessons from New,0,
+PMIN,220),0,
+PMIN 370,Personal and Church Finance,0,
+PMIN 375,Advanced Preaching: Styles of Preaching,0,
+PMIN,220),0,
+PMIN 395,Ministry Internship,0,
+A,field experience available in summer and school year formats focusing on functioning as a,0,
+PMIN 396,Ministry Practicum,0,
+PMIN 410,Contemporary Issues in Leadership,0,
+A,capstone study of the major issues facing organizational leaders with an emphasis on the,0,
+PMIN 420,Case Studies & Problem Solving,0,
+A,"consideration of various challenges encountered by the vocational minister, including",0,
+PMIN 111,or PMIN 230),0,
+PMIN 442,Principles and Practices of Teaching Adults,0,
+SPCH,110),0,
+BUSN 450,Leading Change,0,
+A,study of the forces that drive organizations to change. The course examines resistance to,0,
+PMIN 494,Teaching Church Ministry Internship 1,0,
+PMIN 495,Teaching Church Ministry Internship 2,0,
+UICS 110,Introduction to Urban and Intercultural Ministry,0,
+A,"hands-on introduction of the essential principles, practices, and philosophies that comprise",0,
+UICS 212,Perspectives on the World Christian Movement,0,
+UICS 260/YMIN 260,Global and Urban/Intercultural Youth Ministry,0,
+UICS 330,Preparing for Intercultural Ministry,0,
+A,study of the personal and practical details involved in going to and working in a cross- cultural,0,
+UICS 341,Urban Ministries Seminar,0,
+A,"seminar course in which students do guided reading, discussion, and application in areas",0,
+UICS 346,Urban/Intercultural Field Study,0,
+A,supervised field experience in the United States or overseas observing urban or cross- cultural,0,
+UICS 350,Non-Profit Leadership,0,
+A,"survey of the knowledge, skills, and behaviors essential to effective leadership of a nonprofit",0,
+UICS 351,Historical Perspectives on the Church’s Global Mission,0,
+A,"survey of the mission work of the church from Paul’s journeys to today including the dates,",0,
+UICS 355,Business as Mission,0,
+UICS 362,Cross-Cultural Evangelism and Discipleship,0,
+A,"study of the factors, which affect evangelistic outreach and discipling efforts in cross- cultural",0,
+UICS 365,Urban & Intercultural Seminar,0,
+UICS 373,Spiritual Warfare,0,
+UICS 375,Cross-Cultural Leadership Development,0,
+UICS 380,Living Cross Culturally,0,
+UICS,330),0,
+UICS 390,BLOC Immersive Field Experience 1,0,
+UICS 391,BLOC Immersive Field Experience 2,0,
+UICS 392,BLOC Immersive Field Experience 3,0,
+UICS 393,BLOC Immersive Filed Experience 4,0,
+UICS 395,Urban & Intercultural Internship,0,
+UICS 455,Seminar in Mission Theology,0,
+A,seminar designed to help students develop a vision for holistic ministry rooted in a biblically,0,
+BSEG,"100, HIST 230, SOCI 220, DOCT 210)",0,
+YMIN 201,Christian Education for Adolescents,0,
+UICS 260,Global and Urban/Intercultural Youth Ministry,0,
+YMIN 301,Methods of Ministry with Children and Adolescents,0,
+CMIN 201,Principles and Practices of Teaching Children,0,
+CMIN 301,Children’s Ministry Organization and Planning,0,
+A,"study of the fundamental components needed to find, design, begin and sustain a children'",0,
+CEMN 110,Foundations of Education,0,
+CEMN 210,Ministry to Families,0,
+MUAP,Applied Music Studies | Performance Techniques,0,
+A,student’s specialty might be a single genre,0,
+MUAP 100,Music Convocation,0,
+A,"weekly meeting of all students who are in a music degree program, whether minors or majors.",0,
+MUAP 110g,Guitar Methods,0,
+MUAP 110p,Keyboard Methods 1,0,
+MUAP 110x,Percussion Methods,0,
+MUAP 110v,Voice Methods 1,0,
+MUAP,121_ Applied Music Elector,0,
+A,thirty-minute lesson each week whose credit does not count toward a worship leadership,0,
+MUAP,151_ or 161_ Applied Music Major,0,
+MUAP,152_ or 162_ Applied Music Major,0,
+MUAP,251_ or 261_ Applied Music Major,0,
+MUAP,252_ or 262_ Applied Music Major,0,
+A,thirty-minute lesson each week plus semi-monthly Convocation attendance. Repertoire is at,0,
+BSMW,degree or declaration as a minor in music,0,
+MUAP,351_ or 361_ Applied Music Major,0,
+A,"thirty-minute lesson each week plus weekly Convocation attendance, with a minimum",0,
+MUAP 390,Worship Event,0,
+MUAP 490,Senior Project,0,
+MUCO,Conducting | Performance Leadership,0,
+MUCO 310,Music Team Leadership,0,
+A,practical course in the organization and techniques of effective team rehearsals and,0,
+MUTH,110),0,
+MUED,Music Education | Pedagogy,0,
+CCU,offerings in music education help to prepare our graduates to teach others in turn to,0,
+MUED 150,Sustainable Music Initiatives,0,
+MUED 250,Music Pedagogy,0,
+A,general survey of the materials and methods of music teaching. Students will receive,0,
+A,survey of methods for teaching proper development of technique and of,0,
+MUEN,Music Ensembles | Collaborative Performance,0,
+W,"requires a minimum number of semesters of large ensembles, as well as specialized ensembles",0,
+MUEN 100v,Vocal Ensemble,0,
+A,select ensemble specializing in a cappella vocal music. The ensemble performs at several,0,
+MUEN 100g,Guitar Ensemble,0,
+MUEN 100h,University Handbell Choir,0,
+MUEN 100i,Pep Band,0,
+MUEN 100j,Jazz Ensemble,0,
+MUEN 100k,Keyboard Ensemble,0,
+MUEN 100w,World Music Worship Ensemble,0,
+MUEN 100x,Percussion Ensemble,0,
+MUEN 110,Worship Ensemble,0,
+MUEN 210,Vocal Ensemble,0,
+MUEN 220,Mixed Instrumental Ensemble,0,
+MUEN 230,Creative Media Collective,0,
+A,non-traditional music ensemble focused on using technology arts in worship. This group exists,0,
+MUEN 110,and MUTC 110 or special permission from the director.),0,
+MUFE,Field Experience | Practical Internship,0,
+W,requires field experience under the supervision of a practitioner. The reason for,0,
+MUFE 300,Supervised Field Experience,0,
+A,"field experience in music ministry, under the supervision of the Director of Service Learning",0,
+MUFE 390,Worship Leadership Internship,0,
+A,"field experience in music ministry, under the supervision of the Director of Service Learning,",0,
+MUHI,Music History and Literature | Musicology,0,
+CCU,receive significant exposure to contemporary musical literature for,0,
+MUHI 110,Music in World Cultures,0,
+MUHI 310,Music History Survey,0,
+A,"survey of the music of Western culture, exploring the development of Western music in depth",0,
+MUHI,110),0,
+MUTC,Music Technology | Digital Media,0,
+MUTC 110,Introduction to Music Technology in Worship,0,
+MUTC 210,Live Sound and Recording,0,
+MUTC 110,or equivalent),0,
+MUTC 262/COMM 262,Digital Technology in Worship,0,
+A,lab course providing an overview of theoretical principles and current trends in technologies,0,
+ENGL,"110, ENGL 111 or their equivalents.",0,
+COMM,"110, COMM 160 or their equivalents)",0,
+MUTC 310,Practical Keyboard Skills,0,
+A,lab course covering practical aspects of keyboard music for the contemporary worship,0,
+MUTC 320,Live Design and Staging,0,
+A,lab course providing hands-on experience in stage design and set building. Also an overview,0,
+MUTC,110),0,
+MUTC 330,Film Scoring and Post-Production Audio,0,
+MUTC 110,or equivalent),0,
+MUTH,Music Theory | Creative Methods,0,
+CCU,"involves a thorough presentation of traditional theory, with emphasis on",0,
+MUTH 010,Foundations of Music Theory,0,
+A,remedial course intended to prepare students to be college-ready in their musicianship skills,0,
+MUTH 110,Practical Theory 1,0,
+A,course designed to introduce practical musicians for the study of functional harmony in music,0,
+"MUTH 010, 011",or equivalent skills),0,
+MUTH 120,Practical Theory 2,0,
+MUTH 110,or equivalent skills.),0,
+MUTH 215,Writing and Arranging for Worship,0,
+MUTH 120,or equivalent),0,
+MUTH 220,Practical Theory 3,0,
+MUTH 120,or equivalent skills),0,
+MUTH 230,Songwriting Workshop,0,
+MUTH 120,or equivalent,0,
+MUWM,Music and Worship | Worship Ministry,0,
+W,contains an,0,
+MUWM 110,Worship Leadership,0,
+MUWM 210,Psalms and Hymns and Spiritual Songs,0,
+A,"survey of worship materials intended for congregational singing. Covers scriptural,",0,
+MUWM,110),0,
+MUWM 310,Leadership & Administration in Arts Ministry,0,
+A,survey of the music program and its relationship to the various ministries of the church with,0,
+MUWM,110),0,
+MUWM 380,Theology of Worship,0,
+A,"course in the Contextual Theology of Worship, with contemporary practical application.",0,
+MUWM,110),0,
+BSGK 510,New Testament Greek 1,0,
+BSGK 511,New Testament Greek 2,0,
+BSGK,510),0,
+BSGK 611–619,Greek Exegesis,0,
+A,study of selected New Testament texts. Emphasis is placed on the process of translation and,0,
+BSGK 510,"& 511 or their equivalents,",0,
+BSGK 510,& 511 from,0,
+BSGK 611,Greek Exegesis: Synoptic Gospels,0,
+BSGK 612,Greek Exegesis: Readings in Johannine Literature,0,
+BSGK 613,Greek Exegesis: Galatians,0,
+BSGK 614,Greek Exegesis: The Pastoral and Prison Epistles,0,
+BSGK 615,Greek Exegesis: Readings in New Testament Ethics,0,
+BSGK 616,Greek Exegesis: Readings in Pauline Theology,0,
+BSGK 619,Greek Exegesis: Selected New Testament Readings,0,
+BSGK 790,Directed Study: Greek Exegesis,0,
+BSHB 510,Biblical Hebrew 1,0,
+BSHB 511,Biblical Hebrew 2,0,
+BSHB,510),0,
+BSHB 611–616,Hebrew Exegesis,0,
+BSHB 510,"& 511 or their equivalents, OR, for students",0,
+BSHB 510,"& 511 from another institution,",0,
+BSHB 611,Hebrew Exegesis: Ruth and Esther,0,
+BSHB 612,Hebrew Exegesis: Amos & Micah,0,
+BSHB 613,Hebrew Exegesis: Selected Texts,0,
+BSHB 614,Hebrew Exegesis: Life of David,0,
+BSHB 615,Hebrew Exegesis: Elijah and Elisha,0,
+BSHB 616,Hebrew Exegesis: Judges,0,
+BSHB 621,Aramaic: Daniel,0,
+A,"study primarily of the Aramaic portion of Daniel, with a view toward its translation and",0,
+BSHB,"510, BSHB 511)",0,
+BSHB 790,Hebrew/ANE Language Directed Study,0,
+BSEG 500,Introduction to Biblical Studies,0,
+BSEG 510,Introduction to Biblical Interpretation,0,
+A,"survey of methods of Biblical exegesis, with a view to the needs of practical ministry. This",0,
+BSEG 521,eTools for Biblical Languages and Research,0,
+BSEG 510,or equivalent),0,
+BSEG 600,Issues in Biblical Interpretation,0,
+A,"survey of historical and contemporary trends in the field of Biblical studies, exploring",0,
+BSEG 510,or equivalent.,0,
+BSEG 680,Bible in Contemporary Culture 3 hours),0,
+A,study of the way the Bible is used in contemporary culture and its impact upon social norms,0,
+BSEG 790,Directed Study in Biblical Interpretation,0,
+BSOT 500,Old Testament Foundations,0,
+OT,studies.,0,
+BSOT 600,Issues in Old Testament Criticism,0,
+A,survey of critical issues relating to the interpretation of the Old Testament.,0,
+BSOT 641,Genesis,0,
+A,study of the historical background and critical problems relating to this book followed by,0,
+BSOT 642,Exodus,0,
+A,"study of the historical background and critical problems relating to this book, followed by",0,
+BSOT 645,Deuteronomy,0,
+A,"study of the historical background and critical problems relating to this book, followed by",0,
+BSOT,650-653 History of Israel,0,
+A,survey of sources and contexts used in the study of the history of Israel. Emphasis is placed on,0,
+BSOT 650/BSCS 650,History of Israel: Period of Origins,0,
+BSOT 651/BSCS 651,History of Israel: The Monarchy,0,
+BSOT 652/BSCS 652,History of Israel: The Exile and the End of an Era,0,
+BSOT,653/BSNT 653/BSCS 653 History of Israel: The Intertestamental Period,0,
+BSOT 661,Isaiah,0,
+A,"study of the historical background and critical problems relating to this book, followed by",0,
+BSOT 662,Jeremiah,0,
+A,"study of the historical background and critical problems relating to this book, followed by",0,
+BSOT 663,Ezekiel,0,
+A,"study of the historical background and critical problems relating to this book, followed by",0,
+BSOT 664,Daniel,0,
+A,"study of the historical background and critical problems relating to this book, followed by",0,
+BSOT 665,Minor Prophets,0,
+A,study of the dynamic of Old Testament prophetism and resultant literature. Analysis is given,0,
+BSOT 671,Job & Lamentations,0,
+A,"study of the historical background and critical problems related to these books, followed by",0,
+BSOT 672,Psalms,0,
+BSOT 680,Seminars in Old Testament Studies,0,
+A,focused study offered according to the expertise of instructors and interests of students. May,0,
+BSOT 790,Directed Study in Old Testament,0,
+BSOT 799,Thesis in Old Testament Studies,0,
+BSNT 500,New Testament Foundations,0,
+NT,studies. This course or the equivalent is a,0,
+BSNT,courses.,0,
+BSNT 520,Life & Teachings of Jesus,0,
+A,"study of Jesus’ teaching against the background of his life and death, focusing on critical and",0,
+BSNT 530,Life & Teaching of Paul,0,
+A,presentation of the framework for how Paul produces his letters and the teaching therein,0,
+BSNT 600,Issues in New Testament Criticism,0,
+A,"survey of critical issues, relating to the interpretation of the New Testament.",0,
+BSNT 620,Issues in the Synoptic Gospels,0,
+A,"study of selected issues, arising from the critical study of the Synoptic Gospels and the",0,
+BSNT 631,Romans,0,
+BSNT 632,Corinthian Letters,0,
+A,study of 1 & 2 Corinthians that emphasizes their socio-historical situations in the context of,0,
+BSNT 635,Prison Epistles,0,
+BSNT 636,Thessalonian Epistles,0,
+BSNT 638/PMIN 648,Pastoral Epistles,0,
+BSNT 642,Epistle to the Hebrews,0,
+BSNT 643,Petrine Epistles & Jude,0,
+BSNT 645,Book of Revelation,0,
+BSNT 650,Issues in Acts,0,
+A,seminar course focusing on critical and theological issues in Acts with a view toward the,0,
+BSNT 653/BSOT 653,History of Israel: The Intertestamental Period,0,
+A,survey of sources and contexts used in the study of the history of Israel. Emphasis is placed on,0,
+BSNT 654,History of Israel: Late 2nd Temple Judaism,0,
+A,"survey and analysis of social, political, religious and ideological issues in late second temple",0,
+BSNT 655,Christianity and the Greco-Roman Period,0,
+A,"survey and analysis of social, religious, ethical and philosophical issues in the Greco-Roman",0,
+BSNT 660,Johannine Literature,0,
+BSNT 680,Seminars in New Testament Studies,0,
+A,focused study offered according to the expertise of instructors and interests of students. May,0,
+BSNT 790,Directed Study in New Testament Studies,0,
+BSNT 799,Thesis in New Testament Studies,0,
+BSTH 510,Contemporary Culture in Theological Perspective,0,
+BSTH 520,Contemporary Approaches to Theology,0,
+A,survey of significant,0,
+HIST 530,History of the Restoration Movement,0,
+A,"study of the background, inauguration, and development of the Stone-Campbell movement,",0,
+HIST 560,Early Church History,0,
+A,"study of the history of the early church in the first six centuries, carrying the story down to the",0,
+HIST 570,The Protestant Reformation,0,
+A,"study of the church from 1500 to 1650, with special attention both to the major reformers and",0,
+PMIN 501,Introduction to Vocational Ministry,0,
+PMIN 502,Spiritual Formation,0,
+A,course designed to help students recognize the importance of a disciplined Christian life.,0,
+PMIN 505,Current Trends in Worship,0,
+A,practical survey of major trends in the public worship assemblies of today. Worship is,0,
+PMIN 510,Cultural Frameworks of Ministry,0,
+PMIN 515,Leadership and Management for Ministry,0,
+PMIN 521,Theology of Pastoral Care and Counseling,0,
+A,study of the Biblical and theological foundation for pastoral care and counseling. Discussions,0,
+PMIN 540,Leadership and Management for Ministry,0,
+PMIN 560,Characteristics of a Healthy Church,0,
+PMIN 561,Biblical and Contemporary Dynamics of Church Development,0,
+PMIN 574,Assimilation and Involvement of Members,0,
+PMIN 593,Extra-Curricular Learning Experience,0,
+PMIN 631,Pastoral Care and Communication,0,
+A,great deal of a minister’s,0,
+PMIN 648/BSNT 638,Pastoral Epistles,0,
+PMIN 790,Directed Study in Professional Ministries,0,
+PMIN,792/793 SLE/SME,0,
+A,student may observe,0,
+MAC,students,0,
+COUN 500,Foundations of Mental Health Counseling,0,
+COUN 502,Spirituality & Counseling,0,
+COUN 510,Counseling Theories and Methods,0,
+A,survey of contemporary counseling theories and techniques. Topics covered will include the,0,
+COUN 511,Diagnosis of Mental and Emotional Disorders,0,
+COUN 512,Ethical and Professional Issues in Counseling,0,
+A,"review of ethical and legal considerations in professional counseling, which includes an",0,
+COUN 515,Human & Family Development,0,
+COUN 518,Theological Foundations & Counseling,0,
+COUN 534,Pre-Marital Counseling,0,
+COUN 561,Group Counseling,0,
+COUN 570,Career Counseling,0,
+COUN 575,Social & Cultural Foundations,0,
+COUN 580,Counseling Assessment,0,
+COUN 582,Counseling Techniques,0,
+COUN 592,Counseling Practicum,0,
+COUN 593,Advanced Counseling Practicum,0,
+COUN,594: Practicum III,0,
+COUN 595,Substance Abuse Counseling,0,
+COUN 597,Psychopharmacology for Counselors,0,
+COUN 598,Substance Abuse Prevention Strategies,0,
+COUN 599,Marriage & Family Counseling,0,
+COUN 618,Applications of Christian Counseling,0,
+COUN 620,Theory and Techniques in Marriage and Family Counseling,0,
+COUN 622,Women's Issues in Counseling,0,
+COUN 624,Crisis and Grief Counseling,0,
+COUN 628,Solution Focused/Brief Counseling,0,
+COUN,510.),0,
+COUN 632,Addictions and Compulsive Behavior Counseling,0,
+COUN 633,Advanced Substance Abuse Counseling,0,
+COUN,595.),0,
+COUN 634,Counseling Children: Play Therapy Techniques,0,
+COUN 636,Counseling Adolescents,0,
+A,didactic and experiential seminar focusing on intrapersonal dynamics of adolescents,0,
+COUN 640,Human Sexuality,0,
+COUN 642,Supervision of Counselors,0,
+COUN 645,Existential Theories in Counseling,0,
+COUN,648: Advanced Individual Practicum,0,
+COUN 650,Research and Program Evaluation in Counseling,0,
+COUN 653,Addictions & Substance Abuse 1,0,
+COUN 654,Addictions & Substance Abuse 2,0,
+COUN,653),0,
+COUN 680,Evaluation of Mental and Emotional Status,0,
+COUN 511,and COUN 580.),0,
+COUN 711,Treatment of Psychopathology,0,
+COUN,511.),0,
+COUN 750,Special Topics in Counseling,0,
+COUN 792,Internship I,0,
+COUN 793,Internship II,0,
+COUN 794,Advanced Internship III,0,
+COUN 800,Comprehensive Review & Examination,0,
