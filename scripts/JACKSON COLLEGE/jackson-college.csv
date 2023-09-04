@@ -1,4 +1,4 @@
-Course Code,Course Title,Credit Hours,Description
+Code,Title,Hours,Description
 ACC 131,INTRODUCTORY ACCOUNTING FOR NON-MAJORS,4,"
 This course is designed for the business professional who must have an understanding of financial and 
 managerial accounting as it is used in decision making. This course is not for transfer students seeking a 
@@ -43,7 +43,7 @@ processes, nature and content of the balance sheet and income statement, present
 application, currently applicable Generally Accepted Accounting Principles (GAAP) and recent Financial 
 Accounting Standards Board (FASB) pronouncements. 
 115  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 Prerequisite: ACC 231 
  "
@@ -96,7 +96,7 @@ Prerequisites: CEM 141 or NSC 120
  "
 AGT 209,PRECISION FARMING,3,"
 116  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 Precision agriculture is farming management based on information and technology. It is site specific 
 farming based on data related to soil, crops, moisture, pests and other environmental factors. The 
@@ -139,7 +139,7 @@ Prerequisite: Instructor permission required
 ……………………………………… 
  
 117  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 ALTERNATIVE ENERGY (ALT) 
  "
@@ -192,7 +192,7 @@ ALT 270,ALTERNATIVE FUELS,3,"(Same as AUT 160)
 This course is an overview of alternative fuels used in automobiles and light trucks. Students learn about 
 various alternate fuels, their effect on exhaust emissions, their effect on the environment, the economic 
 118  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 impact of alternate fuels and how they contribute to the reduction of importing foreign oil. Topics include 
 hydrogen, fuel cells, natural gas (CNG & LNG), propane (LP gas), ethanol, methanol and biodiesel. 
@@ -235,12 +235,17 @@ ART 112,ART HISTORY: RENAISSANCE TO PRESENT,3,"
 This course is a survey of art history and aesthetics covering art from the Renaissance through the  
 21st century. 
  "
+ART 112A,ART HISTORY: RENAISSANCE TO PRESENT,3,"
+This course is a survey of art history and aesthetics covering art from the Renaissance through the  
+21st century. 
+Corequisite: ENG 086* 
+ "
 ART 121,CERAMICS I: FOUNDATIONS,3,"
 A general overview of ceramics that focuses on a variety of hand building techniques as well as wheelwork 
 and finishes. 
  
 119  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  "
 ART 122,CERAMICS II: WHEEL & CERAMIC SCULPTURE,3,"
 This course allows the advanced students an opportunity for further work on wheel-produced production 
@@ -292,7 +297,7 @@ Prerequisite: ART 137 or CIS 137
  "
 ART 252,PAINTING I: DESIGN & COLOR,3,"
 120  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 Student work will primarily involve paintings from a nude model in a studio setting. Students extend 
 previous learning by solving problems dealing with complex compositional and color painting in a variety 
@@ -345,7 +350,7 @@ Biology 162 is the second semester of a one-year general biology experience inte
 or pre-professional students. This course covers the chemical basis of life, cell structure and function, 
 photosynthesis and cellular respiration, molecular and Mendelian genetics, cell division, gene regulation 
 121  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 and biotechnology. It provides the foundation for upper-level biology courses. This course includes a 
 laboratory component. Successful completion of BIO 161 is recommended prior to enrollment. 
@@ -397,7 +402,7 @@ This course offers students an overview of today’s modern business and the con
 managers and leaders to promote the success of today’s dynamic workplace. Concepts include the 
 economic environment, business ventures, management, leadership, human resource management, 
 122  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 marketing, business law and finance. This course will offer each student the opportunity to explore their 
 new skills as they identify their own business ideas. 
@@ -450,7 +455,7 @@ strategic management, competition and competitive advantage, developing strategi
 implementing strategies. 
  
 123  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  "
 BUA 220,PRINCIPLES OF MANAGEMENT,3,"
 This management course exposes students to the dynamics of the changing world. Topics such as 
@@ -494,6 +499,19 @@ BUA 250,BUSINESS LAW I,3,"
 This course offers an introduction to law and the legal system, dispute resolution and courts, business 
 ethics, torts, contracts, sales and leases of goods, and negotiable instruments. 
 Prerequisite: CIS 095* 
+ "
+BUA 255P,BUSINESS ADMINISTRATION CAPSTONE,3,"
+This course is a capstone seminar for business majors. The goal of the course is to apply and synthesize 
+allprevious business course learning to manage organizations strategically. It will address the causes of an 
+organization’s success or failure. It will require students to examine all functions of an organization and 
+harmonize prior learning from other business courses. The capstone allows students to integrate and 
+apply knowledge from their academic studies through the comprehensive evaluation of the core 
+124  •   
+ 
+ 
+curriculum of accounting, economics, marketing, management, human resources, and other learned 
+fields. 
+Prerequisite: BUA 220, BUA 230, BUA 250 
  "
 BUA 420,PROJECT MANAGEMENT AND LEADERSHIP,3,"
 Students will experience and complete the entire project management process, from start to finish. Each 
@@ -541,7 +559,7 @@ Students will also review the tools of trade, safety practices, a basic introduc
 heating and air conditioning equipment, heat transfer, psychometrics and air quality. 
  
 125  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  "
 CCT 160,FUNDAMENTALS OF ENERGY EFFICIENCY,2,"(Same as ALT 210) 
 This course will explore the fundamentals of designing and maintaining an energy efficient building to 
@@ -594,7 +612,7 @@ CEM 142,GENERAL CHEMISTRY II,5,"
 This course is the second semester of general chemistry and extends material covered in CEM 141. 
 Covered concepts include chemical thermodynamics, electrochemical reactions, reaction kinetics,        
 126  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 acid-base theories, nuclear chemistry, and aqueous solutions with emphasis on equilibrium. Experiments 
 include quantitative methods, stoichiometry, colorimetry and gravimetric analysis. The course includes a 
@@ -649,7 +667,7 @@ multiple day events, establish a “contacts” database, keep journals, notes a
 prioritizing jobs. This is an optional component of the Microsoft Office User Specialist Expert certification 
 tests. Typing ability necessary to be successful in this course. 
 127  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  "
 CIS 119,MICROSOFT POWERPOINT - WINDOWS,2,"
 Students will learn how to create electronic presentations using design templates, slide layouts, the 
@@ -702,7 +720,7 @@ CIS 131,METHODS IN 3-D PROTOTYPING,1,"
 Students propose concept development and build three-dimensional product mock-ups. Dexterity, 
 craftsmanship and implementation using innovative logistical methods are practiced and delivered. 
 128  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
  "
 CIS 132,GRAPHIC ILLUSTRATION (ADOBE® ILLUSTRATOR®),3,"
@@ -755,7 +773,7 @@ You will learn how to use the latest techniques, best practices, and current web
 HTML5, CSS#, and JavaScript. 
  
 129  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  "
 CIS 158,PROGRAMMING LOGIC,3,"
 Students explore the development of logic and theory for writing business programs that control             
@@ -807,7 +825,7 @@ Prerequisite: CIS 134
  "
 CIS 188,PRINT PRODUCTION,3,"
 130  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 This course introduces students to technologies and techniques involved with the printing process. 
 Concepts behind the printing press, ink, and color are addressed and methods are applied. 
@@ -860,7 +878,7 @@ CIS 237,DIGITAL PHOTOGRAPHY II,3,"(Same as ART 237)
 This course provides the opportunity to refine and extend the skills of photographic seeing. Personal skills 
 in digital photography will be used to explore a complete body of work. Students will be using Photoshop® 
 131  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 CS5 to edit and explore their creative outlets further. Students’ individual personal goals will be set and 
 executed during the semester. 
@@ -913,7 +931,7 @@ Prerequisites: CIS 134 and CIS 274
  
 COMMUNICATIONS (COM) 
 132  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
  "
 COM 231,COMMUNICATION FUNDAMENTALS,3,"
@@ -921,6 +939,13 @@ Students will learn the basic principles of speech communication including speec
 delivery, interpersonal message, non-verbal messages, and small group dynamics. The course is designed 
 to prepare students to be effective communicators in a diverse global society. Student speeches will be 
 evaluated for effectiveness. 
+ "
+COM 231A,COMMUNICATION FUNDAMENTALS,3,"
+Students will learn the basic principles of speech communication including speech development and 
+delivery, interpersonal message, non-verbal messages, and small group dynamics. The course is designed 
+to prepare students to be effective communicators in a diverse global society. Student speeches will be 
+evaluated for effectiveness. 
+Corequisite: ENG 086 
  "
 COM 233,ARGUMENTATION & DEBATE,3,"
 Students are provided theory and practice in debate, emphasizing principles of research, logical reasoning, 
@@ -959,7 +984,7 @@ Jackson College.
  "
 COM 260,SMALL GROUP COMMUNICATION,3,"
 133  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 In this course, students will examine small group communication theories and processes by observing and 
 participating in group activities. As group members, students will apply communication theory to enhance 
@@ -1012,7 +1037,7 @@ that helps students prepare for the Cisco Certified Network Associate (CCNA) Rou
 certification. 
 Prerequisite: CNS 106 
 134  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
  "
 CNS 121,MICROSOFT NETWORKING CLIENT I,3,"
@@ -1067,7 +1092,7 @@ CNS 132,LINUX ADMINISTRATION II,3,"
 In this course, the student will learn how to implement, configure and troubleshoot Linux, particularly as a 
 network server. The student will configure Linux to provide DNS, DHCP, as a firewall and basic routing 
 135  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 functions. The student will set up and secure the Apache web service and set up Linux to provide e-mail 
 service. They will also set up Linux to interoperate within a Microsoft Active Directory environment. 
@@ -1121,7 +1146,7 @@ hackers can compromise computers and computer networks, you will learn how to id
 incident has happened, how to respond in a comprehensive manner, and what steps to take to protect 
 yourself in the future. 
 136  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 Prerequisite: CNS 131  
  "
@@ -1174,7 +1199,7 @@ This course provides a comprehensive understanding of the various storage infras
 data center environments. It enables participants to make informed decisions on storage-related 
 technologies in an increasingly complex IT environment, which is fast changing with the adoption of 
 137  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 software-defined infrastructure management and third platform technologies (cloud, Big Data, social, and 
 mobile technologies). Participants will learn about storage networking technologies such as FC SAN, IP 
@@ -1227,7 +1252,7 @@ evidence and taught in a laboratory setting.
 CRJ 114,POLICE ADMINISTRATION & OPERATIONS,3,"
 Administration and operation of a police department including line/staff activities are explored. 
 138  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
  "
 CRJ 117,CRIMINOLOGY,3,"(Same as SOC 117) 
@@ -1280,7 +1305,7 @@ Prerequisite: DAN 121 or HPF 221
  
 ……………………………………… 
 139  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
  
 DENTAL HYGIENE (DHY) 
@@ -1333,7 +1358,7 @@ Prerequisites: DHY 101, DHY 102, DHY 104, DHY 105 and DHY 113
  "
 DHY 112,CLINICAL DENTAL HYGIENE I,2,"
 140  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 The principles, protocols and components of dental hygiene process of care are introduced in this clinical 
 setting emphasizing patient care. The development of skills includes ultrasonic instrumentation, case 
@@ -1386,7 +1411,7 @@ DHY 202,CLINICAL DENTAL HYGIENE III,3,"
 The principles, protocols and components of dental hygiene process of care are continued in this clinical 
 setting emphasizing patient care. The continued advancement of skills includes non-surgical periodontal 
 141  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 treatment, ultrasonic instrumentation, case management, treatment planning and dental hygiene 
 prevention services.  
@@ -1440,7 +1465,7 @@ Prerequisites: DHY 114, DHY 201, DHY 203, DHY 204 and DHY 205
 ……………………………………… 
  
 142  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 DIAGNOSTIC MEDICAL SONOGRAPHY (DMS) 
  "
@@ -1493,7 +1518,7 @@ relate to the on-site work experience. Students will learn basic cross-sectional
 beginning sonographic scanning of the arterial and venous systems, of the extremities, neck and 
 abdomen. 
 143  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
  "
 DMS 108,ESSENTIALS OF SONOGRAPHY,3,"
@@ -1546,7 +1571,7 @@ In this course, students will attend a supervised clinical experience in an appr
 center. This course provides hands-on experience in intermediate level cardiac imaging and use of 
 cardiovascular equations. Successful completion of scanning proficiencies is required to remain in the 
 144  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 program. This course is the second in a series of three clinical courses that has the final objective of 
 independent performance and evaluation of the adult echocardiogram. 
@@ -1599,7 +1624,7 @@ pelvis in the adult and pediatric patient, and the gravid uterus. The class give
 pathological changes of specific, non-specific diseases, and trauma as they relate to sonographic 
 interpretation of the pelvis and gravid uterus. Mastery level achievement is encouraged and expected. 
 145  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
  "
 DMS 202,"BASIC CARDIOVASCULAR PRINCIPLES, HEMODYNAMICS AND DOPPLER WAVEFORMS",3,"
@@ -1651,7 +1676,7 @@ taking strategies, answer contextual style questions, and build a deeper underst
 venous vascular system, disease processes, pathology and pathophysiology. The interactive 
 comprehensive-progressive learning plan is created for various learning styles and is designed to prepare 
 146  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 students for the rigors and endurance needed to complete the registry exam. The content on the course 
 follows the American Registry of Diagnostic Medical Sonography (ARDMS) application and testing outlines. 
@@ -1704,7 +1729,7 @@ required to graduate from the program. This clinical course is the final course 
 the final objective to be met is successful, independent performance and evaluation of the complete adult 
 echocardiogram. 
 147  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 Prerequisite: DMS 148 
 Corequisite: DMS 240 
@@ -1756,7 +1781,7 @@ Prerequisite: CIS 095*
 ECONOMICS (ECN) 
  
 148  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  "
 ECN 231,MACROECONOMICS,3,"
 This course covers macroeconomics and explains the operation of free markets, the role of government in 
@@ -1808,7 +1833,7 @@ Energy Industry Fundamentals (EIF) provides a broad understanding of the electri
 industry and the generation, transmission, and distribution infrastructure, commonly called the “largest 
 machine in the world,” which forms the backbone for the industry. The course includes business models, 
 149  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 regulations, types of energy and their conversion to usable energy such as electric power, emergent 
 technologies, and the connection to careers in the energy industry. An ANSI-accredited EIF Certificate will 
@@ -1848,7 +1873,7 @@ Prerequisites: EGY 101, ALT 200, and PHY 231 or PHY 251
  "
 EGY 499,SENIOR SEMINAR,3,"
 150  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 This course is the capstone experience for the Bachelor of Science in Energy Systems Management degree. 
 The course centers around an energy-related capstone project, which may be community-based,   
@@ -1901,7 +1926,7 @@ topics such as business, psychology, nutrition, medicine, literature and sociolo
 are emphasized for future success in college-level courses. 
  
 151  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  "
 ELI 043,PRE-ADVANCED WRITING,4,"
 Level 4 writing is the introduction to academic essays. Students will first review the structure of a 
@@ -1954,7 +1979,7 @@ Prerequisite: MAT 040* or higher
  "
 ELT 126,CIRCUIT ANALYSIS II,4,"
 152  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 A study of alternating electrical current is presented. Topics include AC measurements, resistance, 
 inductance and capacitance in AC circuits. 
@@ -2008,7 +2033,7 @@ off-grid/grid-connected systems. Labs include hands-on activities with solar pan
 equipment. Prior electrical skills and knowledge are required to be successful in this course. 
 Prerequisites: ELT 120 and ELT 151 
 153  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
  "
 ELT 215,ELECTRICAL TROUBLESHOOTING,2,"
@@ -2062,7 +2087,7 @@ scenario-based education and computer=based testing and scenarios to reinforce s
 these areas.  
 Corequisite: EMS 1160.   
 154  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
  "
 EMS 123,EMT BASIC TECHNOLOGY,12,"
@@ -2114,7 +2139,7 @@ ENG 091,INTRODUCTION TO COLLEGE WRITING,3,"
 This is an intensive course to give students a strong foundation for the work of English 131. Students 
 explore genres in order to meet the expectations of audiences for a variety of purposes. A personal 
 155  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 approach helps students enhance their writing abilities, resolve writing problems, and explore writing 
 strategies. An end-of-the-semester portfolio is required. 
@@ -2124,6 +2149,12 @@ ENG 131,WRITING EXPERIENCE I,3,"
 This is an intensive writing course. Narrative and descriptive modes are stressed. Basic research strategies 
 are introduced. An end-of-the-semester portfolio is required. 
 Prerequisites: ENG 086* and ENG 091* 
+ "
+ENG 131A,WRITING EXPERIENCE I,3,"(Same as ENG 131) 
+This is an intensive writing course. Narrative and descriptive modes are stressed. Basic research strategies 
+are introduced. An end-of-the-semester portfolio is required. 
+Prerequisite: ENG 086* 
+Corequisite: ENG 091 
  "
 ENG 132,WRITING EXPERIENCE II,3,"
 This is an intensive writing course. Analytical and persuasive modes are stressed. Advanced research 
@@ -2162,7 +2193,7 @@ This course is an inquiry into historical and changing role of sports in America
 essays, biographies, films, documentaries and sports-related poetry. 
 Prerequisite: ENG 131 
 156  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
  "
 ENG 246,SHORT STORY & NOVEL,3,"
@@ -2214,7 +2245,7 @@ ENG 261,CREATIVE WRITING I,3,"
 Students experiment with writing poetry, fiction, drama and creative nonfiction for discussion and 
 criticism. Students invent, collaborate and revise before submitting a portfolio of their work. 
 157  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 Contemporary readings and visiting authors/videos enhance the class, but primary attention is given to 
 students’ creative writing process. 
@@ -2268,7 +2299,7 @@ supervising faculty member.
 Prerequisite: Instructor Permission Required 
  
 158  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 ……………………………………… 
  
@@ -2320,7 +2351,7 @@ exercises are utilized to support the concepts. The course includes a laboratory
 GEOGRAPHY (GEO) 
  
 159  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  "
 GEO 131,PHYSICAL GEOGRAPHY,3,"
 The course begins with maps and grid systems. Map exercises are used all semester to enhance the 
@@ -2373,7 +2404,7 @@ Reformation. The course also surveys the social, philosophical, scientific, arti
 setting evolution with emphasis on the role of ideas and their consequences in the history of the 
 humankind from the beginning to the 16th century. 
 160  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
  "
 HIS 132,WESTERN CIVILIZATION 1555 TO PRESENT,4,"
@@ -2425,7 +2456,7 @@ also include extensive instruction on cardiovascular pharmacology.
  "
 HOC 140,PHARMACY TECHNICIAN CONCEPTS & CALCULATIONS,4,"
 161  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 This course applies mathematics in the calculations required for determination of proper dosages, 
 conversion operations, as well as in preparation of parenteral solutions for injections, IVs, etc. Detailed 
@@ -2477,7 +2508,7 @@ HPF 143,YOGA II,1,"
 Participants develop yoga as a practice to facilitate lifelong skills, enhancing physical, emotional and 
 intellectual strength, flexibility and power. The course emphasizes conscious awareness and internal focus 
 162  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 through asana practice, body alignment, breathing techniques, relaxation and beginning meditation. 
 Students are required to bring their own yoga mat. Prerequisite: HPF 119 
@@ -2531,7 +2562,7 @@ Prerequisite: HPF 168 or HPF 186
  "
 HPF 277,STRESS MANAGEMENT,2,"
 163  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 Examine current information and techniques related to stress management. Students learn basic concepts 
 and skills related to the holistic management of stress. 
@@ -2584,7 +2615,7 @@ Corequisite: MAT 133A
  "
 MAT 039,BEGINNING ALGEBRA,4,"
 164  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 Students will build algebraic skills working with expressions and linear and quadratic equations. The 
 course particularly emphasizes graphs and equations of lines, factoring techniques, methods of solving 
@@ -2618,6 +2649,15 @@ recommends the course placement exam be taken or the prerequisite be retaken to 
 the student. 
 Prerequisite: MAT 033* or MAT 130* or higher 
  "
+MAT 133A,INTRODUCTION TO PROBABILITY & STATISTICS,4,"(Same as MAT 133) 
+This course is an introduction to experimental design, data representation, basic descriptive statistics, 
+probability theorems, frequency distributions and functions, binomial and normal probability distributions 
+and functions, probability density functions, hypothesis testing, statistical inference, Chi-square analysis, 
+linear regression, correlation and application of the above in making informed, data-driven decisions in 
+real-world contexts. Both graphing calculators and computer-based statistical software (Microsoft Excel) 
+will be used. This course is offered only as a co-requisite to MAT 033. 
+Corequisite: MAT 033 
+ "
 MAT 135,FINITE MATHEMATICS,4,"
 This course is for students whose programs do not require trigonometry (or the calculus sequence). The 
 topics included are linear, exponential, quadratic, polynomial and logarithmic functions and models: 
@@ -2628,11 +2668,18 @@ prerequisite not to be more than two years old. If the prerequisite is more than
 recommendation is the course placement assessment be taken or the prerequisite be retaken to ensure 
 the success of the student. 
 165  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 Prerequisite: MAT 039* 
  "
 MAT 139,COLLEGE ALGEBRA,4,"
+Algebraic functions, graphs and models are addressed. Emphasis is placed on the following function types: 
+polynomial, exponential, logarithmic, rational and radical. In all topic areas, covered content includes 
+simplifying expressions, solving equations, graphing using transformations, mathematical modeling and 
+problem solving. 
+Prerequisite: MAT 039*  
+ "
+MAT 139A,COLLEGE ALGEBRA,4,"
 Algebraic functions, graphs and models are addressed. Emphasis is placed on the following function types: 
 polynomial, exponential, logarithmic, rational and radical. In all topic areas, covered content includes 
 simplifying expressions, solving equations, graphing using transformations, mathematical modeling and 
@@ -2674,7 +2721,7 @@ This course provides background material for students preparing to teach at the 
 emphasizes the structure and properties of the number system. It also covers concepts, models in 
 algorithms for whole numbers, integers, fractions, decimals and percents. Some additional hours of on-
 166  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 site field work may be required. The mathematics department recommends that the prerequisite not be 
 more than two years old. If the prerequisite is more than two years old the recommendation is the course 
@@ -2727,7 +2774,7 @@ Prerequisite: MFG 105
  "
 MFG 131,PRODUCTION SAFETY,4,"
 167  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 This course will guide students through an introduction to safety and effective communications in a 
 manufacturing and production environment. This is a first course in a four-course series. (Course 1 of 4). 
@@ -2770,7 +2817,7 @@ MFG 166,PRECISION MACHINING METHODS,2,"
 This course instructs students in machine tool principles and practices used in industry. Safety, 
 terminology, material milling, lathe, grinding, drilling, basic CNC, measurement and various shop 
 168  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 procedures are used to complete projects. A working knowledge of hand and machine tools is achieved 
 through a series of lectures, demonstrations and hands-on projects. 
@@ -2822,7 +2869,7 @@ MFG 203,ADVANCED CAM PROGRAMMING,3,"
 This is the final course in a three course CNC/CAD/CAM sequence. Students will design parts with complex 
 geometry and learn to use CAM software to program tool paths and account for different types of tooling. 
 169  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 Students will use fixtures to create parts and will learn to check completed parts to ensure they meet 
 quality standards.  
@@ -2875,7 +2922,7 @@ schedules, encounter forms, charge capturing, billing process, reimbursement pro
 and collections. Computer laboratory work with billing software is included. 
 Prerequisite: CIS 095* 
 170  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
   "
 MIC 211,ADVANCED CODING,3,"
@@ -2928,7 +2975,7 @@ This course provides students with an introduction to the medical assistant prof
 clinical skills such as aseptic techniques and hand washing, OSHA & blood borne pathogen training, vitals, 
 patient communication, preparing for clinical procedures, and the top 50 prescribed drugs. 
 171  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 Prerequisites: MED 125 and MED 120/MOA 120 
  "
@@ -2982,7 +3029,7 @@ licensed health care practitioner’s office or clinic. The student will perform
 medical assisting while being supervised and evaluated by the office staff and monitored by the instructor. 
 The student will also complete assignments via the virtual classroom. 
 172  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 Prerequisite: MED-225 and MED 235 
  "
@@ -3035,7 +3082,7 @@ Sequence of Voice Class, MUS 123. Class continues the development of vocal techn
 performance. May be taken two times for credit. 
 Prerequisite: MUS 123 
 173  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
  "
 MUS 126,CONCERT CHOIR,2,"
@@ -3087,7 +3134,7 @@ MUS 167,APPLIED MUSIC,1,"
 Private lessons taken for one credit, designed for music transfer students on secondary instruments, or 
 recreational players looking to further their instrumental or vocal skills. Each face-to-face lesson will be 40 
 174  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 minutes, once per week, will include extra outside work, and require an end-of-semester recital 
 performance combined with other private lesson students. 
@@ -3140,7 +3187,7 @@ This course is designed for students in the agricultural science degree program.
 important concepts in biology and chemistry. Chemistry topics include atomic structure, energy, and acid 
 and base chemistry. Biology concepts include cellular structure and energy production, biotechnology, 
 175  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 evolution and ecology. These concepts will be expanded and applied in later courses in the program. The 
 course includes a lab component. 
@@ -3163,6 +3210,17 @@ An interdisciplinary science course that examines fundamental concepts in physic
 and geology. Students deconstruct historically famous experiments in order to understand the scientific 
 theories and methodologies as well as the nature of science itself.   
  "
+NSC 141L,SCIENTIFIC INQUIRY LAB,1,"
+A hands-on investigative science laboratory course for non-science majors that emphasizes critical 
+thinking and evidence evaluating skills. Students first explore the nature of science and the scientific 
+method, and then apply these principles to design, conduct, and interpret basic scientific research 
+experiments in physics, chemistry, biology and geology. 
+Corequisite: NSC 141 
+ 
+……………………………………… 
+ 
+NURSING (NRS) 
+ "
 NRS 111,NURSING SKILLS,1,"
 This course prepares students to safely and efficiently perform basic psychomotor nursing skills which are 
 client-centered, culturally responsive and evidence-based. Classroom, laboratory and simulation 
@@ -3181,7 +3239,7 @@ This course prepares students to conduct evidenced-based, client-centered health
 systematic and culturally responsive approach, the student will demonstrate safe assessment techniques 
 and electronic health record documentation according to evidence-based practice. Classroom, laboratory 
 176  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 and simulation experiences foster the development of clinical reasoning, a spirit of inquiry, and teamwork 
 in preparation for the clinical experience. 
@@ -3234,7 +3292,7 @@ Prerequisites: NRS 210, NRS 211 and NRS 215
  "
 NRS 214,MEDICAL SURGICAL NURSING II,4,"
 177  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 This course prepares the student to provide culturally responsive safe, quality care while utilizing clinical 
 reasoning to the complex medical surgical clients and their families while reinforcing health promotion. 
@@ -3287,7 +3345,7 @@ PAM 230,HUMAN RESOURCES IN PUBLIC SECTOR,3,"
 This course will provide the opportunity to increase your understanding and awareness of how 
 public and non-profit organizations recruit, motivate, develop, and retain their employees and 
 178  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 manage their human resource functions and systems. Students will gain an understanding of the 
 fundamental critical issues, concepts and functions of human resources for the public sector, though 
@@ -3341,7 +3399,7 @@ contemporary thought is considered for representative groups.
  
 ……………………………………… 
 179  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
  
 PHYSICS (PHY) 
@@ -3393,7 +3451,7 @@ Prerequisite: MAT 151 or higher
  "
 PHY 252,MODERN UNIVERSITY PHYSICS II,5,"
 180  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 Students cover topics in classical electricity and magnetism, optics, special relativity and modern physics. A 
 continuation of PHY 251. The course includes a laboratory component. 
@@ -3479,6 +3537,15 @@ Overview of the field of psychology, including learning, development, emotion, m
 abnormal behavior and psychotherapy. 
 Prerequisites: ENG 086* and ENG 091* 
  "
+PSY 140A,INTRODUCTION TO PSYCHOLOGY,4,"(Same as PSY 140) 
+Overview of the field of psychology, including learning, development, emotion, motivation, personality, 
+abnormal behavior and psychotherapy. 
+182  •   
+ 
+ 
+Prerequisite: ENG 091* 
+Corequisite: ENG 086 
+ "
 PSY 144,INTRODUCTION TO PROBABILITY & STATISTICS FOR BEHAVIORAL SCIENCE RESEARCH,4," 
 This course is an introduction to experimental design, data representation, basic descriptive statistics, 
 probability theorems, frequency distributions and functions, binomial and normal probability distributions 
@@ -3527,7 +3594,7 @@ learning theories are used to integrate research findings.
 Prerequisite: PSY 140 
   
 183  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  "
 PSY 251,ABNORMAL PSYCHOLOGY,3,"
 Survey of those behaviors that do not fit the norm of society, including causal factors, specific disorders 
@@ -3580,7 +3647,7 @@ radiographic examination and prepare to implement this knowledge in a clinical s
 cover the bony thorax, spine, head, gastrointestinal tract, as well as urinary imaging. 
 Prerequisite: RAD 121 
 184  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
  "
 RAD 126,CLINICAL PRACTICUM I,3,"
@@ -3633,7 +3700,7 @@ Prerequisite: RAD 160
  "
 RAD 213,RADIOBIOLOGY,2,"
 185  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 Students review the basics of cell biology and study the basic biologic interaction of radiation. That study 
 will include cellular and tissue response to radiation, as well as radiation pathology, the total body 
@@ -3687,7 +3754,7 @@ mechanical ventilation.
 Prerequisites: RES 100 and RES 104 
  
 186  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  "
 RES 114,CARDIOPULMONARY PATHOPHYSIOLOGY I,2,"
 The student in this course will be able to describe the etiology, pathophysiology, clinical manifestations, 
@@ -3740,7 +3807,7 @@ RES 205,CLINICAL PRACTICE III,5,"
 This clinical course allows students to assist in the pulmonary management of adults on mechanical 
 ventilation. An integrated approach to patient care will be stressed through accurate patient assessment 
 187  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 and application of various equipment and therapies. Students will also function as members of the health 
 care team. 
@@ -3793,7 +3860,7 @@ SOCIAL WORK (SWK)
  "
 SWK 292,INTRODUCTION TO SOCIAL WORK,3,"
 188  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 An introduction to the social work profession, code of ethics, values, and social welfare policy. This is an 
 examination of the profession’s responsibilities in correlation to the populations served. This includes a 
@@ -3846,7 +3913,7 @@ Prerequisites: CIS 095*and MAT 033*
  "
 SMT 240,SPORT FACILITY AND EVENT MANAGEMENT,3,"
 189  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 This course examines the principles of facility operations and event management in the industry of sport 
 management. This course provides students with an in-depth investigation of the unique challenges and 
@@ -3899,7 +3966,7 @@ SOC 246,MARRIAGE AND FAMILY,3,"
 The position and significance of marriage and the family in contemporary society are examined. Issues are 
 examined within the larger political, historical and social context, including marriage and family values 
 190  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 within diverse ethnic, minority and gender identity groups. SOC 231 recommended before enrolling in this 
 course. 
@@ -3993,7 +4060,7 @@ Prerequisite: THR 145
  "
 THR 151,MAKE-UP FOR STAGE & VIDEO,3,"
 192  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 Students learn the fundamental techniques of design and application of make-up for theatre and video. 
  "
@@ -4043,7 +4110,7 @@ horizontal positions.
  "
 WLD 110,MIG/TIG WELDING,4,"
 193  •   
-J a c k s o n  C o l l e g e  2 0 2 3  -  2 0 2 4  C a t a l o g  
+ 
  
 This is a welding course in GMAW (gas metal arc welding formally known as MIG welding) and GTAW (gas 
 tungsten arc welding formally known as TIG welding) processes and techniques. Topics will include safety, 
@@ -4082,15 +4149,3 @@ WRL 104,MANDARIN CONVERSATION I,2,"
 This course is designed for people who have little or no knowledge of Mandarin. The emphasis is on 
 speaking and listening. The course introduces practical vocabulary, culture, pronunciation, and essential 
 grammar with minimal reading and writing. 
- 
-……………………………………… 
- 
-NONCREDIT COURSES 
-WORK EXPERIENCE, INTERNSHIPS, SEMINARS — VARIABLE CREDIT 
-Learn through meaningful work experience with an approved company in any discipline. The position must 
-be obtained by the student and approved by the department before registration is permitted. Students 
-apply the skills and knowledge gained from course work. A department faculty member supervises. 
-  
-……………………………………… 
- 
-SPECIAL OPTIONS "

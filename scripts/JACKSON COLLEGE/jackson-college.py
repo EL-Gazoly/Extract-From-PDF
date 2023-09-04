@@ -5,8 +5,8 @@ import csv
 with open('./jackson-college.txt', 'r', encoding='utf-8') as txt_file:
     txt_content = txt_file.read()
 
-    # Create a regex pattern to match course data
-    pattern = re.compile(r'([A-Z]{3,4}\s\d{3})\s(.+?)\s\((\d+-?\d?)\s?CR\)\s([\s\S]+?)(?=\n[A-Z]{3,4}\s\d{3}|$)')
+    # Create a regex pattern to match course data with the modified course code format
+    pattern = re.compile(r'([A-Z]{2,4}(?:\s\d{3}[A-Z]?|\s\d{3}-\d{3}[A-Z]?))\s(.+?)\s\((\d+-?\d?)\s?CR\)\s([\s\S]+?)(?=\n[A-Z]{2,4}(?:\s\d{3}[A-Z]?|\s\d{3}-\d{3}[A-Z]?)|$)')
 
     # Initialize a list to store extracted course data
     course_data = []
@@ -20,7 +20,7 @@ with open('jackson-college.csv', 'w', newline='', encoding='utf-8') as csv_file:
     csv_writer = csv.writer(csv_file)
 
     # Write header row
-    csv_writer.writerow(['Code', 'Title', 'Hours', 'Description'])
+    csv_writer.writerow(['code', 'title', 'hours', 'description'])
 
     # Write course data rows
     for course in course_data:
