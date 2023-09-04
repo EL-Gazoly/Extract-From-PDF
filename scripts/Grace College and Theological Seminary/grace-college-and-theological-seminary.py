@@ -6,7 +6,7 @@ with open('./grace-college-and-theological-seminary.txt', 'r', encoding='utf-8')
     txt_content = txt_file.read()
 
     # Create a regex pattern to match course data
-    pattern = re.compile(r'([A-Z/]{3,5}\s\d{4}(?:–\d{4})?)\s(.+?)\n([\s\S]+?)(?=\n[A-Z/]{3,5}\s\d{4}(?:–\d{4})?|$)', re.IGNORECASE)
+    pattern = re.compile(r'([A-Z]+(?:[-\s/]\d{4}|\d{4}(?:–\d{4})?|(?:[A-Z/]+\s\d{4}-[A-Z/]+\s\d{4})))\s(.+?)\n([\s\S]+?)(?=\n[A-Z]+(?:[-\s/]\d{4}|\d{4}(?:–\d{4})?|(?:[A-Z/]+\s\d{4}-[A-Z/]+\s\d{4}))|$)', re.IGNORECASE)
 
     # Initialize a list to store extracted course data
     course_data = []
