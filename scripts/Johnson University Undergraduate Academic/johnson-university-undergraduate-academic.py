@@ -5,8 +5,8 @@ import csv
 with open('johnson-university-undergraduate-academic.txt', 'r', encoding='utf-8') as txt_file:
     txt_content = txt_file.read()
 
-    # Create a regex pattern to match course data
-    pattern = re.compile(r'([A-Z]{4}\s\d{4}(?:/\d{4})?(?:/[A-Z]{4}\s\d{4})?)\s(.*?)\s\((\d+(?:–\d+)?)\)\.\s((?:.|\n)*?)(?=\n[A-Z]{4}\s\d{4}|$)', re.DOTALL)
+    # Create a regex pattern to match course data with decimal credit hours
+    pattern = re.compile(r'([A-Z]{4}\s\d{4}(?:/\d{4})?(?:/[A-Z]{4}\s\d{4})?)\s(.*?)\s\((\d+\.\d+|\d+(?:–\d+)?)\)\.\s((?:.|\n)*?)(?=\n[A-Z]{4}\s\d{4}|$)', re.DOTALL)
     # Initialize a list to store extracted course data
     course_data = []
 
@@ -19,7 +19,7 @@ with open('johnson-university-undergraduate-academic.csv', 'w', newline='', enco
     csv_writer = csv.writer(csv_file)
 
     # Write header row
-    csv_writer.writerow(['Code', 'Title', 'Hours', 'Description'])
+    csv_writer.writerow(['code', 'title', 'hours', 'description'])
 
     # Write course data rows
     for course in course_data:

@@ -1,3 +1,39 @@
+ACCT 2013 Principles of Financial Accounting (3). Students learn the fundamental concepts, standards, and 
+generally accepted principles of financial accounting from transactions through financial statements. Journal entries, 
+special journals, and subsidiary ledgers are also examined.
+ANTH 1103 Encountering Cultures (3). This course examines the importance of culture and worldview in an 
+increasingly multicultural world and will give special attention to “reading” the city in preparation for service. It 
+explores cultural diversity and the necessary skills for identifying the traits of different cultures (including the 
+student’s own), in order to equip them to effectively interact with people of other cultures as they seek to fulfill the 
+Great Commission and do their part to extend the kingdom of God among all nations.
+ANTH 2023 Introduction to Archaeology: History, Methods, & Great Discoveries (3). As one of the major 
+subdivisions of anthropology, this course surveys the ways in which archaeology contributes to our understanding of 
+the human past. We will define archaeology as the systematic recovery and analysis of the material remains from 
+antiquity and examine its origin in classical and biblical studies. Participants will learn about how archaeologists use 
+scientific techniques to study ancient sites and artifacts. The course will utilize a variety of resources, including 
+films, museum study, and visiting speakers.
+ANTH 3023 Peoples & Cultures of the Middle East (3). This course examines the ethnic groups and cultures of 
+the modern Middle East and North Africa (MENA). While it focuses on the map as it appears today, the course also 
+surveys essential historical background. By necessity, the study considers the relationship between this region’s 
+modern boundaries and its traditional ethnic identities. In this process, the course highlights the MENA’s rich 
+cultures and diverse people groups.
+ANTH 3103 Race & Ethnicity in the American Experience (3). This course examines the complex issue of 
+ethnicity and race in America from a cultural, historical, and social justice perspective. Students gain a framework 
+for understanding and identifying ethnic and racial issues and are equipped to live justly within their chosen
+professional fields. 
+ANTH 3203 Practical Anthropology (3). This course applies cultural anthropology to everyday life and Christian 
+mission, with special attention to the application of an anthropological perspective. Students learn to examine the 
+framework of beliefs, assumptions, values, and behaviors that shape people’s lives, in order to be more effective in 
+ministry.
+ANTH 3300 Cultural Anthropology (3). This course is an introduction to the social science known as cultural 
+anthropology. Readings, films, websites, lectures, reports, and an exam provide a survey of vocabulary, concepts, 
+and illustrations related to this branch of anthropology. Class lectures, outside reading, and films provide more indepth case studies on the Near East Bedouin, Western Apache, and Old Order Amish, among others. 
+ARTS 3100 Art Appreciation (3). Students develop an understanding and appreciation of the visual arts through a 
+study of the basic elements of art, the major movements of modern art, and art as a reflective and contributing force 
+in society. Art from both Western and Global cultures is examined. 
+BIBL 1103 Orientation to Old Testament (3). This survey familiarizes learners with a definition and description 
+of the literature of the Old Testament. Key theological ideas, important characters, textual turning points, and 
+historical sweeps are highlighted. Emphasis moves beyond what the Old Testament says to why it matters
 BIOL 2014 Fundamentals of Biology and Sustainability (4). In this course, students will learn about the 
 organization of life from cells to organisms to ecosystems. This course will explore exchange of energy and 
 resources in ecosystems, and students will be introduced to ways in which natural selection and inheritance of genes 
@@ -47,7 +83,7 @@ result of genetic knowledge, research avenues, and therapeutic applications. Off
 Prerequisites: B or better in BIOL 1114 and BIOL 1124, or equivalent. Completion of MATH 
 1103 Elementary Statistics before taking this course is recommended.   
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 
  
@@ -102,7 +138,7 @@ BUSN 3053 Business Finance (3). Students will study business financial managemen
 statement analysis, time value of money, management of cash flow, risk and return, and sources of financing. 
 Prerequisites: MGMT 3013 Principles of Management 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 311 
  
@@ -157,7 +193,7 @@ with an emphasis on the acquisition of spoken Chinese for use in everyday conver
 relationship between language and culture, gives students a small repertoire of theological vocabulary, and explains 
 strategies for continuous progress in the language.  
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 
  
@@ -212,7 +248,7 @@ area.
 CMML 3013 Theories and Practices of Biblical Teaching (3). This course equips students with the skills 
 necessary to prepare and present biblical lessons. It gives special attention to studying a biblical text for teaching 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 313 
  
@@ -268,7 +304,7 @@ Biblical Preaching, leading students to a deeper understanding of the history an
 sermon forms, the significance of and methods for developing sermon series, and the application of Scripture to 
 listeners’ lives. Prerequisite: CMML 2013 Foundations of Biblical Preaching. 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 
  
@@ -323,7 +359,7 @@ and leadership dynamics that are unique to senior leadership roles in churches. 
 speakers and interactive projects designed to prepare students for positions such as Lead Minister, Senior Minister, 
 or Executive Minister.     
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 
  
@@ -377,7 +413,7 @@ COMM 3109 Advanced Website Design (3). A project-oriented course where students 
 develop solutions for the web and interactive media, including HTML, CSS, Java, Actionscript, and various versions 
 of C. Prerequisite: COMM 3105 Fundamentals of Web Design. 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 
  
@@ -431,7 +467,7 @@ Christian stewardship rather than ownership of God’s resources for an individu
 Christian stewardship through the 10-week Crown Financial Ministries course focusing on the great value of 
 advance financial plans (i.e. budgets). They will also examine a variety of personal and family financial decision 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 
  
@@ -487,7 +523,7 @@ that integrate the ten strands of Social Studies as developed by the National Co
 —including culture, economics, geography, governance, civics, history, individual development, and group 
 interaction. Prerequisites: Midpoint Application to the teacher education program must be made. 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 
  
@@ -544,7 +580,7 @@ the Teacher Education program.
 EDUC 5213 Introduction to Teaching II (3). As a continuation of EDUC 2013 Introduction to Teaching, this 
 course moves students from a broader view of teaching an introductory lesson plan to an in-depth look at a Learning 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 
  
@@ -598,7 +634,7 @@ settings. It is designed to enable students to become familiar with many books, 
 ENGL 2103 Poetry Reading (3). Poetry Reading hones knowledgeable, close-examination skills for studying the 
 poetic genre. This development broadens and deepens the reader’s interpretation in: Definition & approach, form, 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 
  
@@ -653,7 +689,7 @@ truth has not always been advantageous for black preachers; nonetheless, preach 
 fear. This course will explore this disadvantage historically; also, it will pursue discussions of black preachers as 
 spiritual rhetoricians who spoke truth to powers by proclaiming a certain kind of speech concerning God’s justice 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 
  
@@ -709,7 +745,7 @@ multimedia additions for online features, and in-depth interviewing and reportin
 Reporting for Mass Media as a substitute/equivalent for this course. Prerequisites: English Composition I and II 
 with a grade of C or higher. 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 322 
  
@@ -765,7 +801,7 @@ ENTR 4303 Entrepreneurship Growth Strategies (3). This course addresses the grow
 including managing for growth, scaling for growth, and creating growth that produces sustainability in the 
 marketplace. Prerequisite: ENTR 3033 Entrepreneurship & Small Business Management, MKTG 3013 Marketing 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 
  
@@ -820,7 +856,7 @@ Additional attention will be given to investigating attitudes, behaviors, and de
 understanding. Prerequisite: THEO 2XXX THEO Study 1 and THEO 2303 Biblical Interpretation (not applicable 
 for A.S. Health Science) 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 
  
@@ -876,7 +912,7 @@ complete assigned tasks.
 FLED 2522 Field Experience: English as a Second Language Grades 6-12 (0.5). In this term-long experience, 
 students spend 20 hours working in a Middle Grade/High School ESL classroom. They observe classroom teacher 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 
  
@@ -930,7 +966,7 @@ FLED 4130 Senior Practicum Reading (0.5). The course is a 40-hour field experien
 taken with EDUC 4111 Reading Methods. Students will observe and practice what they are studying in their course 
 in the public-school classroom. 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 
  
@@ -984,7 +1020,7 @@ GREK 5563 Greek B (3). In this advanced course in Greek, students increase their
 their knowledge of Greek grammar and syntax, and further develop their translation skills. They also practice using 
 scholarly tools, such as Greek lexicons, grammars, syntaxes, and commentaries. Prerequisite: GREK 5553 Greek A  
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
 
 HEBR 2100 Elementary Hebrew I (3). An introduction to elements of biblical Hebrew prose, including basic 
 grammar, verb forms, and common vocabulary. This course and its follow-ups develop the ability to read and 
@@ -1035,7 +1071,7 @@ examining relevant geographical, historical, and archaeological data. Among othe
 detailed study of references to Egypt in the Bible. We will use a variety of approaches and resources (e.g., readings, 
 films, lectures, artifacts) to investigate the discipline of Egyptology.  
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 328 
  
@@ -1090,7 +1126,7 @@ internship experience in consultation with their academic advisors. In most case
 research paper. However, students may pursue an internship or a project that integrates historical research with 
 teaching methods. 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 329 
  
@@ -1145,7 +1181,7 @@ joyful sharing and participation in the life and love of the Father, Son and Spi
 classic disciplines involving both solitude and community in preparation for a life of personal flourishing and other-
 centered service in whatever career God might call them. 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 330 
  
@@ -1201,7 +1237,7 @@ areas of the curriculum, the senior capstone seminar focuses on the Christian wo
 ethics. It makes significant connections between course content, skills learned, and application to life and ministry, 
 and serves as a bridge to life-long education. Prerequisites: Students must have completed 90 credit hours and be 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 331 
  
@@ -1258,7 +1294,7 @@ The course enables students to understand the background of these contemporary c
 lengthy and complex histories. Prerequisites: ANTH 1103 Encountering Cultures; HIST 2123 History of 
 Christianity or HIST 1913 The Historian’s Craft I: Introduction to Historiography. 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 332 
  
@@ -1315,7 +1351,7 @@ Anthropology, Internship required for concentration.
 ICMI 4720 Church Planting & Discipleship (3). This course gives students an overview of the theology, theory, 
 and practice of planting churches locally and cross-culturally. Special attention is given to the mission of the church, 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 333 
  
@@ -1369,7 +1405,7 @@ faith achieved its global status through the work of key individuals from variou
 range of methods. Survey textbooks, films, lectures, and case studies provide insight into how Christianity overcame 
 significant geographical, cultural, and linguistic barriers. 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 334 
  
@@ -1422,7 +1458,7 @@ growth.
 ICST 4415 Understanding the Muslim World (3). This course expands the student’s knowledge and 
 understanding of Muslim culture, worldview, and practices.  
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 335 
  
@@ -1477,7 +1513,7 @@ an emphasis on composition, color theory, and craftsmanship.
 MART 2083 Graphic Design II (3). Students explore elements and principles of basic three-dimensional design 
 with an emphasis on spatial organization, color, and planning and craft. Prerequisite: MART 3023 Typography. 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 336 
  
@@ -1531,7 +1567,7 @@ reason with numbers and mathematical ideas. The course emphasizes logic, reasoni
 fallacies, the use of statistical data and charts, unit conversions, critical reasoning skills, the correct use of 
 percentages, and the use of mathematics in finance.  
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 337 
  
@@ -1585,7 +1621,7 @@ manager. Students will study classical and contemporary management theories and 
 planning (strategy and goal setting, environment), leading (leadership, motivation, diversity, managing conflict), 
 and controlling (decision making, change management).  
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 338 
  
@@ -1639,7 +1675,7 @@ credit
 MUAP 1330 Advanced Voice I (2). Advanced Voice I includes one hour of individual instruction per week and 
 requires a minimum of six hours practice each week, as well as participation in solo class. Students are instructed in 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 339 
  
@@ -1693,7 +1729,7 @@ with practical programming skills, troubleshoot programming issues, interpret si
 effectively design rudimentary creative projects. The first half of the course is dedicated to synthesis modeling and 
 the second half to student interests.  
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 340 
  
@@ -1748,7 +1784,7 @@ MUAP 2320 Voice IV (1). Students receive private instruction in the technique of
 song tailored to the maturation level of the individual student. The instructor provides one half-hour lesson per 
 week. Music majors with voice as their primary or secondary instrument must present a jury performance before the 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 341 
  
@@ -1801,7 +1837,7 @@ of the individual student. The instructor provides a one half-hour lesson per we
 MUAP 3000 Junior Recital (1). Candidates for Bachelor of Music degrees are required to present a Junior Recital 
 on their primary instrument (Piano or Voice). This recital will include standard works from either the piano or vocal 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 342 
  
@@ -1855,7 +1891,7 @@ individual student. The instructor provides a one half-hour lesson per week.
 MUAP 3360 Drum Set VI (1). Students receive private instruction in drum set tailored to the maturation level of 
 the individual student. The instructor provides a one half-hour lesson per week. 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 343 
  
@@ -1909,7 +1945,7 @@ credit.
 MUAP 4320 Voice VIII (1). Students receive private instruction in the technique of singing and the interpretation 
 of song tailored to the maturation level of the individual student. The instructor provides one half-hour lesson per 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 344 
  
@@ -1961,7 +1997,7 @@ secondary school settings.
 MUED 3320 Vocal Pedagogy (3). This course covers the structure and function of the vocal mechanism with 
 application to both performance and the teaching of singing. Topics include exploring the relationship of function to 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 345 
  
@@ -2015,7 +2051,7 @@ intervals, diatonic melodic and rhythmic patterns in symmetrical meters, scalar 
 chords found in folk, pop, and classical music by chanting, singing, playing, and transcription. Prerequisite: 
 Permission of instructor is required for non-music majors. 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 346 
  
@@ -2072,7 +2108,7 @@ Western civilization will be investigated with emphasis being given to the signi
 history. The hallmarks of musical literature representing the major periods of history will be studied in detail. Also, 
 composers and performers, processes, and contemporary events will be discussed. During this second term of study, 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 347 
  
@@ -2128,7 +2164,7 @@ a school setting or any approved music institution. It must be supervised by a f
 supervisor or director, who holds at least a four-year degree in music. Prerequisites: EDUC 2013, EDUC 3110, 
 EDUC 2112, MUSC 3313 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 348 
  
@@ -2184,7 +2220,7 @@ virtual dissemination; and effectively utilize industry-standard software.
 MUTC 3041 Building Electronic Instruments I Lab (1). Students use a combination of audio components, 
 software, synthesis, 3D Printing technology, computer science, and electrical engineering to design and build 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 349 
  
@@ -2238,7 +2274,7 @@ Education Grades K-12. Prerequisite: Students must have passing PRAXIS II scores
 course is for students who have graduated with a B.A./B.S. in Sport & Fitness Leadership (Physical Education 
 Grades K-12) from Johnson University. 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 350 
  
@@ -2294,7 +2330,7 @@ and trains students in the use of foundational micro-skills (attending, observat
 encouraging, paraphrase, summarization, reflection, focusing, influencing, and confrontation). Students are taught 
 basic concepts, observe experienced practitioners, and practice skills in role play and peer counseling. Upon 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 351 
  
@@ -2350,7 +2386,7 @@ choose another site, allowing them to deepen or broaden their real-life experien
 conjunction with the concurrent seminar that incorporates individual and group supervision, helps students further 
 clarify and establish goals for vocational ministry and /or graduate study. Prerequisite: PSYC 4914 Internship. 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 352 
  
@@ -2406,7 +2442,7 @@ hours of clinical instruction, and if they have completed 40 hours of site-based
 hours spent in a long-term care facility (LTCF), then they are eligible to take the certification as a Certified Nursing 
 Assistant (CNA). 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 353 
  
@@ -2462,7 +2498,7 @@ movements are generated by specific muscles and muscle groups. This course will 
 knowledge that will help improve body awareness, which, over time is helpful for lifetime health and fitness. 
 Content of this course is a solid foundation for understanding and explaining body movement. Improving one’s 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 354 
  
@@ -2514,7 +2550,7 @@ grow as a Christian sportsperson.
 SFIT 1181 Cross-Country: Varsity (1). This course is designed for students who make the varsity cross-country 
 team and complete the intercollegiate competitive season. It develops knowledge of rules, strategy, coaching, and 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 355 
  
@@ -2571,7 +2607,7 @@ grow as a Christian sportsperson.
 SFIT 1291 Functional Fitness (1). This course develops versatile fitness skills, using minimal equipment, with an 
 emphasis in speed, agility, quickness, as well as form, technique, and program development generated from current 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 356 
  
@@ -2627,7 +2663,7 @@ community setting with the SFIT industry. Students will earn 12 credit hours for
 requirements, which includes logging approximately 400 clock hours at their internship site. Journaling, 
 collaborative projects, professional mentorship, and performance reviews are designed to facilitate reflection and 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 357 
  
@@ -2682,7 +2718,7 @@ SPED 3313 Characteristics & Needs of the Mildly & Moderately Disabled (3). Emoti
 characteristics, assessment and intervention strategies and theories will be examined with particular reference to the 
 needs of the mildly and moderately disabled student.  
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 358 
  
@@ -2737,7 +2773,7 @@ New Testament. Particular attention is given to the relationship between New Tes
 Hellenistic-Roman world, Israel’s Scriptures, and the Church’s later development of Christological creeds and 
 confessions. Prerequisites: THEO 2XXX THEO Study 1 and THEO 2303 Biblical Interpretation.  
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 359 
  
@@ -2793,7 +2829,7 @@ employment. A final exercise is cast within the context of professional practice
 THEO 3999 Global Theology (3). This course introduces students to principles and processes for developing a 
 theology of mission for the context in which they serve. Emphasis is placed on biblical precedent, exegesis, and a 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 360 
  
@@ -2850,7 +2886,7 @@ as core biblical, theological, historical, philosophical, and pastoral considera
 given to (1) form and patterns of worship; (2) crafting the actions and elements of worship; (3) designing and 
 planning worship; (4) executing the actions of worship; (5) leadership skills; and (6) time and the narrative of 
 Johnson University Undergraduate Academic Catalog 2023-2024 (Approved June 20, 2023)  
-Course Descriptions 
+
  
 361 
  
