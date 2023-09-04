@@ -1,4 +1,4 @@
-Code,Title,Hours,Description
+code,title,hours,description
 ACC 131,INTRODUCTORY ACCOUNTING FOR NON-MAJORS,4,"
 This course is designed for the business professional who must have an understanding of financial and 
 managerial accounting as it is used in decision making. This course is not for transfer students seeking a 
@@ -42,7 +42,7 @@ Professional accountants must have a solid background in Generally Accepted Acco
 processes, nature and content of the balance sheet and income statement, present value tables and their 
 application, currently applicable Generally Accepted Accounting Principles (GAAP) and recent Financial 
 Accounting Standards Board (FASB) pronouncements. 
-115  •   
+   
  
  
 Prerequisite: ACC 231 
@@ -70,7 +70,7 @@ internal controls. Coursework and assignments will be structured to highlight th
 opportunities within the hospitality industry. 
 Prerequisite: ACC 131 
  
-……………………………………… 
+
  
 AGRICULTURE TECHNOLOGY (AGT) 
  "
@@ -95,7 +95,7 @@ and international agriculture.
 Prerequisites: CEM 141 or NSC 120 
  "
 AGT 209,PRECISION FARMING,3,"
-116  •   
+   
  
  
 Precision agriculture is farming management based on information and technology. It is site specific 
@@ -136,9 +136,9 @@ the student, the faculty member and the site supervisor. A portfolio of the inte
 submitted to the faculty member upon completion of the course. 
 Prerequisite: Instructor permission required 
  
-……………………………………… 
+
  
-117  •   
+   
  
  
 ALTERNATIVE ENERGY (ALT) 
@@ -191,14 +191,14 @@ Prerequisites: CCT 121 and CCT 131 or ELT 120
 ALT 270,ALTERNATIVE FUELS,3,"(Same as AUT 160) 
 This course is an overview of alternative fuels used in automobiles and light trucks. Students learn about 
 various alternate fuels, their effect on exhaust emissions, their effect on the environment, the economic 
-118  •   
+   
  
  
 impact of alternate fuels and how they contribute to the reduction of importing foreign oil. Topics include 
 hydrogen, fuel cells, natural gas (CNG & LNG), propane (LP gas), ethanol, methanol and biodiesel. 
 Prerequisite: ALT 200 or ELT 160 
  
-……………………………………… 
+
  
 ANTHROPOLOGY (ANT) 
  "
@@ -207,7 +207,7 @@ Cultural anthropology is a one-semester introductory course. The course focuses 
 society is based on an integrated culture which satisfies human needs and facilitates survival. The course 
 also explores the ways in which our own culture fits into the broad range of human possibilities. 
  
-……………………………………… 
+
  
  
 ART (ART) 
@@ -244,7 +244,7 @@ ART 121,CERAMICS I: FOUNDATIONS,3,"
 A general overview of ceramics that focuses on a variety of hand building techniques as well as wheelwork 
 and finishes. 
  
-119  •   
+   
  
  "
 ART 122,CERAMICS II: WHEEL & CERAMIC SCULPTURE,3,"
@@ -296,7 +296,7 @@ executed during the semester.
 Prerequisite: ART 137 or CIS 137 
  "
 ART 252,PAINTING I: DESIGN & COLOR,3,"
-120  •   
+   
  
  
 Student work will primarily involve paintings from a nude model in a studio setting. Students extend 
@@ -304,7 +304,7 @@ previous learning by solving problems dealing with complex compositional and col
 of situations. The development of a personal style and a culminating portfolio of work are emphasized. 
 Prerequisite: ART 152 
  
-……………………………………… 
+
  
 BIOLOGY (BIO) 
  "
@@ -349,7 +349,7 @@ BIO 162,GENERAL BIOLOGY II,4,"
 Biology 162 is the second semester of a one-year general biology experience intended for science majors 
 or pre-professional students. This course covers the chemical basis of life, cell structure and function, 
 photosynthesis and cellular respiration, molecular and Mendelian genetics, cell division, gene regulation 
-121  •   
+   
  
  
 and biotechnology. It provides the foundation for upper-level biology courses. This course includes a 
@@ -393,7 +393,7 @@ methods are a major component of this course. People highly allergic to poison i
 pollen need to take precautionary steps during field studies. 
 Prerequisite: MTH 033* or higher 
  
-……………………………………… 
+
  
 BUSINESS (BUA) 
  "
@@ -401,7 +401,7 @@ BUA 100,CONTEMPORARY BUSINESS,3,"
 This course offers students an overview of today’s modern business and the concepts required for 
 managers and leaders to promote the success of today’s dynamic workplace. Concepts include the 
 economic environment, business ventures, management, leadership, human resource management, 
-122  •   
+   
  
  
 marketing, business law and finance. This course will offer each student the opportunity to explore their 
@@ -454,7 +454,7 @@ organizations. Students will explore the following topics as they gain an unders
 strategic management, competition and competitive advantage, developing strategies, and  
 implementing strategies. 
  
-123  •   
+   
  
  "
 BUA 220,PRINCIPLES OF MANAGEMENT,3,"
@@ -506,7 +506,7 @@ allprevious business course learning to manage organizations strategically. It w
 organization’s success or failure. It will require students to examine all functions of an organization and 
 harmonize prior learning from other business courses. The capstone allows students to integrate and 
 apply knowledge from their academic studies through the comprehensive evaluation of the core 
-124  •   
+   
  
  
 curriculum of accounting, economics, marketing, management, human resources, and other learned 
@@ -521,7 +521,7 @@ and document the project. Additional topics include building and leading project
 project management software, and following the Project Management Body of Knowledge (PMBOK) 
 framework. 
  Prerequisites: PHL 232, CIS 101* or CIS 201*, ENG 131 
-……………………………………… 
+
  
 COMPUTER ASSISTED DRAFTING (CAD) 
  "
@@ -549,7 +549,7 @@ CAD 252,SOLIDWORKS III,3,"
 This course seeks to prepare students for the Certified SolidWorks Professional certificate by focusing on 
 complex projects and features using SolidWorks. 
  Prerequisite: CAD 152 
-……………………………………… 
+
  
 CLIMATE CONTROL TECHNOLOGY (CCT) 
  "
@@ -558,7 +558,7 @@ The course will introduce the student to a variety of professions and work oppor
 Students will also review the tools of trade, safety practices, a basic introduction to components of 
 heating and air conditioning equipment, heat transfer, psychometrics and air quality. 
  
-125  •   
+   
  
  "
 CCT 160,FUNDAMENTALS OF ENERGY EFFICIENCY,2,"(Same as ALT 210) 
@@ -582,7 +582,7 @@ CCT 167,SOLAR THERMAL ENERGY & SYSTEMS,2,"(Same as ALT 265)
 This course will explore the basics of solar thermal energy technology and application. The class will also 
 cover system installation, maintenance and problem diagnosis. 
 Prerequisites: CCT 121 and CCT 131 or ELT 120 
-……………………………………… 
+
 CHEMISTRY (CEM) 
  "
 CEM 131,FUNDAMENTALS OF CHEMISTRY,4,"
@@ -611,7 +611,7 @@ Prerequisites: and MAT 139* or higher
 CEM 142,GENERAL CHEMISTRY II,5,"
 This course is the second semester of general chemistry and extends material covered in CEM 141. 
 Covered concepts include chemical thermodynamics, electrochemical reactions, reaction kinetics,        
-126  •   
+   
  
  
 acid-base theories, nuclear chemistry, and aqueous solutions with emphasis on equilibrium. Experiments 
@@ -630,7 +630,7 @@ CEM 242,ORGANIC CHEMISTRY II,5,"
 A continuation of CEM 241. The course includes a laboratory component. 
 Prerequisite: CEM 241 
  
-……………………………………… 
+
  
  
  
@@ -666,7 +666,7 @@ Learn to use Outlook components to create and use the calendar feature to schedu
 multiple day events, establish a “contacts” database, keep journals, notes and use the task manager for 
 prioritizing jobs. This is an optional component of the Microsoft Office User Specialist Expert certification 
 tests. Typing ability necessary to be successful in this course. 
-127  •   
+   
  
  "
 CIS 119,MICROSOFT POWERPOINT - WINDOWS,2,"
@@ -719,7 +719,7 @@ This course introduces the graphic design student to the fundamentals of product
 CIS 131,METHODS IN 3-D PROTOTYPING,1,"
 Students propose concept development and build three-dimensional product mock-ups. Dexterity, 
 craftsmanship and implementation using innovative logistical methods are practiced and delivered. 
-128  •   
+   
  
  
  "
@@ -772,7 +772,7 @@ web design and progress to creating a dynamic and interactive web site that adap
 You will learn how to use the latest techniques, best practices, and current web standards including 
 HTML5, CSS#, and JavaScript. 
  
-129  •   
+   
  
  "
 CIS 158,PROGRAMMING LOGIC,3,"
@@ -824,7 +824,7 @@ of their 2D and 3D objects in frame animation by actions such as rotating, scali
 Prerequisite: CIS 134 
  "
 CIS 188,PRINT PRODUCTION,3,"
-130  •   
+   
  
  
 This course introduces students to technologies and techniques involved with the printing process. 
@@ -877,7 +877,7 @@ Prerequisites: CIS 126, CIS 127, CIS 128, CIS 132, CIS 136 and CIS 230
 CIS 237,DIGITAL PHOTOGRAPHY II,3,"(Same as ART 237) 
 This course provides the opportunity to refine and extend the skills of photographic seeing. Personal skills 
 in digital photography will be used to explore a complete body of work. Students will be using Photoshop® 
-131  •   
+   
  
  
 CS5 to edit and explore their creative outlets further. Students’ individual personal goals will be set and 
@@ -927,10 +927,10 @@ mappings to manipulate that light on a 3D surface. Material and surface terminol
 Students will be introduced to 2D matte painting techniques for environmental backdrops. 
 Prerequisites: CIS 134 and CIS 274 
  
-……………………………………… 
+
  
 COMMUNICATIONS (COM) 
-132  •   
+   
  
  
  "
@@ -983,7 +983,7 @@ them effectively. This course will include a mandatory travel study experience o
 Jackson College. 
  "
 COM 260,SMALL GROUP COMMUNICATION,3,"
-133  •   
+   
  
  
 In this course, students will examine small group communication theories and processes by observing and 
@@ -1000,7 +1000,7 @@ them effectively. This course is tailored for those students seeking management/
 the unique needs of cross-cultural communication in those areas. 
 Prerequisites: COM 231 or 240 and ENG 131 
  
-……………………………………… 
+
  
  
  
@@ -1036,7 +1036,7 @@ and WAN technologies to meet network requirements. This course is the fourth of 
 that helps students prepare for the Cisco Certified Network Associate (CCNA) Routing and Switching 
 certification. 
 Prerequisite: CNS 106 
-134  •   
+   
  
  
  "
@@ -1091,7 +1091,7 @@ printing and installing programs Linux.
 CNS 132,LINUX ADMINISTRATION II,3,"
 In this course, the student will learn how to implement, configure and troubleshoot Linux, particularly as a 
 network server. The student will configure Linux to provide DNS, DHCP, as a firewall and basic routing 
-135  •   
+   
  
  
 functions. The student will set up and secure the Apache web service and set up Linux to provide e-mail 
@@ -1145,7 +1145,7 @@ Introduces common computer and network hacking techniques. With a sound understa
 hackers can compromise computers and computer networks, you will learn how to identify when an 
 incident has happened, how to respond in a comprehensive manner, and what steps to take to protect 
 yourself in the future. 
-136  •   
+   
  
  
 Prerequisite: CNS 131  
@@ -1198,7 +1198,7 @@ CNS 254,INFORMATION STORAGE AND MANAGEMENT,3,"
 This course provides a comprehensive understanding of the various storage infrastructure components in 
 data center environments. It enables participants to make informed decisions on storage-related 
 technologies in an increasingly complex IT environment, which is fast changing with the adoption of 
-137  •   
+   
  
  
 software-defined infrastructure management and third platform technologies (cloud, Big Data, social, and 
@@ -1207,7 +1207,7 @@ SAN, and FCoE SAN; backup and replication; the highly critical area of informati
 infrastructure management. 
 Prerequisite: CNS 101 
  
-……………………………………… 
+
  
 COMPUTER SCIENCE (CPS) 
  "
@@ -1217,7 +1217,7 @@ procedural and object-oriented programming capabilities to design, develop and t
 Topics covered include program development, functions, control structures, text file operations, classes, 
 recursion, arrays and pointers. 
  
-……………………………………… 
+
  
  
  
@@ -1251,7 +1251,7 @@ evidence and taught in a laboratory setting.
  "
 CRJ 114,POLICE ADMINISTRATION & OPERATIONS,3,"
 Administration and operation of a police department including line/staff activities are explored. 
-138  •   
+   
  
  
  "
@@ -1289,7 +1289,7 @@ This course provides an opportunity for students to work for one semester in a l
 corrections agency. Only open to students who have reached sophomore level (26 or more credit hours), 
 minimum 2.5 grade point average and permission of the instructor. 
  
-……………………………………… 
+
  
 DANCE (DAN) 
  "
@@ -1303,8 +1303,8 @@ An advanced approach to jazz dance with emphasis upon combining jazz pieces into
 choreographies. 
 Prerequisite: DAN 121 or HPF 221 
  
-……………………………………… 
-139  •   
+
+   
  
  
  
@@ -1357,7 +1357,7 @@ patients and preventive measures employed against disease with emphasis on speci
 Prerequisites: DHY 101, DHY 102, DHY 104, DHY 105 and DHY 113 
  "
 DHY 112,CLINICAL DENTAL HYGIENE I,2,"
-140  •   
+   
  
  
 The principles, protocols and components of dental hygiene process of care are introduced in this clinical 
@@ -1410,7 +1410,7 @@ Prerequisites: DHY 104, DHY 111, DHY 115, DHY 120 and DHY 121
 DHY 202,CLINICAL DENTAL HYGIENE III,3,"
 The principles, protocols and components of dental hygiene process of care are continued in this clinical 
 setting emphasizing patient care. The continued advancement of skills includes non-surgical periodontal 
-141  •   
+   
  
  
 treatment, ultrasonic instrumentation, case management, treatment planning and dental hygiene 
@@ -1462,9 +1462,9 @@ and current events of community oral health. Topics include emphasis on health p
 of dental disease, community service, designing, implementing and assessing a community health project.  
 Prerequisites: DHY 114, DHY 201, DHY 203, DHY 204 and DHY 205 
  
-……………………………………… 
+
  
-142  •   
+   
  
  
 DIAGNOSTIC MEDICAL SONOGRAPHY (DMS) 
@@ -1517,7 +1517,7 @@ interpersonal relationship skills, ethical decision making, and a review of clin
 relate to the on-site work experience. Students will learn basic cross-sectional anatomy as related to 
 beginning sonographic scanning of the arterial and venous systems, of the extremities, neck and 
 abdomen. 
-143  •   
+   
  
  
  "
@@ -1570,7 +1570,7 @@ DMS 148,ECHO CLINICAL II,7,"
 In this course, students will attend a supervised clinical experience in an approved clinical education 
 center. This course provides hands-on experience in intermediate level cardiac imaging and use of 
 cardiovascular equations. Successful completion of scanning proficiencies is required to remain in the 
-144  •   
+   
  
  
 program. This course is the second in a series of three clinical courses that has the final objective of 
@@ -1623,7 +1623,7 @@ Students learn in-depth, cross-sectional anatomy and pathology as related to son
 pelvis in the adult and pediatric patient, and the gravid uterus. The class gives attention to physiologic and 
 pathological changes of specific, non-specific diseases, and trauma as they relate to sonographic 
 interpretation of the pelvis and gravid uterus. Mastery level achievement is encouraged and expected. 
-145  •   
+   
  
  
  "
@@ -1675,7 +1675,7 @@ This course is a seven-week learning plan designed to immerse students in lesson
 taking strategies, answer contextual style questions, and build a deeper understanding of the arterial and 
 venous vascular system, disease processes, pathology and pathophysiology. The interactive 
 comprehensive-progressive learning plan is created for various learning styles and is designed to prepare 
-146  •   
+   
  
  
 students for the rigors and endurance needed to complete the registry exam. The content on the course 
@@ -1728,7 +1728,7 @@ cardiovascular equations. Interpretation skills will apply. Successful completio
 required to graduate from the program. This clinical course is the final course in a sequence of three, and 
 the final objective to be met is successful, independent performance and evaluation of the complete adult 
 echocardiogram. 
-147  •   
+   
  
  
 Prerequisite: DMS 148 
@@ -1748,7 +1748,7 @@ an approved vascular laboratory. It also provides hands-on experiences in advanc
 supervised by registered vascular technologists. Completion of clinical competencies is required to 
 complete this course. 
   
-……………………………………… 
+
  
  
  
@@ -1776,11 +1776,11 @@ networking sites and pay-per-click advertising campaigns are emphasized to incre
 eCommerce site operations. 
 Prerequisite: CIS 095* 
  
-……………………………………… 
+
  
 ECONOMICS (ECN) 
  
-148  •   
+   
  
  "
 ECN 231,MACROECONOMICS,3,"
@@ -1795,7 +1795,7 @@ labor markets and unions, how income is distributed, current economic problems, 
 economics, and alternative economic systems. 
 Prerequisites: ENG 086*, ENG 091* and MAT 130 or higher 
  
-……………………………………… 
+
  
 EDUCATION (EDU) 
  "
@@ -1824,7 +1824,7 @@ in the contexts of home, school and group settings. Students study developmental
 practice methods. A minimum of 20 hours of approved field service including a group diversity project is 
 required. 
  
-……………………………………… 
+
  
 ENERGY SYSTEMS (EGY) 
  "
@@ -1832,7 +1832,7 @@ EGY 101,ENERGY INDUSTRY FUNDAMENTALS,3,"
 Energy Industry Fundamentals (EIF) provides a broad understanding of the electric and natural gas utility 
 industry and the generation, transmission, and distribution infrastructure, commonly called the “largest 
 machine in the world,” which forms the backbone for the industry. The course includes business models, 
-149  •   
+   
  
  
 regulations, types of energy and their conversion to usable energy such as electric power, emergent 
@@ -1872,7 +1872,7 @@ communications, integration of renewables, cyber security, micro grids and more.
 Prerequisites: EGY 101, ALT 200, and PHY 231 or PHY 251 
  "
 EGY 499,SENIOR SEMINAR,3,"
-150  •   
+   
  
  
 This course is the capstone experience for the Bachelor of Science in Energy Systems Management degree. 
@@ -1882,7 +1882,7 @@ knowledge and experience, and demonstrate their potential to make a positive dif
 or community. 
 Prerequisites: STM 401, COM 350, and senior standing in program 
   
-……………………………………… 
+
   
 ENGLISH LANGUAGE INSTITUTE (ELI) 
  "
@@ -1925,7 +1925,7 @@ Reading strategies and vocabulary building are developed at this level. Students
 topics such as business, psychology, nutrition, medicine, literature and sociology. Key reading strategies 
 are emphasized for future success in college-level courses. 
  
-151  •   
+   
  
  "
 ELI 043,PRE-ADVANCED WRITING,4,"
@@ -1962,7 +1962,7 @@ This course continues to build on grammatical features from ELI 044 with the add
 voice, noun clauses, adjective clauses, gerunds and infinitives, coordinating conjunctions, adverb clauses 
 and conditional structures. 
  
-……………………………………… 
+
  
 ELECTRONIC TECHNOLOGY (ELT) 
  "
@@ -1978,7 +1978,7 @@ capacitance, inductance, series and parallel circuits, power and basic electrica
 Prerequisite: MAT 040* or higher 
  "
 ELT 126,CIRCUIT ANALYSIS II,4,"
-152  •   
+   
  
  
 A study of alternating electrical current is presented. Topics include AC measurements, resistance, 
@@ -2032,7 +2032,7 @@ site survey and assessment, estimating solar array electricity output, inverters
 off-grid/grid-connected systems. Labs include hands-on activities with solar panels and electrical 
 equipment. Prior electrical skills and knowledge are required to be successful in this course. 
 Prerequisites: ELT 120 and ELT 151 
-153  •   
+   
  
  
  "
@@ -2073,7 +2073,7 @@ welding and machine tool wiring, and the use of tables and diagrams for the solu
 problems. 
 Prerequisite: ELT 150 
  
-……………………………………… 
+
  
 EMERGENCY MEDICAL SERVICES (EMS) 
  "
@@ -2086,7 +2086,7 @@ situations, extrication, and current standards for EMR/MFR in the field. Student
 scenario-based education and computer=based testing and scenarios to reinforce skills learned within 
 these areas.  
 Corequisite: EMS 1160.   
-154  •   
+   
  
  
  "
@@ -2101,7 +2101,7 @@ complete a minimum of four, 12-hour experiences in the hospital emergency room s
 hospital life support agency. Laboratory and clinical experiences are included. 
 Corequisites: EMS 1230 (Lab) and EMS 1231 (Clinical) 
  
-……………………………………… 
+
  
 ENGINEERING (EGR) 
  "
@@ -2125,7 +2125,7 @@ kinetics of plane motion of rigid bodies, the principle of work and energy, impu
 mechanical vibrations. 
 Prerequisite: EGR 261 
  
-……………………………………… 
+
  
 ENGLISH (ENG) 
  "
@@ -2138,7 +2138,7 @@ component of the course.
 ENG 091,INTRODUCTION TO COLLEGE WRITING,3,"
 This is an intensive course to give students a strong foundation for the work of English 131. Students 
 explore genres in order to meet the expectations of audiences for a variety of purposes. A personal 
-155  •   
+   
  
  
 approach helps students enhance their writing abilities, resolve writing problems, and explore writing 
@@ -2192,7 +2192,7 @@ ENG 242,SPORTS IN FILM AND LITERATURE,3,"
 This course is an inquiry into historical and changing role of sports in American culture through novels, 
 essays, biographies, films, documentaries and sports-related poetry. 
 Prerequisite: ENG 131 
-156  •   
+   
  
  
  "
@@ -2244,7 +2244,7 @@ Prerequisite: ENG 131
 ENG 261,CREATIVE WRITING I,3,"
 Students experiment with writing poetry, fiction, drama and creative nonfiction for discussion and 
 criticism. Students invent, collaborate and revise before submitting a portfolio of their work. 
-157  •   
+   
  
  
 Contemporary readings and visiting authors/videos enhance the class, but primary attention is given to 
@@ -2258,7 +2258,7 @@ workshop fiction, poetry and other genres. Contemporary readings emphasize writi
 writing communities. 
 Prerequisite: ENG 261 
  
-……………………………………… 
+
  
 ENTREPRENEURSHIP (ENT) 
  "
@@ -2298,10 +2298,10 @@ exploring entrepreneurship in another county. The internship and/or trip must be
 supervising faculty member. 
 Prerequisite: Instructor Permission Required 
  
-158  •   
+   
  
  
-……………………………………… 
+
  
 FIRST YEAR SEMINAR (FYS) 
  "
@@ -2318,7 +2318,7 @@ better equipped as self-advocates in navigating the academic advising and financ
 education. Student Education Plans (SEP) and the Life Maps Project will be completed, and academic 
 success strategies are introduced and reinforced throughout the course. 
   
-……………………………………… 
+
  
 FRENCH (FRN) 
  "
@@ -2331,7 +2331,7 @@ FRN 132,ELEMENTARY FRENCH II,4,"
 Provides increased practice in the basic language skills: listening, speaking, reading and writing. 
 Prerequisite: FRN 131 
  
-……………………………………… 
+
  
 GEOLOGY (GEL) 
  "
@@ -2346,11 +2346,11 @@ The course covers minerals, rocks, earthquakes and volcanoes. It also covers the
 of continents and oceans. Diagrams, photographs, topographic maps, Internet resources and hands-on 
 exercises are utilized to support the concepts. The course includes a laboratory component. 
  
-……………………………………… 
+
   
 GEOGRAPHY (GEO) 
  
-159  •   
+   
  
  "
 GEO 131,PHYSICAL GEOGRAPHY,3,"
@@ -2369,7 +2369,7 @@ and global distribution. Topics include an understanding of the interplay of the
 lithosphere, biosphere, and cryosphere in areas of study that include seasons, weather, climate, landscape 
 formation, distribution of plants and animals. 
  
-……………………………………… 
+
  
 GERMAN (GER) 
  "
@@ -2384,7 +2384,7 @@ Continuation of GER 131 with increased practice in the basic language skills: li
 and writing with special emphasis on listening and speaking. 
 Prerequisite: GER 131 
  
-……………………………………… 
+
  
 HISTORY (HIS) 
  "
@@ -2403,7 +2403,7 @@ humanities. This course examines the roots of Western culture and its developmen
 Reformation. The course also surveys the social, philosophical, scientific, artistic, religious and political 
 setting evolution with emphasis on the role of ideas and their consequences in the history of the 
 humankind from the beginning to the 16th century. 
-160  •   
+   
  
  
  "
@@ -2455,7 +2455,7 @@ also learn about exercise electrocardiography and how to perform ambulatory moni
 also include extensive instruction on cardiovascular pharmacology. 
  "
 HOC 140,PHARMACY TECHNICIAN CONCEPTS & CALCULATIONS,4,"
-161  •   
+   
  
  
 This course applies mathematics in the calculations required for determination of proper dosages, 
@@ -2483,7 +2483,7 @@ application of various EHR tasks. The course will also cover basic medical termi
 coding principles. Students who complete this course with a passing grade will be eligible to sit for the 
 Certified Electronic Health Record Specialist exam. 
  
-……………………………………… 
+
  
 HEALTH & PHYSICAL FITNESS (HPF) 
  "
@@ -2507,7 +2507,7 @@ Students are able to exercise at their own pace. The class is designed for a wid
 HPF 143,YOGA II,1,"
 Participants develop yoga as a practice to facilitate lifelong skills, enhancing physical, emotional and 
 intellectual strength, flexibility and power. The course emphasizes conscious awareness and internal focus 
-162  •   
+   
  
  
 through asana practice, body alignment, breathing techniques, relaxation and beginning meditation. 
@@ -2561,7 +2561,7 @@ aerobic endurance and flexibility.
 Prerequisite: HPF 168 or HPF 186 
  "
 HPF 277,STRESS MANAGEMENT,2,"
-163  •   
+   
  
  
 Examine current information and techniques related to stress management. Students learn basic concepts 
@@ -2574,7 +2574,7 @@ stress. Students learn the relationship of lifestyle to their health. Through th
 skills, tools and new knowledge students have an increased opportunity to enhance their lives and the 
 lives of those around them. 
  
-……………………………………… 
+
  
 HUMANITIES (HUM) 
  "
@@ -2582,7 +2582,7 @@ HUM 131,CULTURAL CONNECTIONS,3,"
 This interdisciplinary course examines contemporary issues, their human and technological components, 
 and their historical precedents through art, music, literature and philosophy. 
  
-……………………………………… 
+
  
 MATHEMATICS (MAT) 
  "
@@ -2614,7 +2614,7 @@ placement exam be taken, or the prerequisite be retaken to ensure the success of
 Corequisite: MAT 133A 
  "
 MAT 039,BEGINNING ALGEBRA,4,"
-164  •   
+   
  
  
 Students will build algebraic skills working with expressions and linear and quadratic equations. The 
@@ -2667,7 +2667,7 @@ theory; descriptive statistics; and Markov chains. The mathematics department re
 prerequisite not to be more than two years old. If the prerequisite is more than two years old the 
 recommendation is the course placement assessment be taken or the prerequisite be retaken to ensure 
 the success of the student. 
-165  •   
+   
  
  
 Prerequisite: MAT 039* 
@@ -2720,7 +2720,7 @@ MAT 210,FOUNDATIONS OF MATHEMATICS I,4,"
 This course provides background material for students preparing to teach at the elementary level and 
 emphasizes the structure and properties of the number system. It also covers concepts, models in 
 algorithms for whole numbers, integers, fractions, decimals and percents. Some additional hours of on-
-166  •   
+   
  
  
 site field work may be required. The mathematics department recommends that the prerequisite not be 
@@ -2754,7 +2754,7 @@ prerequisite is more than two years old, then the recommendation is that the cou
 taken, or the prerequisite be retaken to ensure the success of the student. 
 Prerequisite: MAT 154 
  
-……………………………………… 
+
  
 MANUFACTURING TECHNOLOGY (MFG) 
  "
@@ -2773,7 +2773,7 @@ applied using ANSI Y14.5M.
 Prerequisite: MFG 105 
  "
 MFG 131,PRODUCTION SAFETY,4,"
-167  •   
+   
  
  
 This course will guide students through an introduction to safety and effective communications in a 
@@ -2816,7 +2816,7 @@ Prerequisite: MFG 105*
 MFG 166,PRECISION MACHINING METHODS,2,"
 This course instructs students in machine tool principles and practices used in industry. Safety, 
 terminology, material milling, lathe, grinding, drilling, basic CNC, measurement and various shop 
-168  •   
+   
  
  
 procedures are used to complete projects. A working knowledge of hand and machine tools is achieved 
@@ -2868,7 +2868,7 @@ maintenance, and safety.
 MFG 203,ADVANCED CAM PROGRAMMING,3,"
 This is the final course in a three course CNC/CAD/CAM sequence. Students will design parts with complex 
 geometry and learn to use CAM software to program tool paths and account for different types of tooling. 
-169  •   
+   
  
  
 Students will use fixtures to create parts and will learn to check completed parts to ensure they meet 
@@ -2887,7 +2887,7 @@ use standard and custom elements to calculate load capabilities for bolts, pins,
 material. Some analysis will be computer-based as well as standard engineering analysis. 
 Prerequisites: MFG 105, MFG 160 and CAD 151 
  
-……………………………………… 
+
  
 MEDICAL INSURANCE CODER/ BILLER (MIC) 
  "
@@ -2921,7 +2921,7 @@ and ambulatory health care settings including: scheduling, registration, insuran
 schedules, encounter forms, charge capturing, billing process, reimbursement process, patient payment 
 and collections. Computer laboratory work with billing software is included. 
 Prerequisite: CIS 095* 
-170  •   
+   
  
  
   "
@@ -2942,7 +2942,7 @@ performing hours at an external site, but rather perform extensive coding and bi
 for the CPC exam, build a portfolio, and prepare for employment. Expect to spend approximately 10 hours 
 a week minimum, outside of class time, working on assigned items. 
  Prerequisite: MIC 241 
-……………………………………… 
+
  
 MEDICAL ASSISTANT (MED/MOA) 
  "
@@ -2974,7 +2974,7 @@ MED 130,MA FUNDAMENTALS,4,"
 This course provides students with an introduction to the medical assistant profession along with basic 
 clinical skills such as aseptic techniques and hand washing, OSHA & blood borne pathogen training, vitals, 
 patient communication, preparing for clinical procedures, and the top 50 prescribed drugs. 
-171  •   
+   
  
  
 Prerequisites: MED 125 and MED 120/MOA 120 
@@ -3028,7 +3028,7 @@ This clinical practicum provides an opportunity for a non-paid practical experie
 licensed health care practitioner’s office or clinic. The student will perform both clinical and administrative 
 medical assisting while being supervised and evaluated by the office staff and monitored by the instructor. 
 The student will also complete assignments via the virtual classroom. 
-172  •   
+   
  
  
 Prerequisite: MED-225 and MED 235 
@@ -3042,7 +3042,7 @@ administrative tasks learned in the program. The student will work with the prog
 determine what type of practicum/placement they would prefer. 
 Prerequisites: MIC 211 and instructor permission required 
  
-……………………………………… 
+
  
 MUSIC (MUS) 
  "
@@ -3081,7 +3081,7 @@ MUS 124,ADVANCED VOICE CLASS,2,"
 Sequence of Voice Class, MUS 123. Class continues the development of vocal technique, with emphasis on 
 performance. May be taken two times for credit. 
 Prerequisite: MUS 123 
-173  •   
+   
  
  
  "
@@ -3133,7 +3133,7 @@ Prerequisite: MUS 151
 MUS 167,APPLIED MUSIC,1,"
 Private lessons taken for one credit, designed for music transfer students on secondary instruments, or 
 recreational players looking to further their instrumental or vocal skills. Each face-to-face lesson will be 40 
-174  •   
+   
  
  
 minutes, once per week, will include extra outside work, and require an end-of-semester recital 
@@ -3177,7 +3177,7 @@ bachelor’s degree. All students must register with the music department at the
 semester. Recital and jury required. 
 Prerequisite: MUS 168 or MUS 178 
   
-……………………………………… 
+
  
  
 NATURAL SCIENCE (NSC) 
@@ -3186,7 +3186,7 @@ NSC 120,FUNDAMENTALS OF AGRICULTURAL SCIENCE,4,"
 This course is designed for students in the agricultural science degree program. It provides an overview of 
 important concepts in biology and chemistry. Chemistry topics include atomic structure, energy, and acid 
 and base chemistry. Biology concepts include cellular structure and energy production, biotechnology, 
-175  •   
+   
  
  
 evolution and ecology. These concepts will be expanded and applied in later courses in the program. The 
@@ -3217,7 +3217,7 @@ method, and then apply these principles to design, conduct, and interpret basic 
 experiments in physics, chemistry, biology and geology. 
 Corequisite: NSC 141 
  
-……………………………………… 
+
  
 NURSING (NRS) 
  "
@@ -3238,7 +3238,7 @@ NRS 119,HEALTH ASSESSMENT,3,"
 This course prepares students to conduct evidenced-based, client-centered health assessments. Using a 
 systematic and culturally responsive approach, the student will demonstrate safe assessment techniques 
 and electronic health record documentation according to evidence-based practice. Classroom, laboratory 
-176  •   
+   
  
  
 and simulation experiences foster the development of clinical reasoning, a spirit of inquiry, and teamwork 
@@ -3291,7 +3291,7 @@ practice standards, and current research are included in both the acute care and
 Prerequisites: NRS 210, NRS 211 and NRS 215 
  "
 NRS 214,MEDICAL SURGICAL NURSING II,4,"
-177  •   
+   
  
  
 This course prepares the student to provide culturally responsive safe, quality care while utilizing clinical 
@@ -3317,7 +3317,7 @@ evaluation of current health care trends, legal and ethical processes, and evide
 preceptorships designed to integrate theory, practice and professional socialization are included. 
 Prerequisites: NRS 212 or 222, NRS 213 or 223, NRS 214 and NRS 230 
  
-……………………………………… 
+
  
  
  
@@ -3344,7 +3344,7 @@ Prerequisite: ENG-131 and PAM-190
 PAM 230,HUMAN RESOURCES IN PUBLIC SECTOR,3,"
 This course will provide the opportunity to increase your understanding and awareness of how 
 public and non-profit organizations recruit, motivate, develop, and retain their employees and 
-178  •   
+   
  
  
 manage their human resource functions and systems. Students will gain an understanding of the 
@@ -3365,7 +3365,7 @@ a dynamic, pervasive, and proactive approach towards public policy that promote 
 and community centered programming around critical issues. 
 Prerequisite: PAM 230.  
  
-……………………………………… 
+
  
 PHILOSOPHY (PHL) 
  "
@@ -3397,8 +3397,8 @@ PHL 243,GREAT WORLD RELIGIONS,3,"
 Students examine the literature and historical settings of great world religions. The relationship of 
 contemporary thought is considered for representative groups. 
  
-……………………………………… 
-179  •   
+
+   
  
  
  
@@ -3450,14 +3450,14 @@ all science and engineering students. The course includes a laboratory component
 Prerequisite: MAT 151 or higher 
  "
 PHY 252,MODERN UNIVERSITY PHYSICS II,5,"
-180  •   
+   
  
  
 Students cover topics in classical electricity and magnetism, optics, special relativity and modern physics. A 
 continuation of PHY 251. The course includes a laboratory component. 
 Prerequisite: PHY 251 
   
-……………………………………… 
+
   
 POLITICAL SCIENCE (PLS) 
  "
@@ -3469,7 +3469,7 @@ PLS 262,INTERNATIONAL RELATIONS,3,"
 Survey contemporary world affairs and examine the nation-state system, the struggle for power, and 
 factors creating harmony and hostility among states. 
  
-……………………………………… 
+
 PRACTICAL NURSING (PNC) 
  "
 PNC 110,FOUNDATIONS OF PRACTICAL NURSING,5,"
@@ -3528,7 +3528,7 @@ licensure forms will be received with instructions regarding completion of forms
 licensure process. Information on the search for employment and job-seeking skills will be included. 
 Prerequisite: PNC 130 
  
-……………………………………… 
+
  
 PSYCHOLOGY (PSY) 
  "
@@ -3540,7 +3540,7 @@ Prerequisites: ENG 086* and ENG 091*
 PSY 140A,INTRODUCTION TO PSYCHOLOGY,4,"(Same as PSY 140) 
 Overview of the field of psychology, including learning, development, emotion, motivation, personality, 
 abnormal behavior and psychotherapy. 
-182  •   
+   
  
  
 Prerequisite: ENG 091* 
@@ -3593,7 +3593,7 @@ childhood. Genetic, prenatal and postnatal influences on development are examine
 learning theories are used to integrate research findings. 
 Prerequisite: PSY 140 
   
-183  •   
+   
  
  "
 PSY 251,ABNORMAL PSYCHOLOGY,3,"
@@ -3623,7 +3623,7 @@ employee motivation, job satisfaction, compensation strategies and practices, em
 leadership. 
 Prerequisites: ENG 131 and PSY 140 
  
-……………………………………… 
+
  
  
 RADIOGRAPHY (RAD) 
@@ -3646,7 +3646,7 @@ human anatomy. The students will learn to select and employ the correct procedur
 radiographic examination and prepare to implement this knowledge in a clinical setting. This course will 
 cover the bony thorax, spine, head, gastrointestinal tract, as well as urinary imaging. 
 Prerequisite: RAD 121 
-184  •   
+   
  
  
  "
@@ -3699,7 +3699,7 @@ course will provide direction to students for registry preparation.
 Prerequisite: RAD 160 
  "
 RAD 213,RADIOBIOLOGY,2,"
-185  •   
+   
  
  
 Students review the basics of cell biology and study the basic biologic interaction of radiation. That study 
@@ -3722,7 +3722,7 @@ RAD 219,CLINICAL PRACTICUM V,5,"
 Continuation of Clinical Practicum IV. 
 Prerequisite: RAD 214 
  
-……………………………………… 
+
  
 RESPIRATORY CARE (RES) 
  "
@@ -3753,7 +3753,7 @@ management, cardiopulmonary diagnostic equipment and techniques and an introduct
 mechanical ventilation. 
 Prerequisites: RES 100 and RES 104 
  
-186  •   
+   
  
  "
 RES 114,CARDIOPULMONARY PATHOPHYSIOLOGY I,2,"
@@ -3806,7 +3806,7 @@ Prerequisites: RES 120, RES 125 and RES 126
 RES 205,CLINICAL PRACTICE III,5,"
 This clinical course allows students to assist in the pulmonary management of adults on mechanical 
 ventilation. An integrated approach to patient care will be stressed through accurate patient assessment 
-187  •   
+   
  
  
 and application of various equipment and therapies. Students will also function as members of the health 
@@ -3841,7 +3841,7 @@ venues where respiratory therapists are employed. In addition, weekly clinic sem
 campus to facilitate student learning. 
 Prerequisite: RES 210 
  
-……………………………………… 
+
 SEMINAR (SEM) 
  "
 SEM 122,INTRODUCTION TO SERVICE ENGAGEMENT,1,"
@@ -3854,12 +3854,12 @@ help all students develop both hard and soft skills, the inner qualities and ext
 take charge of their academic and career success. Students will be guided through an extensive process in 
 making career choices and selecting an academic program of study at Jackson College and beyond. 
  
-……………………………………… 
+
  
 SOCIAL WORK (SWK) 
  "
 SWK 292,INTRODUCTION TO SOCIAL WORK,3,"
-188  •   
+   
  
  
 An introduction to the social work profession, code of ethics, values, and social welfare policy. This is an 
@@ -3867,7 +3867,7 @@ examination of the profession’s responsibilities in correlation to the populat
 history of social work as well as the role of the social work profession and different settings of practice. 
 Prerequisite: PSY 140 or SOC 231 
  
-……………………………………… 
+
  
 SPORT MANAGEMENT (SMT) 
  "
@@ -3912,7 +3912,7 @@ functions of product or service planning, pricing, promotion and placement (dist
 Prerequisites: CIS 095*and MAT 033*  
  "
 SMT 240,SPORT FACILITY AND EVENT MANAGEMENT,3,"
-189  •   
+   
  
  
 This course examines the principles of facility operations and event management in the industry of sport 
@@ -3941,7 +3941,7 @@ integrating and applying knowledge to real-work organizational opportunities and
 intended to provide the foundation knowledge necessary for an entry-level career or an upper-level 
 course preparation in sport management. 
  
-……………………………………… 
+
  
  
  
@@ -3965,13 +3965,13 @@ Prerequisites: ENG 085* and ENG 090*
 SOC 246,MARRIAGE AND FAMILY,3,"
 The position and significance of marriage and the family in contemporary society are examined. Issues are 
 examined within the larger political, historical and social context, including marriage and family values 
-190  •   
+   
  
  
 within diverse ethnic, minority and gender identity groups. SOC 231 recommended before enrolling in this 
 course. 
  
-……………………………………… 
+
  
 SPANISH (SPN) 
  "
@@ -4006,7 +4006,7 @@ Continues to stress speaking practice and writing improvement. Readings and disc
 focusing on contemporary events and Hispanic culture. 
 Prerequisite: SPN 231 
   
-……………………………………… 
+
  
 SURGICAL TECHNOLOGY 
  "
@@ -4027,7 +4027,7 @@ these topics in depth to explore the complete system, the challenges involved, a
 that exist. 
 Prerequisites: STM 101, PHL 232 and MAT 130* or higher 
  
-……………………………………… 
+
  
 THEATRE (THR) 
  "
@@ -4059,7 +4059,7 @@ Advanced character work and an opportunity to rehearse and perform a studio thea
 Prerequisite: THR 145 
  "
 THR 151,MAKE-UP FOR STAGE & VIDEO,3,"
-192  •   
+   
  
  
 Students learn the fundamental techniques of design and application of make-up for theatre and video. 
@@ -4091,7 +4091,7 @@ their field through active participation. Note: May be taken three times for cre
 be earned). 
 Prerequisite: Instructor Permission Required 
  
-……………………………………… 
+
 UNMANNED AERIAL SYSTEMS (UAS) 
  "
 UAS 101,Introduction to Unmanned Aerial Systems,4,"
@@ -4099,7 +4099,7 @@ This course prepares students to operate in the Federal Aviation Administration 
 uncontrolled airspace system. Various rules and regulations regarding aircraft and unmanned aerial 
 systems (UAS) will be covered. Flying of UAS will be included. 
  
-……………………………………… 
+
  
 WELDING TECHNOLOGY (WLD) 
  "
@@ -4109,7 +4109,7 @@ electricity, equipment and safety procedures. Provides laboratory experience wel
 horizontal positions. 
  "
 WLD 110,MIG/TIG WELDING,4,"
-193  •   
+   
  
  
 This is a welding course in GMAW (gas metal arc welding formally known as MIG welding) and GTAW (gas 
@@ -4130,7 +4130,7 @@ This course provides a focus on welding certification component essentials to in
 environment and materials that meet the AWS welding standard. 
 Prerequisite: WLD 115 
  
-……………………………………… 
+
  
 WORLD LANGUAGES (WRL) 
  "
@@ -4148,4 +4148,4 @@ Prerequisite: WRL 102
 WRL 104,MANDARIN CONVERSATION I,2,"
 This course is designed for people who have little or no knowledge of Mandarin. The emphasis is on 
 speaking and listening. The course introduces practical vocabulary, culture, pronunciation, and essential 
-grammar with minimal reading and writing. 
+grammar with minimal reading and writing. "
