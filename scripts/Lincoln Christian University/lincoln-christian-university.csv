@@ -1,4 +1,4 @@
-Code,Title,Hours,Description
+Code,Title,Credits,Description
 BI 270,Interpreting the Christian Scriptures,3,"A study of 
 the resources, principles, and methods of interpreting 
 Scripture."
@@ -20,7 +20,14 @@ BI 400,Orientation to Internship,0,"An introduction to
 and preparation for the internship experience and life-
 related skills for all juniors two semesters prior to the 
 planned internship."
-BI 400,Orientation to Internship,1-6,
+BI 401,Internship in Biblical Studies,1-6,"A senior level 
+supervised internship experience with an approved 
+mentor in an approved setting, within the student’s 
+degree program or focus, evaluated according to the 
+requirements in individually written learning 
+covenants. Internship can range from 1-6 hours and 
+may be repeated for a maximum of 6 hours. 
+Prerequisite: BI 400 Orientation to Internship."
 BI 413,Senior Seminar in Bible,3,"A senior course 
 designed to draw together the various courses and 
 experiences that students have had which relate to 
@@ -78,6 +85,26 @@ will be written according to guidelines available from
 the Seminary office. The student may choose to defend 
 the thesis in an oral exam or make a presentation to a 
 select audience."
+BI 902,Thesis Re-Registration,0,"Students not completing 
+the thesis during the semester in which they register 
+for it are required to re-register under the 902 course 
+number each semester until the thesis is completed and 
+approved."
+BI 905,Biblical Studies Comprehensive Exam,3,"An 
+independent study based on a prescribed bibliography 
+of important books in biblical studies.  In the exam, 
+students will be required to demonstrate the ability to 
+perform exegesis based on original language study 
+(Greek and Hebrew), including the ability to translate a 
+passage.  Students must understand, apply, evaluate 
+methods of biblical scholarship, and understand the 
+formation and context of the biblical text. Same as NT 
+905 and OT 905."
+BT 611,Introduction to Christian Theology,3,"An 
+introduction to the key biblical beliefs that define the 
+historic Christian faith (e.g. God, Christ, Holy Spirit, 
+humanity, sin, salvation, etc.), with attention given to 
+the credibility of such beliefs."
 BT 612,Introduction to the Bible,3,"A survey of the Old 
 and New Testaments of the Christian Bible with 
 emphasis on the narrative that spans them."
@@ -114,11 +141,31 @@ concerns."
 BT 644,Biblical Apocalypse,3,"A study of the books of 
 Daniel and Revelation with emphasis on interpretation 
 with the genre of apocalypse."
-BT 651,The Life and Teaching of Jesus the Messiah,3,"A 
+BT 648-649,Biblical Hebrew I-II,3,"This two-part course 
+introduces students to biblical Hebrew. (6 hours) 
+BT 651 The Life and Teaching of Jesus the Messiah. A 
 comprehensive survey of the life, ministry, and 
 teaching of Jesus, the Messiah. This course   will focus 
 on the Gospels drawing a portrait of Jesus of Nazareth, 
 the man and the Savior, from the Gospels."
+BT 653,The Sermon on the Mount and Beyond,3,"This 
+course is a study of the origins and biblical bases of 
+Christian Ethics with a focus on the Sermon on the 
+Mount (Matthew 5-7). It is an exegetical study of the 
+Sermon on the Mount but also is designed to help the 
+student determine appropriate Christian responses to 
+present day issues in personal spiritual life, family life, 
+church life, and public life, as well as making decisions 
+involving issues surrounding one’s nation and the 
+world."
+BT 654,Jesus and Spiritual Formation,3,"This class focuses 
+on the use of the classic spiritual disciplines (e.g. 
+prayer, Bible study, fasting, worship, frugality, 
+meditation, evangelism, confession, etc.) in the life and 
+teaching of Jesus of Nazareth. The student will explore 
+each of the spiritual disciplines and learn how to 
+practice the spiritual disciplines in the process of 
+spiritual formation."
 BT 659,Acts,3,"An introduction to the Book of Acts 
 including matters of history, chronology, biography, 
 theology, soteriology, and ecclesiology, with special 
@@ -143,6 +190,12 @@ relation between secular thought or philosophy and
 Christian theology and, more specifically, the 
 constructive relationships that Christian theology can 
 have with more recent philosophies."
+BT 689,Apologetics,3,"An introduction to Christian 
+evidences, from the Creation/Evolution debate to 
+Archaeology to Theodicy (the problem of suffering) 
+and beyond. Learn how to construct convincing 
+presentations for unbelievers and make apologetics a 
+part of your own personal ministry."
 BT 691,Theological Ethics,3,"An examination of the 
 thought of Christian ethicists with application to 
 contemporary problems. Course includes an emphasis 
@@ -163,6 +216,11 @@ Christian theology. Field trips to a mosque and a Hindu
 or Buddhist temple. Goal: to building understanding for 
 “pre-evangelism,” implementing new strategies for 
 connecting with outsiders."
+BT 700,Capstone Paper/Project,3,"This course assesses 
+how well students have achieved the program’s five 
+learning objectives through one of two means: 1) either 
+a 35-45-page research paper on an approved topic or, 2) 
+a field-based project completed in an approved setting."
 BT 899,Special Issues in Bible or Theology,3,"Specialized 
 study in an area of the Bible or Theology that is not 
 covered in existing courses."
@@ -185,6 +243,35 @@ foundations of Christian formation. It also examines the
 roles of teacher and students, aim of lesson, curriculum 
 development, teaching methods, learning environment, 
 and evaluation of teaching and learning processes."
+CE 315,Leading and Learning in Small Groups,3,"This 
+course will equip students with a foundational 
+understanding of the knowledge and skills required to 
+lead small groups by incorporating spiritual, cognitive, 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+ 
+Take a different course. Make a better world. 
+21 
+and experiential learning techniques. Attention will be 
+given to Biblical and theological foundations, theories, 
+dynamics, principles, and practices of small group 
+ministries, and understanding leading small groups, 
+developing leaders of small groups, devising small group 
+ministries to meet various needs (including mentoring 
+groups, maturity groups, ministry groups, mending 
+groups, mission groups, model groups, etc.) and settings 
+(children, youth, and adults), and organizing and 
+administering a small group ministry."
+CE 441,Ministry to Children in Crisis,3,"A survey of the 
+spiritual, emotional, social, intellectual, and physical 
+needs of children aged 2-12 as they respond to a variety 
+of personal and family crises. The course will address at 
+an introductory level ministry models, methods, and 
+resources for ministering to children who are in 
+bereavement, under stress, hospitalized, abused, from 
+divorced homes, in poverty, or living with parents who 
+are substance abusers. Prerequisite: junior status."
 CE 449,Marriage Enrichment,3,"A course designed to lead a 
 married couple to enrichment with each other and to 
 equip the couple to be able to enrich the marriages of 
@@ -207,6 +294,10 @@ CE 605,Human Development and Learning,3,"A course
 designed to provide the student with an understanding 
 of developmental and learning theories and their 
 implications for the education and pastoral ministry."
+CE 606,Education for Spiritual Formation,3,"A course 
+studying spiritual formation from various perspectives 
+(psychology, history, theology, Bible), with application 
+to personal life and congregational ministry."
 CE 607,Worship and Spiritual Formation,3,"A course 
 designed to aid the student in developing an 
 understanding of worship as it relates to spiritual 
@@ -226,6 +317,33 @@ CE 702,Small Groups,3,"A study and practicum on the
 theoretical basis of small group ministry in the church 
 and the practical means of developing, leading, and 
 equipping such a ministry."
+CE 704,Leading Through Change,3,"Change in the church 
+is driven by two types of forces: changes in the 
+ministry context that the congregation has no control 
+over and may have no desire for, and intentional 
+changes the leadership determines are desired. The 
+intent of this course is to equip its participants to 
+analyze the changes occurring and needing to occur in 
+their respective ministry contexts, to understand the 
+cultural and institutional forces which may drive or 
+resist change, and to devise effective strategies for 
+leading their respective churches, institutions, or 
+parachurch ministries through those changes while 
+minimizing, mitigating, and resolving conflict. Same as 
+LS 704."
+CE 706,History of Christian Spirituality,3,"An 
+investigation into the development of Christian 
+spirituality with special attention to key spiritual 
+masters, developments, and documents. Students will 
+journal their spiritual reflections first through selected 
+sections of Christian spiritual writers through the ages 
+and then through the writings of a particular spiritual 
+master. Same as TH 706."
+CE 756,Readings in Spiritual Formation,3,"A seminar 
+focused on the writings of 20th and 21st century 
+authors on Christian spirituality with an emphasis on 
+developing a contemporary approach to spirituality and 
+personal reflection and growth."
 CE 765,Christian Higher Education,3,"Designed for 
 students considering service in an institution of higher 
 education, the course is an introduction and practicum 
@@ -247,9 +365,10 @@ campus mentors."
 CE 899,Special Issues in Christian Education,3,"Advanced 
 study of one or more topics in the field of Christian 
 Education."
-CE 900,Research in Christian Education,1-3,"Individual 
-research under faculty supervision."
-CM 150,Laying a Foundation for Ministry,3,"By exploring 
+CE 900,Research in Christian Education,3,"Individual 
+research under faculty supervision. (1-3 hours) 
+Christian Ministry 
+CM 150 Laying a Foundation for Ministry. By exploring 
 the Scriptural, theological, and historical foundations of 
 ministry in the local church, students will sharpen 
 their calling and form a philosophy of ministry."
@@ -271,10 +390,25 @@ CM 230,Preaching and Teaching in the Local Church,3,"Armed with a theological ba
 preaching and teaching, students will learn the basic 
 techniques necessary for sermon/lesson construction 
 and delivery."
+CM 240,Pastoring a Congregation,3,"With an established 
+pastoral theology, students will gain the skills necessary 
+for practical expressions of congregational (weddings, 
+funerals, etc.) and individual (basic counseling) pastoral 
+services."
 CM 315,"Evangelism, Discipleship, and Faith 
 Development",3,"An exploration of how to develop 
 Christlikeness through evangelism, discipleship, and 
 faith development."
+CM 317,Interpersonal Communication,3,"An introduction 
+to the basic principles of communication which exist in 
+face-to-face, interpersonal situations. Theories and 
+applications will be explored as they relate to this most 
+common of all communication settings. Special focus 
+will be given to self-awareness, audience awareness, 
+listening, message development and presentation, 
+managing relationships, and decision-making.  
+Prerequisite: LA 113, or demonstrated proficiency in 
+LA 113."
 CM 325,Navigating Relational Dynamics,3,"Knowing 
 ministerial work is a highly spiritual and relational 
 work – between the minister and God, within the 
@@ -282,6 +416,21 @@ ministers themselves, and the minister and others –
 students will deepen their relationship with God, while 
 also exploring ways to deepen all associative ministerial 
 relationships."
+CM 327,Engaging with Social Issues of the Family,3,"An 
+understanding of child and adolescent growth and 
+development, the current emotional and social issues 
+confronting young people and their families 
+(abandonment, identify formation, at-risk students, 
+abuse, sexuality, drugs/alcohol, depression, suicide, 
+cutting, self-esteem, pornography, etc.), and basic 
+solution-focused counseling skills needed to effectively 
+address these issues from a Biblical perspective."
+CM 336,Contextualizing Ministry,3,"Because every 
+ministry context is unique, students will be introduced 
+to the tools needed to identify and interact with the 
+many shaping factors (historical, cultural, generational, 
+gender, ethnicity, race, etc.) of the ministry context in 
+which they find themselves."
 CM 399,Special Issues in Christian Ministries,1-3,"Directed 
 study in the field of Christian Ministries for the student 
 who desires to pursue a topic of study not covered in 
@@ -290,6 +439,23 @@ CM 400,Orientation to Internship,0,"An introduction to
 and preparation for the internship experience and life-
 related skills for juniors, two semesters prior to the 
 planned internship."
+CM 401,Internship in Christian Ministry,1-15,"The 
+internship is an undergraduate (junior and/or senior 
+level) Field Experience combining classroom learning 
+with ministry experience in an approved setting with 
+an approved mentor evaluated according to the 
+requirements stated in individually written learning 
+covenants. Internship hours can be taken in a variety of 
+combinations, ranging from 1-15 hours, usually in a 3-
+hour course format per semester, and may be repeated 
+for a maximum of 15 hours. 12 hours is the maximum 
+that a student could take during a semester."
+CM 404,Supervised Ministry Experience,4,"These 
+experiences (typically requiring at least 200 hours) will 
+focus on one’s chosen area of ministry and will be 
+formally evaluated through a Learning Covenant. 
+Consent of advisor and the director of the Supervised 
+Ministry Experience is required prior to enrolling."
 CM 410,Ministerial Ethics,3,"A course in applied ethical 
 theory to the profession of ministry. Students will 
 explore various ethical dilemmas associated with 
@@ -339,6 +505,21 @@ ministers themselves, and the minister and others –
 students will deepen their relationship with God, while 
 also exploring ways to deepen all associative ministerial 
 relationships."
+CM 527,Engaging with Social Issues of the Family,3,"An 
+understanding of child and adolescent growth and 
+development, the current emotional and social issues 
+confronting young people and their families 
+(abandonment, identify formation, at-risk students, 
+abuse, sexuality, drugs/alcohol, depression, suicide, 
+cutting, self-esteem, pornography, etc.), and basic 
+solution-focused counseling skills needed to effectively 
+address these issues from a Biblical perspective."
+CM 536,Contextualizing Ministry,3,"Because every 
+ministry context is unique, students will be introduced 
+to the tools needed to identify and interact with the 
+many shaping factors (historical, cultural, generational, 
+gender, ethnicity, race, etc.) of the ministry context in 
+which they find themselves."
 CM 600,Pastoral Care,3,"This course attempts to open 
 avenues of insight and service through pastoral care 
 and crisis counseling.  The students explore biblical, 
@@ -383,6 +564,25 @@ explores the biblical precedent, theological
 implications, and practical application of building 
 ministry teams, developing leaders, and organizing 
 ministry systems."
+CM 711,Integrated Field Experience,3,"Students will 
+integrate their classroom learning into a practical 
+ministry context.  The course consists of four essential 
+leadership development components: ministry 
+experience, mentoring/coaching, critical reflection 
+practices, and cohort discussion and debriefing (with 
+other students and faculty via video)."
+"CM 712, 713, 714", Integrated Field Experience,3," Students 
+will integrate their classroom learning into a practical 
+ministry context.  The course consists of three essential 
+leadership development components: ministry 
+experience, mentoring/coaching, and critical reflection 
+practices. CM 711 is a prerequisite"
+CM 715,"Integrated Field Experience Students will 
+integrate their classroom learning into a practical 
+ministry context",1-3,"The course consists of three essential 
+leadership development components: ministry 
+experience, mentoring/coaching, and critical reflection 
+practices. CM 711 is a prerequisite."
 CM 722,Small Groups,3,"A study and practicum on the 
 theoretical basis of small group ministry in the church 
 and the practical means of developing, leading, and 
@@ -404,6 +604,18 @@ assessed by student case studies, readings, reflections,
 inventories, and presentations.  Students will be expected 
 to integrate their scriptural and theological education 
 with their personal formation and ministry context."
+CM 891,Ministry Residency,3,"In conjunction with an 
+approved hosting church, the student will complete a 
+minimum of 125 clock hours of work in ministry 
+instruction and experience, as agreed on by the residency 
+director at the church, the student, and Vice President of 
+Academics. Residency experiences can include reading, 
+writing, and research assignments in support of the 
+primary ministry skills being taught in the residency. 
+Students registering for this course must also be accepted 
+in residency programs of approved churches, a list of 
+which can be obtained from the Vice President of 
+Academics."
 COUN 600,Basic Types of Counseling Ministry,3,"A course opening avenues of insight and service 
 through pastoral care and counseling by exploring 
 biblical, historical, and contemporary material.  
@@ -412,6 +624,24 @@ with a healthy interface of theology and psychology.
 Specific applications are made in such areas as crisis 
 intervention; marital, premarital, and family 
 counseling; and cross-cultural counseling."
+COUN 601,Research and Evaluation in Counseling,3,"This 
+course provides an understanding of research methods, 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+ 
+Take a different course. Make a better world. 
+25 
+research designs, statistical analysis, needs assessment, 
+and program evaluation. The studies found in this 
+course emphasize the importance of research in 
+advanced counseling professions. This course surveys 
+many areas such as research methods, statistical 
+methods used for research or evaluation, principles, 
+models, and applications of needs assessments, use of 
+research to inform evidenced based practice, and 
+ethical and culturally relevant strategies for 
+interpreting and reporting results."
 COUN 602,Basic Counseling Techniques,3,"This course 
 provides a theoretical framework and experiential 
 exposure to the interviewing and counseling skills and 
@@ -432,6 +662,18 @@ lifespan perspective will address the effects of crises,
 disasters, and other trauma-causing events on persons 
 of all ages. Ethical and legal considerations of crisis 
 work will be explored."
+COUN 662,Psychopathology,3,"This course gives an 
+introduction to the study psychopathology and 
+abnormal behavior. Principles of etiology, diagnosis, 
+treatment, prevention and cultural factors of mental 
+and emotional disorders will be addressed. Emphasis is 
+placed on mental status assessment and diagnostic 
+categories as organized in the current edition of the 
+DSM (or ICD). While touching on a range of disorders, 
+(such as anxiety disorders, psychoses, personality 
+disorders, and mental deficiencies), this course 
+discusses the development of these disorders as well as 
+the methods of prevention and treatment."
 COUN 663,"Major Theories of Counseling and 
 Psychotherapy",3,"This course is a study of the major 
 theoretical approaches to counseling and 
@@ -462,6 +704,37 @@ testing, other assessment techniques, statistical
 concepts, reliability, validity, and social and cultural 
 factors, as well as ethical strategies for selecting, 
 administering and interpreting assessments."
+COUN 668,Group Theories and Practice,3,"This course 
+provides students with a theoretical and experiential 
+foundation for group work. Emphasis is on a survey of 
+the major theories and contributors to the field of 
+group counseling. Students examine types of groups, 
+leadership styles, ethical issues in group work, stages of 
+group development, and integrate group theory into 
+counseling practice with diverse populations. Students 
+will experience group dynamics through participation 
+in a group. COUN 602 and COUN 663 are prerequisites."
+COUN 670,Counseling Children,3,"This course is 
+designed to provide students with a theoretical 
+foundation and working knowledge of contemporary 
+interventions for children and youth. Specific 
+childhood issues (DSM-V) and treatment strategies will 
+be explored. The goal is to help students develop basic 
+skills necessary to effectively counsel children. Active 
+involvement by students is expected inclusive of 
+sharing their knowledge and personal experiences with 
+the class."
+COUN 702,Counseling Children and Adolescents,3,"This 
+course provides a developmental and contextual 
+approach to counseling children and adolescents.  
+Developmental and systems theories will be considered 
+in relation to this population, with a focus on the 
+interaction of children and youth with the 
+environment in which they live.  Issues specific to 
+children and adolescents (DSM-5) will be explored, as 
+will a variety of treatment approaches.  Other topics 
+will be explored as students’ knowledge, life 
+experiences, and interests dictate."
 COUN 722,Introduction to Traumatology,3,"This course 
 provides an introduction to trauma-informed 
 counseling.  Topics to be considered include types of 
@@ -477,6 +750,50 @@ health diagnoses; traumatic grief and loss; clinical
 assessment and treatment of acute trauma; and 
 resilience. Students will be expected to address their 
 biblical worldview in relation to traumatology."
+COUN 723,Disaster and Acute Trauma,3,"The focus of 
+this course is on providing effective mental health care 
+to individuals or groups impacted by single source 
+traumas, such as interpersonal violence, accidents, 
+natural disasters or workplace incidents.  Topics will 
+include resilience, stress disorders as defined by the 
+DSM-5, phases of disaster response, an introduction to 
+the incident command system, and the provision of 
+mental health and spiritual care in disasters.  Attention 
+will be given to self-care for providers."
+COUN 724,"Traumatology: Acute and Single Source 
+Trauma Therapy",3,"This class provides the student with a 
+comprehensive exploration of the psychological trauma 
+field, including the history and current theories in the 
+field, the nature of single source and acute trauma 
+experiences (interpersonal violence, combat, accident 
+and natural disasters). Attention will be given to 
+understanding the bio-psychosocial effects of trauma 
+and vicarious trauma. Students have the chance to 
+review evidence-based practices in the trauma field for 
+treating acute or single source trauma events. A variety 
+of theoretical frameworks are presented, including 
+cognitive, neurobiological, clinical, and socio-cultural 
+(including main controversies surrounding the field of 
+trauma therapy). Attention will be given to both 
+vulnerability and resilience factors in symptom 
+development and healing process with specific 
+attention to vulnerability and resilience factors with 
+spirituality and faith- based coping. Treatment 
+recommendations will be addressed for trauma 
+spectrum disorders including PTSD, Acute Stress, Mood 
+and Anxiety reactions. COUN 602 is a prerequisite."
+COUN 725,"Traumatology: Understanding and Treating 
+Complex Trauma",3,"This course is designed to explore the 
+theoretical, clinical, and theological aspects of complex 
+trauma, abuse, and/or neglect. The development of the 
+self, the dissociative self, and memory will be examined 
+through the lens of attachment theory and 
+neurobiology. This course also aims to deepen the 
+student’s ability to respond to the question of theodicy 
+and to address the potential for vicarious trauma for the 
+therapist/ helper. The mediating role of culture and 
+society in the perpetration and solution of trauma will 
+also be explored. COUN 602 is a prerequisite."
 COUN 730,Neuroscience and Counseling,3,"This course 
 will explore the impact of physiological underpinnings 
 on human functioning and mental health. The student 
@@ -496,6 +813,23 @@ physiological and behavioral effects of the major classes
 of psychoactive drugs including therapeutic agents and 
 drugs of abuse, including their therapeutic indications, 
 mechanisms of action, and side effects."
+COUN 745,Human Sexuality,3,"This introduction to 
+Human Sexuality will provide graduate counseling 
+students and professionals with an overview of human 
+sexuality. Through discussion, interactive learning 
+experiences, and course assignments, students will gain 
+knowledge, increased comfort, and personal insight on 
+many topics. Human sexuality will be examined 
+through a number of different lenses (spiritual, 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+ 
+Take a different course. Make a better world. 
+27 
+personal, historical, cultural, and public health) and 
+will focus on helping students integrate the physical, 
+emotional, intellectual, and social aspects of sexuality."
 COUN 751,Career Development Counseling,3,"This course is designed to provide an understanding of 
 career development theories and decision-making 
 models that impact the lifelong processes and 
@@ -508,6 +842,17 @@ systems. Emphasis will be placed on the career
 counseling process, techniques, and resources, as well 
 as assessment instruments relevant to career planning 
 for diverse populations in a global market economy."
+COUN 760,Multicultural Counseling,3,"This course is 
+designed to provide an understanding of the cultural 
+contexts of relationships and counseling issues among 
+diverse people groups nationally and internationally. 
+Culturally appropriate theories and treatment options 
+will be addressed. Emphasis is placed upon experiential 
+learning intended to enhance the student’s 
+understanding of self and culturally diverse clients, 
+including an exploration of values, beliefs, biases, 
+prejudices, and the role of advocating for social justice. 
+Same as IC 650."
 COUN 770,"Integration of Theology, Religion, and 
 Spirituality in Counseling",3,"Students will critically 
 examine the implications of a Christian worldview for 
@@ -559,6 +904,37 @@ a systems perspective to enhance their understanding
 of partner dynamics. Ethics, the role of diverse 
 identities, and contemporary trends will also be 
 explored."
+COUN 804,Family Systems Counseling,3,"This course 
+offers an overview of family and other systems theories 
+and major models of family and related interventions. 
+Students will have the opportunity to develop a 
+systems perspective to enhance their understanding of 
+family dynamics. Ethics, the role of diverse identities, 
+and contemporary trends will also be explored. 
+Students will participate in experiential application of 
+theories and treatment models. COUN 602 is a 
+prerequisite."
+COUN 806,"Developmental Issues in Counseling the 
+Elderly",3,"This course is an introduction to the field of 
+gerontology and the treatment modalities and 
+approaches to counseling older adults. Current research 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+28 
+ 
+ 
+www.LincolnChristian.edu 
+knowledge related to gerontology and the aging process 
+will be examined. An in-depth study of the special 
+health needs, chronic illnesses, physiological aspects, 
+and related services as applied to gerontology is 
+presented. Sociological and theological implications 
+will also be examined, as will approaches to counseling 
+the elderly in institutional settings and the role of 
+multicultural understandings on aging. Other topics to 
+be included are crisis situations, leisure, relocation, 
+retirement, housing, and death and dying."
 COUN 807,Substance Abuse and Addictions Counseling,3,"This course covers a broad survey of human addictive 
 behaviors and addictions counseling. Areas such as 
 chemical, psychological and social aspects of drug use, 
@@ -569,7 +945,131 @@ theories, assessments, interventions, counseling
 techniques and treatment modes will also be 
 emphasized. Various paradigms for addictions and 
 recovery will be analyzed."
-COUN 891,Clinical Pastoral Education,6,"Participating 
+COUN 810,"Ethical and Legal Issues for Counselors and 
+Other Christian Leaders",3,"This course combines a brief 
+introduction to general and Christian ethics with a 
+detailed examination of selected critical legal 
+challenges facing today’s Christian professional in view 
+of federal and State laws relevant to counselors, and 
+ethics with an emphasis on the Code of Ethics of the 
+American Counseling Association. Students will 
+explore the legal, ethical, and professional choices faced 
+by practicing human service professionals. 
+A wide variety of ethical issues and topics are covered, 
+including (but not limited to) ethical decision making, 
+professional standards, counselor values and attitudes, 
+counselor competence and supervision, client rights 
+and confidentiality, dual relationships, and ethical 
+issues in research and testing. This course also focuses 
+on ethical issues in multicultural counseling, marital 
+and family therapy, group counseling, and issues 
+related to dealing with unethical behavior. Expected 
+student outcome is a broad understanding of ethical 
+issues in counseling."
+COUN 890,Internship – Mental Health Counseling,3,"The 
+counseling internship is the final field experience of the 
+counseling program. Under supervision, the intern 
+completes 600 clock hours of clinical experience in an 
+appropriate counseling setting (of which, at least 240 
+hours of direct client service). The intern will also have 
+the opportunity to become familiar with professional 
+activities and resources in addition to the direct clinical 
+service. The purpose of the field experience is to 
+provide an opportunity to practice counseling skills in 
+an applied setting under the supervision of an 
+experienced practitioner and under the direction of a 
+Lincoln Christian University faculty member. The 
+student is required to arrange an appropriate internship 
+in an approved counseling setting. While engaged in an 
+internship, an appropriately licensed or certified 
+therapist will directly supervise the student. The 
+student is required to attend 1 ½ hours/week of group 
+supervision provided by a faculty member or student 
+supervisor. The Clinical Training Coordinator, in 
+conjunction with the field-site supervisor, will monitor 
+and evaluate the activity of the student. Expected 
+student objectives include a successful formal case 
+presentation to the internship seminar group and 
+satisfactory field evaluations. COUN 668 COUN 760, 
+COUN 804, COUN 807, and COUN 892 are 
+prerequisites. This course may be completed in two 
+semesters of 3 hours each or one semester of 6 hours. 
+COUN 891 Clinical Pastoral Education (CPE).  
+Clinical Pastoral Education is designed to be a unit of 
+intensely supervised clinical experience in pastoral care 
+and counseling to be taken off-campus at an accredited 
+center for CPE and approved by the LCU faculty. The 
+student is required to arrange an appropriate CPE in an 
+approved setting. Students wishing to pursue 
+chaplaincy are encouraged to check the requirements 
+for their particular group affiliation. CPE units may be 
+completed in two semesters of 3 hours each or one 
+semester of 6 hours. Prerequisites: COUN 600  
+(3-6 hours) 
+COUN 892 Counseling Practicum. The counseling 
+practicum is the beginning of the student’s supervised 
+clinical training. Under supervision, the student 
+completes 100 hours of clinical experience in an 
+appropriate counseling setting over a minimum 10-
+week period (of which, at least 40 hours are face- to-
+face hours of direct client service). The purpose of the 
+field experience is to provide an opportunity to practice 
+counseling skills in an applied setting under the 
+supervision of an experienced practitioner and under 
+the direction of a Lincoln Christian University faculty 
+member. The student is required to arrange an 
+appropriate practicum in an approved counseling 
+setting. While engaged in a practicum, an appropriately 
+licensed or certified therapist will directly supervise the 
+student. The student is required to attend 1 ½ 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+ 
+Take a different course. Make a better world. 
+29 
+hours/week of group supervision provided by a faculty 
+member or student supervisor. The Clinical Training 
+Coordinator, in conjunction with the field-site 
+supervisor, will monitor and evaluate the activity of the 
+student. Expected student objectives of the practicum 
+include clinical experiences which contribute to the 
+student’s growth and development as a counselor. The 
+placement and service contract must be approved by 
+the advisor, course supervisor, and practicum 
+supervisor. Prerequisites: COUN602, COUN662, 
+COUN663, and COUN810. To enroll in the Counseling 
+Practicum, students must successfully complete a pre-
+practicum application process."
+COUN 894,Advanced Internship,3,"The counseling 
+internship is the final field experience of the counseling 
+program. Under supervision, the intern completes 300 
+or more clock hours of clinical experience in an 
+appropriate counseling setting (of which, at least two-
+fifths of the hours are direct client service). The intern 
+will also have the opportunity to become familiar with 
+professional activities and resources in addition to the 
+direct clinical service. The purpose of the field 
+experience is to provide an opportunity to practice 
+counseling skills in an applied setting under the 
+supervision of an experienced practitioner and under 
+the direction of a Lincoln Christian University faculty 
+member. The student is required to arrange an 
+appropriate internship in an approved counseling 
+setting. While engaged in an internship, an 
+appropriately licensed or certified therapist will 
+directly supervise the student. The student is required 
+to attend 1½ hours/week of group supervision provided 
+by a faculty member or student supervisor. The Clinical 
+Training Coordinator, in conjunction with the field-
+site supervisor, will monitor and evaluate the activity 
+of the student. Expected student objectives include a 
+successful formal case presentation to the internship 
+seminar group and satisfactory field evaluations. 
+Prerequisite: Successful completion of COUN 890 
+Counseling Internship."
+COUN 895,Supervised Clinical Ministry,6,"This two-semester course is a designated alternative to 
+COUN 891 Clinical Pastoral Education. Participating 
 students must be in an active ministry context in which 
 they are accountable for various pastoral ministry 
 functions. Both individual and peer group supervision 
@@ -587,6 +1087,10 @@ mental health community, clinical interviewing and
 treatment planning, legal and “standard of practice” 
 issues, financial concerns and policies, licensure issues, 
 supervision, and ethical concerns."
+COUN 899,"Special Issues in Pastoral Care and 
+Counseling",3,"Specialized study of an area of counseling 
+not covered in existing courses. COUN 602 is a 
+prerequisite."
 COUN 900,Research in Pastoral Care and Counseling,1-3,"Individual research under faculty supervision in a 
 particular area of Pastoral Care and Counseling studies."
 CPL 101,Focused Writing,3,"This online course prepares 
@@ -600,7 +1104,31 @@ methods and resources to document learning, and the
 preparation of a portfolio, that includes a timeline, 
 autobiography, and formal documentation of prior 
 learning."
-HI 176,American History I,3,"The course will be a study of 
+CPL 299,Credit for Prior Learning,3,"CPL lower course 
+credits are the result of demonstrated learning from a 
+variety of sources including workshops, seminars, self-
+study, non-credit classes, training programs, and work-
+related learning. Please note that it is the learning, not 
+merely the experience, from these sources that is 
+evaluated and results in credits being awarded. (1-27, 
+with 3-hour increments most common). 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+30 
+ 
+ 
+www.LincolnChristian.edu 
+CPL 399 Credit for Prior Learning. CPL upper course 
+credits are the result of demonstrated learning from a 
+variety of sources including workshops, seminars, self-
+study, non-credit classes, training programs, and work-
+related learning. Please note that it is the learning, not 
+merely the experience, from these sources that is 
+evaluated and results in credits being awarded. (1-27, 
+with 3-hour increments most common) 
+History 
+HI 176 American History I. The course will be a study of 
 the development of the United States from its colonial 
 origins through the end of Reconstruction. The course 
 will emphasize the ideas that guided the country’s 
@@ -609,6 +1137,14 @@ analysis of primary source documents."
 HI 399,Readings in History,1-3,"A study of specific  historical 
 periods or problems with attention given to primary 
 source and historiographical texts."
+IC 603,"Cultural Insights for Effective Ministry and 
+Missions",3,"An introductory study in applied cultural 
+anthropology, this course is designed to provide students 
+with basic anthropological insights and practical 
+applications to increase their effectiveness in 
+understanding the culture(s) of their ministry setting(s) 
+in order to more effectively communicate the Gospel of 
+Christ."
 IC 611,Cross-cultural Communication,3,"This course is 
 designed to acquaint students with the challenges and 
 complexities involved in cross-cultural communication. 
@@ -616,16 +1152,71 @@ In addition to studies on communication theory and
 culture, particular attention will be given to the unique 
 challenges faced when communicating the Gospel 
 message across cultures."
+IC 613,Global Christianity,3,"This course will engage 
+students with the global character of the Church as 
+well as ministry in the multifaith and multicultural 
+context of contemporary society. This will include 
+attention to the wide diversity of religious traditions 
+present in potential ministry settings, as well as 
+expressions of social justice and respect congruent with 
+Christian commitment. (Same as TH 613)"
+IC 630,Worship in Cultural Context,3,"A study of the 
+impact of culture on worship practices. Emphasis is 
+placed on the relationship between worship and 
+evangelism, and attention is given to choosing 
+appropriate styles for a given context without 
+sacrificing content. Attention will be given to the 
+manner in which various cultures experience God and 
+an understanding of spirituality in the 
+modern/postmodern context. (Same as WS 603)"
 IC 642,Spiritual Dynamics of Missions,3,"An examination of the spiritual dynamics that affect 
 both the practice and the practitioner of mission.  This 
 course will provide a biblical and practical study on the 
 nature of the spiritual life, the mechanics required to 
 live that life well, and the spiritual forces arrayed 
 against God’s mission."
+IC 644,Global Christianity,3,"An examination of the 
+history of Christianity from the beginning of the 
+Church to the present. Emphasis will be placed on 
+people, events, and Church especially involving or 
+affecting Christian missions. (Same as CH 750)"
+IC 650,Multicultural Counseling,3,"This course is 
+designed to provide an understanding of the cultural 
+contexts of relationships and counseling issues among 
+diverse people groups nationally and internationally. 
+Culturally appropriate theories and treatment options 
+will be addressed. Emphasis is placed upon experiential 
+learning intended to enhance the student’s 
+understanding of self and culturally diverse clients, 
+including an exploration of values, beliefs, biases, 
+prejudices, and the role of advocating for social justice. 
+(Same as COUN 760)"
+IC 655,Field Experience in Intercultural Studies,3,"This experience-based course allows students to apply 
+the objectives of the program and participate in 
+intercultural engagement in a practical and substantive 
+way. A proposal for both the practicum and the field 
+supervisor must be submitted to and approved by the 
+program director prior to registering for and starting 
+this course. A minimum of 75 hours of field work are 
+required in addition to one-on-one mentoring and 
+reading/writing on topics related to the field 
+experience."
 IC 661,Research Methods in Missions,3,"An introduction 
 and overview of the various research methods helpful 
 to missionaries and other cross- cultural practitioners 
 in a variety of intercultural and congregational settings."
+IC 701,Christian Encounter with World Religions,3,"An examination of the world’s major religions (e.g. 
+Islam, Buddhism, Hinduism) from a Christian 
+perspective with a special emphasis on past and present 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+ 
+Take a different course. Make a better world. 
+31 
+missiological theories and practices for engaging, 
+dialoguing with, and evangelizing adherents of these 
+religions."
 IC 702,Theology of Mission and Evangelism,3,"A study of 
 the theology of Christian mission from the perspectives 
 of the Old and New Testaments, emphasizing principles 
@@ -634,15 +1225,67 @@ especially with regard to the message, the missionary,
 and missionary practices. Contemporary mission 
 theories and practices will be evaluated in light of a 
 Biblical theology of mission."
+IC 746,Contextualization,3,"An analysis of the theory and 
+practice of contextualization that will introduce 
+students to the prominent theories and researchers 
+within the field, as well as provide an overview of the 
+areas of missions and ministry where contextualization 
+is needed (e.g. theology, teaching, preaching, church 
+planting, etc.)."
+IC 751,Ministering in the Town and Country Church,3,"An overview of ministry in the town and country 
+community and church with an emphasis on 
+understanding the varied types of contexts and how 
+each affects pastoral work and strategy.  The town and 
+country culture is experienced as well as studied during 
+the class. (Same as LS 751)"
 IC 899,Special Issues in Intercultural Studies,1-3,"Specialized study of an area of Intercultural Studies not 
 covered in existing courses."
-IC 900,Research in Intercultural Studies,1-3,"Individual 
+IC 900,Research in Intercultural Studies,3,"Individual 
 research under faculty supervision in a particular area 
-of Intercultural Studies."
-ID 101,"Introduction to Worldview and the Christian 
-Mind",3,"This course will consider the concepts of 
+of Intercultural Studies. (1-3 hours) 
+Interdisciplinary Studies (IDS) 
+Many of the required hours in General Education are 
+taken in Interdisciplinary Studies, which help students 
+discern relationships among various disciplines, discover 
+worldviews expressed within these disciplines, and 
+evaluate these disciplines from a Christian perspective. It 
+provides an integral part of a student’s Christian 
+education, regardless of his or her vocational goals. The 
+IDS requirement consists of ID 101 which serves as a 
+prerequisite for 3 additional semesters of required ID 
+subject focused courses for a total of 12 semester hours. 
+Each of the 4 required ID courses is taught by an 
+instructor specializing in the subject of focus and may also 
+include contributions made by faculty with academic 
+specializations in other disciplines.  
+ID 101 Introduction to Worldview and the Christian 
+Mind. This course will consider the concepts of 
 worldview and Christian thinking.  Students will then 
 apply these concepts in societal analyses."
+ID 117,Western Civilization I,3,"This course will survey the 
+development of Western civilization from the Ancient 
+Near East to the 16th century. The course will focus on 
+engaging primary source texts and critical writing, and 
+will utilize worldview as the primary analytical lens for 
+the history of the West. As an interdisciplinary course the 
+class will include history, literature, philosophy, visual art 
+and architecture. IAI Code H2 901."
+ID 118,Western Civilization II,3,"This course will survey the 
+development of Western civilization from the 15th 
+century to nearly the present day. The course will focus 
+on engaging primary source texts and critical writing, and 
+will utilize worldview as the primary analytical lens for 
+the history of the West. As an interdisciplinary course the 
+class will include history, church history, visual art and 
+architecture. IAI Code H2 902."
+ID 238,Ancient Rome,3,"This course will survey the 
+development of Rome from its founding until its western 
+collapse in A.D. 476 and will emphasize its place in 
+Western history. The course will focus on engaging 
+primary source texts and critical writing, and will utilize 
+worldview as its primary analytical lens. As an 
+interdisciplinary course the class will include history, 
+literature, theology, visual art and architecture."
 ID 309,Dante,3,"This course studies Dante Alighieri’s 
 great medieval epic, The Divine Comedy, both in terms 
 of Dante’s literary achievement and in the way his 
@@ -655,12 +1298,41 @@ study of the intertwined development of Rome and the
 early church. As an interdisciplinary studies course, we 
 will consider developments in visual art, architecture, 
 history, church history, literature, and theology."
+ID 313,The Crusades,3,"This course surveys the history of 
+the Christian religious wars waged in Palestine and 
+Europe after 1095. Issues considered include crusade as 
+an expression of the “Age of Faith,” the reactions of 
+Christians and non-Christians to crusade, the artistic 
+expressions of the crusades and the theological 
+implications of the crusading movement. As an 
+interdisciplinary studies course we will consider 
+history, literature, visual art, theology/religious studies, 
+church history and music."
 ID 326,Augustine,3,"A seminar style reading and discussion 
 based course centered around the life and works of St. 
 Augustine of Hippo. A broad survey of Augustine’s 
 thought and life will be followed by a careful reading 
 through specific texts, such as Confessions, City of God, 
 On the Trinity, or selected sermons and letters."
+ID 327,"Lewis, Tolkien, and the Theological Imagination",3,"A seminar style, reading and discussion-based course, 
+giving students the chance to explore the broader 
+corpus of either C.S. Lewis or J.R.R. Tolkien (focus 
+varies by year). The class will engage the writings of 
+one of these authors with attention paid to worldview, 
+philosophical, theological, and literary issues."
+ID 331,Non-Western Philosophy,3,"This interdisciplinary 
+course examines philosophy as it came to exist outside of 
+the Graeco-Roman and subsequent Western tradition; to 
+do so, it will also interact with the practice of religion in 
+these areas and in aspects of intercultural studies. Each 
+iteration of this course will focus on the philosophical 
+(and often religious) traditions of a specific set of non-
+western cultures. Examples of these foci would include 
+classical Chinese philosophy (dealing with Confucianism, 
+Daoism, and Buddhism), South Asian philosophy (dealing 
+with Vedic, Upanishadic, and Buddhist philosophy), and 
+Islamic philosophy. Course may be repeated as topic 
+varies."
 ID 336,History of Gender and Christianity,3,"This course 
 provides students with a historical survey of the 
 complex relationship between gender, theology, 
@@ -681,6 +1353,46 @@ the stage with Greek philosophy and the Greco-Roman
 world, we then transition to the early church through the 
 fall of Rome and the Middle Ages, culminating with the 
 Renaissance and the Protestant Reformation."
+ID 342,"History of Christian Though and Culture II: 
+Modernity and the Restoration Movement",3,"This course 
+surveys the history of modern and contemporary 
+Christian thought within the embodied cultural, political, 
+geographic, scientific, and artistic contexts that helped 
+birth and mold it. Beginning with Descartes, the Thirty 
+Years War, and the rise of Secularism, we then transition 
+to the Scientific Revolution and the Enlightenment 
+through to the formation of modern Europe and the 
+West, culminating with globalization, postmodernity, and 
+the reshaping of Christianity in the 20th and 21st 
+centuries. This broader narrative will be juxtaposed with 
+the history and thought of the Restoration Movement, 
+equipping students to see recent developments in light of, 
+and in conversation with, our own identity and history."
+ID 343,Philosophy of Science,3,"This course examines the 
+philosophical presuppositions inherent in science while 
+chronicling the history and debate around those 
+presuppositions. Key themes will likely include the 
+epistemological question of how we can know anything at 
+all, the nature of time and space, the Quantum 
+revolution, the relationship between science, ethics, and 
+religion, and key figures responsible for paradigm shifts in 
+the history of science (e.g., Aristotle, Copernicus, Bacon, 
+Newton, Faraday, Darwin, Einstein)."
+ID 345,God and the Holocaust,3,"A course designed to 
+challenge students to wrestle with the Holocaust and 
+the perceived presence/absence of God in the midst of 
+human suffering. Special attention will be paid to how 
+the Holocaust impacted subsequent theology, 
+philosophy, literature, comic books, art, and film. 
+(Warning: some students may find the content 
+potentially upsetting.)"
+ID 368,Introduction to Mythology,3,"A seminar style, 
+reading and discussion based course exploring mythology 
+from a variety of primarily, though not exclusively, 
+Western cultures (e.g., Greek, Norse, Egyptian, 
+Arthurian) while also providing a Christian perspective 
+on the importance of the mythological imagination as 
+well as the role and genre of “true myths.”"
 ID 437,"Race, Gender, and Evangelicalism",3,"A seminar 
 style, reading and discussion based course probing the 
 explosive history and relationship between Evangelicals, 
@@ -699,6 +1411,20 @@ Catherine of Siena, Theresa of Avila, Susanna Wesley,
 Margaret Fell, Hannah More, Catherine Booth, 
 Josephine Butler, Phoebe Palmer, Octavia Albert, 
 Dorothy Day, and Maya Angelou."
+ID 456,New Age Thought and Practice,3,"A seminar style, 
+reading and discussion based course tracing the roots of 
+New Age thought in Western Esotericism, Theosophy, 
+and Spiritualism through to the explosion of New Age 
+spirituality in the 1960s and 70s, with special reference 
+to its on-going influence on contemporary culture. In 
+addition to standard readings, the course materials will 
+incorporate a variety of mediums, especially films and 
+novels."
+ID 462,Plato,3,"A seminar style, reading and discussion 
+based course primarily engaging with the Dialogues of 
+Plato, with some brief interludes to relevant historical 
+episodes (e.g., Neoplatonism, Augustine, the 
+Renaissance, Cambridge Platonism)."
 ID 477,Religion and Fiction,3,"A seminar style course built 
 around reading multiple works of fiction in their entirety 
 and discussing them together at length. Text selection 
@@ -720,12 +1446,28 @@ study of the intertwined development of Rome and the
 early church. As an interdisciplinary studies course, we 
 will consider developments in visual art, architecture, 
 history, church history, literature, and theology."
+ID 613,The Crusades,3,"This course surveys the history of 
+the Christian religious wars waged in Palestine and 
+Europe after 1095. Issues considered include crusade as 
+an expression of the “Age of Faith,” the reactions of 
+Christians and non-Christians to crusade, the artistic 
+expressions of the crusades and the theological 
+implications of the crusading movement. As an 
+interdisciplinary studies course we will consider 
+history, literature, visual art, theology/religious studies, 
+church history and music."
 ID 626,Augustine,3,"A seminar style reading and discussion 
 based course centered around the life and works of St. 
 Augustine of Hippo. A broad survey of Augustine’s 
 thought and life will be followed by a careful reading 
 through specific texts, such as Confessions, City of God, 
 On the Trinity, or selected sermons and letters."
+ID 627,"Lewis, Tolkien, and the Theological Imagination",3,"A seminar style, reading and discussion-based course, 
+giving students the chance to explore the broader 
+corpus of either C.S. Lewis or J.R.R. Tolkien (focus 
+varies by year). The class will engage the writings of 
+one of these authors with attention paid to worldview, 
+philosophical, theological, and literary issues."
 ID 637,"Race, Gender, and Evangelicalism",3,"A seminar 
 style, reading and discussion based course probing the 
 explosive history and relationship between Evangelicals, 
@@ -753,6 +1495,59 @@ the stage with Greek philosophy and the Greco-Roman
 world, we then transition to the early church through the 
 fall of Rome and the Middle Ages, culminating with the 
 Renaissance and the Protestant Reformation."
+ID 642,"History of Christian Though and Culture II: 
+Modernity and the Restoration Movement",3,"This course 
+surveys the history of modern and contemporary 
+Christian thought within the embodied cultural, political, 
+geographic, scientific, and artistic contexts that helped 
+birth and mold it. Beginning with Descartes, the Thirty 
+Years War, and the rise of Secularism, we then transition 
+to the Scientific Revolution and the Enlightenment 
+through to the formation of modern Europe and the 
+West, culminating with globalization, postmodernity, and 
+the reshaping of Christianity in the 20th and 21st 
+centuries. This broader narrative will be juxtaposed with 
+the history and thought of the Restoration Movement, 
+equipping students to see recent developments in light of, 
+and in conversation with, our own identity and history."
+ID 643,Philosophy of Science,3,"This course examines the 
+philosophical presuppositions inherent in science while 
+chronicling the history and debate around those 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+34 
+ 
+ 
+www.LincolnChristian.edu 
+presuppositions. Key themes will likely include the 
+epistemological question of how we can know anything at 
+all, the nature of time and space, the Quantum 
+revolution, the relationship between science, ethics, and 
+religion, and key figures responsible for paradigm shifts in 
+the history of science (e.g., Aristotle, Copernicus, Bacon, 
+Newton, Faraday, Darwin, Einstein)."
+ID 656,New Age Thought and Practice,3,"A seminar style, 
+reading and discussion based course tracing the roots of 
+New Age thought in Western Esotericism, Theosophy, 
+and Spiritualism through to the explosion of New Age 
+spirituality in the 1960s and 70s, with special reference 
+to its on-going influence on contemporary culture. In 
+addition to standard readings, the course materials will 
+incorporate a variety of mediums, especially films and 
+novels."
+ID 662,Plato,3,"A seminar style, reading and discussion 
+based course primarily engaging with the Dialogues of 
+Plato, with some brief interludes to relevant historical 
+episodes (e.g., Neoplatonism, Augustine, the 
+Renaissance, Cambridge Platonism)."
+ID 668,Introduction to Mythology,3,"A seminar style, 
+reading and discussion based course exploring mythology 
+from a variety of primarily, though not exclusively, 
+Western cultures (e.g., Greek, Norse, Egyptian, 
+Arthurian) while also providing a Christian perspective 
+on the importance of the mythological imagination as 
+well as the role and genre of “true myths.”"
 ID 677,Religion and Fiction,3,"A seminar style course built 
 around reading multiple works of fiction in their entirety 
 and discussing them together at length. Text selection 
@@ -760,6 +1555,51 @@ will vary from year to year, though regular authors would
 include the likes of Fyodor Dostoevsky, Graham Greene, 
 Flannery O’Connor, G.K Chesterton, George MacDonald, 
 Shusaku Endo, and Marilynne Robinson."
+LA 101,Writing Studies 1,3,"This is the first course in a 
+two-semester sequence of composition. Students will 
+be introduced to a rhetorical approach to academic 
+writing as a collaborative process of drafting, revising, 
+and editing thesis-driven essays. Emphasis will be 
+placed on critical reading and analysis, and course 
+topics will include elements of style and standard 
+composition. Successful completion of this course 
+requires a grade of C or better. IAI Code C1 900R."
+LA 102,Writing Studies 2,3,"This is the second course in a 
+two-semester sequence designed to enhance the critical 
+skills of argumentation and academic writing introduced 
+in LA 101 Writing Skills 1, developing greater depth and 
+sophistication in both style and subject matter. He 
+course will reinforce student experience with the 
+conventions of standard English, documentation and 
+research. Prerequisite: successful completion of LA 101 
+with a grade of C or better. IAI Code C1 901R."
+LA 113,Introduction to Speech,3,"A study and practice of 
+basic principles involved in discovering, arranging, 
+delivering, and evaluating ideas in speech situations. 
+IAI Code C2 900."
+LA 220,Introduction to Creative Writing,2-3,"This class is an 
+introductory level creative writing class in which the 
+primary principles of poetry and fiction will be 
+addressed, with some limited inclusion of creative 
+nonfiction. This workshop designed course is meant to 
+spark literary interests, talents, and inclinations, so that 
+students may gain clearer image of who they are as 
+writers. The course will include a large amount of 
+reading of both short stories and poetry as well as a 
+substantial creation of original works. Students will be 
+expected to critique the works of peers and to submit 
+their own work to similar critique. Prerequisite: of a C 
+or better in LA 101 is required, and a C or better in LA 
+102 is recommended."
+LS 602,Theology of Leadership for Christian Ministry,3,"This course seeks to help the student develop a Biblical 
+theology of leadership to inform both the theory and 
+the practice of leadership. Primary biblical themes and 
+metaphors will be explored to see how they impact 
+one’s approach to leadership. Such leadership concepts 
+and competencies as strategic planning, organizing, 
+group process and team development, communication 
+and conflict-resolution skills, and leading through 
+change will be emphasized. CM 611 is suggested."
 LS 603,Foundations of Chaplaincy,3,"This course provides 
 a foundational understanding of the ministry of 
 Chaplaincy as the ability to minister compassionately 
@@ -783,12 +1623,32 @@ realms of ministry and church life. Case studies will be
 presented and considered. The intended outcome for 
 each student is the completion a code of ethics 
 appropriate to that student’s context."
+LS 704,Leading Through Change,3,"Change in the church 
+is driven by two types of forces: changes in the 
+ministry context that the congregation has no control 
+over and may have no desire for, and intentional 
+changes the leadership determines are desired. The 
+intent of this course is to equip its participants to 
+analyze the changes occurring and needing to occur in 
+their respective ministry contexts, to understand the 
+cultural and institutional forces which may drive or 
+resist change, and to devise effective strategies for 
+leading their respective churches, institutions, or 
+parachurch ministries through those changes while 
+minimizing, mitigating, and resolving conflict. Same as 
+CE 704."
 LS 710,Dynamics of Effective Interpersonal Leadership,3,"A course designed to cultivate effective leadership 
 behavior. Through hands-on experiential learning, peer 
 feedback, and use of real-life case scenarios, 
 participants will understand the dynamics of 
 interpersonal behavior and develop skills to lead more 
 effectively."
+LS 751,Ministering in the Town and Country Church,3,"An overview of ministry in the town and country 
+community and church with an emphasis on 
+understanding the varied types of contexts and how 
+each affects pastoral work and strategy. The town and 
+country culture is experienced as well as studied during 
+the class. Same as IC 751."
 LS 752,Leading in the Town and Country Church,3,"A look at how town and country residents think and 
 the spiritual and social tools required to lead them. The 
 course examines the standard issues of church 
@@ -835,6 +1695,17 @@ existing courses."
 LS 900,Research in Leadership Studies,1-3,"Individual 
 research under faculty supervision in a particular area 
 of Leadership Studies."
+LS 905,Field Experience Capstone Project,3,"The capstone course is a summative, integrative 
+experience of the entire program, including theological 
+and personal reflection on the practical application of 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+36 
+ 
+ 
+www.LincolnChristian.edu 
+the program’s content in a supervised ministry context."
 MA 197,Math for Life,3,"A course focusing on mathematical 
 reasoning and the solving of real-life problems, rather than 
 on routine skills and appreciation. Topics to be studied will 
@@ -842,6 +1713,13 @@ be chosen from management science, statistics, coding,
 social choice and decision-making, geometrical ideas, 
 modeling, graph theory, loci/set theory, finance, and 
 problem-solving strategies."
+MA 295,Statistics,3,"An examination of descriptive and 
+inferential statistics, including frequency distributions, 
+estimation, hypothesis testing, t-tests, nonparametric 
+procedures, ANOVA, correlation, regression, and 
+sampling, with an emphasis on reasoning, problem 
+solving, and utilizing statistics within a team-based 
+research project. IAI Code M1 902"
 NT 104,New Testament I,3,"A course designed to examine 
 the life of Jesus and the early church, focusing on an 
 overview of the contents and theology of the Gospels 
@@ -856,6 +1734,27 @@ focusing on an overview of the contents and theology of
 the writings as well as discussions of the issues 
 surrounding the interpretation of epistolary and 
 apocalyptic genres."
+NT 310,Greek Basics,3,"An introduction to the basics of 
+the Greek language, with focus on using the language 
+in a ministry setting. In using examples from the Greek 
+New Testament, the course is designed to prepare 
+students to use the basics of the language (e.g., 
+grammar, syntax, the meaning of words, etc.) in 
+interpreting Scripture. NT 311 is a continuation of this 
+course."
+NT 311,Greek Exegesis,3,"By building on NT 310, this 
+course will emphasize using the Greek NT in the 
+exegetical (interpretative) process. Students will 
+develop a method for using the Greek text, English 
+                                                      
+1 NT courses are English language based, NTG courses are 
+Greek language based. 
+translations, and other appropriate tools to understand 
+the context, grammar, syntax, word meanings, 
+theology, and contemporary meaning of New 
+Testament texts. Attention will be given to how to use 
+the New Testament in preaching and teaching. Greek 
+proficiency or NT 310 is a prerequisite."
 NT 432,Exegesis of the Gospels,3,"An exegetical study of 
 one or more of the gospels with attention to issues of 
 genre, social and historical contexts, the literary 
@@ -885,6 +1784,36 @@ focus on historical context, special issues confronting
 selected books, and making the transition from what 
 the text meant in its initial setting to what it means in a 
 contemporary environment."
+NT 610,Greek Basics,3,"An introduction to the basics of 
+the Greek language, with focus on using the language 
+in a ministry setting. In using examples from the Greek 
+New Testament, the course is designed to prepare 
+students to use the basics of the language (e.g., 
+grammar, syntax, the meaning of words, etc.) in 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+ 
+Take a different course. Make a better world. 
+37 
+interpreting Scripture. NT 611 is a continuation of this 
+course."
+NT 611,Greek Exegesis,3,"By building on NT 610, this 
+course will emphasize using the Greek NT in the 
+exegetical (interpretative) process. Students will 
+develop a method for using the Greek text, English 
+translations, and other appropriate tools to understand 
+the context, grammar, syntax, word meanings, 
+theology, and contemporary meaning of New 
+Testament texts. Attention will be given to how to use 
+the New Testament in preaching and teaching. Greek 
+proficiency or NT 610 is a prerequisite."
+NT 631,Exegesis of a Synoptic Gospel,3,"An exegetical 
+study of a synoptic Gospel in the Greek text with 
+attention to the theological themes, structure, historical 
+setting, its relationships to the other Gospels, and 
+interpretation of selected portions. NT 611 is a 
+prerequisite."
 NT 632,Exegesis of the Gospels,3,"An exegetical study of 
 one or more of the gospels with attention to issues of 
 genre, social and historical contexts, the literary 
@@ -908,12 +1837,66 @@ NT 639,Exegesis of Revelation,3,"An exegetical study of
 the Book of Revelation with attention to issues of 
 genre, social and historical contexts, and contemporary 
 significance."
+NT 650,Preaching from the New Testament,3,"A team- 
+taught course designed to provide the student with the 
+skills to interpret and preach responsibly from the 
+books of the New Testament. Greek proficiency or NT 
+610 is a prerequisite; PR 601 is also prerequisite unless 
+special permission is granted by the instructor. Same as 
+PR 650."
+NT 702,New Testament Use of the Old Testament,3,"An examination of New Testament quotations of the Old 
+Testament in order to understand the New Testament’s 
+exegetical and hermeneutical methodology. Greek and 
+Hebrew proficiency are prerequisites. Same as OT 702."
+NT 724,Advanced Greek Readings,3,"This course 
+concentrates on translating more advanced Greek 
+readings from a range of texts including the New 
+Testament, the Septuagint, the Apostolic Fathers, and 
+others. NT 611 is a prerequisite."
+NT 725,Aramaic,3,"Study of Aramaic, including Old 
+Testament, Inscriptional Aramaic, Qumranic, and 
+Targumic Aramaic. (Same as OT 725) Hebrew 
+proficiency or OT 610 is a prerequisite."
+NT 728,Septuagint,3,"A study of the Greek version of the 
+Old Testament and the Apocrypha, including its origin, 
+transmission, and significance. (Same as OT 728) Greek 
+proficiency or NT 610 is a prerequisite."
+NT 741,Second Temple Judaism,3,"A study of the history 
+and literature of the Intertestamental Period with 
+particular emphasis given to connections between the 
+Old and New Testaments as well as to developments 
+which aid in the understanding of the writings of the 
+New Testament. Students will be familiarized with 
+political, social, and cultural issues related to 
+understanding this historical period through the use of 
+primary and secondary readings and through a focused 
+and guided research project. Same as OT 741."
+NT 754,Text and Canon of the Bible,3,"An examination of 
+the historical, theological, and textual factors involved 
+in the development of the biblical canon, covering both 
+what became the Old and New Testaments and what 
+did not. Same as OT 754."
 NT 808,New Testament Theology,3,"An investigation of 
 the writings of the New Testament that seeks to 
 determine their distinctive theological emphases, 
 ascertain common theological themes throughout the 
 New Testament canon, and situate the findings within 
 a Biblical Theology of both Testaments."
+NT 827,History of New Testament Scholarship,3,"An 
+overview of New Testament scholarship from the early 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+38 
+ 
+ 
+www.LincolnChristian.edu 
+church to the contemporary world. The course 
+introduces major figures and themes in the history of 
+scholarship, including biblical authority, methods of 
+interpretation, and the role of the human sciences (e.g. 
+philology, sociology, etc.) in interpretation especially 
+since the rise of historical criticism."
 NT 899,Special Issues in New Testament,3,"Specialized 
 study of an area of New Testament not covered in 
 existing courses."
@@ -926,26 +1909,82 @@ will be written according to guidelines available from
 the Seminary office. The student may choose to defend 
 the thesis in an oral exam or make a presentation to a 
 select audience."
-NT 611,"Greek Exegesis or Greek 
-proficiency is a prerequisite",3,
-NT 611,"Greek Exegesis or Greek proficiency 
-is a prerequisite",3,
-NT 611,"Greek 
-Exegesis or Greek proficiency is a prerequisite",3,
-NT 611,"Greek 
-Exegesis or Greek proficiency is a prerequisite",3,
-NT 611,"Greek Exegesis or Greek 
-proficiency is a prerequisite",3,
-NT 611,"Greek Exegesis or Greek 
-proficiency is a prerequisite",3,
-NT 611,"Greek Exegesis or Greek proficiency 
-is a prerequisite",3,
-NT 611,"Greek 
-Exegesis or Greek proficiency is a prerequisite",3,
-NT 611,"Greek 
-Exegesis or Greek proficiency is a prerequisite",3,
-NT 611,"Greek Exegesis or Greek 
-proficiency is a prerequisite",3,
+NT 902,Thesis Re-Registration,0,"Students not completing 
+the thesis during the semester in which they register 
+for it are required to re-register under the 902 course 
+number each semester until the thesis is completed and 
+approved."
+NT 905,Biblical Studies Comprehensive Exam,3,"An 
+independent study based on a prescribed bibliography 
+of important books in biblical studies.  In the exam, 
+students will be required to demonstrate the ability to 
+perform exegesis based on original language study 
+(Greek and Hebrew), including the ability to translate a 
+passage.  Students must understand, apply, evaluate 
+methods of biblical scholarship, and understand the 
+formation and context of the biblical text. Same as BI 
+905 and OT 905."
+NTG 432,Exegesis of the Gospels,3,"An exegetical study of 
+one or more of the gospels with attention to issues of 
+genre, social and historical contexts, the literary 
+relationships between the gospels, and contemporary 
+significance. NT 611 Greek Exegesis or Greek 
+proficiency is a prerequisite."
+NTG 434,Exegesis of the Book of Acts,3,"An exegetical 
+study of the Book of Acts with attention to issues of 
+genre, social and historical contexts, and contemporary 
+significance. Hermeneutical questions concerning how 
+Acts relates to the contemporary church will also be 
+addressed. NT 611 Greek Exegesis or Greek proficiency 
+is a prerequisite."
+NTG 435,Exegesis of the Pauline Epistles,3,"An exegetical 
+study of one or more of the Pauline epistles with 
+attention to issues of genre, social and historical 
+contexts, and contemporary significance. NT 611 Greek 
+Exegesis or Greek proficiency is a prerequisite."
+NTG 438,Exegesis of the General Epistles,3,"An exegetical 
+study of one or more of the general epistles with 
+attention to issues of genre, social and historical 
+contexts, and contemporary significance. NT 611 Greek 
+Exegesis or Greek proficiency is a prerequisite."
+NTG 439,Exegesis of Revelation,3,"An exegetical study of 
+the Book of Revelation with attention to issues of 
+genre, social and historical contexts, and contemporary 
+significance. NT 611 Greek Exegesis or Greek 
+proficiency is a prerequisite."
+NTG 632,Exegesis of the Gospels,3,"An exegetical study of 
+one or more of the gospels with attention to issues of 
+genre, social and historical contexts, the literary 
+relationships between the gospels, and contemporary 
+significance. NT 611 Greek Exegesis or Greek 
+proficiency is a prerequisite."
+NTG 634,Exegesis of the Book of Acts,3,"An exegetical 
+study of the Book of Acts with attention to issues of 
+genre, social and historical contexts, and contemporary 
+significance.  Hermeneutical questions concerning how 
+Acts relates to the contemporary church will also be 
+addressed. NT 611 Greek Exegesis or Greek proficiency 
+is a prerequisite."
+NTG 635,Exegesis of the Pauline Epistles,3,"An exegetical 
+study of one or more of the Pauline epistles with 
+attention to issues of genre, social and historical 
+contexts, and contemporary significance. NT 611 Greek 
+Exegesis or Greek proficiency is a prerequisite."
+NTG 638,Exegesis of the General Epistles,3,"An exegetical 
+study of one or more of the general epistles with 
+attention to issues of genre, social and historical 
+contexts, and contemporary significance. NT 611 Greek 
+Exegesis or Greek proficiency is a prerequisite."
+NTG 639,Exegesis of Revelation,3,"An exegetical study of 
+the Book of Revelation with attention to issues of 
+genre, social and historical contexts, and contemporary 
+significance. NT 611 Greek Exegesis or Greek 
+proficiency is a prerequisite."
+OL 601,"Visions, Values, and Voices in Organizational 
+Leadership",3,"An introduction to key leadership theories 
+(visions) from various worldview perspectives (voices) 
+compared and contrasted with Biblically- based values 
+that guide organizational leadership."
 OL 602,"Authentic Leadership in Organizational 
 Contexts",3,"A study of authentic leadership, including 
 personal and spiritual factors leading to team 
@@ -974,13 +2013,51 @@ OL 608,"Dynamics of Change and Conflict in
 Organizational Leadership",3,"A look at how to lead 
 organizational change, while transforming inevitable 
 organizational conflicts."
+OL 609,"Legal and Ethical Issues in Organizational 
+Leadership",3,"An introduction to the legal and ethical 
+environment (both personal and corporate) of 
+organizations."
 OL 699,Special Topics in Organizational Leadership,1-6,"With the permission of the program director, students 
 may choose one or more topics for special study in the 
 area of organizational leadership."
+OL 700,Capstone Project in Organizational Leadership,3,"A summative, integrative, supervised experience for the 
+entire program, including theological and personal 
+reflection, as well as practical application 
+contextualized to one’s organizational setting. The 
+capstone project addresses all five program objectives 
+and is summarized in a 25-30-page report."
+OT 139,Old Testament I,3,"An overview of Old Testament 
+history, literature, and theology from creation to the time 
+of King Solomon (Genesis-1 Kings 12), including a brief 
+study of wisdom literature."
 OT 212,Survey of the Old Testament,3,"An introduction to 
 the history, content, theology, and rhetoric of the Old 
 Testament, encouraging students to embrace its teaching 
 as part of the Christian Bible."
+OT 310,Hebrew Basics,3,"An introduction to the basics of 
+the Hebrew language, with focus on using the language 
+in a ministry setting. In using examples from the 
+Hebrew Old Testament, the course is designed to 
+prepare students to use the basics of the language (e.g., 
+grammar, syntax, the meaning of words, etc.) in 
+interpreting Scripture. OT 611 is a continuation of this 
+course. (Proficiency available)"
+OT 311,Hebrew Exegesis,3,"By building on OT 310, this 
+course will emphasize using the Hebrew Old 
+Testament in the exegetical (interpretative) process. 
+Students will develop a method for using the Hebrew 
+text, English translations, and other appropriate tools to 
+understand the context, grammar, syntax, word 
+meanings, theology, and contemporary meaning of Old 
+Testament texts. Attention will be given to how to use 
+the Old Testament in preaching and teaching. Hebrew 
+proficiency or OT 610 is a prerequisite."
+OT 337,Old Testament II,3,"An overview of Old Testament 
+history, literature, and theology from the division of the 
+Israelite nation to the return from Babylonian exile and 
+restoration of the Judean state, including a brief study of 
+the historical context and content of each of the literary 
+prophets (Isaiah-Malachi)."
 OT 431,Exegesis in the Pentateuch,3,"An exegetical study 
 of one or more of the books of the Pentateuch with 
 attention to issues of genre, social and historical 
@@ -1005,6 +2082,42 @@ of the books of the Old Testament. Some consideration
 will also be given to matters of general introduction 
 such as text, canon, and historicity of the Old 
 Testament in general."
+OT 610,Hebrew Basics,3,"An introduction to the basics of 
+the Hebrew language, with focus on using the language 
+in a ministry setting. In using examples from the 
+Hebrew Old Testament, the course is designed to 
+prepare students to use the basics of the language (e.g., 
+grammar, syntax, the meaning of words, etc.) in 
+interpreting Scripture. OT 611 is a continuation of this 
+course. (Proficiency available)"
+OT 611,Hebrew Exegesis,3,"By building on OT 610, this 
+course will emphasize using the Hebrew Old 
+Testament in the exegetical (interpretative) process. 
+Students will develop a method for using the Hebrew 
+text, English translations, and other appropriate tools to 
+understand the context, grammar, syntax, word 
+meanings, theology, and contemporary meaning of Old 
+Testament texts. Attention will be given to how to use 
+the Old Testament in preaching and teaching. Hebrew 
+proficiency or OT 610 is a prerequisite."
+OT 702,New Testament Use of the Old Testament,3,"An examination of New Testament quotations of the 
+Old Testament in order to understand the New 
+Testament’s exegetical and hermeneutical 
+methodology. Greek and Hebrew proficiency are 
+prerequisites. Same as NT 702."
+OT 723,Advanced Hebrew Grammar,3,"Study of 
+Advanced Hebrew Grammar with focus on syntax and 
+reading of more difficult Old Testament texts and 
+extra-Biblical texts from Qumran and other sources. 
+OT 611 is a prerequisite."
+OT 725,Aramaic,3,"Study of Aramaic including Old 
+Testament, Inscriptional Aramaic, Qumranic, and 
+Targumic Aramaic. Same as NT 725. Hebrew 
+proficiency or OT 610 is a prerequisite."
+OT 728,Septuagint,3,"A study of the Greek version of the 
+Old Testament and the Apocrypha, including its origin, 
+transmission, and significance. Same as NT 728. Greek 
+proficiency or NT 610 is a prerequisite."
 OT 731,Exegesis in the Pentateuch,3,"An exegetical study 
 of one or more of the books of the Pentateuch with 
 attention to issues of genre, social and historical 
@@ -1022,6 +2135,31 @@ Literature",3,"An exegetical study of one or more of the
 poetic or wisdom books of the Old Testament with 
 attention to issues of genre, social and historical 
 contexts, and contemporary significance."
+OT 741,Second Temple Judaism,3,"A study of the history 
+and literature of the Intertestamental Period with 
+particular emphasis given to connections between the 
+Old and New Testaments as well as to developments 
+which aid in the understanding of the writings of the 
+New Testament. Students will be familiarized with 
+political, social, and cultural issues related to 
+understanding this historical period through the use of 
+primary and secondary readings and through a focused 
+and guided research project. Same as NT 741."
+OT 752,Preaching from the Old Testament,3,"A team- 
+taught course designed to provide the student with the 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+ 
+Take a different course. Make a better world. 
+41 
+skills to interpret and preach responsibly from the books 
+of the Old Testament. Same as PR 652."
+OT 754,Text and Canon of the Bible,3,"An examination of 
+the historical, theological, and textual factors involved in 
+the development of the biblical canon, covering both 
+what became the Old and New Testaments and what did 
+not. Same as NT 754."
 OT 808,Old Testament Theology,3,"An advanced 
 investigation of the theological ideas present in the 
 books of the Old Testament in terms of their 
@@ -1043,6 +2181,89 @@ will be written according to guidelines available from
 the Seminary office. The student may choose to defend 
 the thesis in an oral exam or make a presentation to a 
 select audience."
+OT 902,Thesis Re-Registration,0,"Students not completing 
+the thesis during the semester in which they register for 
+it are required to re-register under the 902 course number 
+each semester until the thesis is completed and approved."
+OT 905,Biblical Studies Comprehensive Exam,3,"An 
+independent study based on a prescribed bibliography 
+of important books in biblical studies.  In the exam, 
+students will be required to demonstrate the ability to 
+perform exegesis based on original language study 
+(Greek and Hebrew), including the ability to translate a 
+passage.  Students must understand, apply, evaluate 
+methods of biblical scholarship, and understand the 
+formation and context of the biblical text. Same as BI 
+905 and NT 905."
+OTH 431,Exegesis in the Pentateuch,3,"An exegetical 
+study of one or more of the books of the Pentateuch 
+with attention to issues of genre, social and historical 
+contexts, and contemporary significance. OT 611 
+Hebrew Exegesis or Hebrew proficiency is a 
+prerequisite."
+OTH 433,Exegesis of Prophetic Literature,3,"An exegetical 
+study of one or more of the prophetic books of the Old 
+Testament with attention to issues of genre, social and 
+historical contexts, and contemporary significance. OT 
+611 Hebrew Exegesis or Hebrew proficiency is a 
+prerequisite."
+OTH 438,Exegesis of Hebrew Narrative,3,"An exegetical 
+study of one or more of the narrative books of the Old 
+Testament with attention to issues of genre, social and 
+historical contexts, and contemporary significance. OT 
+611 Hebrew Exegesis or Hebrew proficiency is a 
+prerequisite."
+OTH 440,"Exegesis of Hebrew Poetry and Wisdom 
+Literature",3,"An exegetical study of one or more of the 
+poetic or wisdom books of the Old Testament with 
+attention to issues of genre, social and historical 
+contexts, and contemporary significance. OT 611 
+Hebrew Exegesis or Hebrew proficiency is a 
+prerequisite."
+OTH 731,Exegesis in the Pentateuch,3,"An exegetical 
+study of one or more of the books of the Pentateuch 
+with attention to issues of genre, social and historical 
+contexts, and contemporary significance. OT 611 
+Hebrew Exegesis or Hebrew proficiency is a 
+prerequisite."
+OTH 733,Exegesis of Prophetic Literature,3,"An exegetical 
+study of one or more of the prophetic books of the Old 
+Testament with attention to issues of genre, social and 
+historical contexts, and contemporary significance. OT 
+611 Hebrew Exegesis or Hebrew proficiency is a 
+prerequisite."
+OTH 738,Exegesis of Hebrew Narrative,3,"An exegetical 
+study of one or more of the narrative books of the Old 
+Testament with attention to issues of genre, social and 
+historical contexts, and contemporary significance. OT 
+611 Hebrew Exegesis or Hebrew proficiency is a 
+prerequisite."
+OTH 740,"Exegesis of Hebrew Poetry and Wisdom 
+Literature",3,"An exegetical study of one or more of the 
+poetic or wisdom books of the Old Testament with 
+attention to issues of genre, social and historical 
+contexts, and contemporary significance. OT 611 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+42 
+ 
+ 
+www.LincolnChristian.edu 
+Hebrew Exegesis or Hebrew proficiency is a 
+prerequisite."
+PH 602,Ancient Philosophy,3,"A tutorial-style course in 
+which the student will read and come to understand 
+the primary texts and the central questions in the 
+ancient western (largely Greek) philosophical tradition. 
+Readings will include (but are not limited to) selected 
+works of Plato and Aristotle."
+PH 603,Medieval Philosophy,3,"A tutorial-style course in 
+which the student will read and come to understand 
+the primary texts and the central questions in the 
+medieval western (largely Christian) philosophical 
+tradition. Readings will include (but are not limited to) 
+selected works of Augustine and Thomas Aquinas."
 PH 604,Christianity and the Philosophy of Religion,3,"An 
 examination of the truth-claims of Christianity in the 
 context of religious skepticism and competing 
@@ -1051,11 +2272,46 @@ faith; classical arguments for God’s existence; the
 impact of science; the problem of evil; the identity of 
 Christ; miracles and the resurrection of Christ; and the 
 nature of Scripture."
+PH 605,"Science, Theology, and Philosophy",3,"An analysis of the connections between science, 
+theology, and philosophy. Consideration is given to the 
+philosophy of science, the relationship between science 
+and religion, different paradigms of biblical 
+interpretation, and various mega-issues of cosmology 
+(e.g. the big bang, the anthropic principle, the age of 
+the universe) and biology (e.g. chemical and biological 
+evolution). Attention is also given to historical and 
+conceptual issues involving creationism, evolutionism, 
+and Intelligent Design. Same as TH 605."
+PH 610,Kierkegaard,3,"An examination of the life, 
+thought and writings of the nineteenth century Danish 
+philosopher/theologian/ author Soren Kierkegaard 
+within the philosophical, theological, social and literary 
+contexts of nineteenth century Europe and Golden Age 
+Denmark with an eye toward his impact and relevance 
+for Christians today. Same as TH 610."
+PH 701,Modern Philosophy,3,"A tutorial-style course in 
+which the student will read and come to understand 
+the primary texts and the central questions in the 
+modern philosophical tradition. Readings may include 
+(but are not limited to) the works of Descartes, Spinoza, 
+Locke, Hume, Kant, Hegel, and Nietzsche."
+PH 702,Contemporary Philosophy,3,"A tutorial-style 
+course in which the student will read and come to 
+understand the primary texts and the central questions 
+in philosophy in the 20th century. Readings may 
+include (but are not limited to) works by Peirce, 
+Husserl, Heidegger, Sartre, Wittgenstein, Searle, 
+Levinas, Derrida, and Deleuze."
 PH 714,Metaphysics and Epistemology,3,"This course 
 examines the basic issues and major positions in the 
 fields of metaphysics which asks about the nature of 
 reality, of being, of the world and epistemology which 
 asks how we come to know what is real, what is true."
+PH 838,Thomas Aquinas,3,"A seminar on the theology of 
+the medieval theologian Thomas Aquinas. The class 
+will study his writings, theology, and relevance for 
+current theological reflection and Christian conviction. 
+Same as TH 838."
 PH 899,Special Issues in Philosophy,3,"Specialized study 
 of an area of philosophy not covered in existing 
 courses."
@@ -1068,9 +2324,38 @@ will be written according to guidelines available from
 the Seminary office. The student may choose to defend 
 the thesis in an oral exam or make a presentation to a 
 select audience."
+PH 902,Thesis Re-Registration,0,"Students not completing 
+the thesis during the semester in which they register 
+for it are required to re-register under the 902 course 
+number each semester until the thesis is completed and 
+approved."
 PH 905,Comprehensive Exam,0,"In this examination, 
 students will show their progress in the degree 
 objectives as appropriate for master’s level study."
+PR 301,Shaping Factors in Ministry,3,"Every culture has 
+been formed by several shaping factors. We are always 
+in the process of both having been formed by past 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+ 
+Take a different course. Make a better world. 
+43 
+events, and being formed by present factors. In order to 
+respond to the future, we must know and understand 
+this process. The class will explore factors that shape a 
+local church. The factors to be examined are mindsets, 
+history (national and local), setting (urban and rural), 
+and culture (habits, beliefs, values and attitude)."
+PR 308,Homiletics,3,"A course providing the theological 
+basis for preaching and the basic techniques necessary 
+for sermon construction and delivery. Prerequisite: LA 
+113."
+PR 310,Expository Preaching,3,"A course providing the 
+resources necessary for accurate and relevant expository 
+preaching, including the interpretation of Biblical 
+passages from the various genres of Scripture. 
+Prerequisite: PR 308."
 PR 318,Rural and Small Town Ministry,2,"An introduction 
 to ministry in the rural and small-town context, 
 including an exploration of the traditional rural culture 
@@ -1091,6 +2376,18 @@ PR 400,Orientation to Internship,0,"An introduction to and
 preparation for the internship experience and life- 
 related skills for all juniors two semesters prior to the 
 planned internship."
+PR 401,Internship in Preaching,1-6,"A senior-level 
+supervised internship experience with an approved 
+mentor in an approved setting, within the student’s 
+degree program or focus, evaluated according to the 
+requirements in individually written learning covenants. 
+Internship can range from 1-6 hours and may be 
+repeated for a maximum of 6 hours. Prerequisite: PR 400 
+Orientation to Internship."
+PR 415,Advanced Preaching,3,"This course is designed to 
+sharpen the student’s ability to develop and deliver a 
+sermon. Attention will be given to evaluating personal 
+style. Prerequisite: PR 308."
 PR 601,Preparing to Preach,3,"A course designed to 
 provide the student with the skills necessary to preach 
 relevant, biblical sermons. Attention is given to 
@@ -1115,6 +2412,17 @@ The previous experiences of the students will
 determine the areas of homiletical thought given 
 attention. Special attention will be given to creative 
 forms and delivery."
+PR 650,Preaching from the New Testament,3,"A team- 
+taught course designed to provide the student with the 
+skills to interpret and preach responsibly from the 
+books of the New Testament. Greek proficiency or NT 
+610 is prerequisite; PR 601 is also a prerequisite unless 
+special permission is granted by the instructor. Same as 
+NT 650."
+PR 652,Preaching from the Old Testament,3,"A team- 
+taught course designed to provide the student with the 
+skills to interpret and preach responsibly from the 
+books of the Old Testament. Same as OT 752."
 PR 660,Leading from the Pulpit,3,"This course explores 
 how to develop a preaching plan that uses biblical 
 proclamation to lead the congregation in accomplishing 
@@ -1124,6 +2432,20 @@ planning our preaching, and we utilize various types of
 sermons in our plan, including expository, doctrinal, 
 evangelistic, apologetic, ethical, biographical, pastoral, 
 narrative, and sermons for special occasions."
+PR 661,Preaching and Pastoral Ministry,3,"A course 
+examining the relationship of the pulpit to the life of 
+the church. Issues of preaching as vision casting, 
+leadership development, shepherding, counseling, 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+44 
+ 
+ 
+www.LincolnChristian.edu 
+discipleship, evangelism, stewardship, etc., will be 
+addressed. The relationship of planned preaching to the 
+strategy of the church will be discussed."
 PR 750,Theology and Preaching,3,"An examination of the 
 theology of preaching found in Scripture.  Attention 
 will be given to the impact one’s theological 
@@ -1156,7 +2478,7 @@ for growth and health throughout life.  Topics include
 the role culture plays in food choices, the relationship 
 between nutrition and disease, and the tools used for 
 nutrition assessment."
-SC 150, Human Biology, 3, (Lecture only)." An introduction 
+SC 150,Human Biology (Lecture only),3,"An introduction 
 to basic principles of biology, focused on humans as 
 biological creatures. Topics include cell and tissue 
 structure, human structure and function, human 
@@ -1166,7 +2488,7 @@ ecology and the impact of humans on the environment.
 Students will develop skills in data analysis and the use 
 of data in decision making through examination of 
 contemporary issues. IAI Code L1 904."
-SC 151, Human Biology,4," (Lecture and Lab). A 4 credit 
+SC 151,Human Biology (Lecture and Lab),4,"A 4 credit 
 combined lecture and laboratory course providing an 
 introduction to basic principles of biology, focused on 
 humans as biological creatures. Topics include cell and 
@@ -1176,29 +2498,35 @@ in biotechnology, evolution and origin of life, and
 ecology and the impact of humans on the environment. 
 Students will develop skills in data analysis and the use 
 of data in decision making though examination of 
-contemporary issues. "
-SC 155, Animal Biology, 3, "(Lecture only). A survey of how 
+contemporary issues."
+SC 155,Animal Biology (Lecture only),3,"A survey of how 
 organisms carry out the biological processes necessary 
 for life with emphasis on the challenges faced in 
 different environments and how organisms are designed 
 to meet these challenges. The development of scientific 
 ideas and current issues in biology will also be discussed. 
-IAI Code L1 902. "
-SC 157, Chemistry and Society,3," (Lecture only). A survey 
+IAI Code L1 902."
+SC 157,Chemistry and Society (Lecture only),3,"A survey 
 of major concepts in inorganic and organic chemistry 
 with emphasis on how these concepts apply to daily life. 
 Topics include electrochemistry, thermodynamics, 
-nuclear chemistry, and other subjects of interest. The 
+nuclear chemistry, and other subjects of interest.  The 
 development of scientific ideas and current issues in 
-chemistry will also be discussed. IAI Code P1 902." 
-SC 159, Chemistry and Society,4," (Lecture and Lab). A 4 
+chemistry will also be discussed. IAI Code P1 902."
+SC 159,Chemistry and Society (Lecture and Lab),4,"A 4 
 credit combined lecture and laboratory course providing 
 a survey of major concepts in inorganic and organic 
 chemistry with emphasis on how these concepts apply to 
 daily life. Topics include electrochemistry, 
 thermodynamics, nuclear chemistry, and other subjects 
-of interest. The development of scientific ideas and 
+of interest.  The development of scientific ideas and 
 current issues in chemistry will also be discussed."
+SC 175,Animal Biology (Lecture and Lab),3,"A 4 credit 
+combined lecture and laboratory course providing a 
+survey of how organisms carry out the biological 
+processes necessary for life with emphasis on the 
+challenges. The development of scientific ideas and 
+current issues in biology will also be discussed."
 SC 241,Weather and Climate,3,"This course explores the 
 basic understanding of the processes that produce our 
 weather and climate. In addition to studying the 
@@ -1210,6 +2538,17 @@ surveys world climatic patterns. A study of air pollution
 and human impact on urban and global climates, as well 
 as natural and unnatural causes of climate change are 
 also included."
+SC 257,Physical Science,3,"(Lecture only). An introduction 
+matter and reactions, the physics of motion and forces, 
+sound, astronomy, light, and electricity. IAI Code P9 
+900."
+SC 258,Physical Science,4,"(Lecture and Lab). A 4 credit 
+combined lecture and laboratory course providing an 
+introduction to such matters as the nature of energy, the 
+chemistry of matter and reactions, the physics of motion 
+and forces, sound, astronomy, light, and electricity. 
+Students perform hands on experiments that reinforce 
+concepts covered in the lecture portion of the course."
 SF 601,Introduction to Christian Spirituality,3,"Examines the principles, problems, and practices of 
 spiritual growth in Christ–personally and corporately, 
 with emphasis on the Christian disciplines. Required of 
@@ -1245,23 +2584,81 @@ process whereby spiritual directors and their directee
 establish an ongoing conversation about practicing the 
 presence of God, with a focus on duplicating this 
 practice in the local church."
+SF 609,Theology of Service and Sabbath,3,"Patterned upon the spiritual ebb and flow of Luke 5:15-
+16, this course examines the complimentary disciplines 
+of Christian compassion and wilderness retreat. It also 
+examines the holy habit of practicing the presence of 
+God within the context of the spiritual anticipation and 
+receptivity needed for holistic service."
 SF 610,Prayer Practice and Spiritual Transformation,3,"Reviews some prayers from Scripture and how they 
 change lives, as well as looks at how a biblical worldview 
 prompts a life of prayer and a desire to help others learn 
 to pray."
+SF 611,Spiritual Formation Research Project,3,"Requires students to research and write a 25-30-page 
+paper or publishable article on some aspect of spiritual 
+formation, including personal and corporate application. 
+The product must demonstrate advanced research skills. 
+The project must be completed sometime during the last 
+year, usually during the summer."
 SF 612,Spiritual Formation Capstone Retreat,3,"Requires all students in their final semester to participate 
 corporately in a weekend-long, spiritual formation 
 retreat, with the program’s five learning objectives 
 serving as a framework. Offered every summer as a 
 weekend intensive in a retreat setting."
+SS 164,Introduction to Sociology,3,"A study of basic 
+sociological concepts and social processes. IAI Code S7 
+900."
+SS 171,Principles of Psychology,3,"An introductory course 
+designed to acquaint the student with the most 
+important principles of behavior and mental life. IAI 
+Code S6 900."
+SS 260,Introduction to Cultural Anthropology,3,"An 
+introduction to the study of culture, studying the 
+interrelationships between individuals and societies, and 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+46 
+ 
+ 
+www.LincolnChristian.edu 
+the natural, ideational, social, economic, legal, temporal, 
+and spatial contexts in which they live. The course 
+stresses implications of anthropology insights for 
+Christian and education professionals."
 SS 261,Principles of Economics,3,"An examination of supply 
 and demand, the market structure, inflation, 
 unemployment, economic growth and GDP, and 
 international trade, as well as current economic issues."
+SS 263,Citizens and Government,3,"An introduction to 
+public policy and individual citizen’s roles and 
+responsibilities, with a particular focus on the U.S. 
+government within the context of a pluralistic society. 
+The course actively stimulates students to ponder the 
+socially responsible choices that educated citizens who 
+participate in shared governance make. (Fulfills state 
+requirements for teacher education students regarding 
+the study of Government, the Constitution of the United 
+States, and the state of Illinois.) IAI Code S5 900."
+SS 268,Non-Western Religions,3,"A survey of the religious 
+and cultural ideas and practices of non-Western 
+religions, with attention given to Islam, Animism, 
+Hinduism, Buddhism, Confucianism, Taoism, and 
+Shintoism.  IAI Code H5 904N."
 SS 335,Marriage and the Family,3,"This course examines 
 the formation, maintenance, and dissolution of 
 marriages and families, including the Biblical principles 
 used in ministry to families."
+SS 349,Lifespan Developmental Psychology,3,"An investigation of the growth and development of 
+persons, examining the developmental theories of 
+Erikson, Piaget, Kohlberg, and others from a Christian 
+perspective. Same as PS 349. Prerequisite: SS 171.  IAI 
+Code S6 902."
+TH 160,Introduction to Christian Theology,3,"An 
+introduction to the key Biblical beliefs that define the 
+historic Christian faith (e.g. God, Christ, Holy Spirit, 
+humanity, sin, salvation, etc.) with attention given to the 
+credibility of such beliefs."
 TH 318,Wisdom from the Ancient Church,3,"This course 
 examines spiritual progress as understood by important 
 authors and traditions in the Early Church. In particular, 
@@ -1276,16 +2673,61 @@ Augustine’s thought and life will be followed by a
 careful reading through specific texts, such as 
 Confessions, City of God, On the Trinity, or selected 
 sermons and letters."
+TH 327,"Lewis, Tolkien, and the Theological 
+Imagination",3,"A seminar style, reading and discussion-
+based course, giving students the chance to explore the 
+broader corpus of either C.S. Lewis or J.R.R. Tolkien 
+(focus varies by year). The class will engage the 
+writings of one of these authors with attention paid to 
+worldview, philosophical, theological, and literary 
+issues."
+TH 338,Thomas Aquinas,3,"A seminar on the theology of 
+the medieval theologian Thomas Aquinas. The class will 
+study his writings, theology, and relevance for current 
+theological reflection and Christian conviction. Same as 
+PH 338."
+TH 343,Philosophy of Science,3,"This course examines the 
+philosophical presuppositions inherent in science while 
+chronicling the history and debate around those 
+presuppositions. Key themes will likely include the 
+epistemological question of how we can know anything at 
+all, the nature of time and space, the Quantum 
+revolution, the relationship between science, ethics, and 
+religion, and key figures responsible for paradigm shifts in 
+the history of science (e.g., Aristotle, Copernicus, Bacon, 
+Newton, Faraday, Darwin, Einstein)."
 TH 363,Pauline Theology,3,"A comprehensive analysis of 
 key topics arising from the Pauline literature, with 
 emphasis on a systematic understanding of Paul’s 
 theology."
+TH 368,Introduction to Mythology,3,"A seminar style, 
+reading and discussion based course exploring mythology 
+from a variety of primarily, though not exclusively, 
+Western cultures (e.g., Greek, Norse, Egyptian, 
+Arthurian) while also providing a Christian perspective 
+on the importance of the mythological imagination as 
+well as the role and genre of “true myths.”"
 TH 399,Special Issues in Theology,1-3,"A focused faculty-
 guided study of a given period in the history of theology, 
 a specific thinker, or a prominent contemporary issue 
 like open theism, inclusivism/exclusivism, the nature of 
 Scripture, sexual identity, the historicity of Adam and 
 Eve, etc. May be repeated."
+TH 406,History of Christian Spirituality,3,"This course will 
+examine the spiritual traditions present in the early, 
+medieval, early modern (Reformation and Counter-
+Reformation), and contemporary Church. Attention will 
+be paid to the history of Christian worship along with 
+primary source engagements with great spiritual authors 
+from each of these ages."
+TH 408,"Baptism and the Lord’s Supper in the Early 
+Church",3,"A study of the development of the theology and 
+practice of baptism and the Lord’s Supper from the 
+beginning of the church through the 5th century.  
+Studies will investigate major events, documents, 
+developments, and controversies by reading primary 
+source material from the patristic period pertaining to 
+baptism and the Lord’s Supper."
 TH 416,Systematic Theology,3,"A study of Christian 
 systematic theology, seeking to understand the meaning 
 and relations of Christian doctrines with attention to the 
@@ -1309,11 +2751,37 @@ Catherine of Siena, Theresa of Avila, Susanna Wesley,
 Margaret Fell, Hannah More, Catherine Booth, 
 Josephine Butler, Phoebe Palmer, Octavia Albert, 
 Dorothy Day, and Maya Angelou."
+TH 456,New Age Thought and Practice,3,"A seminar style, 
+reading and discussion based course tracing the roots of 
+New Age thought in Western Esotericism, Theosophy, 
+and Spiritualism through to the explosion of New Age 
+spirituality in the 1960s and 70s, with special reference 
+to its on-going influence on contemporary culture. In 
+addition to standard readings, the course materials will 
+incorporate a variety of mediums, especially films and 
+novels."
+TH 462,Plato,3,"A seminar style, reading and discussion 
+based course primarily engaging with the Dialogues of 
+Plato, with some brief interludes to relevant historical 
+episodes (e.g., Neoplatonism, Augustine, the 
+Renaissance, Cambridge Platonism)."
+TH 466,Christology,3,"“Who is Jesus Christ?” is the central 
+question of the world’s and each person’s history. This 
+class will study the Church’s past and present 
+understandings of the Person of the Christ. It will do so 
+through an examination of 1) Scripture, 2) key points in 
+the Church’s history, and 3) the affirmation and worship 
+of Jesus in the world’s various cultures today."
 TH 469,History of Christian Theology I,3,"An historical 
 introduction to the relevant primary sources, examining 
 the most important persons, issues, and events in the 
 history of theology from the Apostolic Fathers to the 
 Eve of the Reformation."
+TH 470,History of Christian Theology II,3,"An historical 
+introduction to the relevant primary sources, examining 
+the most important persons, issues, and events in the 
+history of theology from the Reformation to 19th 
+century theological thought."
 TH 475,Eschatology,3,"A survey of exegetical, historical, 
 hermeneutical, and theological perspectives as these 
 relate to the Biblical doctrine of the “Last Things.”"
@@ -1340,6 +2808,22 @@ iteration of the course will involve an in-depth reading
 and analysis of one to two primary works, such as A 
 Secular Age, Sources of the Self, or The Malaise of 
 Modernity."
+TH 501,Practice in Spiritual Formation,1,"A course in which 
+students both study and engage in the formative Christian 
+practices of reading Scripture and praying.  This course is 
+intended to be repeated up to 3 hours total credit."
+TH 600,Systematic Theology,3,"A graduate study of 
+systematic theology, seeking to understand the bases, 
+meanings, and relations of Christian doctrines, with 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+48 
+ 
+ 
+www.LincolnChristian.edu 
+attention to the controversies about and inner unity of 
+the Christian faith."
 TH 606,Ethics,3,"A survey and critical examination of 
 various historical and systematic approaches to ethics. 
 Attention is also given to representative contemporary 
@@ -1349,6 +2833,21 @@ historical, and cultural issues that have contributed to the
 Church’s past and present understandings of the Person 
 and Work of Christ. Special attention will be given to 
 recent approaches to historical Jesus study."
+TH 610,Kierkegaard,3,"An examination of the life, thought 
+and writings of the nineteenth century Danish 
+philosopher/theologian/ author Soren Kierkegaard 
+within the philosophical, theological, social and literary 
+contexts of nineteenth century Europe and Golden Age 
+Denmark with an eye toward his impact and relevance 
+for Christians today. Same as PH 610."
+TH 613,Global Christianity,3,"This course will engage 
+students with the global character of the Church as 
+well as ministry in the multifaith and multicultural 
+context of contemporary society. This will include 
+attention to the wide diversity of religious traditions 
+present in potential ministry settings, as well as 
+expressions of social justice and respect congruent with 
+Christian commitment. Same as IC 613."
 TH 618,Wisdom from the Ancient Church,3,"This course 
 examines spiritual progress as understood by important 
 authors and traditions in the Early Church. In particular, 
@@ -1363,6 +2862,14 @@ Augustine’s thought and life will be followed by a
 careful reading through specific texts, such as 
 Confessions, City of God, On the Trinity, or selected 
 sermons and letters."
+TH 627,"Lewis, Tolkien, and the Theological 
+Imagination",3,"A seminar style, reading and discussion-
+based course, giving students the chance to explore the 
+broader corpus of either C.S. Lewis or J.R.R. Tolkien 
+(focus varies by year). The class will engage the 
+writings of one of these authors with attention paid to 
+worldview, philosophical, theological, and literary 
+issues."
 TH 637,"Race, Gender, and Evangelicalism",3,"A seminar 
 style, reading and discussion based course probing the 
 explosive history and relationship between Evangelicals, 
@@ -1381,6 +2888,43 @@ Catherine of Siena, Theresa of Avila, Susanna Wesley,
 Margaret Fell, Hannah More, Catherine Booth, 
 Josephine Butler, Phoebe Palmer, Octavia Albert, 
 Dorothy Day, and Maya Angelou."
+TH 643,Philosophy of Science,3,"This course examines the 
+philosophical presuppositions inherent in science while 
+chronicling the history and debate around those 
+presuppositions. Key themes will likely include the 
+epistemological question of how we can know anything at 
+all, the nature of time and space, the Quantum 
+revolution, the relationship between science, ethics, and 
+religion, and key figures responsible for paradigm shifts in 
+the history of science (e.g., Aristotle, Copernicus, Bacon, 
+Newton, Faraday, Darwin, Einstein)."
+TH 656,New Age Thought and Practice,3,"A seminar style, 
+reading and discussion based course tracing the roots of 
+New Age thought in Western Esotericism, Theosophy, 
+and Spiritualism through to the explosion of New Age 
+spirituality in the 1960s and 70s, with special reference 
+to its on-going influence on contemporary culture. In 
+addition to standard readings, the course materials will 
+incorporate a variety of mediums, especially films and 
+novels."
+TH 662,Plato,3,"A seminar style, reading and discussion 
+based course primarily engaging with the Dialogues of 
+Plato, with some brief interludes to relevant historical 
+episodes (e.g., Neoplatonism, Augustine, the 
+Renaissance, Cambridge Platonism)."
+TH 668,Introduction to Mythology,3,"A seminar style, 
+reading and discussion based course exploring mythology 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+ 
+Take a different course. Make a better world. 
+49 
+from a variety of primarily, though not exclusively, 
+Western cultures (e.g., Greek, Norse, Egyptian, 
+Arthurian) while also providing a Christian perspective 
+on the importance of the mythological imagination as 
+well as the role and genre of “true myths.”"
 TH 677,Religion and Fiction,3,"A seminar style course built 
 around reading multiple works of fiction in their entirety 
 and discussing them together at length. Text selection 
@@ -1417,6 +2961,22 @@ such thinkers and movements as: Barth, Bultmann,
 Tillich, Rahner, Nouvelle Théologie, Liberation 
 Theology, Process Theology, and various Postmodern 
 Theologies."
+TH 706,History of Christian Spirituality,3,"This course 
+will examine the spiritual traditions present in the 
+early, medieval, early modern (Reformation and 
+Counter-Reformation), and contemporary Church. 
+Attention will be paid to the history of Christian 
+worship –since much of Christian spirituality is 
+corporate – along with primary source engagements 
+with great spiritual authors from each of these ages."
+TH 708,"Baptism and the Lord’s Supper in the Early 
+Church",3,"A study of the development of the theology and 
+practice of baptism and the Lord’s Supper from the 
+beginning of the church through the 5th century.  
+Studies will investigate major events, documents, 
+developments, and controversies by reading primary 
+source material from the patristic period pertaining to 
+baptism and the Lord’s Supper."
 TH 806,History and Theology of Eastern Orthodoxy,3,"An 
 investigation of the history and theology of Eastern 
 Orthodox Christianity from the beginnings of the 
@@ -1427,6 +2987,11 @@ Eastern Orthodox Churches."
 TH 833,The Trinity,3,"A historical and systematic 
 seminar on the central Christian doctrine of the 
 Trinity."
+TH 838,Thomas Aquinas,3,"A seminar on the theology of 
+the medieval theologian Thomas Aquinas. The class 
+will study his writings, theology, and relevance for 
+current theological reflection and Christian conviction. 
+Same as PH 838."
 TH 865,Maximus the Confessor,3,"A historical and 
 systematic seminar on the theology of the seventh- 
 century martyr, Maximus the Confessor. The class will 
@@ -1446,6 +3011,11 @@ will be written according to guidelines available from
 the Seminary office. The student may choose to defend 
 the thesis in an oral exam or make a presentation to a 
 select audience."
+TH 902,Thesis Re-Registration,0,"Students not completing 
+the thesis during the semester in which they register 
+for it are required to re-register under the 902 course 
+number each semester until the thesis is completed and 
+approved."
 TH 905,Comprehensive Exam,0,"In this examination, 
 students will show their progress in the degree 
 objectives as appropriate for master’s level study."
@@ -1459,6 +3029,9 @@ for all non-traditional students admitted to Lincoln
 Christian University. Students must pass the online 
 orientation within the designated time frame before 
 proceeding further in their studies."
+US 399,Extended Studies,0,"Continued registration for 
+students completing dual enrollment programs. (Pass/No-
+pass)"
 US 500,Orientation to LCU,0,"The purpose of this 
 orientation course is to provide an overview of online 
 learning, an introduction to Canvas, our learning 
@@ -1481,6 +3054,30 @@ of the use of the arts in worship. Attention will be
 given to using media and technology to enhance the 
 content of corporate worship, as well as to the 
 development of necessary musical skills."
+WS 603,Worship in Cultural Context,3,"A study of the 
+impact of culture on worship practices. Emphasis is 
+placed on the relationship between worship and 
+evangelism, and attention is given to choosing 
+appropriate styles for a given context without 
+sacrificing content. Attention will be given to the 
+manner in which various cultures experience God and 
+an understanding of spirituality in the 
+modern/postmodern context. (Same as IC 630)"
+WS 604,Worship and Spiritual Formation,3,"A course 
+designed to aid the student in developing an 
+understanding of worship as it relates to spiritual 
+growth, discipleship, and pastoral care. Attention is 
+given to private worship, the impact of baptism on the 
+life of the believer, the importance of ritual to 
+community and the practice of the Lord’s Supper. 
+(Same as CE 607)"
+WS 607,Worship in Historical Perspective,3,"A survey of 
+the development of Christian worship from the 
+beginning of the church to the present day. The 
+formational aspects of historical liturgies will be 
+discussed. Attention will be given to recovering 
+traditions that may be useful for enhancing corporate 
+worship in today’s culture. (Same as CH 607)"
 WS 701,Creative Design for Corporate Worship,3,"This course will aid the student in effectively designing 
 Sunday morning worship services, with an emphasis on 
 the formative aspects of communal worship. Attention 
@@ -1494,6 +3091,23 @@ communication involving the senses of sound, sight, taste,
 touch, and smell will be explored. Emphasis is placed on 
 the biblical, historical, and theological foundation for 
 varied forms of communication."
+WS 704,Worship Leadership as Vocation,3,"This course is 
+designed to aid the worship leader in a look at the 
+difference between a job and vocation. Through the 
+examination of the biblical stories of church leaders as 
+well as the contemporary writings of business executives, 
+attention will be given to models of leadership both 
+inside and outside the church setting. Drawing on 
+Philippians 2, the underpinnings of humility, 
+transparency, and vulnerability will be emphasized as 
+indispensable to the worship leader. With the vast 
+majority of ministry taking place outside the gaze of the 
+church membership during corporate worship, the 
+student in this course will consider how the 
+aforementioned foundation informs the work of a 
+ministry team. The importance of having difficult 
+conversations, leading meetings, and contributing to a 
+healthy team will be examined."
 WS 705,Foundations for Worship Ministry,3,"Through an 
 examination of the biblical, theological, historical, and 
 cultural perspectives on worship, this course seeks to help 
@@ -1511,9 +3125,10 @@ will include visits to area churches and interaction with
 area music and worship ministers."
 WS 899,Special Issues in Worship Studies,1-3,"Specialized study of an area of Worship Studies not 
 covered in existing courses."
-WS 900,Research in Worship Studies,1-3,"Individual research under faculty supervision in a 
-particular area of Worship Studies."
-YM 111,Orienteering for Family Ministry Students,0,"An 
+WS 900,Research in Worship Studies,0,"Individual research under faculty supervision in a 
+particular area of Worship Studies. (1-3 hours) 
+Youth and Family Ministry 
+YM 111 Orienteering for Family Ministry Students. An 
 introductory course that will orient family ministry 
 students for a journey through either the Children and 
 Family Ministry program or the Youth and Family 
@@ -1523,6 +3138,51 @@ ministry preparation strategy that includes strengthening
 their character, deepening their relational chemistry, 
 improving their competency, and fueling their confidence 
 and commitment for a long life in Kingdom service."
+YM 202,"Pre-Internship Ministry Experience Required 
+(PRIMER)",0,"A supervised, six-week long pre-internship 
+experience (completed during the school year or summer) 
+prior to the junior year (or 65 credit hours) where all 
+youth ministry majors gain real ministry experience, are 
+assessed, evaluated, and provided feedback on their lives 
+and service by a mentor. Students will personally identify 
+key areas on which to work over the remaining years of 
+college. This can be completed in one to two hours per 
+week."
+YM 211,Introduction to Youth Ministry,3,"An overview of 
+the theological, philosophical, administrative, and 
+practical ministry issues necessary for an effective 
+disciple-making youth/student minister. This class will 
+lay the foundation for the other Youth Ministry classes 
+on which the student will build during the process of 
+becoming a complete, fully prepared disciple-making 
+youth minister for whatever ministry context God leads 
+him or her to enter. Prerequisite: YM 111 or approval of 
+program director."
+YM 318,Introduction to Children’s Ministry,3,"This course is 
+an overview of various aspects of children’s ministry. The 
+foci of the course are on Biblical and theological 
+understandings as well as the current cultural issues and 
+trends in children’s ministry. The course also explores 
+parent styles, parent education, and educational 
+communication skills for all children in elementary (K-5) 
+level."
+YM 325,Relational Dynamics for Youth Ministry,3,"A reflective examination and skill development of 
+interdependent dynamics necessary for an effective youth 
+and family ministry through increasing self and social 
+awareness so as to improve the emotional, social, and 
+spiritual health for the leader and all associative 
+relationships. Prerequisite: YM 211."
+YM 326,Family Ministry Nuts and Bolts,3,"A creative and 
+practical simulation course (the class acts as a real youth 
+ministry team) focused on the mastery of intermediate 
+youth ministry and practical theological skills and 
+competencies (e.g., Biblical study tools, technology, 
+creative program creation and development, 
+administration of ministry, and personal budgets and 
+finances) by developing a complete years’ worth of 
+ministry programming (for either children’s or youth 
+ministry) through careful hermeneutic and exegetical 
+practice."
 YM 330,Crucial Issues in Youth Ministry,1-3,"This is a course 
 that provides youth ministry networking and the 
 philosophical and practical aspects of youth ministry in a 
@@ -1532,6 +3192,24 @@ Ministry program trip or can be used independently for
 another convention if approved by the Youth Ministry 
 Professor. There may be a fee added to this course for trip 
 costs."
+YM 350,"Youth Ministry Exegesis – A week-long trip that 
+explores and exegetes a variety of youth ministries in a 
+variety of youth ministry cultures",3,Prerequisite: YM 211.
+YM 372,Intercultural Youth Ministry,3,"A course designed 
+to equip students for long-term children/youth ministry 
+COURSE DESCRIPTIONS 
+ 
+2023-2024 University Catalog 
+52 
+ 
+ 
+www.LincolnChristian.edu 
+in urban North American contexts as well as international 
+cultural contexts. Holistic ministry models will be 
+presented that deal with issues including: family 
+breakdown, abuse, gangs, drugs, racism, children of war, 
+sex-trafficking, child-labor, street kids, and extreme 
+poverty."
 YM 399,Special Issues in Youth Ministries,1-4,"A focused and 
 deeper investigation of one or more special issues that the 
 junior or senior student seeks to further explore. Open for 
@@ -1542,10 +3220,28 @@ YM 401,Orientation to  Internship,0,"An introduction to
 and preparation for the internship experience and life-
 related skills for all juniors two semesters prior to the 
 planned internship."
-YM 401,Orientation to Internship,1-6,
+YM 402,"Internship in Family Ministry (Youth or 
+Children)",1-6,"A senior level supervised internship experience 
+with an approved mentor in an approved setting, within 
+the student’s degree program or focus, evaluated 
+according to the requirements in individually written 
+learning covenants. Internships can range from 1-6 hours 
+and may be repeated for a maximum of 6 hours. 
+Prerequisite: YM 401 Orientation to Internship."
 YM 453,Not-for-Profit Organizations,3,"An examination of 
 starting and operating a not-for-profit. Topics include 
 strategic planning, program development, volunteers, 
 staff and board relations, marketing and public relations, 
 budgeting, grantsmanship, major gift programs, special 
 events, and direct fundraising."
+YM 480,"Mathetes:  Spiritual Formation for Youth 
+Ministry",3,"A creative, organic, and experiential senior 
+youth ministry course (to be taken during last semester 
+on campus) designed to synthesize and integrate all 
+that has been learned and to deepen, shape, and equip 
+the student in a variety of spiritual formation principles 
+and practices, Biblical hermeneutical skills, and 
+servant- leadership mindsets so, as an apprentice of 
+Jesus, he/she may train apprentices of Jesus for life in 
+the Kingdom of God. Prerequisite: YM 325 and YM 
+327."
