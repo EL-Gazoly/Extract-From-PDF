@@ -1,4 +1,3 @@
-Accounting 
 ACC 101 
 Accounting Professional Development I – 1 credit hour. Overview of alternative career paths in accounting through 
 interaction with accounting professionals. Prerequisite: None. 
@@ -147,7 +146,8 @@ AGB 211
 Metal Fabrication – 3 credit hours. This course will encompass a combination of three content areas: classification and 
 properties of metals, welding, and machine tool technology. Prerequisite: None. 
  
-AGB 211L Basic Metal – 3 credit hours. The overall content for basic metals will place emphasis on classifications and properties of 
+AGB 211L
+Basic Metal – 3 credit hours. The overall content for basic metals will place emphasis on classifications and properties of 
 metals, various welding processes, acetylene welding equipment, arc welders, mig welders, introduction to various types 
 of measuring devices and machine tool technology. 
  
@@ -332,16 +332,19 @@ AMD 202
 AMD Retail Mathematics – 3 credit hours. A study of the mathematical calculations concepts, procedures and 
 assessment of figures that relate to fashion businesses and organizations achieving profit. Prerequisite: None. 
  
-AMD 203L Consumer Aspects of Clothing – 3 credit hours. An introduction to clothing and textiles, including wardrobe planning, 
+AMD 203L
+Consumer Aspects of Clothing – 3 credit hours. An introduction to clothing and textiles, including wardrobe planning, 
 maintenance, and coordination; clothing selection criteria; clothing for the world of work; textile classification; and use 
 and care of textile products. Prerequisite: None. 
  
-AMD 204L Clothing Throughout the Lifecycle – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab period per week). A 
+AMD 204L
+Clothing Throughout the Lifecycle – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab period per week). A 
 study of the economic, social, and psychological aspects of clothing as they relate to the acquisition, use, and care of 
 clothing for family members. Domestic and commercial sewing machines are utilized. Prerequisite: AMD 104L and 
 AMD 201L and AMD 203L. 
  
-AMD 206L Interior Design – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab period per week). The application of the 
+AMD 206L
+Interior Design – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab period per week). The application of the 
 elements and principles of art to the planning, selection, and arrangement of household furniture and furnishings. A 
 COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
 ~ 222 ~ 
@@ -385,7 +388,8 @@ AMD 315
 Consumer Textiles I – 3 credit hours. A study of fibers, yarns, structures, color, and finishing techniques of textiles and 
 textile products with emphasis on the selection of fabrics for specific consumer end uses. Prerequisite: None. 
  
-AMD 316L Consumer Textiles II – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab period per week). Advanced study of 
+AMD 316L
+Consumer Textiles II – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab period per week). Advanced study of 
 textile fibers, fabrics and products utilizing laboratory testing techniques and safety procedures employed in the 
 evaluation of textiles for specific end uses. Prerequisite: AMD 315. 
  
@@ -399,15 +403,18 @@ AMD Fashion Illustration – 3 credit hours. A study of the techniques used for 
 perspective of fashion design. An analysis of how the human body integrates movement with fabrics, their volume, and 
 their weight. Prerequisite: None. 
  
-AMD 403L Flat Pattern Design – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab period per week). An in-depth study of 
+AMD 403L
+Flat Pattern Design – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab period per week). An in-depth study of 
 the basic principles of flat pattern manipulations and their applications to apparel design. Prerequisite: AMD 204L. 
  
-AMD 404L Advanced Clothing and Design – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab period per week). A study 
+AMD 404L
+Advanced Clothing and Design – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab period per week). A study 
 of techniques in methods of fitting, designing, and advanced clothing construction. Designing and construction of 
 garments for individual figure types and pattern-making through the flat pattern method are emphasized. Prerequisite: 
 AMD 204L and AMD 403L. 
  
-AMD 405L Functional Clothing Design – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab period per week). 
+AMD 405L
+Functional Clothing Design – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab period per week). 
 Development of apparel from a problem-solving perspective to meet aesthetic and functional needs in regard to 
 exceptional proportions, rehabilitation, activity, performing arts, and new technology. Prerequisite: AMD 104L and 
 AMD 201L. 
@@ -415,7 +422,8 @@ AMD 201L.
 COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
 ~ 223 ~ 
  
-AMD 406L Draping – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab period per week). The principles and techniques of 
+AMD 406L
+Draping – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab period per week). The principles and techniques of 
 draping and dress designing based on the manipulation of fabric on a form. Prerequisite: AMD 104L  and 201L and 
 AMD 403L. 
  
@@ -424,7 +432,8 @@ Advanced Interior Design – 3 credit hours. Physical, social, psychological, an
 selection of housing for individual and family living including location, design, structure, and interior. Prerequisite: 
 AMD 206L. 
  
-AMD 410L  Apparel CAD – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab period per week). Hands-on experience in 
+AMD 410L 
+Apparel CAD – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab period per week). Hands-on experience in 
 the application of AutoCAD principles to apparel design, pattern making, and grading. Prerequisite: (AGB 199 or MDT 
 252) and AMD 403L. 
  
@@ -462,7 +471,8 @@ Art
 ART 101 
 Art Appreciation – 3 credit hours. A general survey of the visual arts for non-art majors. Prerequisite: None. 
  
-ART 101H Art Appreciation Honors – 3 credit hours. A general survey of the visual arts for non-art majors. Advanced reading and 
+ART 101H
+Art Appreciation Honors – 3 credit hours. A general survey of the visual arts for non-art majors. Advanced reading and 
 writing assignments will be given. Enrollment in he Honors Program is required. Prerequisite: None. 
  
 ART 103 
@@ -617,7 +627,8 @@ of support, movement, supply of materials, distribution, waste removal, regulati
 detail. The course involves problem solving, discussions and critical analysis of current topics in human biology. For 
 non-majors in the Honors Program. Prerequisite: None. Corequisites: BIO 102HL. 
  
-BIO 102HL Honors General Biology II Lab – 1 credit hour (3 clock hour lab period per week). Lab designed to accompany, enhance 
+BIO 102HL
+Honors General Biology II Lab – 1 credit hour (3 clock hour lab period per week). Lab designed to accompany, enhance 
 and accommodate BIO 102H. For non-majors in the Honors Program. Prerequisite: None. Corequisites: BIO 102H. 
  
 BIO 103 
@@ -1160,17 +1171,20 @@ General Chemistry I – 3 credit hours. A study of the fundamental laws of matte
 changes. Atomic and molecular theories, atomic structure, periodic functions and classification of the elements are 
 addressed. Required of all majors in chemistry. Prerequisite: None. Corequisites: CHE 101L. 
  
-CHE 101H General Chemistry I Honors – 3 credit hours. Recommended for all students in AAMU Honors Program. Topics covered 
+CHE 101H
+General Chemistry I Honors – 3 credit hours. Recommended for all students in AAMU Honors Program. Topics covered 
 are the same as in CHE 101 but in more depth and with more rigor. A study of the fundamental laws of matter that 
 govern physical and chemical changes. Atomic and molecular theories, atomic structure, periodic functions and 
 classification of the elements are address. Required of all majors in chemistry. Prerequisite: None. Corequisites: CHE 
 101HL. 
  
-CHE 101L General Chemistry I Lab – 1 credit hour (3 clock hour lab period per week). Laboratory to accompany CHE 101. Basic 
+CHE 101L 
+General Chemistry I Lab – 1 credit hour (3 clock hour lab period per week). Laboratory to accompany CHE 101. Basic 
 exercises in general chemistry, to include fundamental operations used in making scientific measurements; properties of 
 gases, liquids and solids, chemical elements and compounds. Prerequisite: None. Corequisites: CHE 101. 
  
-CHE 101HL General Chemistry I Lab Honors – 1 credit hour (3 clock hour lab period per week). Laboratory to accompany CHE 101 
+CHE 101HL
+General Chemistry I Lab Honors – 1 credit hour (3 clock hour lab period per week). Laboratory to accompany CHE 101 
 Honors. Recommended for all students in AAMU Honors Program. Topics covered are the same as in CHE 101L but in 
 more depth and with more rigor. Basic exercises in general chemistry, to include fundamental operations used in making 
 scientific measurements; properties of gases, liquids and solids, chemical elements and compounds. Prerequisite: None. 
@@ -1181,16 +1195,19 @@ General Chemistry II – 3 credit hours. A study of radioactivity, solutions and
 reactions and uses of important metallic and non-metallic elements. The course includes an introduction to qualitative 
 analysis. Prerequisite: CHE 101 and CHE 101L. Corequisites: CHE 102L. 
  
-CHE 102H General Chemistry II Honors – 3 credit hours. Recommended for all students in AAMU Honors Program. Topics 
+CHE 102H
+General Chemistry II Honors – 3 credit hours. Recommended for all students in AAMU Honors Program. Topics 
 covered are the same as in CHE 102 but in more depth and with more rigor. A study of radioactivity, solutions and 
 electrolytes, ionization; properties, and reactions and uses of important metallic and non-metallic elements. The courses 
 includes an introduction to qualitative analysis. Prerequisite: CHE 101H and CHE 101HL. Corequisites: CHE 102HL. 
  
-CHE 102L General Chemistry II Lab – 1 credit hour (3 clock hour lab period per week). Laboratory to accompany CHE 102. An 
+CHE 102L
+General Chemistry II Lab – 1 credit hour (3 clock hour lab period per week). Laboratory to accompany CHE 102. An 
 introduction to quantitative and qualitative analyses. Acid-base titrations, reaction kinetics, and qualitative analyses of 
 the elements are covered. Prerequisite: CHE 101 and CHE 101L. Corequisites: CHE 102. 
  
-CHE 102HL General Chemistry II Lab Honors – 1 credit hour (3 clock hour lab period per week). Laboratory to accompany CHE 102 
+CHE 102HL
+General Chemistry II Lab Honors – 1 credit hour (3 clock hour lab period per week). Laboratory to accompany CHE 102 
 Honors. Recommended for all students in AAMU Honors Program. Topics covered are the same as in CHE 102L but in 
 more depth and with more rigor. An introduction to quantitative and qualitative analysis. Acid-base titrations, reaction 
 kinetics, and qualitative analyses of the elements are covered. Prerequisite: CHE 101H and CHE 101HL. Corequisites: 
@@ -1202,20 +1219,20 @@ principles to the solution of problems and the contribution of chemistry to mode
 field trips to manufacturing facilities and other appropriate chemically-oriented facilities may be scheduled. Not open to 
 chemistry majors and minors as a substitute for CHE 101 or CHE 121. Prerequisite: None. Corequisites: CHE 111L. 
  
-CHE 111L Applied Chemistry I Lab – 1 credit hour. A laboratory course to accompany CHE 111. Included are basic exercises in 
+CHE 111L
+Applied Chemistry I Lab – 1 credit hour. A laboratory course to accompany CHE 111. Included are basic exercises in 
 general chemistry, to include fundamental operations used in making scientific measurements; properties of gases, 
 liquids, solids, chemical elements and compounds. Not open to chemistry majors and minors as a substitute for CHE 101 
 or CHE 121. Prerequisite: None. Corequisites: CHE 111. 
- 
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 234 ~ 
+  
  
 CHE 112 
 Applied Chemistry II – 3 credit hours. A continuation of CHE 111, with continued emphasis on modern technological 
 achievements. Field trips will be scheduled as appropriate. Not open to chemistry majors and minors as a substitute for 
 CHE 102 or CHE 122. Prerequisite: None. Corequisites: CHE 112L. 
  
-CHE 112L Applied Chemistry II Lab – 1 credit hour. A laboratory course to accompany CHE 112. A continuation of CHE 111L, to 
+CHE 112L
+Applied Chemistry II Lab – 1 credit hour. A laboratory course to accompany CHE 112. A continuation of CHE 111L, to 
 include polymer and dye synthesis, recycling of wastes and other selected experiments. Not open to chemistry majors 
 and minors as a substitute for CHE 102 or CHE 122. Prerequisite: None. Corequisites: CHE 112. 
  
@@ -1226,7 +1243,8 @@ an introduction to special instrumental methods in analytical chemistry. Prerequ
 102 and CHE 102L) or (CHE 121 and CHE 121L and CHE 122 and CHE 122L). Corequisites: CHE 221L. 
 Note: This course cannot be used to satisfy General Education requirements in Areas I-IV. 
  
-CHE 221L Analytical Chemistry Lab – 1 credit hour. Laboratory to accompany CHE 221. A study of classical wet and dry methods 
+CHE 221L
+Analytical Chemistry Lab – 1 credit hour. Laboratory to accompany CHE 221. A study of classical wet and dry methods 
 as well as electrometric, spectrometric, and chromatographic methods. Prerequisite: (CHE 101 and CHE 101L and CHE 
 102 and CHE 102L) or (CHE 121 and CHE 121L and CHE 122 and CHE 122L). Corequisites: CHE 221. 
 Note: This course cannot be used to satisfy General Education requirements in Areas I-IV. 
@@ -1237,7 +1255,8 @@ firearms, arson materials, explosive materials, trace evidence, forensic biology
 soils, hair, fibers, paints (surface coating), forensic toxicology, drugs. Biological methods used for the analysis of 
 forensic evidence. Prerequisite: CHE 101 and CHE 101L and CHE 102 and CHE 102L and CHE 221 and CHE 221L. 
  
-CHE 231L Introduction to Forensic Chemistry Lab – 1 credit hour. Laboratory to accompany CHE 231. 
+CHE 231L
+Introduction to Forensic Chemistry Lab – 1 credit hour. Laboratory to accompany CHE 231. 
  
 CHE 251 
 Organic Chemistry I – 3 credit hours. A course designed to give the student a thorough working knowledge of the 
@@ -1247,7 +1266,8 @@ will include saturated and unsaturated aliphatic compounds, alicyclic compounds,
 alkyl and aryl halides. Prerequisite: (CHE 101 and CHE 101L and CHE 102 and CHE 102L) or (CHE 121 and CHE 
 121L and CHE 122 and CHE 122L). Corequisites: CHE 251L. 
  
-CHE 251L Organic Chemistry I Lab – 1 credit hour. Laboratory to accompany CHE 251. The laboratory work including basic 
+CHE 251L
+Organic Chemistry I Lab – 1 credit hour. Laboratory to accompany CHE 251. The laboratory work including basic 
 techniques and experiments in synthesis and kinetics. Modern instrumental methods will be used in some experiments. 
 Prerequisite: (CHE 101 and CHE 101L and CHE 102 and CHE 102L) or (CHE 121 and CHE 121L and CHE 122 and 
 CHE 122L). Corequisites: CHE 251. 
@@ -1257,7 +1277,8 @@ Organic Chemistry II – 3 credit hours. A continuation of the first semester. L
 acids, sulfonic acids, amines, aldehydes and ketones, diazo compounds, glycols, carbohydrates, and amino acids. 
 Prerequisite: CHE 251 and CHE 251L. Corequisites: CHE 252L. 
  
-CHE 252L Organic Chemistry II Lab – 1 credit hour. Laboratory to accompany CHE 252. The laboratory work will emphasize 
+CHE 252L
+Organic Chemistry II Lab – 1 credit hour. Laboratory to accompany CHE 252. The laboratory work will emphasize 
 qualitative organic analysis by chemical reactions. Prerequisite: CHE 251 and CHE 251L: Corequisites: CHE 252. 
  
 CHE 303 
@@ -1267,7 +1288,8 @@ transition elements, organometallic chemistry, solid state chemistry, bioinorgan
 and actinide elements. Credit for this course will be counted toward the degree requirement. Prerequisite: CHE 101 and 
 CHE 101 and CHE 102 and CHE 102L. 
  
-CHE 303L Inorganic Chemistry Lab – 1 credit hour. The laboratory course to accompany the inorganic course CHE 303. The 
+CHE 303L
+Inorganic Chemistry Lab – 1 credit hour. The laboratory course to accompany the inorganic course CHE 303. The 
 laboratory work will consider the qualitative and quantitative aspects of the coordination and geometry of transition 
 metals in inorganic and organometallic compounds. Emphasis will be placed on the structure, geometry, isomerism and 
 coordination with metals using different ligands. Characterization of the compounds will be conducted using IR 
@@ -1346,7 +1368,8 @@ and CHE 251 and CHE 251L and CHE 252 and CHE 252L. Corequisites: CHE 401L.
 COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
 ~ 236 ~ 
  
-CHE 401L Physical Chemistry I Lab – 1 credit hour. Laboratory to accompany CHE 401. To the extent possible, the laboratory 
+CHE 401L
+Physical Chemistry I Lab – 1 credit hour. Laboratory to accompany CHE 401. To the extent possible, the laboratory 
 experiments will be selected to coincide with the lecture topics. Experiments relating to gas laws, thermodynamics, 
 thermochemistry, solids, solutions and chemical equilibria will be performed. Prerequisite: CHE 221 and CHE 221L and 
 CHE 251 and CHE 251L and CHE 252 and CHE 252L. Corequisites: CHE 401. 
@@ -1357,18 +1380,21 @@ force, quantum theory, molecular structure and spectroscopy, macromolecules, sur
 chemistry. Prerequisite: CHE 221 and CHE 221L and CHE 251 and CHE 251L and CHE 252 and CHE 252L and CHE 
 401 and CHE 401L. 
  
-CHE 402L Physical Chemistry II Lab – 1 credit hour. Laboratory to accompany CHE 402. To the extent possible, the laboratory 
+CHE 402L
+Physical Chemistry II Lab – 1 credit hour. Laboratory to accompany CHE 402. To the extent possible, the laboratory 
 experiments will be selected to coincide with the lecture topics. Experiments relating to gas laws, thermodynamics, 
 thermochemistry, solids, solutions and chemical equilibria will be performed. Prerequisite: CHE 221 and CHE 221L and 
 CHE 251 and CHE 251L and CHE 252 and CHE 252L and CHE 401 and CHE 401L. Corequisites: CHE 402. 
  
-CHE 403L Research in Chemistry I – 2 credit hours. Laboratory and library work that involves the solution of a suitable problem in 
+CHE 403L
+Research in Chemistry I – 2 credit hours. Laboratory and library work that involves the solution of a suitable problem in 
 an area of the student's interest to culminate in an investigative paper required of all majors. Prerequisite: instructor 
 consent. 
 Note: This course is a capstone course for the Chemistry program. Therefore, students majoring in this program cannot 
 substitute this course. 
  
-CHE 404L Research in Chemistry II – 2 credit hours.  Laboratory and library work that involves the solution of a suitable problem 
+CHE 404L
+Research in Chemistry II – 2 credit hours.  Laboratory and library work that involves the solution of a suitable problem 
 in area of the student's interest to culminate in an investigative paper required of all majors. Prerequisite: instructor 
 consent. 
 Note: This course is a capstone course for the Chemistry program. Therefore, students majoring in this program cannot 
@@ -1390,7 +1416,8 @@ compositions of living cells, the relation between the structure and the functio
 isolation and purification of proteins, enzymatic kinetics and reaction mechanisms, coenzymes, and carbohydrate 
 catabolism for generation of energy. Prerequisite: CHE 251 and CHE 251L and CHE 252 and CHE 252L. 
  
-CHE 407L Biochemistry I Lab – 1 credit hour. Laboratory to accompany CHE 407. The course will include the isolation and 
+CHE 407L
+Biochemistry I Lab – 1 credit hour. Laboratory to accompany CHE 407. The course will include the isolation and 
 purification of proteins, protein quantitation, molecular weight determination of protein by gel electrophoresis, peptide 
 mapping analysis, affinity chromatography, and enzymatic kinetics. Prerequisite: CHE 251 and CHE 251L and CHE 252 
 and CHE 252L. Corequisites: CHE 407. 
@@ -1402,7 +1429,8 @@ cholesterol, amino acids, and nucleotides; and fundamental principles of storage
 including structures of DNA and RNA, DNA replication, transcription, and protein biosynthesis. Prerequisite: CHE 251 
 and CHE 251L and CHE 252 and CHE 252L and CHE 407. 
  
-CHE 408L Biochemistry II Lab – 1 credit hour (3 clock hour lab period per week). Laboratory to accompany CHE 408. In this 
+CHE 408L
+Biochemistry II Lab – 1 credit hour (3 clock hour lab period per week). Laboratory to accompany CHE 408. In this 
 course students are taught the modern biochemical topics such as protein evolution and Western blot, effects of 
 temperature on cell respiration, protein separation by gel-filtration chromatography, determination of the length of DNA 
 molecules by gel electrophoresis, restriction nuclease mapping of DNA, and plasmid DNA structure. Prerequisite: CHE 
@@ -1471,7 +1499,7 @@ theory. This is done by combining classical electromagnetic waves with quantum m
 Feynman Diagrams, nonlinear spectroscopy. Prerequisite: CHE 401 and CHE 401L and CHE 402 and CHE 402L and 
 CHE 450 and MTH 227 an MTH 237 and MTH 238 and PHY 213 and PHY 214. 
  
-Chinese 
+
 CHN 101 
 Elementary Chinese I – 3 credit hours. The course aims to develop fundamental listening, speaking, reading, and writing 
 abilities in Mandarin Chinese. Mastery of Pinyin pronunciation is an essential part. Prerequisite: None. 
@@ -1499,7 +1527,7 @@ Studies in Chinese Culture – 3 credit hours. Study of Chinese culture especial
 their functions and the ethos of ancient Chinese society. Emphasis will be placed on values and the historical and cultural 
 heritage. Prerequisite: ENG 203 or ENG 203H or equivalent. 
  
-Construction Management 
+ 
 CMG 101 
 Introduction to Construction Management – 2 credit hours. Study of construction industry practice emphasizing business 
 organizations and management techniques and career opportunities. Topics include organizational environments, 
@@ -1655,22 +1683,26 @@ Note: This course is a capstone course for the Chemistry program. Therefore, stu
 substitute this course. 
  
 Communications Media 
-COMM 101 Theater Appreciation – 3 credit hours. An introductory course that examines the history and principles of theater art and 
+COMM 101
+Theater Appreciation – 3 credit hours. An introductory course that examines the history and principles of theater art and 
 dramatic performance from prehistory through contemporary and emerging media. Key texts and authors from 
 significant historical periods will be examined as well as critical theories and performance analysis. Prerequisite: None. 
  
 COMM 110  Film Appreciation – 3 credit hours. A course introducing the aesthetics of film through screening and discussions of 
 films from various eras, diverse cultures and global film centers. Prerequisite: None. 
  
-COMM 201 Introduction to Mass Media – 3 credit hours. A course examining the historical, technical, aesthetic, cultural, socio-
+COMM 201
+Introduction to Mass Media – 3 credit hours. A course examining the historical, technical, aesthetic, cultural, socio-
 political and commercial aspects of mass media, with special emphasis on contemporary visual and digital media and the 
 career opportunities that these offer. Prerequisite: None. 
  
-COMM 202 Fundamentals of Television Production – 3 credit hours. Primarily a laboratory course in the development of TV 
+COMM 202
+Fundamentals of Television Production – 3 credit hours. Primarily a laboratory course in the development of TV 
 programs. Study areas include TV equipment, camera operations, optics and lenses used in TV production, set 
 development and construction and audio reproduction. Prerequisite: COMM 201. 
  
-COMM 205 Public Speaking for the Communication Arts Professional – 3 credit hours. A specialized course focusing on developing 
+COMM 205
+Public Speaking for the Communication Arts Professional – 3 credit hours. A specialized course focusing on developing 
 the speaking and communication skills for the professional in broadcasting, film and video, theatre, and emerging media. 
 The student will focus on career-oriented communications such as theatre and video audition techniques (and the 
 differences between the two); professional job interview strategies; media presentations; and “the pitch.” Verbal and 
@@ -1678,60 +1710,73 @@ nonverbal communications will be incorporated as well as the seamless incorporat
 presentations. Topics covered will be relevant to both performing and production-oriented professionals. Prerequisite:  
 ENG 102 or ENG 102H. 
  
-COMM 211 Broadcast Law and Regulations – 3 credit hours. Regulations governing broadcasting, the responsibility for 
+COMM 211
+Broadcast Law and Regulations – 3 credit hours. Regulations governing broadcasting, the responsibility for 
 programming decision, standards and responsibilities of public communications in telecommunications, and laws 
 relating to the press and to government regulation of broadcasting. Prerequisite: ENG 102 or ENG 102H. 
  
-COMM 212 Writing for Broadcasting – 3 credit hours. The fundamentals of writing and adapting literature for television and radio. 
+COMM 212
+Writing for Broadcasting – 3 credit hours. The fundamentals of writing and adapting literature for television and radio. 
 Prerequisite: ENG 102 or ENG 102H. 
  
-COMM 213 Digital Broadcasting – 3 credit hours. This course is designed to bridge the knowledge gap between the content provider 
+COMM 213
+Digital Broadcasting – 3 credit hours. This course is designed to bridge the knowledge gap between the content provider 
 and the IT specialist in the new digital broadcasting age. The course examines the origins of HDTV, current trends and 
 the future of digital broadcasting. Prerequisite: COMM 202. 
  
 COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
 ~ 241 ~ 
  
-COMM 214 Careers in Media Arts – 3 credit hours. A course that examines potential careers in broadcasting, film, video, theatre, and 
+COMM 214
+Careers in Media Arts – 3 credit hours. A course that examines potential careers in broadcasting, film, video, theatre, and 
 emerging media. Topics covered will be relevant to the performance, production, and operations professional. 
 Prerequisite: None. 
  
-COMM 215 Voice and Diction – 3 credit hours. Voice training through exercises in voice production, elements of tone, and 
+COMM 215
+Voice and Diction – 3 credit hours. Voice training through exercises in voice production, elements of tone, and 
 articulation of speech sounds. Practical experiences will be offered in announcing, news casting, interviews, special 
 events, and effective speech. Prerequisite: None. 
 Note: This course cannot be used to satisfy General Education requirements in Areas I-IV. 
  
-COMM 216 Oral Interpretation – 3 credit hours. A course stressing literary interpretation: clarity through understanding of the 
+COMM 216
+Oral Interpretation – 3 credit hours. A course stressing literary interpretation: clarity through understanding of the 
 content, unity through grasps of the rhythm, interest through appreciation of the dramatic movement, and color through 
 realization of the mood. Advanced experiences will be offered in interpretation of literary works, announcing, 
 interviewing, and news casting. Prerequisite: COMM 215. 
 Note: This course cannot be used to satisfy General Education requirements in Areas I-IV. 
  
-COMM 217 Discussion for Television – 3 credit hours. Emphasis on contemporary theories on interpersonal and small group 
+COMM 217
+Discussion for Television – 3 credit hours. Emphasis on contemporary theories on interpersonal and small group 
 communication and especially on techniques for argumentation, interview, and panel discussion for TV. Prerequisite: 
 None. 
  
-COMM 218 Non-linear Editing – 3 credit hours. This course examines video editing and finishing physically and conceptually. 
+COMM 218
+Non-linear Editing – 3 credit hours. This course examines video editing and finishing physically and conceptually. 
 Special attention is given to the reasoning behind the edit, the physical cut and the finished presentation. The students 
 will complete a five-minute feature. Prerequisite: COMM 202. 
  
-COMM 301 Film - Screenwriting – 3 credit hours. The first course in a year-long film sequence focuses on developing a final script 
+COMM 301
+Film - Screenwriting – 3 credit hours. The first course in a year-long film sequence focuses on developing a final script 
 with an emphasis on characterization, plotting, target audience, messages and industry-standard script formats using 
 software like Final Draft and MovieMagic. Prerequisite: None. 
  
-COMM 302 Film - Production – 3 credit hours. An introduction to film-making equipment and scripting. Each student will be 
+COMM 302
+Film - Production – 3 credit hours. An introduction to film-making equipment and scripting. Each student will be 
 required to write, produce, budget, edit, and direct a film project. Prerequisite: COMM 301. 
  
-COMM 304 Advanced Television Production – 3 credit hours. Laboratory experience in the development of various types of TV 
+COMM 304
+Advanced Television Production – 3 credit hours. Laboratory experience in the development of various types of TV 
 production. Students will be required to write, produce, budget, and direct a TV program of considerable length in a 
 category other than drama. Program idea and design will be emphasized. Prerequisite: COMM 202. 
  
-COMM 309 Sports Broadcasting – 3 credit hours. This course is designed to introduce students to the emerging aspects of play-by-
+COMM 309
+Sports Broadcasting – 3 credit hours. This course is designed to introduce students to the emerging aspects of play-by-
 play, reporting, TV and radio production. Importance will be given to color commentary, mobile communications, in-
 studio and field production of sports broadcasting. An emphasis will be placed on practical experience that will result 
 through productions broadcast on the media outlets of WJAB-TV and WJAB 90.9 FM. 
  
-COMM 310 Crisis Communications – 3 credit hours. Communication is the key to the success of disaster mitigation, preparedness, 
+COMM 310
+Crisis Communications – 3 credit hours. Communication is the key to the success of disaster mitigation, preparedness, 
 response and recovery. Accurate information disseminated to the public, elected officials, community leaders and the 
 media allows for reducing risk, saving lives and property and speeds recovery. The Crisis Communications course is an 
 in-depth look at managing communication messages. It will provide a look at best practices on the process and 
@@ -1740,11 +1785,13 @@ crises will include natural disasters (Hurricane Katrina & Harvey), terrorism (9
 Bay Hotel), accidents (BP Oil Spill), crime (Penn State University), misguided executive media interviews (Lulumon), 
 and education (University of Michigan). 
  
-COMM 311 Advertising for Radio and Television – 3 credit hours. Application of the principles of advertising to the broadcast 
+COMM 311
+Advertising for Radio and Television – 3 credit hours. Application of the principles of advertising to the broadcast 
 media. Emphasis will be placed on techniques of writing and production of advertisement. Prerequisite: 15 semester 
 hours in COMM. 
  
-COMM 313  The Black Press – 3 credit hours. The course is designed to provide an introduction to the history of the Black Press 
+COMM 313
+The Black Press – 3 credit hours. The course is designed to provide an introduction to the history of the Black Press 
 which was essential during the abolition movement, connected African Americans beyond their individual communities 
 during the Civil Rights era and covered stories that were not featured in the mainstream press. It will look at the impact 
 of the Black Press from Russwurm and Cornish’s Freedom Journal in 1827 through the Civil Rights era. In addition, it 
@@ -1755,11 +1802,13 @@ COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024
 solutions and developments of the African American community in the united States. Pioneers in the industry (Alice 
 Dunnigan, Ethel Payne, John Johnson, Bob Johnson, Cathy Hughes, April Ryan, etc.) will also be introduced. 
  
-COMM 321 News and Documentary Techniques – 3 credit hours. Fundamentals of news reporting for all news media, the gathering 
+COMM 321
+News and Documentary Techniques – 3 credit hours. Fundamentals of news reporting for all news media, the gathering 
 and writing of news, study of news departments, responsibility to the public affairs programming, and news editing. 
 Prerequisite: 15 semester hours in COMM. 
  
-COMM 400 Theatre Practicum – 3 credit hours. (9 clock hours per week). The Theatre Practicum class is designed to enable each 
+COMM 400
+Theatre Practicum – 3 credit hours. (9 clock hours per week). The Theatre Practicum class is designed to enable each 
 student to acquire practical experience in a professional performance environment by auditioning or interviewing for 
 their role and working hands on in every element of the production and performance process. The student should gain 
 critical skills in assessing abilities to function in hands-on professional environments and in working as a part of a 
@@ -1768,39 +1817,48 @@ professional performance environment and target specific needs for improvement. 
 culminates with a live public performance on the AAMU campus and at an off-campus venue. The class may be repeated 
 in fall, spring or summer. Prerequisite: Audition or Instructor consent. 
  
-COMM 401 Practicum I – 3 credit hours. Training in the operation of audio and video equipment using the facilities of the AAMU 
+COMM 401
+Practicum I – 3 credit hours. Training in the operation of audio and video equipment using the facilities of the AAMU 
 Telecommunications Center and other facilities, based on student interest. Prerequisite: 15 semester hours in COMM. 
  
-COMM 402 Practicum II – 3 credit hours. Additional training in the Telecommunications Center or other appropriate centers. 
+COMM 402
+Practicum II – 3 credit hours. Additional training in the Telecommunications Center or other appropriate centers. 
 Prerequisite: 15 semester hours in COMM. 
  
-COMM 403 Acting for Television and Film I – 3 credit hours. An exploration of the principles and theories of dramatic performance 
+COMM 403
+Acting for Television and Film I – 3 credit hours. An exploration of the principles and theories of dramatic performance 
 expressed through contemporary entertainment media. Practical experience in acting for television will be offered. 
 Prerequisite: None. 
  
-COMM 404 Acting for Television and Film II – 3 credit hours. A continuation of COMM 403. Prerequisite: COMM 403. 
+COMM 404
+Acting for Television and Film II – 3 credit hours. A continuation of COMM 403. Prerequisite: COMM 403. 
  
-COMM 405 Intro to Directing – 3 credit hours. Training in the fundaments of directing performers. The course will examine script 
+COMM 405
+Intro to Directing – 3 credit hours. Training in the fundaments of directing performers. The course will examine script 
 analysis and interpretation, interaction with designers, the language and techniques of stage direction, and how those 
 applications are transferred to working with performers in all media. Prerequisite: COMM 403. 
  
-COMM 406 Advanced Directing – 3 credit hours. An interactive and project-oriented course which adapts the principles of directing 
+COMM 406
+Advanced Directing – 3 credit hours. An interactive and project-oriented course which adapts the principles of directing 
 into electronic media. The student will focus on the creation of several directorial projects including creation and 
 adaptation of texts for performance and direction of actors to achieve the desired vision. Prerequisite: COMM 405. 
  
-COMM 411 Special Topics in Broadcasting – 3 credit hours. The history, significance, potentialities, current trends, and utilization in 
+COMM 411
+Special Topics in Broadcasting – 3 credit hours. The history, significance, potentialities, current trends, and utilization in 
 the broadcast medium. Emphasis will also be placed on broadcast economics and station management. Prerequisite: 15 
 semester hours in COMM. 
  
-COMM 431 Special Topics in Film – 3 credit hours. Visual aspects of television and film, with emphasis on basic principles of 
+COMM 431
+Special Topics in Film – 3 credit hours. Visual aspects of television and film, with emphasis on basic principles of 
 designing, techniques of lighting, and practices in television and film studio operations, as well as sound motion picture 
 production. Prerequisite: 15 semester hours in COMM. 
  
-COMM 441 Special Topics in Speech and Drama – 3 credit hours. Both history and practice in the art of advocacy involving analysis, 
+COMM 441
+Special Topics in Speech and Drama – 3 credit hours. Both history and practice in the art of advocacy involving analysis, 
 arrangement, and presentation of arguments for the purpose of decision making and social control. Experiences in 
 developing scripts for public performance will be required. Prerequisite: 15 semester hours in COMM. 
  
-Criminal Justice 
+
 CRJ 250 
 Introduction to Criminal Justice – 3 credit hours. A survey of the entire American criminal justice process and systems 
 including criminal laws, police subsystem, judicial subsystem, and correctional subsystem. Issues in America’s criminal 
@@ -2030,9 +2088,7 @@ issues and the social impact of computerization on local and global organization
 CS 381 
 Computer Organization – 3 credit hours. The primary hardware and software components of a computer system are 
 addressed in this course. Topics covered include digital logic and data representation, computer architecture and 
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 246 ~ 
- 
+
 organization, interfacing and I/O strategies, memory architecture, functional organization, multiprocessing, performance 
 enhancements, distributed architectures, devices, and directions in computing. The organization of the CPU, main 
 memory, interrupt structure, and addressing techniques as well as assemblers and linker/loaders are also taught. 
@@ -2171,9 +2227,7 @@ CS 483
 Compilers – 3 credit hours. This course is a study of formal grammars, syntactic and semantic analysis, code generation, 
 and other topics necessary to understand how compilers translate high-level languages into machine form. Programming 
 projects are assigned. Prerequisite: Senior standing, CS 215. 
- 
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 248 ~ 
+
  
 CS 484 
 Internship – 3 credit hours. The computer science internship program gives senior level undergraduates an opportunity to 
@@ -2350,7 +2404,7 @@ CWE 430
 Cooperative Work Experience – 3 credit hours. Each course is on-the-job work experience that provides the student an 
 opportunity to apply classroom facts, theories, and principles to practical work situations. 
  
-Department of Social Sciences 
+
 DSS 390 
 Department of Social Sciences Experiential Learning Opportunity (ELO) – 3 credit hours. An experiential learning 
 opportunity in the form of a co-op, internship, or field experience that combines classroom concepts with practical work 
@@ -2393,8 +2447,7 @@ and evaluation of science lessons and units of instruction. Alabama Math, Scienc
 training is embedded in this course. Preservice teacher candidates will receive AMSTI year one certification upon 
 completion of the online Note Book training and the course. A practicum is required. Prerequisite: Admission to 
 Educator Preparation Program 
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 251 ~ 
+
  
  
 ECE 304 
@@ -2464,8 +2517,7 @@ Organization and Administration of Early Childhood Education Programs – 3 cred
 administration, organization, and supervision of programs for infants and young children. Prerequisite: Admission to 
 Teacher Education. 
  
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 252 ~ 
+
  
 ECH 407 
 Practicum in Groups of Young Children – 3 credit hours. University-supervised practical experiences in working with 
@@ -2968,9 +3020,7 @@ Senior standing and instructor consent.
 EE 471 
 Engineering Analysis and Design II – 2 credit hours. This is a continuation of EE 470 and is provided to facilitate 
 completion of the capstone design project. Meeting times are flexible. Prerequisite: EE 470. 
- 
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 259 ~ 
+
  
 EE 490 
 Special Topics – 3 credit hours. This course focuses on topics based on modern trends in electrical engineering. This 
@@ -3113,9 +3163,7 @@ Computer Networks I – 3 credit hours. An introduction to computer networks. Th
 theory are covered. The course includes the terminology and technology of basic through state-of-the-art networking 
 hardware and software. Network system concepts are examined from a wide range of applications including small work 
 groups, local area networks, wide area networks, and global networking and modern network technology and 
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 261 ~ 
- 
+
 applications including Wi-Fi, Microsoft Networks and CISCO routers. The course covers the material necessary for 
 taking the Network+ certification exam. Prerequisite: EET 211L. 
  
@@ -3204,7 +3252,8 @@ Fluid Mechanics – 3 credit hours. A study of the properties of fluids and fund
 including fluid statics; conservation of mass momentum and energy with application to pipe and channel flow of 
 incompressible fluids. Prerequisite: EGC 206 and MTH 238. Corequisites: EGC 305L. 
  
-EGC 305L Fluid Mechanics Lab – 1 credit hour. The purpose of this course is to present a selection of experiments that will 
+EGC 305L
+Fluid Mechanics Lab – 1 credit hour. The purpose of this course is to present a selection of experiments that will 
 demonstrate the principles of Fluid Mechanics. A Laboratory Manual for this course will be used for performing these 
 experiments. Corequisites: EGC 305. 
  
@@ -3280,12 +3329,14 @@ ENG 101
 Composition I – 3 credit hours. A course presenting an opportunity for freshmen to develop maturity in writing skills. 
 Students must demonstrate adequate competence in writing on the final essay examination. Prerequisite: None. 
  
-ENG 101E Composition I with Lab – 4 credit hours (3 clock hour lecture and 1 clock hour lab per week). This course is designed to 
+ENG 101E
+Composition I with Lab – 4 credit hours (3 clock hour lecture and 1 clock hour lab per week). This course is designed to 
 successfully move students whose ACT scores demonstrate a minimal deficiency in English to readiness and mastery of 
 the outcomes for college-level writing I. The course requires a mandatory one hour of Structured Learning Assistance 
 (SLA) each week as well as tutorial assistance. Prerequisite: Approval of Freshman Academy Advisor. 
  
-ENG 101H Composition I Honors – 3 credit hours. A course presenting an opportunity for freshmen to develop maturity in using 
+ENG 101H
+Composition I Honors – 3 credit hours. A course presenting an opportunity for freshmen to develop maturity in using 
 communication skills. Advanced reading and writing assignments will be given. Enrollment in the Honors program is 
 required. Prerequisite: None. 
  
@@ -3293,7 +3344,8 @@ ENG 102
 Composition II – 3 credit hours. A course presenting a continuation of Composition I. Emphasis is placed on the research 
 paper. Prerequisite: ENG 101 or ENG 101E or ENG 101H. 
  
-ENG 102H Composition II Honors – 3 credit hours. A course presenting a continuation of Honors Composition I. A research project 
+ENG 102H
+Composition II Honors – 3 credit hours. A course presenting a continuation of Honors Composition I. A research project 
 is required. Enrollment in the Honors program is required. Prerequisite: ENG 101H. 
  
 ENG 201 
@@ -3319,7 +3371,8 @@ ENG 204
 World Literature II – 3 credit hours. A study of world literature from the Age of Reason through the modern period. 
 Prerequisite: ENG 102. 
  
-ENG 204H World Literature II Honors – 3 credit hours. An advanced study of world literature from the Age of Reason through the 
+ENG 204H
+World Literature II Honors – 3 credit hours. An advanced study of world literature from the Age of Reason through the 
 modern period. Honor students who enroll in this course will be expected to read an extensive number of short stories 
 and novels and will be engaged in multiple projects connected to the literature of the period. Prerequisite: ENG 102 and 
 formal admittance to the Honor's Program. 
@@ -4156,7 +4209,7 @@ Special Topics in Finance – 3 credit hours. Current issues and problem relatin
 computer-assisted techniques and methods used to select, administer and change the financial decisions. Prerequisite: 
 FIN 432. 
  
-French 
+
 FRE 101 
 Elementary French I – 3 credit hours. An introduction to the fundamentals of oral-aural and reading-writing usage in the 
 language. Grammatical structure, conversational form, and various aspects of the French culture are important parts of 
@@ -4630,8 +4683,7 @@ and domestic policy achievements and failures. The course attempts to address ho
 presidents utilized their executive and sometimes rhetorically persuasive powers to politically, culturally, and 
 economically shape American society. Prerequisite: None. 
  
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 282 ~ 
+
  
 HIS 496 
 History Internship and Co-op Program – 3-6 credit hours. An emphasis on the application of historical research methods 
@@ -5160,12 +5212,14 @@ material management as an element of integrated logistics support in the system/
 Management of assets from acquisitions through final disposition is considered from cost effectiveness and customer 
 satisfaction viewpoints. Prerequisite: LSM 305. 
  
-Mechanical Drafting Technology 
-MDT 111L Technical Drafting – 3 credit hours.  An introductory study of technical drawing theory and practice, including lettering, 
+ 
+MDT 111L
+Technical Drafting – 3 credit hours.  An introductory study of technical drawing theory and practice, including lettering, 
 use of drafting instruments, orthographic projection, sections, auxiliary views, pictorial sketching, and dimensioning. An 
 introduction to computer-aided-drafting (CAD) is included. Prerequisite: None 
  
-MDT 112L Machine and Tool Drafting – 3 credit hours A continuation of MDT 111L. Includes shop processes, theory and practice 
+MDT 112L
+Machine and Tool Drafting – 3 credit hours A continuation of MDT 111L. Includes shop processes, theory and practice 
 of dimensioning and tolerances, an introduction to detail and working drawings, pictorial drawing, reproduction of 
 drawings, machine shop blueprint reading, and a continuation of CAD. Prerequisite: MDT 111L. 
  
@@ -5192,7 +5246,8 @@ AutoCADTM for Apparel – 3 credit hours (2 two-hour lecture/lab periods per wee
 AutoCADTM for apparel design and the basic principles of computer-assisted drafting. Offers the students hands-on 
 practical training for drafting applications. Not for Engineering Technology majors. Prerequisite: none. 
  
-MDT 302L Technical Design Principles – 3 credit hours. A study of power drives including gear, chain, and V-belt drives; shafts; 
+MDT 302L
+Technical Design Principles – 3 credit hours. A study of power drives including gear, chain, and V-belt drives; shafts; 
 keys, splines, and snap rings; springs; power screws; rolling and journal bearings; and brakes, clutches, flywheels, and 
 couplings. Use of the computer is required. Prerequisite: Junior standing. 
  
@@ -5213,11 +5268,7 @@ Computer-Aided Drafting and Design II – 3 credit hours. A continuation of MDT 
 dimensional computer model design; various checks, such as corridor clearance, and horizontal and vertical layout 
 schemes that can be carried out using a model; and error-reduction design methods, not possible with two-dimensional 
 modeling techniques. Prerequisite: MDT 313. 
- 
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 290 ~ 
- 
-Mechanical Engineering 
+
 ME 101 
 Introduction to Mechanical Engineering – 1 credit hour (1 clock hour lecture period per week). Brief review of 
 mechanical engineering as a practice is reviewed briefly. Students are required to develop a basic engineering project to 
@@ -5552,7 +5603,8 @@ manufacture, and maintenance of a wide range of engineering products and process
 knowledge that allows engineers to develop an interdisciplinary understanding and integrated approach to engineering. 
 Prerequisite: MDT 302L or EET 310L. 
  
-MET 330L Mechanical Engineering Technology Lab I – 1 credit hour. Laboratory projects in statics, fluid mechanics, and 
+MET 330L
+Mechanical Engineering Technology Lab I – 1 credit hour. Laboratory projects in statics, fluid mechanics, and 
 hydraulics. Lab preparation sessions will review theory before each project. Computer generated reports will be turned in 
 by each student for each project and some oral presentations will be required. A specific lab report format will be 
 adhered to. Prerequisite: TBC 102. 
@@ -5642,7 +5694,8 @@ presentation of the final results. The course is conducted to simulate the proce
 conduct engineering projects. An objective of the course is to demonstrate and practice the diverse skills and teamwork 
 required in the modern workplace. Prerequisite: MET 428. 
  
-MET 430L Mechanical Engineering Technology Lab III – 1 credit hour. Laboratory projects in manufacturing processes, strength of 
+MET 430L
+Mechanical Engineering Technology Lab III – 1 credit hour. Laboratory projects in manufacturing processes, strength of 
 materials, and properties of materials. Lab preparation sessions will review theory before each project. Computer 
 generated reports will be turned in by each student for each project and some oral presentations will be required. A 
 specific lab report format will be adhered to. Prerequisite: CMG 218. 
@@ -5650,7 +5703,8 @@ specific lab report format will be adhered to. Prerequisite: CMG 218.
 COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
 ~ 296 ~ 
  
-MET 431L Mechanical Engineering Technology Lab IV – 1 credit hour. Laboratory projects in quality control and machine design. 
+MET 431L
+Mechanical Engineering Technology Lab IV – 1 credit hour. Laboratory projects in quality control and machine design. 
 Lab preparation sessions will review theory before each project. Computer generated reports will be turned in by each 
 student for each project and some oral presentations will be required. A specific lab report format will be adhered to. 
 Prerequisite: MET 330. 
@@ -6078,7 +6132,8 @@ logarithmic functions; algebraic equations; linear and quadratic equations; line
 equations and inequalities; and the binomial theorem. Additional topics may include matrices, Cramer’s rule, and 
 mathematical induction. Prerequisite: MTH 011 or a satisfactory score on a placement exam. 
  
-MTH 112E Pre-Calculus Algebra with Lab – 4 credit hours (3 clock hour lecture and 1 clock hour lab per week). The algebra of 
+MTH 112E
+Pre-Calculus Algebra with Lab – 4 credit hours (3 clock hour lecture and 1 clock hour lab per week). The algebra of 
 polynomial, rational, exponential and logarithmic functions; algebraic equations; linear and quadratic equations; linear 
 COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
 ~ 302 ~ 
@@ -6337,7 +6392,8 @@ cultural influences with music in certain times and places. Music listening is s
 coordinated with out-of-class assignments like television programs, lyceum attractions, student recitals and community 
 concerts. Prerequisite: None. 
  
-MUS 101H Music Appreciation Honors – 3 credit hours. Fundamentals of music; melody, harmony, rhythm, form, meter, and 
+MUS 101H
+Music Appreciation Honors – 3 credit hours. Fundamentals of music; melody, harmony, rhythm, form, meter, and 
 notation are included in this course. Critical Thinking Models such as Statement, Elaborate, Exemplify, and Illustrate are 
 used to enhance understanding. Musical elements take on a deeper meaning as students are introduced to musical works 
 which include them. Students are taught to analyze and evaluate musical compositions along with biographies of 
@@ -6733,8 +6789,7 @@ MUS 222
 The University Choir I – 1 credit hour. The study and performance of works representative of a wide spectrum of choral 
 literature for mixed voices. Open to all university students. Prerequisite: instructor consent. 
  
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 311 ~ 
+
  
 MUS 223 
 The University Choir II – 1 credit hour. The study and performance of works representative of a wide spectrum of choral 
@@ -7832,12 +7887,14 @@ Professional Beverage Management – 3 credit hours. A study of beverage systems
 of beverages, related legislation and beverage accounting. Course will also include familiarization with equipment, 
 design of facilities, and mixology. Prerequisite: None. 
  
-NHM 306L Nutrition through the Life Cycle – 3 credit hours (1 clock hour lecture x3 and 1 clock hour lab periods per week). 
+NHM 306L
+Nutrition through the Life Cycle – 3 credit hours (1 clock hour lecture x3 and 1 clock hour lab periods per week). 
 Application of the basic principles of nutrition to the dietaries for the child and mother from conception through the 
 adolescent period. Emphasis is placed on the relationship of diet to the growth and development of the infant and child. 
 Prerequisite: NHM 105. 
  
-NHM 309L Professional Baking – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab periods per week). Emphasis upon the 
+NHM 309L
+Professional Baking – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab periods per week). Emphasis upon the 
 basic principles and techniques of professional baking will be emphasized throughout the course. The skills acquired will 
 prepare students for the field of baking. Prerequisite: NHM 201L. 
  
@@ -7846,7 +7903,8 @@ Travel, Tourism, and Resort Management – 3 credit hours. A study of travel, to
 emphasis on concepts, terminology, demographics, financial significance, and current trends. The course will also 
 evaluate the economic, social, and political impact of travel and tourism. Prerequisite: None. 
  
-NHM 312L Buffets and Banquets – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab periods per week). An exploration of 
+NHM 312L
+Buffets and Banquets – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab periods per week). An exploration of 
 the sophisticated world of buffets and banquets, including planning, preparation, and service. Prerequisite: None. 
  
 NHM 315 
@@ -7868,16 +7926,19 @@ pertain to commercial, industrial, and other institutional food services. Mercha
 and food preferences of customers will be included. Students will have an opportunity for study and laboratory 
 experiences in management of food preparation and services in a cafeteria. Prerequisite: None. 
  
-NHM 404L Nutrition for Early and Middle Childhood – 3 credit hours (1 clock hour lecture x2 and 2 clock hour lab periods per 
+NHM 404L
+Nutrition for Early and Middle Childhood – 3 credit hours (1 clock hour lecture x2 and 2 clock hour lab periods per 
 week). A course designed to acquaint teachers of young children with basic nutritional principles and their applications 
 for nutrition education. Emphasis is placed on methods and techniques for teaching nutrition to young children. 
 Prerequisite: None. 
  
-NHM 405L Advanced Human Nutrition – 3 credit hours (1 clock hour lecture x2 and 2 clock hour lab periods per week). A study of 
+NHM 405L
+Advanced Human Nutrition – 3 credit hours (1 clock hour lecture x2 and 2 clock hour lab periods per week). A study of 
 the physiological and chemical factors involved in the absorption and metabolism of food nutrients. Prerequisite: CHE 
 252, CHE 252L, BIO 221, BIO 221L, BIO 222, BIO 222L, NHM 105. 
  
-NHM 406L International Cuisine and Catering – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab periods per week). An 
+NHM 406L
+International Cuisine and Catering – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab periods per week). An 
 introduction to special foods of various countries and the techniques used to prepare authentic menus. Preparation and 
 management of catering will also be covered in the course. Prerequisite: None. 
  
@@ -7885,15 +7946,15 @@ NHM 407
 Medical Nutrition Therapy I – 3 credit hours. A study of the modification of normal diets in the applications of nutrition 
 and medical therapy. Prerequisite: NHM 405L. 
  
-NHM 408L  Medical Nutrition Therapy II – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab periods per week). Practical 
+NHM 408L
+Medical Nutrition Therapy II – 3 credit hours (1 clock hour lecture x2 and 3 clock hour lab periods per week). Practical 
 experience in nutrition and medical therapy dietetics and in the community, (i.e., hospitals, dialysis units, nursing homes, 
 etc.) Prerequisite: NHM 407. 
  
-NHM 409L Experimental Foods – 3 credit hours. Two one-hour lectures and one, three-hour lab per week. A senior level course 
+NHM 409L
+Experimental Foods – 3 credit hours. Two one-hour lectures and one, three-hour lab per week. A senior level course 
 designed to acquaint the students with the experimental study of foods, relative to why food is handled and prepared in a 
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 327 ~ 
- 
+
 certain manner, the significance of the effects of variations in treatments on food quality, and use of this knowledge can 
 be used to improve the quality of food products. Prerequisite: NHM 201L.  
  
@@ -8165,7 +8226,8 @@ NRE 433
 Introduction to Molecular Genetics – 3 credit hours. The study of prokaryotic DNA structure and replication, restriction 
 analysis, sequencing, transcription, translation, gene regulation and gene expression. Prerequisite: instructor consent. 
  
-NRE 433L Introduction to Molecular Genetics Laboratory – 1 credit hour. This course emphasizes the basic techniques used in 
+NRE 433L
+Introduction to Molecular Genetics Laboratory – 1 credit hour. This course emphasizes the basic techniques used in 
 molecular genetics and provides a step-by-step approach and hands-on experience in the field of recombinant DNA 
 technology. Corequisites: NRE 433. 
  
@@ -8656,12 +8718,14 @@ PHY 101
 Physical Science I – 3 credit hours. A course covering force, motion, gravitation, energy, energy in action, electricity and 
 magnetism, waves, the nucleus, and the atom. Prerequisite: MTH 011. Corequisites: PHY 101L. 
  
-PHY 101H Honors Physical Science I – 3 credit hours. This general education science course provides a fundamental understanding 
+PHY 101H
+Honors Physical Science I – 3 credit hours. This general education science course provides a fundamental understanding 
 of the physical universe. Students are introduced to topics that enable them to better understand the world of nature and 
 the laws that govern them. Topics covered included force, motion, gravitation, energy, energy in action, electricity and 
 magnetism, waves, the nucleus, and the atom. Prerequisite: None. 
  
-PHY 101L Physical Science Lab I – 1 credit hour. A laboratory course to accompany PHY 101, Survey of Physical Sciences I. This 
+PHY 101L
+Physical Science Lab I – 1 credit hour. A laboratory course to accompany PHY 101, Survey of Physical Sciences I. This 
 hands-on experience illustrates basic principles of measurements, kinematics & dynamics of motion, fluids, heat and 
 thermodynamics, electricity and magnetism, optics, and matter. Prerequisite: None. Corequisites: PHY 101. 
  
@@ -8671,8 +8735,8 @@ meteorology, and astronomy. Topics to be covered include: the periodic law, crys
 the atmosphere and hydrosphere, earth materials, the changing crust, earth and the sky, the solar system, the stars, and 
 the structure and evolution of the universe. Prerequisite: None. Corequisites: PHY 102L. 
  
-PHY 102L Physical Science Lab II – 1 credit hour. The laboratory course to accompany PHY 102 Survey of Physical Sciences. This 
-hands-on experience illustrates basic principles of chemistry, geology, astronomy, and weather. Prerequisite: None. 
+PHY 102L
+experience illustrates basic principles of chemistry, geology, astronomy, and weather. Prerequisite: None. 
 Corequisites: PHY 102. 
  
 PHY 201 
@@ -8722,11 +8786,13 @@ the solar system (planets, asteroids and comets), stars and galaxies. Kepler’s
 of Motion, universal gravitation, principles of optics, telescopes; the Doppler effect, various objects in the solar system, 
 star formation, and stellar evolution, Milky Way and other galaxies. Prerequisite: MTH 101. 
  
-PHY 220L Introduction to Astronomy Lab – 1 credit hour (2 clock hours per week). This course covers the hands-on conceptual 
+PHY 220L
+Introduction to Astronomy Lab – 1 credit hour (2 clock hours per week). This course covers the hands-on conceptual 
 learning of lenses, mirrors, telescopes, measuring distances using parallax, spectroscopy, stellar spectral types, Doppler 
 shift, expansion of the universe. Prerequisite: MTH 101. 
  
-PHY 252L Modern Physics Lab – 3 credit hours. An experimental course consisting of at least ten experiments selected from 
+PHY 252L
+Modern Physics Lab – 3 credit hours. An experimental course consisting of at least ten experiments selected from 
 advanced topics in physics. The purpose of this course is to provide general insight into advanced experimental 
 techniques involving refined electronic equipment and other sensitive apparatus. The experiments chosen each time the 
 course is offered will be announced in advance. Prerequisite: PHY 218. 
@@ -9271,9 +9337,7 @@ SED 494
 Pre-clinical Experiences in Secondary Schools – 3 credit hours (6 clock hour field experience per week). The course is a 
 pre-clinical field experiences class, to be taken simultaneously with other methods courses (e.g., SED 409 and [SED 421 
 COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 346 ~ 
- 
-or 422 or 423 or 424]). In the course, candidates will engage in classroom experiences under the supervision of mentor 
+ In the course, candidates will engage in classroom experiences under the supervision of mentor 
 teachers and the methods instructors. The intent of the course is to meaningfully engage students in a classroom setting 
 one semester prior to the clinical/internship experience. The experience serves as a laboratory course for the methods 
 courses where candidates have the opportunity, at the school site, to demonstrate the professional abilities to impact 
@@ -9284,7 +9348,7 @@ Internship – 11 credit hours. There are multiple internship courses based on t
 one semester of full-time teaching under the immediate direction of cooperating teachers and university supervisors in 
 the P-12 public schools.  A fee for the edTPA portfolio assessment is proposed for candidates to purchase who are 
 enrolled in the internship course (student teaching). The Alabama State Department of Education is requiring the edTPA 
-assessment starting September 1, 2018 for teacher candidates to receive certification. The cost for the edTPA portfolio 
+assessment starting September1, 2018 for teacher candidates to receive certification. The cost for the edTPA portfolio 
 submission to Pearson is $300.00. Prerequisite: Candidate must be enrolled in internship. Corequisites: Submit edTPA. 
  
 SED 496 
@@ -9363,8 +9427,8 @@ Cultural Anthropology – 3 credit hours. A consideration of the different ways 
 social milieu; different bodies of customs, variations in the socialization process, and the transmission of the culture 
 heritage. Primitive societies are the major ones considered. Prerequisite: None. 
  
-SOC 336 
-(CRJ 336/PSC 336) Black Lives Matter – 3 credit hours. Analysis of the nature, causes, development, forms, functions, 
+"SOC 336 (CRJ 336/PSC 336)"
+Black Lives Matter – 3 credit hours. Analysis of the nature, causes, development, forms, functions, 
 and outcome of recent social movements are analyzed. Theories about social movements as a variation of collective 
 behavior are included. Prerequisite: SOC 351. 
  
@@ -9574,14 +9638,14 @@ communication and interaction with parents and techniques of facilitation. Prere
  
 SPE 426 
 Collaborative Consultation – 3 credit hours. A course designed to provide prospective teachers (ECSE, Collaborative K-
-6 and Collaborative 1-6) knowledge and skills required to successfully facilitate intervention strategies with regular 
+6 and Collaborative1-6) knowledge and skills required to successfully facilitate intervention strategies with regular 
 classroom teachers and other support personnel in meeting the needs of students with disabilities. This course also serves 
 as a professional elective for prospective teachers of early childhood, elementary, and secondary students. 
  
 SPE 430 
 Materials and Methods of Content-Area Instruction – 3 credit hours. A course designed to give beginning teachers 
 requisite skills in designing, developing, implementing and evaluating methods and materials of content area instruction 
-for children and adolescents with disabilities in grades 6-12. 
+for children and adolescents with disabilities in grades6-12. 
  
 SPE 431 
 Behavior Management for Secondary Teachers – 3 credit hours. A study of the application and skills in the use of 
@@ -9591,7 +9655,7 @@ modification based upon analysis. Prerequisite: None.
 SPE 432 
 Materials and Methods of Functional Curricula – 3 credit hours. A course designed to give beginning teachers requisite 
 skills in designing, developing, implementing and evaluating methods and materials of functional curricula for children 
-and adolescents with disabilities in grades 6-12. 
+and adolescents with disabilities in grades6-12. 
  
 SPE 435 
 Learning Strategies for Adolescents (Grades K-6) – 3 credit hours. A course designed to provide teachers of children and 
@@ -9608,7 +9672,7 @@ Internship – 11 credit hours. There are multiple internship courses based on t
 one semester of full-time teaching under the immediate direction of cooperating teachers and university supervisors in 
 the P-12 public schools.  A fee for the edTPA portfolio assessment is proposed for candidates to purchase who are 
 enrolled in the internship course (student teaching). The Alabama State Department of Education is requiring the edTPA 
-assessment starting September 1, 2018 for teacher candidates to receive certification. The cost for the edTPA portfolio 
+assessment starting September-1, 2018 for teacher candidates to receive certification. The cost for the edTPA portfolio 
 submission to Pearson is $300.00. Prerequisite: Candidate must be enrolled in internship. Corequisites: Submit edTPA. 
  
 SPE 496 
@@ -9678,22 +9742,22 @@ Note: This course is a capstone course for the Sport Management program. Therefo
 cannot substitute this course. 
  
 Statistics 
-ST 324 
-(MTH 324) Elementary Statistics – 3 credit hours. Descriptive statistics, basic probability (set, counting rule, 
+ST 324 (MTH 324)
+ Elementary Statistics – 3 credit hours. Descriptive statistics, basic probability (set, counting rule, 
 permutation, combination, calculating probabilities, conditional probabilities and Bayes rule), random variable, discrete 
 and continuous probability distributions (binomial, Poisson, hyper-geometric and normal), point and interval estimation, 
 hypothesis testing, correlation and regression, goodness-of-fit, analysis of variance, and contingency tables. It also 
 includes computer-assisted data analysis with emphasis on the interpretation of results generated by software packages 
 such as SAS, SPSS, STATPAK and others. Prerequisite: MTH 112 with MinGrade of C. 
  
-ST 327 
-(MTH 327) Applied Regression Analysis – 3 credit hours. A study of least squares; simple, polynomial and multiple 
+ST 327 (MTH 327)
+Applied Regression Analysis – 3 credit hours. A study of least squares; simple, polynomial and multiple 
 linear regression including residual and lack-of-fit analysis; simple multiple, partial, and multiple-partial correlation; 
 analysis of covariance; model building algorithms, analysis of variance, and computer-assisted data analysis. 
 Prerequisite: ST 324 or MTH 324. 
  
-ST 344 
-(MTH 344) Design and Analysis of Experiments I – 3 credit hours. A study of the fundamental concepts and basic 
+ST 344 (MTH 344)
+Design and Analysis of Experiments I – 3 credit hours. A study of the fundamental concepts and basic 
 principles of design, construction and analysis of experimental designs. Designs to be included are completely 
 randomized complete block, Latin square, Greco-Latin square, split-plot, multiple comparison, and factorial. 
 Prerequisite: ST 327 or MTH 327. 
@@ -9761,7 +9825,7 @@ Poverty and Deprivation – 3 credit hours. This course describes the causes of 
 problems. A historical perspective is offered to help students understand the impact of the Great Depression in changing 
 the values of the American people toward people in need. Programs that combat poverty are discussed and critiqued. 
 Causes of poverty and populations impacted are explored. Prerequisite: SWK 200, SWK 201, SWK 301, SWK 309, 
-[(SWK 205) or (SWK 311, SWK 302, SWK 304)]. 
+ 
  
 SWK 304 
 Diverse Populations – 3 credit hours. This course is designed to sensitize students to accept differences among people 
@@ -9875,7 +9939,8 @@ able to test out those skills and theories taught in the classroom. Prerequisite
 304, SWK 305, SWK 312, SWK 313, SWK 314, SWK 403, SWK 410, (SWK 205 or SWK 311), (SWK 308 or SWK 
 315). 
  
-SWK 414L (Formerly SWK 407L) Field Instruction Seminar – 3 credit hours. A three-hour seminar is held each week. The seminar 
+SWK 414L 
+(Formerly SWK 407L) Field Instruction Seminar – 3 credit hours. A three-hour seminar is held each week. The seminar 
 permits field instruction students in different field settings to share and benefit from their numerous and varied learning 
 experiences. The seminar is also held to evaluate, discuss, and interpret the student's involvement in the field. Discussion 
 in class will provide an opportunity for increased knowledge, assessment of values, and development of skills. 

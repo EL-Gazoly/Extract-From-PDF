@@ -1,4 +1,4 @@
-Course Code,Course Title,Credit Hours,Description
+code,title,hours,description
 ACC 101,Accounting Professional Development I ,1,". Overview of alternative career paths in accounting through 
 interaction with accounting professionals. Prerequisite: None."
 ACC 203,Financial Accounting Principles ,3,". Basic financial accounting systems, concepts, principles, and the 
@@ -79,6 +79,9 @@ analysis functions and geospatial analysis that are commonly found in general ag
 agribusiness and marketing, family and consumer sciences, urban planning, and other related careers. Prerequisite: None."
 AGB 211,Metal Fabrication ,3,". This course will encompass a combination of three content areas: classification and 
 properties of metals, welding, and machine tool technology. Prerequisite: None."
+AGB 211L,Basic Metal ,3,". The overall content for basic metals will place emphasis on classifications and properties of 
+metals, various welding processes, acetylene welding equipment, arc welders, mig welders, introduction to various types 
+of measuring devices and machine tool technology."
 AGB 212,Wood Technology ,3,". A study of the safe operations and maintenance of woodworking machines. Methods 
 of design, construction and finishing of wood products and an overview of the wood industry. Prerequisite: None."
 AGB 221,Introduction to Agricultural Economics ,3,". An introduction to the field of agricultural economics through 
@@ -185,8 +188,26 @@ development and problems related to the agricultural sector. Prerequisite: Junio
 academic advisor. Prerequisite: None. 
  
 Apparel, Merchandising & Design"
+AMD 104L,Aesthetics in Family and Consumer Sciences ,3,"(1 clock hour lecture x2 and 3 clock hour lab period per 
+week). The application of aesthetic principles to Family and Consumer Sciences subject matter, including apparel, 
+merchandising, design, nutrition, interior spaces, and human environments. Prerequisite: None."
+AMD 201L,Basic Clothing Construction ,3,"(1 clock hour lecture x2 and 3 clock hour lab period per week). Experience 
+in the development of basic skills in clothing construction. Open to male and female students and other adults with little 
+or no experience in clothing construction. Prerequisite: None."
 AMD 202,AMD Retail Mathematics ,3,". A study of the mathematical calculations concepts, procedures and 
 assessment of figures that relate to fashion businesses and organizations achieving profit. Prerequisite: None."
+AMD 203L,Consumer Aspects of Clothing ,3,". An introduction to clothing and textiles, including wardrobe planning, 
+maintenance, and coordination; clothing selection criteria; clothing for the world of work; textile classification; and use 
+and care of textile products. Prerequisite: None."
+AMD 204L,Clothing Throughout the Lifecycle ,3,"(1 clock hour lecture x2 and 3 clock hour lab period per week). A 
+study of the economic, social, and psychological aspects of clothing as they relate to the acquisition, use, and care of 
+clothing for family members. Domestic and commercial sewing machines are utilized. Prerequisite: AMD 104L and"
+AMD 206L,Interior Design ,3,"(1 clock hour lecture x2 and 3 clock hour lab period per week). The application of the 
+elements and principles of art to the planning, selection, and arrangement of household furniture and furnishings. A 
+COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
+~ 222 ~ 
+ 
+survey of traditional, contemporary, and modern trends in interior and exterior house planning is provided. Prerequisite:"
 AMD 208,Ready-to-Wear Apparel Analysis ,2,". An industry approach to the evaluation of quality in ready-to-wear 
 apparel. Provides an understanding of what constitutes apparel quality, how it is achieved, and the factors that affect cost 
 and quality. Prerequisite: None."
@@ -207,11 +228,27 @@ AMD 308,Visual Merchandising ,3,". The study of creative techniques in the displ
 effective application to the enhancement of product salability. Prerequisite: AMD 104L."
 AMD 315,Consumer Textiles I ,3,". A study of fibers, yarns, structures, color, and finishing techniques of textiles and 
 textile products with emphasis on the selection of fabrics for specific consumer end uses. Prerequisite: None."
+AMD 316L,Consumer Textiles II ,3,"(1 clock hour lecture x2 and 3 clock hour lab period per week). Advanced study of 
+textile fibers, fabrics and products utilizing laboratory testing techniques and safety procedures employed in the 
+evaluation of textiles for specific end uses. Prerequisite: AMD 315."
 AMD 320,AMD Fashion Illustration ,3,". A study of the techniques used for drawing the human figure from the 
 perspective of fashion design. An analysis of how the human body integrates movement with fabrics, their volume, and 
 their weight. Prerequisite: None."
+AMD 403L,Flat Pattern Design ,3,"(1 clock hour lecture x2 and 3 clock hour lab period per week). An in-depth study of 
+the basic principles of flat pattern manipulations and their applications to apparel design. Prerequisite: AMD 204L."
+AMD 404L,Advanced Clothing and Design ,3,"(1 clock hour lecture x2 and 3 clock hour lab period per week). A study 
+of techniques in methods of fitting, designing, and advanced clothing construction. Designing and construction of 
+garments for individual figure types and pattern-making through the flat pattern method are emphasized. Prerequisite:"
+AMD 405L,Functional Clothing Design ,3,"(1 clock hour lecture x2 and 3 clock hour lab period per week). 
+Development of apparel from a problem-solving perspective to meet aesthetic and functional needs in regard to 
+exceptional proportions, rehabilitation, activity, performing arts, and new technology. Prerequisite: AMD 104L and"
+AMD 406L,Draping ,3,"(1 clock hour lecture x2 and 3 clock hour lab period per week). The principles and techniques of 
+draping and dress designing based on the manipulation of fabric on a form. Prerequisite: AMD 104L  and 201L and"
 AMD 407,Advanced Interior Design ,3,". Physical, social, psychological, and economic factors influencing the 
 selection of housing for individual and family living including location, design, structure, and interior. Prerequisite:"
+AMD 410L,Apparel CAD ,3,"(1 clock hour lecture x2 and 3 clock hour lab period per week). Hands-on experience in 
+the application of AutoCAD principles to apparel design, pattern making, and grading. Prerequisite: (AGB 199 or MDT 
+252) and AMD 403L."
 ARP 101,Academic Success Course ,1,". The seminar is designed to assist students with developing the behaviors and 
 skills necessary to restore their academic standing and achieve academic self-confidence. Students will learn and apply 
 appropriate study and time management strategies, identify personal barriers to achieving success and develop strategies 
@@ -222,6 +259,8 @@ and/or consent of the instructor.
  
 Art"
 ART 101,Art Appreciation ,3,. A general survey of the visual arts for non-art majors. Prerequisite: None.
+ART 101H,Art Appreciation Honors ,3,". A general survey of the visual arts for non-art majors. Advanced reading and 
+writing assignments will be given. Enrollment in he Honors Program is required. Prerequisite: None."
 ART 103,Introduction to Computer Systems for Visual Art ,3,"(3 clock hours per week). Introduction to hardware and 
 system interface as well as an overview to foundation software used for page layout, vector-based imaging, and bitmap 
 imaging. This is a foundation course centered on the understanding of  the computer through computer software and 
@@ -316,14 +355,24 @@ BIO 101,General Biology I ,3,"(1 clock hour lecture period x3 per week). The fir
 biological sciences. The first semester is devoted to an investigation of basic biological concepts and their application to 
 the variety of life. Selected examples from the major groups of animals and plants are used. For non-majors. 
 Prerequisite: None. Corequisites: BIO 101L."
+BIO 101L,General Biology I Lab ,1,(2 clock hour lab period per week). Lab designed to enhance and accommodate
 BIO 102,General Biology II ,3,"(1 clock hour lecture period x3 per week). A second semester course devoted to the 
 biology of humans. The problems of support, movement, supply of materials, distribution, waste removal, regulation and 
 reproduction are described in detail. For non-majors. Prerequisite: None. Corequisites: BIO 102L."
+BIO 102L,General Biology II Lab ,1,(2 clock hour lab period per week). Lab designed to enhance and accommodate
+BIO 102H,Honors General Biology II ,3,". A second semester course devoted to the biology of humans. The problems 
+of support, movement, supply of materials, distribution, waste removal, regulation and reproduction are described in 
+detail. The course involves problem solving, discussions and critical analysis of current topics in human biology. For 
+non-majors in the Honors Program. Prerequisite: None. Corequisites: BIO 102HL."
+BIO 102HL,Honors General Biology II Lab ,1,"(3 clock hour lab period per week). Lab designed to accompany, enhance 
+and accommodate BIO 102H. For non-majors in the Honors Program. Prerequisite: None. Corequisites: BIO 102H."
 BIO 103,Principles of Biology ,3,"(1 clock hour lecture period x3 per week). A study of fundamental biological 
 principles with primary emphasis on molecular basis of life and cellular organization: cellular energetics and 
 metabolism; growth and reproduction, and genetics and evolution. Required of all majors. Prerequisite: None. 
 COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
 ~ 226 ~"
+BIO 103L,Principles of Biology Lab ,1,"(2 clock hour lab period per week). A customized lab to accommodate BIO 103 
+for majors. Prerequisite: None. Corequisites: BIO 103."
 BIO 200,Environmental Biology ,3,". An introduction to natural biological processes and their impact on man and his 
 environment. Emphasis is on problems caused by man’s use of the natural world along with an introduction to the 
 principles of applied and environmental microbiology. Specific topics to be discussed include environmental virology, 
@@ -332,13 +381,21 @@ Prerequisite: BIO 103."
 BIO 201,Invertebrate Zoology ,3,". A study of the body plans, physiology, taxonomy and development of the major 
 groups of animals lacking backbones. Life histories of animals that affect the welfare of humans are stressed. 
 Prerequisite: BIO 103."
+BIO 201L,Invertebrate Zoology Lab ,1,"(2 clock hour lab period per week). A companion lab for BIO 201 covering the 
+lecture topics. Prerequisite: BIO 103L."
 BIO 202,Comparative Vertebrate Anatomy ,3,". Morphological study of the vertebrates with a comparative study of 
 the organic systems and their phylogenetic significance. Laboratory techniques in dissection of the frog and cat. 
 Prerequisite: BIO 103."
+BIO 202L,Comparative Vertebrate Anatomy Lab ,1,"(2 clock hour lab period per week).  A companion lab for BIO 201 
+covering the lecture topics. Prerequisite: BIO 103L."
 BIO 203,General Botany I ,3,". A survey of the structure and physiology of seed bearing plants. Prerequisite: BIO 
 103."
+BIO 203L,General Botany I Lab ,1,"(2 clock hour lab period per week). A companion lab for BIO 203 covering the 
+lecture topics. Prerequisite: BIO 103L."
 BIO 204,General Botany II ,3,". A survey of the plant kingdom with particular emphasis on nomenclature, systems of 
 classification, reproduction, life cycles, and study of heredity and evolution. Prerequisite: BIO 103."
+BIO 204L,General Botany II Lab ,1,"(2 clock hour lab period per week). A companion lab for BIO 204 covering the 
+lecture topics. Prerequisite: BIO 103L."
 BIO 205,Ecology ,3,". Introduction to trophic relationships and energy transfer in ecosystem; discussion of 
 environmental factors that affect the distribution and abundance of animals and plants as well as the composition of 
 various communities. This course will review major ecological concepts, identify the techniques used by ecologists, 
@@ -359,12 +416,19 @@ COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024
 BIO 311,Principles of Genetics ,3,". A primary emphasis on classical concepts with an integration of microbial and 
 molecular genetics at crucial points. Laboratory exercise includes use of plants, animals and microbes. Prerequisite: CHE 
 101 and CHE 101L and CHE102 and CHE102L and BIO 103 and BIO 103L. Corequisites: BIO 311L."
+BIO 311L,Principles of Genetics Lab ,1,"(2 clock hour lab period per week). A companion lab for BIO 311 covering the 
+lecture topics. Prerequisite: CHE 101 and CHE101L and CHE102 and CHE102L and BIO 103 and BIO 103L. 
+Corequisites: BIO 311."
 BIO 321,Introduction to Parasitology ,3,". A survey of the parasitic protozoa and helminth found in man and animals. 
 Emphasis is placed on geographical distribution, morphology, habitat, life-cycles and methods of reproduction, 
 transmission, pathogenesis and symptomatology diagnosis, and prevention. Prerequisite: BIO 201 and BIO 201L. 
 Corequisites: BIO 321L."
+BIO 321L,Introduction to Parasitology Lab ,1,"(2 clock hour lab period per week). A companion lab for BIO 321 
+covering the lecture topics. Prerequisite: BIO 201 and BIO 201L."
 BIO 322,General Entomology ,3,". External and internal anatomy, physiology, life cycles, orders and control of 
 insects. Special emphasis will be placed upon species of economic importance in the South. Prerequisite: BIO 201 and"
+BIO 322L,General Entomology Lab ,1,"(2 clock hour lab period per week). A companion lab for BIO 322 covering the 
+lecture topics. Prerequisite: BIO 201 and BIO 201L. Corequisites: BIO 322."
 BIO 324,Ecotoxicology I ,3,". Principles of toxicology; introduction to metallic and organic poisons as environmental 
 pollutants; effects of poisons and environmental pollutants on life process. Prerequisite: BIO 205 or instructor consent. 
  
@@ -376,13 +440,19 @@ BIO 330,Microbiology ,3,". A study of the properties of microorganisms, their in
 transmission, higher plants, animals, agriculture and industry. Instruction in laboratory techniques in identification, 
 staining and culturing selected microorganisms. Prerequisite: (BIO 101 and BIO 101L and BIO 102 and BIO 102L) or 
 (BIO 103 and BIO 103L)."
+BIO 330L,Microbiology Lab ,1,"(2 clock hour lab period per week). A companion lab for BIO 330 covering the lecture 
+topics. Prerequisite: (BIO 101 and BIO 101L and BIO 102 and BIO 102L) or (BIO 103 and BIO 103L)."
 BIO 340,Developmental Biology ,3,". The embryology and morphogenesis of the vertebrates; fertilization of the egg, 
 stages of cleavage, and development of organs and systems. Laboratory studies of the development of the chick, pig and 
 human. Prerequisite: (BIO 221 and BIO 221L) or (BIO 202 and BIO 202L). Corequisites: BIO 340L."
+BIO 340L,Developmental Biology Lab ,1,"(2 clock hour lab period per week). A companion lab for BIO 340 covering 
+the lecture topics. Prerequisite: (BIO 221 and BIO 221L) or (BIO 202 and BIO 202L). Corequisites: BIO 340."
 BIO 344,Principles of Plant Taxonomy ,3,". Classification and identification of vascular plants. A brief discussion of 
 the process of speciation and evolution. Basic practice in the use of manuals and keys in identifying vascular plants. 
 Three two-hour classes per week. Prerequisite: BIO 203 and BIO 203L and BIO 204 and BIO 204L. Corequisites: BIO 
 344L."
+BIO 344L,Principles of Plant Taxonomy Lab ,1,"(2 clock hour lab period per week). A companion lab for BIO 344 
+covering the lecture topics. Prerequisite: BIO 203 and BIO 203L and BIO 204 and BIO 204L. Corequisites: BIO 344."
 BIO 350,Selected Supplementary Topics in Science ,3,". This course is designed to cover selected topics in science 
 for Biology/Secondary Education majors. The course will focus on physics, chemistry, and earth science supporting 
 competencies for biology education majors. Supporting chemistry competencies covered in this class consists of 
@@ -394,12 +464,23 @@ specific technology. Prerequisite: Admission to EPP."
 BIO 402,Limnology ,3,". A study of the physical and chemical factors affecting the biology ponds, lakes, reservoirs, 
 and streams. It includes the use of various instrumentations in biological monitoring. Prerequisite: (BIO 101 and BIO 
 102 and CHE 101 and CHE 102) or instructor consent. Corequisites: BIO 402L."
+BIO 402L,Limnology Lab ,1,"(2 clock hour lab period per week). A companion lab for BIO 402 covering the lecture 
+topics. Prerequisite: (BIO 101L and BIO 102L and CHE 101L and CHE 102L) or instructor consent. Corequisites: BIO 
+402."
 BIO 411,Cell and Molecular Biology ,3,". Detailed study of organelles of animal and plant cells and development and 
 structure of various kinds of tissues. Prerequisite: BIO 103 and BIO 103L and CHE 101 and CHE 101L and CHE 102 
 and CHE 102L. Corequisites: BIO 411L."
+BIO 411L,Cell and Molecular Biology Lab ,1,"(2 clock hour lab period per week). A companion lab for BIO 411 
+covering the lecture topics. Prerequisite: BIO 103 and BIO 103L and CHE 101 and CHE 101L and CHE 102 and CHE 
+102L. Corequisites: BIO 411. 
+ 
+COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
+~ 229 ~"
 BIO 412,Molecular Biology ,3,". A study of the structure, behavior and function of the larger biological molecules 
 including biological oxidations, metabolism of carbohydrates, lipids, amino acids and the genetic aspects of metabolism. 
 Prerequisite: CHE 102 and CHE 102L. Corequisites: BIO 412L."
+BIO 412L,Molecular Biology Lab ,1,"(2 clock hour lab period per week). A companion lab for BIO 412 covering the 
+lecture topics. Prerequisite: CHE 102 and CHE 102L. Corequisites: BIO 412."
 BIO 421,Histotechniques ,3,". Microscopic study of the various tissues and organs of the animal systems. 
 Prerequisite: BIO 103 and BIO 103L."
 BIO 422,Pest Management ,3,". Discussions of all practices, such as chemical, cultural, physical, genetic or 
@@ -408,29 +489,45 @@ will be stressed. Economic injury level and economic thresholds of several south
 Prerequisite: BIO 322 and BIO 322L."
 BIO 430,Medical Microbiology ,3,". A study of the microorganisms producing disease in man and lower animals; 
 their means of transmission; and their protection against disease. Prerequisite: None. Corequisites: BIO 430L."
+BIO 430L,Medical Microbiology Lab ,1,"(2 clock hour lab period per week). A companion lab for BIO 430 covering 
+the lecture topics. Prerequisite: None. Corequisites: BIO 430."
 BIO 431,Principles of Immunology ,3,". An introduction to biological and chemical immunology concerned with the 
 nature of immune response and the structure features of antibodies and antigens which determine their qualitative 
 behavior and quantitative reactions; the range of immunological phenomena and their application to the solution of 
 biological and chemical problems. Prerequisite: BIO 330 and BIO 330L and CHE 251 and CHE 251L. Corequisites: BIO 
 431L."
+BIO 431L,Principles of Immunology Lab ,1,"(2 clock hour lab period per week). A companion lab for BIO 431 
+covering the lecture topics. Prerequisite: BIO 330 and BIO 330L and CHE 251 and CHE 251L. Corequisites: BIO 431."
 BIO 434,Principles of Physiology ,3,". BIO 434 is the study of the structural and functional organization of cells, and 
 how cellular function relates to body function. Processes such as enzymatic reactions, oxidative metabolism, cellular 
 transport, and bioelectrical mechanisms are discussed. The structure and function of the muscular system, the circulatory 
 system, the respiratory system, the digestive system, the reproductive system, the nervous system, the immune system, 
 and the endocrine system will be covered in this course. Prerequisite: BIO 221 and BIO 221L and CHE 101 and CHE 
 101L and CHE 102 and CHE 102L. Co- requisite: BIO 434L."
+BIO 434L,Principles of Physiology Lab ,1,"(2 clock hour lab period per week). A companion lab for BIO 434 covering 
+the lecture topics. Prerequisite: BIO 221 and BIO 221L and CHE 101 and CHE 101L and CHE 102 and CHE 102L. Co- 
+requisite: BIO 434."
 BIO 450,Radiation Biology ,3,". An introduction to basic concepts of various forms of radiation and their effects and 
 uses on living systems. Basic tracer techniques using isotopes will be represented in the laboratory. Prerequisite: (BIO 
 101 and BIO 101L and BIO 102 and BIO 102L) or (BIO 103 and BIO 103L)."
 BIO 451,Plant Anatomy ,3,". Study of plant cells, tissues and organ systems of vascular plants, their ontogeny, 
 differentiation and maturation. Students will learn modern techniques of preparing plant materials for microscopic study. 
 Prerequisite: BIO 203 and BIO 203L and BIO 204 and BIO 204L. Corequisites: BIO 451L."
+BIO 451L,Plant Anatomy Lab ,1,"(2 clock hour lab period per week). A companion lab for BIO 451 covering the 
+lecture topics. Prerequisite: BIO 203 and BIO 203L and BIO 204 and BIO 204L. Corequisites: BIO 451. 
+ 
+COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
+~ 230 ~"
 BIO 454,Plant Pathology ,3,". History, nonparasitic, and parasitic diseases incited by bacteria fungi, 
 plasmodiophorales, nematodes and viruses will be discussed. Disease control through exclusion, eradication, protection 
 and post resistance will be mentioned. Prerequisite: BIO 344 and BIO 344L. Corequisites: BIO 454L."
+BIO 454L,Plant Pathology Lab ,1,"(2 clock hour lab period per week). A companion lab for BIO 454 covering the 
+lecture topics. Prerequisite: BIO 344 and BIO 344L. Corequisites: BIO 454."
 BIO 461,Plant Physiology ,3,". The basic physical and chemical organization and metabolism in higher plants with 
 emphasis on various aspects of nutrition and growth. Prerequisite: BIO 203 and BIO 203L and BIO 204 and BIO 204L 
 Corequisites: 461L."
+BIO 461L,Plant Physiology Lab ,1,"(2 clock hour lab period per week). A companion lab for BIO 461 covering the 
+lecture topics. Prerequisite: BIO 203 and BIO 203L and BIO 204 and BIO 204. Corequisites: BIO 461."
 BIO 471,Biology Seminar ,1,". Discussions of biological literature, careers in biology, graduate schools, and specialty 
 schools. Pertinent discussions on current biological topics are held. Prerequisite: BIO 103 and BIO 103L."
 CDS 301,Career Development Seminar ,1,". This course offers resume writing, interviewing skills, values clarification, 
@@ -521,37 +618,83 @@ Chemistry"
 CHE 101,General Chemistry I ,3,". A study of the fundamental laws of matter that govern physical and chemical 
 changes. Atomic and molecular theories, atomic structure, periodic functions and classification of the elements are 
 addressed. Required of all majors in chemistry. Prerequisite: None. Corequisites: CHE 101L."
+CHE 101H,General Chemistry I Honors ,3,". Recommended for all students in AAMU Honors Program. Topics covered 
+are the same as in CHE 101 but in more depth and with more rigor. A study of the fundamental laws of matter that 
+govern physical and chemical changes. Atomic and molecular theories, atomic structure, periodic functions and 
+classification of the elements are address. Required of all majors in chemistry. Prerequisite: None. Corequisites: CHE 
+101HL."
+CHE 101L,General Chemistry I Lab ,1,"(3 clock hour lab period per week). Laboratory to accompany CHE 101. Basic 
+exercises in general chemistry, to include fundamental operations used in making scientific measurements; properties of 
+gases, liquids and solids, chemical elements and compounds. Prerequisite: None. Corequisites: CHE 101."
+CHE 101HL,General Chemistry I Lab Honors ,1,"(3 clock hour lab period per week). Laboratory to accompany CHE 101 
+Honors. Recommended for all students in AAMU Honors Program. Topics covered are the same as in CHE 101L but in 
+more depth and with more rigor. Basic exercises in general chemistry, to include fundamental operations used in making 
+scientific measurements; properties of gases, liquids and solids, chemical elements and compounds. Prerequisite: None. 
+Corequisites: CHE 101H."
 CHE 102,General Chemistry II ,3,". A study of radioactivity, solutions and electrolytes, ionization; properties, and 
 reactions and uses of important metallic and non-metallic elements. The course includes an introduction to qualitative 
 analysis. Prerequisite: CHE 101 and CHE 101L. Corequisites: CHE 102L."
+CHE 102H,General Chemistry II Honors ,3,". Recommended for all students in AAMU Honors Program. Topics 
+covered are the same as in CHE 102 but in more depth and with more rigor. A study of radioactivity, solutions and 
+electrolytes, ionization; properties, and reactions and uses of important metallic and non-metallic elements. The courses 
+includes an introduction to qualitative analysis. Prerequisite: CHE 101H and CHE 101HL. Corequisites: CHE 102HL."
+CHE 102L,General Chemistry II Lab ,1,"(3 clock hour lab period per week). Laboratory to accompany CHE 102. An 
+introduction to quantitative and qualitative analyses. Acid-base titrations, reaction kinetics, and qualitative analyses of 
+the elements are covered. Prerequisite: CHE 101 and CHE 101L. Corequisites: CHE 102."
+CHE 102HL,General Chemistry II Lab Honors ,1,"(3 clock hour lab period per week). Laboratory to accompany CHE 102 
+Honors. Recommended for all students in AAMU Honors Program. Topics covered are the same as in CHE 102L but in 
+more depth and with more rigor. An introduction to quantitative and qualitative analysis. Acid-base titrations, reaction 
+kinetics, and qualitative analyses of the elements are covered. Prerequisite: CHE 101H and CHE 101HL. Corequisites:"
 CHE 111,Applied Chemistry I ,3,". A course designed to explore historical and modern day applications of chemical 
 principles to the solution of problems and the contribution of chemistry to modern technological achievements. Some 
 field trips to manufacturing facilities and other appropriate chemically-oriented facilities may be scheduled. Not open to 
 chemistry majors and minors as a substitute for CHE 101 or CHE 121. Prerequisite: None. Corequisites: CHE 111L."
+CHE 111L,Applied Chemistry I Lab ,1,". A laboratory course to accompany CHE 111. Included are basic exercises in 
+general chemistry, to include fundamental operations used in making scientific measurements; properties of gases, 
+liquids, solids, chemical elements and compounds. Not open to chemistry majors and minors as a substitute for CHE 101 
+or CHE 121. Prerequisite: None. Corequisites: CHE 111."
 CHE 112,Applied Chemistry II ,3,". A continuation of CHE 111, with continued emphasis on modern technological 
 achievements. Field trips will be scheduled as appropriate. Not open to chemistry majors and minors as a substitute for"
+CHE 112L,Applied Chemistry II Lab ,1,". A laboratory course to accompany CHE 112. A continuation of CHE 111L, to 
+include polymer and dye synthesis, recycling of wastes and other selected experiments. Not open to chemistry majors 
+and minors as a substitute for CHE 102 or CHE 122. Prerequisite: None. Corequisites: CHE 112."
 CHE 221,Analytical Chemistry ,3,". Three lectures, one three-hour laboratory per week. A detailed study of the 
 principles of acid-base, complex ions, slightly soluble salt equilibria, electrometric, and spectrophotometric methods and 
 an introduction to special instrumental methods in analytical chemistry. Prerequisite: (CHE 101 and CHE 101L and CHE 
 102 and CHE 102L) or (CHE 121 and CHE 121L and CHE 122 and CHE 122L). Corequisites: CHE 221L. 
 Note: This course cannot be used to satisfy General Education requirements in Areas I-IV."
+CHE 221L,Analytical Chemistry Lab ,1,". Laboratory to accompany CHE 221. A study of classical wet and dry methods 
+as well as electrometric, spectrometric, and chromatographic methods. Prerequisite: (CHE 101 and CHE 101L and CHE 
+102 and CHE 102L) or (CHE 121 and CHE 121L and CHE 122 and CHE 122L). Corequisites: CHE 221. 
+Note: This course cannot be used to satisfy General Education requirements in Areas I-IV."
 CHE 231,Introduction to Forensic Chemistry ,3,". To introduce students to the major forensic disciplines such as 
 firearms, arson materials, explosive materials, trace evidence, forensic biology, evidence gathering. Evidence includes 
 soils, hair, fibers, paints (surface coating), forensic toxicology, drugs. Biological methods used for the analysis of 
 forensic evidence. Prerequisite: CHE 101 and CHE 101L and CHE 102 and CHE 102L and CHE 221 and CHE 221L."
+CHE 231L,Introduction to Forensic Chemistry Lab ,1,. Laboratory to accompany CHE 231.
 CHE 251,Organic Chemistry I ,3,". A course designed to give the student a thorough working knowledge of the 
 fundamentals of organic chemistry. The nomenclature, structure, properties and reactions of organic compounds are 
 studied from an integrated approach, considering the interrelationships of structure, properties, and reactions. The topics 
 will include saturated and unsaturated aliphatic compounds, alicyclic compounds, aromatic compounds, alcohols, and 
 alkyl and aryl halides. Prerequisite: (CHE 101 and CHE 101L and CHE 102 and CHE 102L) or (CHE 121 and CHE 
 121L and CHE 122 and CHE 122L). Corequisites: CHE 251L."
+CHE 251L,Organic Chemistry I Lab ,1,". Laboratory to accompany CHE 251. The laboratory work including basic 
+techniques and experiments in synthesis and kinetics. Modern instrumental methods will be used in some experiments. 
+Prerequisite: (CHE 101 and CHE 101L and CHE 102 and CHE 102L) or (CHE 121 and CHE 121L and CHE 122 and"
 CHE 252,Organic Chemistry II ,3,". A continuation of the first semester. Lecture topics will include ethers, carboxylic 
 acids, sulfonic acids, amines, aldehydes and ketones, diazo compounds, glycols, carbohydrates, and amino acids. 
 Prerequisite: CHE 251 and CHE 251L. Corequisites: CHE 252L."
+CHE 252L,Organic Chemistry II Lab ,1,". Laboratory to accompany CHE 252. The laboratory work will emphasize 
+qualitative organic analysis by chemical reactions. Prerequisite: CHE 251 and CHE 251L: Corequisites: CHE 252."
 CHE 303,Inorganic Chemistry ,3,". This course is provided to develop student’s understanding in the basic concepts of 
 bonding in molecules, introduction to symmetry, chemistry of the main group elements, coordination chemistry of the 
 transition elements, organometallic chemistry, solid state chemistry, bioinorganic chemistry, chemistry of the lanthanide, 
 and actinide elements. Credit for this course will be counted toward the degree requirement. Prerequisite: CHE 101 and"
+CHE 303L,Inorganic Chemistry Lab ,1,". The laboratory course to accompany the inorganic course CHE 303. The 
+laboratory work will consider the qualitative and quantitative aspects of the coordination and geometry of transition 
+metals in inorganic and organometallic compounds. Emphasis will be placed on the structure, geometry, isomerism and 
+coordination with metals using different ligands. Characterization of the compounds will be conducted using IR 
+spectroscopy, UV spectroscopy, and conductance measurements to study properties of the compounds. Prerequisite:"
 CHE 306,Chemical Synthesis ,3,". Course designed to give the student experience beyond the introductory level in 
 laboratory preparative techniques, in both organic and inorganic chemistry (approximately equal emphasis on each). 
 Procedures will be taken from the original literature and will emphasize a variety of the more important types of 
@@ -601,10 +744,26 @@ and CHE 251 and CHE 251L and CHE 252 and CHE 252L. Corequisites: CHE 401L.
  
 COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
 ~ 236 ~"
+CHE 401L,Physical Chemistry I Lab ,1,". Laboratory to accompany CHE 401. To the extent possible, the laboratory 
+experiments will be selected to coincide with the lecture topics. Experiments relating to gas laws, thermodynamics, 
+thermochemistry, solids, solutions and chemical equilibria will be performed. Prerequisite: CHE 221 and CHE 221L and"
 CHE 402,Physical Chemistry II ,3,". A study of chemical kinetics, electrolytic conductance phenomena, electromotive 
 force, quantum theory, molecular structure and spectroscopy, macromolecules, surface chemistry, crystals, and nuclear 
 chemistry. Prerequisite: CHE 221 and CHE 221L and CHE 251 and CHE 251L and CHE 252 and CHE 252L and CHE 
 401 and CHE 401L."
+CHE 402L,Physical Chemistry II Lab ,1,". Laboratory to accompany CHE 402. To the extent possible, the laboratory 
+experiments will be selected to coincide with the lecture topics. Experiments relating to gas laws, thermodynamics, 
+thermochemistry, solids, solutions and chemical equilibria will be performed. Prerequisite: CHE 221 and CHE 221L and"
+CHE 403L,Research in Chemistry I ,2,". Laboratory and library work that involves the solution of a suitable problem in 
+an area of the student's interest to culminate in an investigative paper required of all majors. Prerequisite: instructor 
+consent. 
+Note: This course is a capstone course for the Chemistry program. Therefore, students majoring in this program cannot 
+substitute this course."
+CHE 404L,Research in Chemistry II ,2,".  Laboratory and library work that involves the solution of a suitable problem 
+in area of the student's interest to culminate in an investigative paper required of all majors. Prerequisite: instructor 
+consent. 
+Note: This course is a capstone course for the Chemistry program. Therefore, students majoring in this program cannot 
+substitute this course."
 CHE 405,Advanced Organic Chemistry I ,3,". A course designed to emphasize the mechanisms of the more important 
 organic reactions and the various molecular rearrangements involved. Prerequisite: CHE 251 and CHE 251L and CHE 
 252 and CHE 252L."
@@ -615,14 +774,30 @@ CHE 407,Biochemistry I ,3,". A course designed to provide a study of the molecul
 compositions of living cells, the relation between the structure and the function of proteins in biological systems, the 
 isolation and purification of proteins, enzymatic kinetics and reaction mechanisms, coenzymes, and carbohydrate 
 catabolism for generation of energy. Prerequisite: CHE 251 and CHE 251L and CHE 252 and CHE 252L."
+CHE 407L,Biochemistry I Lab ,1,". Laboratory to accompany CHE 407. The course will include the isolation and 
+purification of proteins, protein quantitation, molecular weight determination of protein by gel electrophoresis, peptide 
+mapping analysis, affinity chromatography, and enzymatic kinetics. Prerequisite: CHE 251 and CHE 251L and CHE 252 
+and CHE 252L. Corequisites: CHE 407."
 CHE 408,Biochemistry II ,3,"(1 clock hour lecture x3 periods per week). This course is designed to provide a study of 
 metabolic reactions and regulations of metabolic pathways for polysaccharides and glycoproteins, fatty acids, lipids, 
 cholesterol, amino acids, and nucleotides; and fundamental principles of storage and utilization of genetic information, 
 including structures of DNA and RNA, DNA replication, transcription, and protein biosynthesis. Prerequisite: CHE 251 
 and CHE 251L and CHE 252 and CHE 252L and CHE 407."
+CHE 408L,Biochemistry II Lab ,1,"(3 clock hour lab period per week). Laboratory to accompany CHE 408. In this 
+course students are taught the modern biochemical topics such as protein evolution and Western blot, effects of 
+temperature on cell respiration, protein separation by gel-filtration chromatography, determination of the length of DNA 
+molecules by gel electrophoresis, restriction nuclease mapping of DNA, and plasmid DNA structure. Prerequisite: CHE 
+251 and CHE 251L and CHE 252 and CHE 252L and CHE 407 and CHE 407L. Corequisites: CHE 408. 
+ 
+COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
+~ 237 ~"
 CHE 409,Instrumental Methods and Materials Evaluation ,3,". A lecture course designed to expand the student's 
 background in modern analytical techniques such as spectrophotometry, chromatography, electrophoresis, mass 
 spectrometry, FTIR, roton NMR and Carbon -13 NMR spectroscopy. Prerequisite: CHE 221, CHE 221L, CHE 251,"
+CHE 409L,Instrumental Methods and Materials Evaluation Lab ,1,"(3 clock hour lab period per week). Laboratory to 
+accompany CHE 409. In this course students are taught the usage and operation of modern analytical instruments, analysis of 
+data collected and interpretation of results using a variety of databases available. Emphasis is placed on HPLC, GC. GC/MS, 
+FTIR, TGA, DTA, carbon and proton NMR. Prerequisite: CHE 221 and CHE 221L and CHE 251 and CHE 251L."
 CHE 411,Qualitative Organic Analysis ,3,"(1 clock hour lecture x2 and 3 clock hour lab periods per week). A 
 systematic study involving classification reactions and physical properties of organic compounds and their identification. 
 Reactions of various functional groups, along with solubility measurements, are used to elucidate structural features of 
@@ -664,9 +839,7 @@ Chinese in a broad variety of cultural contexts. Students will receive advanced 
 reading, and writing. Prerequisite: CHN 201."
 CHN 401,Studies in Chinese Culture ,3,". Study of Chinese culture especially the elements of traditional culture and 
 their functions and the ethos of ancient Chinese society. Emphasis will be placed on values and the historical and cultural 
-heritage. Prerequisite: ENG 203 or ENG 203H or equivalent. 
- 
-Construction Management"
+heritage. Prerequisite: ENG 203 or ENG 203H or equivalent."
 CMG 101,Introduction to Construction Management ,2,". Study of construction industry practice emphasizing business 
 organizations and management techniques and career opportunities. Topics include organizational environments, 
 decision making, design, technology, leadership, and basic construction management including terminology, quantity 
@@ -855,9 +1028,7 @@ designing, techniques of lighting, and practices in television and film studio o
 production. Prerequisite: 15 semester hours in COMM."
 COMM 441,Special Topics in Speech and Drama ,3,". Both history and practice in the art of advocacy involving analysis, 
 arrangement, and presentation of arguments for the purpose of decision making and social control. Experiences in 
-developing scripts for public performance will be required. Prerequisite: 15 semester hours in COMM. 
- 
-Criminal Justice"
+developing scripts for public performance will be required. Prerequisite: 15 semester hours in COMM."
 CRJ 250,Introduction to Criminal Justice ,3,". A survey of the entire American criminal justice process and systems 
 including criminal laws, police subsystem, judicial subsystem, and correctional subsystem. Issues in America’s criminal 
 justice system will be integrated into the coverage. Prerequisite: ENG 102 or ENG 102H."
@@ -923,6 +1094,10 @@ abstract data types is introduced and real data structures such as lists, linked
 explained in terms of their basic structure and in the ways that they can be used in practical programming problems. 
 Secure computing algorithms and data structures for networks will be introduced. Several programming assignments are 
 required. Prerequisite: (CS 109 or EE 109) with a C or better."
+CS 303L,Assembly Language ,3,". The architecture and organization of a selected machine will be discussed in this 
+class. The assembly language of this machine will be taught and students will learn the basics of addressing modes, 
+representation of data control structures, memory organization, and the assembly/relocation process. Programming 
+assignments will allow the student to become proficient in the assembly language. Prerequisite: CS 109 and CS 203."
 CS 304,Introduction to Web Programming ,3,". This course is designed to introduce undergraduate students to the 
 basic concepts of the World Wide Web (HTTP, HTML, browser software), languages and techniques used for web 
 programming (for example: Perl, Java, CGI), data transfer over the web (associated tools and techniques), and the tools 
@@ -981,9 +1156,7 @@ CS 330,Computers in Society ,3,". This course examines computing as a social pro
 issues and the social impact of computerization on local and global organizations. Prerequisite: CS 104."
 CS 381,Computer Organization ,3,". The primary hardware and software components of a computer system are 
 addressed in this course. Topics covered include digital logic and data representation, computer architecture and 
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 246 ~ 
- 
+
 organization, interfacing and I/O strategies, memory architecture, functional organization, multiprocessing, performance 
 enhancements, distributed architectures, devices, and directions in computing. The organization of the CPU, main 
 memory, interrupt structure, and addressing techniques as well as assemblers and linker/loaders are also taught. 
@@ -1063,10 +1236,7 @@ covered include knowledge representation, natural languages, machine learning, v
 Programming projects will be assigned. Prerequisite: CS 215 with a C or better."
 CS 483,Compilers ,3,". This course is a study of formal grammars, syntactic and semantic analysis, code generation, 
 and other topics necessary to understand how compilers translate high-level languages into machine form. Programming 
-projects are assigned. Prerequisite: Senior standing, CS 215. 
- 
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 248 ~"
+projects are assigned. Prerequisite: Senior standing, CS 215."
 CS 484,Internship ,3,". The computer science internship program gives senior level undergraduates an opportunity to 
 gain valuable, practical experience in the professional work environment. An internship consists of approved part-time 
 employment over one semester with cooperation between the student’s advisor and the employer. Prerequisite: CS 314 
@@ -1170,9 +1340,7 @@ opportunity to apply classroom facts, theories, and principles to practical work
 CWE 420,Cooperative Work Experience ,3,". Each course is on-the-job work experience that provides the student an 
 opportunity to apply classroom facts, theories, and principles to practical work situations."
 CWE 430,Cooperative Work Experience ,3,". Each course is on-the-job work experience that provides the student an 
-opportunity to apply classroom facts, theories, and principles to practical work situations. 
- 
-Department of Social Sciences"
+opportunity to apply classroom facts, theories, and principles to practical work situations."
 ECE 300,Expressive Arts ,3,". A course designed to give candidates an understanding of the use of art and music are 
 used in the classroom to aid student’s artistic expressions. Special emphasis is given to the use of art and music to 
 enhance the physical and motor growth and development of all young children. The content of this course is designed so 
@@ -1223,10 +1391,7 @@ implementing developmentally appropriate experiences to support learning and wil
 assessing young children. Prerequisite: Admission to EPP and Advisor Approval."
 ECH 405,Organization and Administration of Early Childhood Education Programs ,3,". A course addressing the 
 administration, organization, and supervision of programs for infants and young children. Prerequisite: Admission to 
-Teacher Education. 
- 
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 252 ~"
+Teacher Education."
 ECH 407,Practicum in Groups of Young Children ,3,". University-supervised practical experiences in working with 
 young children in an on/off-campus public or private state accredited school, grade levels P-3. Prerequisite: Advisor 
 Approval."
@@ -1303,6 +1468,14 @@ or ECO 231."
 ECO 446,International Trade and Policy ,3,". Principles underlying international trade; free trade and the effects of 
 barriers to trade; the effects of mobility of factors of production; macroeconomics of international exchange of goods, 
 services, and financial assets. Prerequisite: ECO 231."
+EDU 010L,Reading with Lab ,3,". Corrective individualized reading instruction designed to improve basic reading, 
+study and cognitive skills, which are essential to success at the college level. Freshmen who enter the University with a 
+score between 0 and 11 on the Reading Subtest of the ACT or a score between 0 and 10.8 on the Nelson-Denny Reading 
+COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
+~ 254 ~ 
+ 
+Test are required to register for this course. Students who do not pass this course are required to enroll in EDU 010. 
+Credit hours for this course may not be counted toward any degree requirement. Prerequisite: None."
 EDU 101,Laboratory Approach to Concept Development ,2,". A program designed to aid those students who select to 
 major in education and must pass the Alabama Prospective Teacher’s Test (APTT) as stipulated by the Alabama State 
 Board of Education. Generally, the course gives students an opportunity to improve their performance on standardized 
@@ -1325,6 +1498,7 @@ EE 201,Linear Circuit Analysis I ,3,". Kirchoff’s Laws, nodal analysis, mesh a
 transformation, Thevenin and Norton theorems, maximum power transfer; inductance and capacitance; sinusoidal 
 waveforms; reactance, impedance; A.C. circuit analysis, power and power factor; and simple opamp circuits are covered 
 in this course. Prerequisite: EE 101, MTH 115."
+EE 201L,Linear Circuit Analysis I Lab ,1,. This course is the companion lab to EE 201. Corequisites: EE 201.
 EE 202,Linear Circuit Analysis II ,3,". This is a continuation course to EE 201. It addresses analysis of ac circuits, 
 power calculations, Laplace transforms and application to transient analysis of electric circuits. Response to non-periodic 
 excitations using Fourier series is included. Concepts of frequency response, basic filter circuits are also considered. 
@@ -1332,6 +1506,10 @@ Prerequisite: EE 201 and EE 201L and MTH 125."
 EE 203,Analog Circuit Design and Analysis I ,3,". An analysis of nonlinear semiconductor devices; PN junction 
 diodes, bipolar junction and field-effect transistors, biasing concepts, worst case analysis, and discrete amplifier circuit 
 design and analysis. Prerequisite: EE 201 and EE 201L and MTH 125. Corequisites: EE 203L."
+EE 203L,Analog Circuit Design and Analysis I Lab ,1,". This course is the companion lab to EE-203 and includes both 
+analysis, simulation and fabrication of analog electronic circuits including diode circuits, bipolar junction transistor 
+amplifiers, operational amplifiers and circuits using operational amplifiers such as oscillators and filters. Prerequisite: EE 
+201 and EE 201L and MTH 125. Corequisites: EE 203."
 EE 204,Digital Circuit Design and Analysis ,3,". Analysis and design of those circuits where the nonlinearity of the 
 active element is significant. Includes basic digital circuits, Boolean algebra, Karnaugh maps, encoding and decoding, 
 flip-flops, finite state machines, and analog-digital conversion. Prerequisite: EE 109 and EE 201."
@@ -1375,6 +1553,7 @@ EE 311,Electrical Engineering ,3,". This course is an introduction to Ohm’s La
 circuit analysis; inductance and capacitance, AC circuit analysis; electrical machines, transformers, DC motors, DC 
 generators, induction motors, alternators, synchronous motors, principle of operation, characteristics, and applications. 
 This course is offered for non-EE majors only. Prerequisite: MTH 238. Corequisites: EE 311L."
+EE 311L,Electrical Engineering Lab ,1,. This course is a companion lab to EE 311. Corequisites: EE 311.
 EE 320,Computer Architecture ,3,". Basic concepts used in computer hardware design and computer system 
 architecture are studied. The computer is presented as an infinite state machine. Basic computer functions such as 
 address and data paths, instruction sets and memory cycles, components such as registers, arithmetic units, instruction 
@@ -1382,19 +1561,42 @@ decoders, and types of memories are discussed. A general purpose instruction set
 Prerequisite: EE 204. Corequisites: EE 320L. 
 COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
 ~ 256 ~"
+EE 320L,Digital Systems Laboratory ,1,". This laboratory course provides a hand-on approach to digital fundamentals 
+through the use of Complex Programmable Logic Devices (CPLDs and FPGAs). A number of laboratory projects will be 
+completed. Early experiments concentrate on basic logic devices, and then more complex combinatorial circuits follow, 
+including adders, multiplexers, encoders, and decoders. Low level memory devices including latches and flip-flops, 
+counters and registers are developed. The use of advanced logic device technology prepares students for work using an 
+industry-standard design environment. Corequisites: EE 320."
 EE 330,Microprocessors ,3,". A study of number systems, binary arithmetic, basic structure and operation of 
 microcomputer systems. The microprocessor will be studied in both machine code and assembly language levels. 
 Students will write code in assembly language, interface external devices to the microcomputer system, and study bus 
 protocols. Prerequisite: EE 320 and EE 320L."
 EE 333,Analog Circuit Design and Analysis II ,3,". This course is a continuation of the material presented in EE 203 
 and includes concepts of advanced electronic circuit design and analysis. Prerequisite: EE 203 and EE 203L."
+EE 333L,Analog Circuit Design and Analysis II Lab ,1,. This course is the companion lab to EE 333.
+EE 340L,Energy Conversion Laboratory ,1,". This course consists of experiments for determining the operating 
+characteristics of electrical machines. Transformers, induction motors, synchronous machines, and DC machines are 
+covered. Stepper motors, brushless DC motors, and other special machines are introduced. Prerequisite: EE 202 and, EE 
+203L."
 EE 350,VLSI Design and Testing I ,3,". Principles of structured VLSI design with emphasis on MOS field effect 
 transistor characteristics; VLSI fabrication techniques for MOS circuits; circuit characterization and performance 
 estimation, logic design and testing. Prerequisite: EE 305."
+EE 360L,Communications Laboratory ,1,". This lab is designed to support the concepts taught in areas of microwaves 
+and transmission lines, the seven layered communication protocol, and lecture courses offered in the junior year of the 
+electrical engineering curriculum. Prerequisite: EE 301."
 EE 402,Electrical Machines ,3,". A study of energy conversion; D.C. machines, motors, generators, principles of 
 operation, characteristics, and applications; transformers and induction machines, principles of operation, characteristics, 
 and applications; and synchronous machines, alternators, synchronous motors, principles of operation, characteristics, 
 and applications. Prerequisite: EE 303."
+EE 405L,Simulation Techniques ,1,". This course is designed to provide hands on experience in the use of computer 
+software and simulation tools. Simulation using SPICE is emphasized. Software such as National Instruments Multisim, 
+LabView and Matlab will be used to analyze and design electronic circuits. The course will include the analysis and 
+design of mixed-signal electronics including analog to digital conversion and digital to analog conversion. Prerequisite:"
+EE 410L,Microwave Engineering Laboratory ,1,". This lab complements the course materials taught in EE 410, 
+Microwave Engineering. Corequisites: EE 410. 
+ 
+COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
+~ 257 ~"
 EE 411,Radar Engineering I ,3,". Fundamentals of pulsed and continuous wave radar systems and the concepts of 
 range and doppler frequency measurement are presented. Radar receiver sensitivity, effects of noise, and component 
 losses are analyzed. Techniques of signal detection in noise, parameter estimation, and radar waveform analysis are 
@@ -1419,6 +1621,13 @@ Advanced Electromagnetic Theory ",3,". Solution of Laplace’s equation in two d
 harmonics, cylindrical harmonics, method of finite differences; wave propagation, perfect dielectrics, conductors, lossy 
 dielectrics, transmission line analogy, Smith chart solutions; and computer applications are covered. Prerequisite: EE 
 303."
+EE 451L,Integrated Circuit Fabrication Laboratory ,1,". This laboratory course provides a hand-on clean room 
+experience fabricating an integrated circuit (IC) chip. Silicon-based semiconductor technology and standard IC 
+microfabrication processes for the fabrication of the microchip will be implemented through the course. Specific clean 
+room fabrication processes and techniques used in the class include basic clean room skills, mask layout and fabrication, 
+UV lithography, wet and dry oxidation, wet and dry etching, thermal diffusion, metallization, packaging, and device 
+characterization. The students will fabricate a device wafer and characterize the electrical properties of the fabricated 
+devices and circuits on the wafer. Corequisites: EE 451."
 EE 455,Optimal Control Theory ,3,". A review of state space methods; optimal control problems, performance 
 criterion, minimum time problems, minimum energy problems, and minimum fuel problems; optimization, using 
 calculus of variations, Lagrange, Meyer, and Bolza problems, Lagrange equations, solution, applications; Pontryagin’s 
@@ -1433,10 +1642,7 @@ by participating in a capstone design project. Project management and engineerin
 is provided to facilitate project selection, literature survey, and orientation. Meeting times are flexible. Prerequisite: 
 Senior standing and instructor consent."
 EE 471,Engineering Analysis and Design II ,2,". This is a continuation of EE 470 and is provided to facilitate 
-completion of the capstone design project. Meeting times are flexible. Prerequisite: EE 470. 
- 
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 259 ~"
+completion of the capstone design project. Meeting times are flexible. Prerequisite: EE 470."
 EE 490,Special Topics ,3,". This course focuses on topics based on modern trends in electrical engineering. This 
 course can be taken multiple times with students receiving additional credit each time. The specifics of each course will 
 be identified at the beginning of each semester. Prerequisite: Senior standing or instructor consent. 
@@ -1454,15 +1660,33 @@ None."
 EET 110,DC Circuits ,3,". A study of further DC circuit concepts including Kirchoff’s Laws, Thevenin’s Theorem, 
 Superposition Theorem, and the basic design of DC instruments, magnetic circuits, and transient analysis. Prerequisite: 
 None."
+EET 200L,Basic Electricity and Electronics ,4,". A study of the basic aspects of DC and AC circuits. This course is 
+suitable for the non-EET majors who require a background in electrical and electronic components, circuits, and 
+applications. Analysis of circuits by computer methods is introduced. Includes laboratory. Prerequisite: MTH 113."
 EET 210,AC Circuits ,3,". A study of basic principles of alternating circuits, vectors, phase relationship, inductance, 
 capacitance, impedance and reactance. The application of network theorems to a-c analysis, and investigation of 
 resonance phenomena are also discussed. Prerequisite: EET 110."
+EET 211L,EET Lab I ,1,". A course including laboratory projects in Digital Logic, DC Circuits, AC Circuits, Electronics 
+and Microcontrollers. The Lab will meet each week starting the first week of the semester. A strict schedule will be 
+followed so that all projects can be completed before the end of the semester. The lab will require the students to work in 
+teams assigned by the instructor. Quality technical reports will be required for each project and several projects will 
+require oral presentations. The student should be prepared to meet with team members outside class time to prepare the 
+reports and presentations. A specific lab report format will be adhered to. Prerequisite: EET 109 and EET 110."
 EET 212,Electronics ,3,". An introduction to semiconductor physics, including electronic devices such as solid state 
 diodes, BJT and FET transistor amplifier circuits, with emphasis on the understanding of basic circuit analysis. 
 Computer methods are used for transient analysis. Prerequisite: EET 110."
 EET 241,Microcontrollers I ,3,". An introduction to the Microchip’s PIC microprocessor. Students will learn to design 
 embedded system using industry standard components and assemblies.  Topics include PIC architecture, arithmetic logic, 
 data handling, interrupt concepts, subroutines, and elementary Basic language programming. Prerequisite: EET 109 and"
+EET 290L,EET Lab II ,1,". Laboratory projects in Instrumentation, Power and Control, AC Circuits, Electronics, and 
+Microcontrollers. The Lab will meet each week starting the first week of the semester. A strict schedule will be followed 
+so that all projects can be completed before the end of the semester. The lab will require the student to work in teams 
+assigned by the instructor. Quality technical reports will be required for each project and several projects will require 
+COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
+~ 260 ~ 
+ 
+oral presentations. The student should be prepared to meet with team members outside class time to prepare the reports 
+and presentations. A specific lab report format will be adhered to. Prerequisite: EET 211L."
 EET 300,Engineering Ethics and Professionalism ,3,". This course proves a broad view of the many aspects of 
 engineering ethics, code of ethics, and professionalism. Topics include the issues of diversity and knowledge of societal 
 and global issues. The course utilizes classical materials in ethics as well as contemporary case studies of ethics and 
@@ -1475,6 +1699,12 @@ EET 304,Machinery II ,3,". A study of polyphone systems balanced and unbalanced,
 parallel loads, voltage regulation, power factor correction, transformer connections, phase-sequence indicator, two-
 phase, and three phase systems, wattmeter connection. The laboratory experiments allow the demonstration of the 
 concepts discussed in the classroom. Prerequisite: EET 303."
+EET 310L,EET Lab III ,1,". Laboratory projects in PLCs, Instrumentation, Power and Control. The Lab will meet each 
+week starting the first week of the semester. A strict schedule will be followed so that all projects can be completed 
+before the end of the semester. The lab will require the student to work in teams assigned by the instructor. Quality 
+technical reports will be required for each project and several projects will require oral presentations. The student should 
+be prepared to meet with team members outside class time to prepare the reports and presentations. A specific lab report 
+format will be adhered to. Prerequisite: EET 290L."
 EET 312,Methods of Engineering Analysis ,3,". A study of probability, statistics, and differential equations and their 
 applications to engineering problems. Emphasis is placed on the use of Microsoft Excel in the solution of these 
 applications. Prerequisite: TBC 102 and MTH 126."
@@ -1496,11 +1726,15 @@ EET 380,Computer Networks I ,3,". An introduction to computer networks. The fund
 theory are covered. The course includes the terminology and technology of basic through state-of-the-art networking 
 hardware and software. Network system concepts are examined from a wide range of applications including small work 
 groups, local area networks, wide area networks, and global networking and modern network technology and 
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 261 ~ 
- 
+
 applications including Wi-Fi, Microsoft Networks and CISCO routers. The course covers the material necessary for 
 taking the Network+ certification exam. Prerequisite: EET 211L."
+EET 390L,EET Lab IV ,2,". Laboratory projects in Computer Networks and PLCs. The Lab will meet each week 
+starting the first week of the semester. A strict schedule will be followed so that all projects can be completed before the 
+end of the semester. The lab will require the student to work in teams assigned by the instructor. Quality technical reports 
+will be required for each project and several projects will require oral presentations. The student should be prepared to 
+meet with team members outside class time to prepare the reports and presentations. A specific lab report format will be 
+adhered to. Prerequisite: EET 310L."
 EET 411,Data Communication Systems ,3,". Overview of digital communication and an introduction to the concepts 
 that lead to the implementation of digital systems. Topics covered are digital signal techniques, modulation and 
 demodulation, error control coding and system synchronization, and application of phase-locked loops. The effects of 
@@ -1538,9 +1772,15 @@ COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024
 EGC 207,Strength of Materials ,3,". Concepts of stress and strain, combined stresses, analysis of stresses and 
 deformation in bodies loaded by axial, torsional, and bending loads. Prerequisite: EGC 205 and MTH 126. Corequisites 
 (for CE Majors): EGC 104."
+EGC 207L,Strength of Materials Lab ,1,". The purpose of this course is to present a selection of experiments that will 
+demonstrate the principles of Mechanics of Materials. A Laboratory Manual for this course will be used for performing 
+these experiments. Corequisites: EGC 207."
 EGC 305,Fluid Mechanics ,3,". A study of the properties of fluids and fundamental principles governing fluid motion, 
 including fluid statics; conservation of mass momentum and energy with application to pipe and channel flow of 
 incompressible fluids. Prerequisite: EGC 206 and MTH 238. Corequisites: EGC 305L."
+EGC 305L,Fluid Mechanics Lab ,1,". The purpose of this course is to present a selection of experiments that will 
+demonstrate the principles of Fluid Mechanics. A Laboratory Manual for this course will be used for performing these 
+experiments. Corequisites: EGC 305."
 EGC 350,Engineering Economics ,3,". Application of principles and techniques of economic analysis for evaluating 
 projects, equipment, and system feasibility. Topics include time value of money, economic evaluation with net present 
 value, rate of return, and benefit cost ratio, depreciation, inflation, replacement analysis, tax considerations, and risk 
@@ -1571,8 +1811,17 @@ evaluation of edTPA Portfolios. Prerequisite: Completion of all program courses.
 Experiential Learning Opportunity"
 ENG 101,Composition I ,3,". A course presenting an opportunity for freshmen to develop maturity in writing skills. 
 Students must demonstrate adequate competence in writing on the final essay examination. Prerequisite: None."
+ENG 101E,Composition I with Lab ,4,"(3 clock hour lecture and 1 clock hour lab per week). This course is designed to 
+successfully move students whose ACT scores demonstrate a minimal deficiency in English to readiness and mastery of 
+the outcomes for college-level writing I. The course requires a mandatory one hour of Structured Learning Assistance 
+(SLA) each week as well as tutorial assistance. Prerequisite: Approval of Freshman Academy Advisor."
+ENG 101H,Composition I Honors ,3,". A course presenting an opportunity for freshmen to develop maturity in using 
+communication skills. Advanced reading and writing assignments will be given. Enrollment in the Honors program is 
+required. Prerequisite: None."
 ENG 102,Composition II ,3,". A course presenting a continuation of Composition I. Emphasis is placed on the research 
 paper. Prerequisite: ENG 101 or ENG 101E or ENG 101H."
+ENG 102H,Composition II Honors ,3,". A course presenting a continuation of Honors Composition I. A research project 
+is required. Enrollment in the Honors program is required. Prerequisite: ENG 101H."
 ENG 201,Survey of English Literature I ,3,". A critical, historical, and appreciative study of English literature from the 
 Old English Period through the Neo-classical Period. Masterpieces of the various literary eras are given special attention. 
 Prerequisite: ENG 102 or ENG 102H."
@@ -1581,8 +1830,19 @@ the Romantic Period through the Contemporary Period. Masterpieces of the various
 attention. Prerequisite: ENG 102."
 ENG 203,World Literature I ,3,". A study of world literature from ancient Mesopotamian through the Renaissance. 
 Prerequisite: ENG 102 or ENG 102H."
+ENG 203H,World Literature I Honors ,3,". An in-depth and critical reading of selected major texts in World Literature 
+representing some of the most ancient civilizations in the BCE period – Mesopotamian, Egyptian, Hebrew, Greek, 
+Roman – and in the Middle Ages and the Renaissance. Prerequisite: ENG 102 or ENG 102H. Corequisites: Admissions 
+to Honors Program."
 ENG 204,World Literature II ,3,". A study of world literature from the Age of Reason through the modern period. 
 Prerequisite: ENG 102."
+ENG 204H,World Literature II Honors ,3,". An advanced study of world literature from the Age of Reason through the 
+modern period. Honor students who enroll in this course will be expected to read an extensive number of short stories 
+and novels and will be engaged in multiple projects connected to the literature of the period. Prerequisite: ENG 102 and 
+formal admittance to the Honor's Program. 
+ 
+COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
+~ 264 ~"
 ENG 205,General Speech ,3,". Presentation of the fundamentals of voice and diction implemented through the various 
 types of speech: public speaking, group discussion, oral interpretation, debate, and informal speech. Prerequisite: ENG 
 102 or ENG 102H."
@@ -1793,8 +2053,15 @@ equipment, marketing, herd health, and economic management are included. Prerequ
 FAS 358,Ruminant Animal Management ,3,". This is an introductory course with the purpose of providing an 
 overview of the beef and dairy industries and the scientific principles of beef and dairy production and management. 
 Prerequisite: FAS 112."
+FAS 401L,Food Microbiology ,4,". A course on theoretical and practical studies of the role of microorganisms in foods 
+pertaining to processing, preservation, quality, product development and spoilage. Also, this course acquaints students 
+with quantitative and qualitative microbial evaluation techniques applicable to the food industry and science. 
+Prerequisite: BIO 103 and BIO 103L."
 FAS 403,Seminar ,1,". A review and discussion of current literature in food science, food and nutrition, or animal 
 science areas. Prerequisite: Junior standing."
+FAS 407L,Food Chemistry ,4,". A course on theoretical and practical applications focusing on chemistry of foods 
+chemical processing and interactions. Includes study of color, flavor and nutritive value. Prerequisite: FAS 102 and CHE 
+251 and CHE 251L."
 FAS 421,Biology of Lactation ,3,". This is an introductory course that will provide the students with the basics and 
 advanced knowledge of the development, growth, and function of the mammary gland of dairy animals and lactation and 
 detailed the critical regulatory events in lactation. Prerequisite: FAS 112."
@@ -1816,6 +2083,11 @@ issues on communicable diseases will also be addressed. Factors contributing to 
 including the impact of social and demographic changes will be addressed. The etiology, incidence in man and animals, 
 nature of the disease, course of infection, mode of transmission, role of animals in the epidemiology, diagnosis and 
 control or eradication will be discussed. Prerequisite: BIO 103 and BIO 103L and FAS 112."
+FAS 430L,Physiology of Reproduction ,4,". Study of early fetal development and differentiation of the gonads and 
+secondary sex organs. Anatomy and physiology of male and female reproductive tracts, endocrinology of reproduction, 
+fertilization, cleavage and implantation, pregnancy diagnosis and parturition, causes of reproductive failure, and the use 
+of artificial insemination and embryo transfer to improve reproductive efficiency are addressed in this course. 
+Prerequisite: ((BIO 101 and BIO 101L) or (BIO 102 and BIO 102L) or (BIO 103 and BIO 103L)) and (CHE 102 and"
 FAS 440,Research Methods in Biosciences ,3,". Principles associated with research analysis in bioscience. To 
 understand various research methods using practical applications. Data collection, management and organization with 
 emphasis in population inferences, hypothesis testing, experimental units, scientific process and an introduction to 
@@ -1824,6 +2096,12 @@ FAS 450,Regulations of Food Safety and Quality ,3,". The study of the history of
 laws; food laws and regulation. Various agencies involved in enforcing food quality and product quality evaluation 
 methods will be presented to set forth examples of producers', processors', consumers' and regulators' concerns in 
 maintaining food quality levels. Prerequisite: FAS 102."
+FAS 453L,Agricultural Biochemistry ,4,". An introduction to the fundamentals of biochemistry with emphasis on food 
+and plant biochemistry. The laboratory deals with basic techniques in biochemical analyses. A laboratory session adds 
+practical experience to the theory taught. Prerequisite: CHE 251 and CHE 251L."
+FAS 461L,Food Engineering ,4,". Fundamentals of heat transfer, fluid flow, evaporation, drying, and other unit 
+operations in food processing industries. Students will be acquainted with application of engineering principles and 
+concepts to the processing of foods. An integrated laboratory session provides demonstration of principles. Prerequisite:"
 FAS 462,Animal Parasitology ,3,". This course will cover a wide range of topics related to diagnosing, treatment, and 
 preventing of companion and food animals from diseases. The course will be introduced with an overview of the scope 
 and nature of animal health disorders, including the threats diseases by viruses and bacteria agents. This will be followed 
@@ -1834,6 +2112,9 @@ diseases, the nature of the biological diseases, prevention and control. Prerequ
  
 COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
 ~ 271 ~"
+FAS 472L,Food Processing ,4,". A course involving the integration of basic principles and practices of unit operation 
+for food processing and preservation. Practical experience in food processing is afforded by an integrated laboratory 
+period. Prerequisite: FAS 102."
 FAS 474,Science and Health Management of Small Ruminants ,3,". This course addresses specific management 
 approaches to production medicine, herd and flock health and reproduction in sheep and goats. Basic handling 
 techniques, body condition scoring, selection and breeding management, breeding soundness, epidemiological 
@@ -2178,8 +2459,19 @@ affecting individual, family, and community health including infectious diseases
 abuse, consumer education, and nutrition. Prerequisite: None."
 HIS 101,World History I ,3,". A survey of the evolution of civilization with an effort to show the interrelationship of 
 all cultures from earliest times (Pre-History) through the 15th century. Prerequisite: None."
+HIS 101E,World History I Enriched ,4,"(3 clock hour lecture and 1 clock hour lab per week). A survey of the 
+evolution of civilization with an effort to show the interrelationships of all cultures from earliest times (Pre-History) 
+through the 15th century. In addition to regular course work, students are required to attend on-hour tutorial sessions/labs 
+each week conducted in cooperation with the Tutorial Assistance Network (TAN) in the Freshman Academy. Approval 
+from the Freshman Academy and consent of the instructor is required for enrollment in this class."
+HIS 101H,World History I Honors ,3,". A survey of the evolution of civilization with an effort to show the 
+interrelationship of all cultures from earliest times (Pre-History) through the 15th century. Prerequisite: None. Approval 
+for enrollment in this course is required from the Director of the Honors Program and instructor consent."
 HIS 102,World History II ,3,". A survey of the evolution of civilization with an effort to show the interrelationship of 
 all cultures from 1500 through the present. Prerequisite: None."
+HIS 102H,World History II Honors ,3,". A survey of the evolution of civilization with an effort to show the 
+interrelationship of all cultures from 1500 through the present. Prerequisite: None. Approval for enrollment in this course 
+is required from the Director of the Honors Program and instructor consent."
 HIS 105,Contemporary World History ,3,". A course exploring major developments throughout the world from World 
 War II to the present. It includes such topics as Cold War, African and Asian nationalism, Third World development, 
 United Nations, economic disparity between north and south, disintegration of communist Europe, as well as 
@@ -2263,10 +2555,7 @@ students to the persons who have become president from George Washington onwards
 efforts, effectiveness, constraints, and overall legacies. The class also seeks to understand presidents’ defining foreign 
 and domestic policy achievements and failures. The course attempts to address how presidential power as evolved and 
 presidents utilized their executive and sometimes rhetorically persuasive powers to politically, culturally, and 
-economically shape American society. Prerequisite: None. 
- 
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 282 ~"
+economically shape American society. Prerequisite: None."
 HIS 499,Senior History Seminar ,3,". An investigation of the problems and methods of historical research and 
 writing. Prerequisite: Completion of 21 semester hours in upper level history courses. 
  
@@ -2336,6 +2625,8 @@ typography combined with a rich social and technological evolution. Prerequisite
 INT 102,Introduction to Industrial Technology ,3,". This course emphasizes the four basic technology systems 
 (manufacturing, construction, communication, transportation) and emerging concepts and principles in bio-related 
 technologies. Prerequisite: None."
+INT 105L,Principles of Graphic Communications ,3,". This course provides a thorough introduction to graphic 
+communications, printing processes and focuses on digital printing and electronic pre-press systems. Prerequisite: None."
 INT 106,Image Conversion ,3,". This course places emphasis on the process of photographic processing for black and 
 white copy; introduction to color applications, film assembly, platemaking, and quality control. Prerequisite: None."
 INT 107,Industrial Materials and Processes I ,3,". A basic course in machining technology and metallurgy. Step by 
@@ -2555,9 +2846,13 @@ analyzing, controlling, and managing risk sources along the chain. Prerequisite:
 LSM 451,Inventory Management and Production Control ,3,". A study of the management techniques associated with 
 material management as an element of integrated logistics support in the system/ product life cycle management concept. 
 Management of assets from acquisitions through final disposition is considered from cost effectiveness and customer 
-satisfaction viewpoints. Prerequisite: LSM 305. 
- 
-Mechanical Drafting Technology"
+satisfaction viewpoints. Prerequisite: LSM 305."
+MDT 111L,Technical Drafting ,3,".  An introductory study of technical drawing theory and practice, including lettering, 
+use of drafting instruments, orthographic projection, sections, auxiliary views, pictorial sketching, and dimensioning. An 
+introduction to computer-aided-drafting (CAD) is included. Prerequisite: None"
+MDT 112L,Machine and Tool Drafting ,3,"A continuation of MDT 111L. Includes shop processes, theory and practice 
+of dimensioning and tolerances, an introduction to detail and working drawings, pictorial drawing, reproduction of 
+drawings, machine shop blueprint reading, and a continuation of CAD. Prerequisite: MDT 111L."
 MDT 206,Architectural Drafting ,3,". An overall study of architectural working drawings including blueprint reading, 
 representation of buildings, and construction detailing. Perspective drawing, shades and shadowing, and rendering are 
 included. Prerequisite: MDT 111L."
@@ -2569,6 +2864,9 @@ computer graphical representation in two dimensions. Prerequisite: MDT 111L."
 MDT 252,AutoCADTM for Apparel ,3,"(2 two-hour lecture/lab periods per week). An introductory study of 
 AutoCADTM for apparel design and the basic principles of computer-assisted drafting. Offers the students hands-on 
 practical training for drafting applications. Not for Engineering Technology majors. Prerequisite: none."
+MDT 302L,Technical Design Principles ,3,". A study of power drives including gear, chain, and V-belt drives; shafts; 
+keys, splines, and snap rings; springs; power screws; rolling and journal bearings; and brakes, clutches, flywheels, and 
+couplings. Use of the computer is required. Prerequisite: Junior standing."
 MDT 306,Structural Drafting ,3,". A study of the drafting and design of structural systems in steel, wood, and concrete 
 with emphasis on the composition characteristics of the material. Prerequisite: CMG 218 and MDT 111L."
 MDT 313,Computer-Aided Drafting and Design I ,3,". A course offering hands-on training in two- and three-
@@ -2578,12 +2876,7 @@ principles covered in MDT 302L. Prerequisite: MDT 302L."
 MDT 414,Computer-Aided Drafting and Design II ,3,". A continuation of MDT 313. Creation of a full-scale three-
 dimensional computer model design; various checks, such as corridor clearance, and horizontal and vertical layout 
 schemes that can be carried out using a model; and error-reduction design methods, not possible with two-dimensional 
-modeling techniques. Prerequisite: MDT 313. 
- 
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 290 ~ 
- 
-Mechanical Engineering"
+modeling techniques. Prerequisite: MDT 313."
 ME 101,Introduction to Mechanical Engineering ,1,"(1 clock hour lecture period per week). Brief review of 
 mechanical engineering as a practice is reviewed briefly. Students are required to develop a basic engineering project to 
 include: Market outlook, basic production techniques, economic assessment, planning and design, manufacturing, 
@@ -2631,6 +2924,7 @@ with MinGrade C. Corequisites: ME 301L.
  
 COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
 ~ 291 ~"
+ME 301L,Analysis and Instrumentation of Physical Systems Lab ,1,. Laboratory supporting the required practices for
 ME 310,Thermodynamics ,3,". A study of basic thermodynamic properties; pressure, temperature, work, specific 
 volume, and energy. The first and second laws of thermodynamics, closed and open systems, enthalpy, and entropy; 
 properties of gas mixtures and air-vapor mixtures; as well as basic applications are covered. Prerequisite: PHY 213."
@@ -2641,6 +2935,11 @@ loads, station performance and energy cost. Prerequisite: ME 310 and ME 360."
 ME 312,Heat and Mass Transfer ,3,"(2 clock hour lecture period per week). Fundamentals of heat transfer by 
 conduction, convection, and radiation, and mass transfer by convection. Relevance to engineering applications is also 
 addressed. Prerequisite: ME 310 and 360. Corequisites: ME 312L."
+ME 312L,Heat and Mass Transfer Lab ,1,"(3 clock hour lab period per week). Laboratory to support the practices and 
+projects of ME 312. Corequisites: ME 312."
+ME 313L,Experimental Mechanics Lab ,1,". Introduction to experimental stress analysis; measurement of tensile, 
+compressive, bending and shear stresses; impact and hardness tests; vibration measurements, modal analysis; structural 
+dynamics; Strain Gages. Prerequisite: ME 231."
 ME 320,Kinematics and Dynamics of Machines ,3,". Kinematics and dynamics of machine elements, vector loop 
 approach, numerical methods and graphical techniques, kinematics coefficients, newton formulation, power equation, 
 gears and cams, static and dynamic balancing, critical speeds of shafts. Prerequisite: ME 104 with MinGrade C and ME 
@@ -2649,11 +2948,15 @@ ME 360,Fluid Mechanics I ,3,". Fundamentals of fluid mechanics, covered are Newt
 of units, the perfect gas equation, incompressible flow, Bernoulli’s equation, channel flow, boundary layers, subsonic 
 flow, flow through converging-diverging passages, compressible flow, potential theory, flow through turbo machinery, 
 and relevance to engineering applications. Prerequisite: ME 206 and MTH 227. Corequisites: ME 360L."
+ME 360L,Fluid Mechanics I Lab ,1,"(3 clock hour lab period per week). Supports projects/practices of ME 360. 
+Corequisites: ME 360."
 ME 380,Computer-Aided Design II ,3,". Introduction to the fundamentals of structural finite element modeling. 
 Geometry creation, element types, material specification, problem solution and results post-processing. A focus is placed 
 on modeling techniques and guidelines using a commercially available software (ANSYS/HyperWorks). Applications to 
 problems including structural mechanics, heat transfer, fluid mechanics, dynamics, stress concentrations, fatigue life, and 
 thermal stressed. Projects in creative mechanical design and optimization. Prerequisite: ME 231 with MinGrade C and"
+ME 412L,Analysis and Synthesis of Gas Turbines and Components Lab ,1,"(3 clock hour lab period per week). 
+Laboratory supporting projects/practices of ME 412. Corequisites: ME 412."
 ME 413,Rocket Propulsion ,3,". A study of propulsion system requirements for terrestrial and interplanetary flight. 
 Basic principles and performance of both solid and liquid chemical rocket propulsion systems, elements of nuclear 
 rockets, nuclear-electrical power systems, and electrical propulsion systems are addressed. Prerequisite: ME 310 with 
@@ -2677,6 +2980,8 @@ ME 432,Design for Manufacture and Reliability ,3,". A study of the design synthe
 mechanical structures and components; optimization and reliability principles; and computer-aided design techniques. 
 Emphasis is on modeling synergistic processes for manufacture. Prerequisite: ME 103 with MinGrade C and ME 231 
 with MinGrade C. Corequisites: ME 432L."
+ME 432L,Design for Manufacture and Reliability ,1,"(3 clock hour lab period per week). Laboratory supporting design 
+work for ME 432. Corequisites: ME 432."
 ME 441,Renewable Energy ,3,". A study of the fundamentals of renewable energy technologies and their 
 applications. Emphasis will be placed on energy sources such as active and passive solar energy, photovoltaic systems, 
 hydropower, wind energy, biomass, geothermal energy, and ocean energy. Technological readiness, efficiency and 
@@ -2716,6 +3021,8 @@ economy. Prerequisite: ME 432. Corequisites: ME 485L.
  
 COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
 ~ 294 ~"
+ME 485L,Computer Aided Manufacturing Lab ,1,"(3 clock hour lab period per week). Laboratory supporting projects 
+and practices of ME 485. Corequisites: ME 485."
 MET 103,Introduction to Engineering Technology ,3,". A course providing a broad view of the many specialties in 
 engineering and technology and discussing the differences between engineering science and engineering technology. 
 This course acquaints the beginning student with the fundamental mathematical & physical concepts, tools, equipment, 
@@ -2738,6 +3045,14 @@ MET 315,Mechatronics ,3,". Integration of electrical, mechanical, and computer t
 manufacture, and maintenance of a wide range of engineering products and processes. It gives a framework of 
 knowledge that allows engineers to develop an interdisciplinary understanding and integrated approach to engineering. 
 Prerequisite: MDT 302L or EET 310L."
+MET 330L,Mechanical Engineering Technology Lab I ,1,". Laboratory projects in statics, fluid mechanics, and 
+hydraulics. Lab preparation sessions will review theory before each project. Computer generated reports will be turned in 
+by each student for each project and some oral presentations will be required. A specific lab report format will be 
+adhered to. Prerequisite: TBC 102."
+MET 331L,Mechanical Engineering Technology Lab II ,1,". Laboratory projects in thermodynamics, heat transfer, and 
+electro-mechanics. Lab preparation sessions will review theory before each project. Computer generated reports will be 
+turned in by each student for each project and some oral presentations will be required. A specific lab report format will 
+be adhered to. Prerequisite: MET 330L."
 MET 405,Hydraulic Power ,3,". A course in the design and analysis of hydraulic power systems. Topics include: 
 hydraulic system analysis using the energy equation; design configurations for controlling flow and pressure; operating 
 characteristics of pumps, valves, heat exchangers, accumulators, and accessories; design and analysis of hydraulic 
@@ -2782,6 +3097,17 @@ MET 429,MET Capstone Phase II ,1,". A continuation of MET 428, focusing on the c
 presentation of the final results. The course is conducted to simulate the procedures utilized by local industries to 
 conduct engineering projects. An objective of the course is to demonstrate and practice the diverse skills and teamwork 
 required in the modern workplace. Prerequisite: MET 428."
+MET 430L,Mechanical Engineering Technology Lab III ,1,". Laboratory projects in manufacturing processes, strength of 
+materials, and properties of materials. Lab preparation sessions will review theory before each project. Computer 
+generated reports will be turned in by each student for each project and some oral presentations will be required. A 
+specific lab report format will be adhered to. Prerequisite: CMG 218. 
+ 
+COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
+~ 296 ~"
+MET 431L,Mechanical Engineering Technology Lab IV ,1,". Laboratory projects in quality control and machine design. 
+Lab preparation sessions will review theory before each project. Computer generated reports will be turned in by each 
+student for each project and some oral presentations will be required. A specific lab report format will be adhered to. 
+Prerequisite: MET 330."
 MGT 207,Legal Environment and Ethics ,3,". A study of the legal environment as it pertains to profit and/or nonprofit 
 organizations, along with ethical considerations, including social and political influence, as they affect such organization. 
 Prerequisite: None."
@@ -3004,6 +3330,16 @@ Baye’s Theorem), statistical concepts (including binomial distributions and no
 applications to Markov chains and decision theory. Additional topics may include symbolic logic, linear models, linear 
 programming, the simplex method and applications. This course is designed for students who are not majoring in 
 science, engineering, commerce, or mathematics. Prerequisite: MTH 011 or satisfactory placement test scores."
+MTH 112E,Pre-Calculus Algebra with Lab ,4,"(3 clock hour lecture and 1 clock hour lab per week). The algebra of 
+polynomial, rational, exponential and logarithmic functions; algebraic equations; linear and quadratic equations; linear 
+COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
+~ 302 ~ 
+ 
+and quadratic inequalities; systems of equations and inequalities; and the binomial theorem. Additional topics may 
+include matrices, Cramer’s rule, and mathematical induction. A quick review of prerequisite materials; graphing and 
+linear systems, exponents and polynomials, factoring, rational expressions, roots and radicals, solving quadratic 
+equations, compound inequalities, linear inequalities in two variables, variation, functions. Students will be required to 
+attend a 1-hour lab each week as part of the course. Prerequisite: MTH 010 or satisfactory score on a placement exam."
 MTH 115,Pre-Calculus Algebra and Trigonometry ,4,". This course covers functions, logarithms and exponentials, 
 trigonometric functions and inverse trigonometric functions, trigonometric identities and equations, vectors, complex 
 numbers, polar coordinates, systems of linear and quadratic equations/inequalities and the binomial theorem. MTH 115 
@@ -3078,6 +3414,12 @@ enhance musical understanding. Literary and graphic arts are integrated to assis
 cultural influences with music in certain times and places. Music listening is stressed and classroom activities are often 
 coordinated with out-of-class assignments like television programs, lyceum attractions, student recitals and community 
 concerts. Prerequisite: None."
+MUS 101H,Music Appreciation Honors ,3,". Fundamentals of music; melody, harmony, rhythm, form, meter, and 
+notation are included in this course. Critical Thinking Models such as Statement, Elaborate, Exemplify, and Illustrate are 
+used to enhance understanding. Musical elements take on a deeper meaning as students are introduced to musical works 
+which include them. Students are taught to analyze and evaluate musical compositions along with biographies of 
+prominent composers. Music listening is stressed through recordings and a required recital or concert from which the 
+student submits a paper which analyzes and evaluates."
 MUS 102,Fundamentals of Music ,3,". An introductory course that covers the rudimentary fundamentals of music 
 theory, including the basic properties of notation, scales, intervals, triads,  and rhythmic notation. Prerequisite: None."
 MUS 103,Music Theory I ,3,". Music Theory I is the first of four semesters of the required music theory sequence. 
@@ -3186,10 +3528,7 @@ enrolled in section 01 of an applied music - piano course at the approved level 
 220 with MinGrade C and declared Music-Piano major or Music-Piano minor status. Corequisite: Choose one of the 
 following – MUS 141 or MUS 142 or MUS 241 or MUS 242 or MUS 341 or MUS 342 or MUS 441 or MUS 442"
 MUS 222,The University Choir I ,1,". The study and performance of works representative of a wide spectrum of choral 
-literature for mixed voices. Open to all university students. Prerequisite: instructor consent. 
- 
-COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 311 ~"
+literature for mixed voices. Open to all university students. Prerequisite: instructor consent."
 MUS 223,The University Choir II ,1,". The study and performance of works representative of a wide spectrum of choral 
 literature for mixed voices. Open to all university students. Prerequisite: instructor consent."
 MUS 226,The Stage Band ,1,". Stage Band member is confined to music majors and minors; or in special instances, to 
@@ -3431,6 +3770,11 @@ NHM 105,Principles of Nutrition ,3,"(1 clock hour lecture x3 per week). An inves
 emphasizing nutrients and their relationship to chronic diseases. Recommendations for adequate nutrient intake and their 
 related food components are presented. The information provided will help individuals formulate good dietary practices 
 to maximize health benefits. Prerequisite: None."
+NHM 201L,Science of Food Preparation ,3,"(1 clock hour lecture x2 and 3 clock hour lab periods per week). Scientific 
+concepts of the chemical and physiological properties of food with emphasis on principles of food selection, basic food 
+preparation methods, and the composition and nutritive value of foods. Laboratory exercises dealing with the chemical 
+properties of food components and changes they undergo in processing and storage. Relationships between the chemical 
+composition of foods and functional, nutritional, and sensory properties are stressed. Prerequisite: NHM 105."
 NHM 202,Introduction to Hospitality Management ,3,". An introduction to the history of the hotel/motel, restaurant, 
 travel, and tourism industry. The overview will cover the historical development of the industry and three major 
 functions in the various types of establishments or operations. Prerequisite: None."
@@ -3440,9 +3784,28 @@ diseases and conditions. Prerequisite: NHM 105."
 NHM 204,Nutrition for Exercise and Weight Management ,2,". A fundamental study of how an active individual can 
 achieve optimal performance levels by fueling before, during, and after exercising. The effect of nutrients on human 
 performance, metabolism, and body composition during exercise is emphasized. Prerequisite: NHM 105."
+NHM 301L,Food Service Operations I ,3,"(1 clock hour lecture x2 and 3 clock hour lab periods per week). Basic 
+principles of purchasing food and beverages, as well as non-food items, with particular attention to product identification 
+and to the receiving, storing, and issuing sequence. Planning, selling, producing, and serving a weekly meal employing 
+learned information is an integral part of this course. Prerequisite: NHM 201L."
+NHM 302L,Food Service Operations II ,3,"(1 clock hour lecture x2 and 3 clock hour lab periods per week). A 
+continuation of NHM 301L with management of production and service for various types of food service operations 
+included. Prerequisite: NHM 301L. 
+ 
+COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
+~ 326 ~"
 NHM 304,Professional Beverage Management ,3,". A study of beverage systems, procurement, handling, and controls 
 of beverages, related legislation and beverage accounting. Course will also include familiarization with equipment, 
 design of facilities, and mixology. Prerequisite: None."
+NHM 306L,Nutrition through the Life Cycle ,3,"(1 clock hour lecture x3 and 1 clock hour lab periods per week). 
+Application of the basic principles of nutrition to the dietaries for the child and mother from conception through the 
+adolescent period. Emphasis is placed on the relationship of diet to the growth and development of the infant and child. 
+Prerequisite: NHM 105."
+NHM 309L,Professional Baking ,3,"(1 clock hour lecture x2 and 3 clock hour lab periods per week). Emphasis upon the 
+basic principles and techniques of professional baking will be emphasized throughout the course. The skills acquired will 
+prepare students for the field of baking. Prerequisite: NHM 201L."
+NHM 312L,Buffets and Banquets ,3,"(1 clock hour lecture x2 and 3 clock hour lab periods per week). An exploration of 
+the sophisticated world of buffets and banquets, including planning, preparation, and service. Prerequisite: None."
 NHM 315,Healthcare Management ,3,". This course offers an introduction to the principles of strategic management of 
 healthcare organizations including hospitals, ambulatory, and long-term care facilities. Fundamental to this course is the 
 exploration of current and future challenges for the health care industry. Prerequisite: None"
@@ -3455,8 +3818,26 @@ NHM 403,Quantity Food Management ,3,". A study of quantity food cookery and mana
 pertain to commercial, industrial, and other institutional food services. Merchandising menus, variety in menu planning, 
 and food preferences of customers will be included. Students will have an opportunity for study and laboratory 
 experiences in management of food preparation and services in a cafeteria. Prerequisite: None."
+NHM 404L,Nutrition for Early and Middle Childhood ,3,"(1 clock hour lecture x2 and 2 clock hour lab periods per 
+week). A course designed to acquaint teachers of young children with basic nutritional principles and their applications 
+for nutrition education. Emphasis is placed on methods and techniques for teaching nutrition to young children. 
+Prerequisite: None."
+NHM 405L,Advanced Human Nutrition ,3,"(1 clock hour lecture x2 and 2 clock hour lab periods per week). A study of 
+the physiological and chemical factors involved in the absorption and metabolism of food nutrients. Prerequisite: CHE 
+252, CHE 252L, BIO 221, BIO 221L, BIO 222, BIO 222L, NHM 105."
+NHM 406L,International Cuisine and Catering ,3,"(1 clock hour lecture x2 and 3 clock hour lab periods per week). An 
+introduction to special foods of various countries and the techniques used to prepare authentic menus. Preparation and 
+management of catering will also be covered in the course. Prerequisite: None."
 NHM 407,Medical Nutrition Therapy I ,3,". A study of the modification of normal diets in the applications of nutrition 
 and medical therapy. Prerequisite: NHM 405L."
+NHM 408L,Medical Nutrition Therapy II ,3,"(1 clock hour lecture x2 and 3 clock hour lab periods per week). Practical 
+experience in nutrition and medical therapy dietetics and in the community, (i.e., hospitals, dialysis units, nursing homes, 
+etc.) Prerequisite: NHM 407."
+NHM 409L,Experimental Foods ,3,". Two one-hour lectures and one, three-hour lab per week. A senior level course 
+designed to acquaint the students with the experimental study of foods, relative to why food is handled and prepared in a 
+
+certain manner, the significance of the effects of variations in treatments on food quality, and use of this knowledge can 
+be used to improve the quality of food products. Prerequisite: NHM 201L."
 NHM 410,Community Nutrition ,3,". Two one-hour lectures and one, three-hour lab per week. A study of the 
 nutritional needs of a community and the exploration, identification, and analysis of nutritional needs of various target 
 groups such as schools, elderly, income, etc. Prerequisite: NHM 105."
@@ -3587,6 +3968,9 @@ NRE 432,Plant Disease Diagnosis ,4,". A study of the general principles and meth
 epidemiology, etiology, and control of major plant diseases Prerequisite: None."
 NRE 433,Introduction to Molecular Genetics ,3,". The study of prokaryotic DNA structure and replication, restriction 
 analysis, sequencing, transcription, translation, gene regulation and gene expression. Prerequisite: instructor consent."
+NRE 433L,Introduction to Molecular Genetics Laboratory ,1,". This course emphasizes the basic techniques used in 
+molecular genetics and provides a step-by-step approach and hands-on experience in the field of recombinant DNA 
+technology. Corequisites: NRE 433."
 NRE 435,Introduction to Bioinformatics ,4,". An interdisciplinary course melding information and biological sciences. 
 Structure and function of proteins and nucleic acids; retrieval and interpretation of bioinformation, algorithms and 
 software for sequence alignment, similarity searching of sequence databases. Prerequisite: General Biology/ 
@@ -3633,7 +4017,18 @@ ORI 101,First Year Experience ,1,". This course assists new students in making a
 collegiate environment. Topics include, but are not limited to, the history of AAMU, academic policies and procedures, 
 study skills, test-taking strategies, time management, coping with stress, career exploration, student life, financial aid, 
 money management, and The Freshman Academy exit requirements. Prerequisite: None."
+ORI 101H,First Year Experience Honors ,1,". This course assists new students in making a satisfactory adjustment to the 
+collegiate environment. Topics include, but are not limited to, the history of AAMU, academic policies and procedures, 
+study skills, test-taking strategies, time management, coping with stress, career exploration, student life, financial aid, 
+and other relevant information. Entering honors freshmen who enter AAMU with fewer than 30 credit hours are required 
+to register for this course. This course is mandatory for graduation. The payment of the enrollment fee is required. The 
+grade earned for this courses is used in calculating a student’s overall grade point average."
 ORI 102,First Year Experience ,1,. A continuation of ORI 101.
+ORI 102H,First Year Experience Honors ,1,". This course assists new students in making a satisfactory adjustment to the 
+collegiate environment. Topics include, but are not limited to, service learning, character education, and 
+personal/professional development. Second semester honors freshmen are required to register for this course, as it is 
+mandatory for graduation. The grade earned for this courses is used in calculating a student’s overall grade point 
+average."
 PED 102,Fitness for Life ,1,". A course acquainting all age groups with cardiovascular fitness, facts and fallacies 
 regarding exercise and health and a number of evaluation techniques as each of these relate to physical and total 
 conditioning. Candidates will develop and participate in personal fitness programs. Prerequisite: None."
@@ -3769,6 +4164,13 @@ psychology over the course of the 20th and 21st centuries. Prerequisite: PHL 201
 Physics"
 PHY 101,Physical Science I ,3,". A course covering force, motion, gravitation, energy, energy in action, electricity and 
 magnetism, waves, the nucleus, and the atom. Prerequisite: MTH 011. Corequisites: PHY 101L."
+PHY 101H,Honors Physical Science I ,3,". This general education science course provides a fundamental understanding 
+of the physical universe. Students are introduced to topics that enable them to better understand the world of nature and 
+the laws that govern them. Topics covered included force, motion, gravitation, energy, energy in action, electricity and 
+magnetism, waves, the nucleus, and the atom. Prerequisite: None."
+PHY 101L,Physical Science Lab I ,1,". A laboratory course to accompany PHY 101, Survey of Physical Sciences I. This 
+hands-on experience illustrates basic principles of measurements, kinematics & dynamics of motion, fluids, heat and 
+thermodynamics, electricity and magnetism, optics, and matter. Prerequisite: None. Corequisites: PHY 101."
 PHY 102,Physical Science II ,3,". A course encompassing selected topics in the field of chemistry, geology, 
 meteorology, and astronomy. Topics to be covered include: the periodic law, crystals, ions, solutions, chemical reactions, 
 the atmosphere and hydrosphere, earth materials, the changing crust, earth and the sky, the solar system, the stars, and 
@@ -3808,6 +4210,13 @@ important extra galactic objects and cosmology. Some of the topics covered inclu
 the solar system (planets, asteroids and comets), stars and galaxies. Kepler’s Laws of Planetary Motion, Newton’s Laws 
 of Motion, universal gravitation, principles of optics, telescopes; the Doppler effect, various objects in the solar system, 
 star formation, and stellar evolution, Milky Way and other galaxies. Prerequisite: MTH 101."
+PHY 220L,Introduction to Astronomy Lab ,1,"(2 clock hours per week). This course covers the hands-on conceptual 
+learning of lenses, mirrors, telescopes, measuring distances using parallax, spectroscopy, stellar spectral types, Doppler 
+shift, expansion of the universe. Prerequisite: MTH 101."
+PHY 252L,Modern Physics Lab ,3,". An experimental course consisting of at least ten experiments selected from 
+advanced topics in physics. The purpose of this course is to provide general insight into advanced experimental 
+techniques involving refined electronic equipment and other sensitive apparatus. The experiments chosen each time the 
+course is offered will be announced in advance. Prerequisite: PHY 218."
 PHY 310,Scientific Computing and Visualization ,3,". This course is intended to familiarize students with the 
 computational tools used by professional scientists. We will use high-level tools such as matLab)Octave and 
 Mathematica. Topics covered will include Linear Algebra, Interpolation and Extrapolation, Integration, Differential 
@@ -4031,11 +4440,14 @@ PSY 415,Physiological Psychology ,3,". A functional analysis of the internal sys
 Specific attention will be given the CNS and PNS processing of information and the endocrine system as it influences 
 behavior. Topics include the composition and functions of neural systems and the relationship of motivation, emotions, 
 and personality to internal processes. Prerequisite: PSY 201. Corequisites: PSY 415L."
+PSY 415L,Physiological Psychology Lab ,1,. Various laboratory exercises on the various topics covered. Prerequisite:
 PSY 416,Experimental Psychology ,3,". An application of scientific methodology to investigation of basic behavioral 
 phenomena and principles. Controlled laboratory experiences are designed to illustrate the derivation, testing, and 
 evaluation of psychological knowledge. Empiricism is stressed in laboratory investigation of motor learning, verbal 
 learning, psychophysics, parapsychology, and individual differences. Various research designs and techniques are 
 considered. Prerequisite: PSY 201, PSY 307. Corequisites: PSY 416L."
+PSY 416L,Experimental Psychology Lab ,1,". Laboratory investigation of verbal learning, psychophysics, 
+parapsychology, and individual differences. Prerequisite: PSY 201. Corequisites: PSY 416."
 PSY 421,Psychology Internship I ,3,". Field placement of advanced standing psychology majors. This course is 
 designed to provide supervised practical experience on a paraprofessional level in a clinical, education, or research 
 setting of relevance to psychology. Open only to senior majors with consent of advisor. Prerequisite: PSY 201."
@@ -4061,6 +4473,12 @@ SED 409,Reading in the Content Area ,3,". A course focusing on the basic reading
 regardless of the content area. It also provides concrete suggestions for ascertaining reading interests and activities of 
 secondary students. The course will be presented in a non-technical manner that stresses a practical approach. 
 Prerequisite: Formal admission to the teacher education program."
+SED 325T,Knowing and Learning in Mathematics and Science ,3,". Students focus on knowing and learning in 
+secondary mathematics and science as understood from a multi-disciplinary perspective. Students identify theories and 
+employ these theories to guide their own practice. They develop their teaching practice and theory in a way that builds 
+upon each other. Students develop a teaching practice that is guided by theories of how people learn. Students become 
+thoughtful and reflective practitioners, and develop the knowledge, dispositions, and skills needed to be effective 
+teachers in middle and high schools. Prerequisite: Formal admission to the teacher education program."
 SED 421,Materials and Methods of Teaching English in Secondary Schools ,3,". An analysis of objectives of the high 
 school curriculum in English and a study of methods and practices effective in the teaching of language and literature. 
 Prerequisite: Formal admission to the teacher education program."
@@ -4082,12 +4500,16 @@ students develop and learn science, and how state and national standards impact 
 SED 494,Pre-clinical Experiences in Secondary Schools ,3,"(6 clock hour field experience per week). The course is a 
 pre-clinical field experiences class, to be taken simultaneously with other methods courses (e.g., SED 409 and [SED 421 
 COURSE DESCRIPTIONS, AAMU Undergraduate Bulletin, 2023-2024 
-~ 346 ~"
+ In the course, candidates will engage in classroom experiences under the supervision of mentor 
+teachers and the methods instructors. The intent of the course is to meaningfully engage students in a classroom setting 
+one semester prior to the clinical/internship experience. The experience serves as a laboratory course for the methods 
+courses where candidates have the opportunity, at the school site, to demonstrate the professional abilities to impact 
+student learning."
 SED 495,Internship ,11,". There are multiple internship courses based on the specific content area. This course entails 
 one semester of full-time teaching under the immediate direction of cooperating teachers and university supervisors in 
 the P-12 public schools.  A fee for the edTPA portfolio assessment is proposed for candidates to purchase who are 
 enrolled in the internship course (student teaching). The Alabama State Department of Education is requiring the edTPA 
-assessment starting September 1, 2018 for teacher candidates to receive certification. The cost for the edTPA portfolio 
+assessment starting September1, 2018 for teacher candidates to receive certification. The cost for the edTPA portfolio 
 submission to Pearson is $300.00. Prerequisite: Candidate must be enrolled in internship. Corequisites: Submit edTPA."
 SED 496,Senior Seminar ,1,". This course is designed to assist candidates with preparation and submission for 
 evaluation of edTPA Portfolios. Prerequisite: Completion of all program courses. Corequisites: SED 495. 
@@ -4122,7 +4544,12 @@ SOC 332,Educational Sociology ,3,". Socialization in the educational institution
 roles), interactional patterns, and culture of the school. Prerequisite: None."
 SOC 334,Cultural Anthropology ,3,". A consideration of the different ways man copes with his natural setting and 
 social milieu; different bodies of customs, variations in the socialization process, and the transmission of the culture 
-heritage. Primitive societies are the major ones considered. Prerequisite: None."
+heritage. Primitive societies are the major ones considered. Prerequisite: None. 
+ 
+""SOC 336 (CRJ 336/PSC 336)""
+Black Lives Matter – 3 credit hours. Analysis of the nature, causes, development, forms, functions, 
+and outcome of recent social movements are analyzed. Theories about social movements as a variation of collective 
+behavior are included. Prerequisite: SOC 351."
 SOC 434,Social  Stratification ,3,". A study of social inequalities and differentiation as related to social structures and 
 social systems, analysis of patterns of interaction within and between social classes and the implications of stratification 
 of human group behavior. Prerequisite: None."
@@ -4228,18 +4655,18 @@ be used with young children with disabilities in grades K-6."
 SPE 410,Counseling with Parents of Exceptional Children ,3,". Discussion and application of the rationale for positive 
 communication and interaction with parents and techniques of facilitation. Prerequisite: None."
 SPE 426,Collaborative Consultation ,3,". A course designed to provide prospective teachers (ECSE, Collaborative K-
-6 and Collaborative 1-6) knowledge and skills required to successfully facilitate intervention strategies with regular 
+6 and Collaborative1-6) knowledge and skills required to successfully facilitate intervention strategies with regular 
 classroom teachers and other support personnel in meeting the needs of students with disabilities. This course also serves 
 as a professional elective for prospective teachers of early childhood, elementary, and secondary students."
 SPE 430,Materials and Methods of Content-Area Instruction ,3,". A course designed to give beginning teachers 
 requisite skills in designing, developing, implementing and evaluating methods and materials of content area instruction 
-for children and adolescents with disabilities in grades 6-12."
+for children and adolescents with disabilities in grades6-12."
 SPE 431,Behavior Management for Secondary Teachers ,3,". A study of the application and skills in the use of 
 behavior management skills, including direct observations, behavioral interventions, analysis, and subsequent program 
 modification based upon analysis. Prerequisite: None."
 SPE 432,Materials and Methods of Functional Curricula ,3,". A course designed to give beginning teachers requisite 
 skills in designing, developing, implementing and evaluating methods and materials of functional curricula for children 
-and adolescents with disabilities in grades 6-12."
+and adolescents with disabilities in grades6-12."
 SPE 436,Assessment of Secondary Students ,3,". Development of the essential skills required to diagnose skills 
 deficits, and to plan and implement educational strategies to remediate deficits experienced by exceptional learners. 
 Practical experiences using assessment techniques will be stressed. Prerequisite: SPE 201."
@@ -4247,7 +4674,7 @@ SPE 495,Internship ,11,". There are multiple internship courses based on the spe
 one semester of full-time teaching under the immediate direction of cooperating teachers and university supervisors in 
 the P-12 public schools.  A fee for the edTPA portfolio assessment is proposed for candidates to purchase who are 
 enrolled in the internship course (student teaching). The Alabama State Department of Education is requiring the edTPA 
-assessment starting September 1, 2018 for teacher candidates to receive certification. The cost for the edTPA portfolio 
+assessment starting September-1, 2018 for teacher candidates to receive certification. The cost for the edTPA portfolio 
 submission to Pearson is $300.00. Prerequisite: Candidate must be enrolled in internship. Corequisites: Submit edTPA."
 SPE 496,Senior Seminar ,1,". This course is designed to assist candidates with preparation and submission for 
 evaluation of edTPA Portfolios. Prerequisite: Completion of all program courses. Corequisites: SPE 495. 
@@ -4302,8 +4729,7 @@ Critical incidents are utilized to analyze behaviors of selected individuals, gr
 SWK 303,Poverty and Deprivation ,3,". This course describes the causes of poverty and its relationship to other social 
 problems. A historical perspective is offered to help students understand the impact of the Great Depression in changing 
 the values of the American people toward people in need. Programs that combat poverty are discussed and critiqued. 
-Causes of poverty and populations impacted are explored. Prerequisite: SWK 200, SWK 201, SWK 301, SWK 309, 
-[(SWK 205) or (SWK 311, SWK 302, SWK 304)]."
+Causes of poverty and populations impacted are explored. Prerequisite: SWK 200, SWK 201, SWK 301, SWK 309,"
 SWK 304,Diverse Populations ,3,". This course is designed to sensitize students to accept differences among people 
 and their experiences. Emphasis is placed on the differences among cultural groups and how differences are perceived 
 through a majority cultural context and the impact on achieving success. Students explore the relationship of their own 

@@ -5,8 +5,8 @@ import csv
 with open('./alabama-agricultural-mechanical-university.txt', 'r', encoding='utf-8') as txt_file:
     txt_content = txt_file.read()
 
-    # Create a regex pattern to match course data
-    pattern = re.compile(r'([A-Z]+\s\d+[A-Z]*\s?[A-Z]*)\s+([\w\s\-]+)\s*–\s*(\d+)\s+credit\s+hour[s]*[\s\S]*?([\s\S]+?)(?=\n[A-Z]+\s\d+|\Z)', re.IGNORECASE)
+    # Create a regex pattern to match course data with the updated course code format
+    pattern = re.compile(r'([A-Z]+\s\d{2}[A-Z]{2}|[A-Z]+\s\d+[A-Z0-9]*[A-Z]*)\s+([\w\s\-]+)\s*–\s*(\d+)\s+credit\s+hour[s]*[\s\S]*?([\s\S]+?)(?=\n[A-Z]+\s\d+|\Z)', re.IGNORECASE)
     
     # Initialize a list to store extracted course data
     course_data = []
@@ -26,7 +26,7 @@ with open('./alabama-agricultural-mechanical-university.csv', 'w', newline='', e
     csv_writer = csv.writer(csv_file)
 
     # Write header row
-    csv_writer.writerow(['Code', 'Title', 'Hours', 'Description'])
+    csv_writer.writerow(['code', 'title', 'hours', 'description'])
 
     # Write course data rows
     csv_writer.writerows(course_data)
