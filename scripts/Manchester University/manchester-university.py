@@ -34,7 +34,7 @@ with open('manchester-university.csv', 'w', newline='', encoding='utf-8') as csv
     csv_writer = csv.writer(csv_file)
 
     # Write header row
-    csv_writer.writerow(['Code', 'Title', 'Credits', 'Description'])
+    csv_writer.writerow(['code', 'title', 'credits', 'description'])
 
     # Write course data rows
     for course in course_data:
