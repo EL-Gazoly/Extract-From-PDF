@@ -34,11 +34,11 @@ with open('./anderson-university.txt', 'r', encoding='utf-8') as txt_file:
         description = description.rstrip()
 
         # Append extracted data to the list
-        course_data.append({'code': code, 'name': name, 'credits': credits, 'description': description})
+        course_data.append({'code': code, 'title': name, 'credits': credits, 'description': description})
 
 # Write the extracted course data to a CSV file
 with open('anderson-university.csv', 'w', newline='', encoding='utf-8') as csv_file:
-    csv_writer = csv.DictWriter(csv_file, fieldnames=['code', 'name', 'credits', 'description'])
+    csv_writer = csv.DictWriter(csv_file, fieldnames=['code', 'title', 'credits', 'description'])
 
     # Write header row
     csv_writer.writeheader()

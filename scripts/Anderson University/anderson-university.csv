@@ -1,4 +1,4 @@
-code,name,credits,description
+code,title,credits,description
 1000,Principles of Modern Biology,4,"Fundamental ideas in the science of biology, including molecules, cells, genetics, ecology, the diversity of life, and the human body. 
 OFFERED: Sem. I; Summer. (3, 2)"
 2010,Medical Terminology,2,"Course objective is to make students familiar with the common root words, prefixes, and suffixes of terms used in the medical fields. 
@@ -94,6 +94,256 @@ competency (writing-intensive) and speaking-intensive credit. PREREQUISITE: Scie
 projects. Required of all science majors. Both BIOL (1, 0)"
 4910,and,4920,"must be completed to receive advanced writing 
 competency (writing-intensive) and speaking-intensive credit. EXPECTATION: """
+1050,Bowling,1,"Fee required. OFFERED: (0, 2)"
+1060,Weight Training,1,"1100 Beginning Swimming 1 hr. (0, 2) (0, 2)"
+1120,Golf,1,"NOTE: Six-week class only; meets daily. (0, 2)"
+1130,Scuba,1,"Earn Scuba Educators International Open Water Diver certification through this education-oriented classes. Classes occur 
+in the classroom and pool. Required course fee covers full certification cost. OFFERED: Sem. I, (0, 2)"
+1150,Badminton,1,"NOTE: Six-week class only; meets daily. (0, 2)"
+1190,Mind-Body Fitness,1,"Provides opportunity to experience yoga-like stretches and poses while learning deep- breathing relaxation techniques and 
+centering activities. (0, 2)"
+1200,Co-Curricular Activity,1,"Provides academic credit for participation in intercollegiate sports activities, including cheerleading. Credit must be taken in 
+the primary semester of competition. Does not count toward PEHS major or minor. REPEAT: May be repeated in a different 
+activity only; total credit not to exceed 2 hours. GRADE: CR/NC. (0, 2)"
+1220,Tennis,1,"NOTE: Six-week class only; meets daily. (0, 2)"
+2000,Intermediate Swimming,1,"2020 American Red Cross Lifeguarding 1 hr. (0, 2)
+Provides instruction in the American Red Cross lifeguarding program, which can lead to ARC certification. EXPECTATION:
+Swimming proficiency at ARC Level VII. (0, 2)"
+2040,Water Safety Instructor,1,"Provides instruction in the American Red Cross water safety program, which can lead to ARC certification. EXPECTATION:
+Swimming proficiency at ARC Level VII. (0, 2)"
+2260,Advanced Conditioning for Sports Performance,1,"Provides instruction in and supervision of planned, ongoing exercises and training regimens (strength, anaerobic, and aerobic) 
+for the purpose of sports performance enhancement. Open to all students. REPEAT: May be repeated; total credit not to 
+exceed 4 hours. GRADE: CR/NC. NOTE: Weeks and days the class meets vary by section and semester. OFFERED: Every 
+semester according to sport.
+General Education Electives: (0, 3)"
+1450,First Aid,2,"Students earn American Red Cross Responding to Emergencies certification upon successful completion (includes first aid, 
+community CPR, and AED). Credit may not be earned in both PEHS (2, 1)"
+1450,"and ATRG 1460. OFFERED: Sem. I, II.",1550,"Care and Prevention of Injuries and Illnesses 3 hrs. (2, 1)
+Introduces the basic concepts of prevention and care of injuries and illnesses including emergency procedures. Upon 
+completion the student may become first aid and CPR certified through the American Red Cross. OFFERED: Sem. I."
+2340,Psychology of Coaching,2,"Applies scientific principles to coaching at different levels of competition. Discusses motivation, personality differences, 
+communication, and the effect of winning and losing. OFFERED: Sem. I, (2, 0)"
+3030,Techniques of Coaching Volleyball,1,"OFFERED: Sem. I, (1, 1)"
+3040,Techniques of Coaching Soccer,1,"OFFERED: Sem. I, (1, 1)"
+3050,Techniques of Coaching Football,1,"OFFERED: Sem. I, (1, 1)"
+3060,Techniques of Coaching Track,1,"OFFERED: Sem. II, (1, 1)"
+3070,Techniques of Coaching Basketball,1,"OFFERED: Sem. II, (1, 1)"
+3080,Techniques of Coaching Baseball,1,"OFFERED: Sem. I, (1, 1)"
+3340,Sociology of Sport,3,"Examines sports and their part in the lives of people, communities, and our society. Encourages students to ask critical 
+questions regarding how sports impact the world in which we live. Investigates the influence of sports on children, gender, 
+race, social class, media, the economy, and religion. Applies to liberal arts writing-intensive requirement. OFFERED: Sem. II. (3, 0)"
+3410,Sports Administration,3,"Develops skills in the organization and administration of interscholastic athletics, including philosophy, scheduling, budget, 
+equipment care, awards, legal aspects, and facilities. OFFERED: Sem. II. (3, 0)"
+3490,School Health Organization,3,"Develops skills in the organization and management of health programs in the school, including classroom, school health 
+services, and related community-based health services. OFFERED: Sem. II. LAST OFFERED: (3, 0)"
+4850,Practicum in Physical Education or Sport,1-4,"hrs. (arranged)
+Provides opportunity for independent work or field experience in settings like camps, agencies, city parks and recreation 
+centers, or other physical activity locations. CONSENT: Instructor. EXPECTATION: Played on a high school or college athletic 
+team at the varsity level. REPEAT: May be repeated for a total of 8 hours. GRADE: CR/NC. OFFERED: Every semester as 
+needed. LAST OFFERED:"
+4860,Practicum in Health,1-4,"hrs. (arranged)
+Provides opportunity for independent work or field experience in teaching health in area schools. CONSENT: Instructor. 
+EXPECTATION: Must be accepted into Teacher Education Preparation Program. REPEAT: May be repeated for a total of 8 
+hours. PRE-/ COREQUISITE: PEHS 3100 or PEHS 3490"
+1530,Theory of Conditioning of Athletes,3,"Investigates the physiological background, techniques/methods, and precautions of conditioning athletes. Analyzes nutrition, 
+ergogenic aids, gender, age, and climatic issues. OFFERED: Sem. II. (2, 0)"
+4440,Clinical Experience in Athletic Training VI,1,"Guided experiences in the treatment of general medical conditions and sports performance of athletes. Students will be 
+tested throughout the course in both real-time and practice settings. PREREQUISITE: Athletic training major in good 
+standing. OFFERED: Sem. I, II. LAST OFFERED: (0,1)"
+4460,Administration of Athletic Training,3,"Develops skills in the organization and administration of an athletic training/sports medicine program, including philosophy,
+budget, facilities, equipment, insurance, legal aspects, records, employment, personnel, and structure of the National 
+Athletic Trainers Association. PREREQUISITE: Athletic training major in good standing; senior standing. OFFERED: Sem. I. 
+LAST OFFERED: (3, 0)"
+4500,Clinical Experience in Athletic Training VII,1,"Guided experiences in the organization and administration of the athletic training profession, including ethics, risk 
+management, legal aspects, professional development, and athletic training management. Students will be tested 
+throughout the course in both real-time and practice settings. (0, 1) PREREQUISITE: ATRG 3440"
+4550,Research in Athletic Training,1,"The need for quality evidence-based practice is growing in all allied health professions. Student athletic trainers must be 
+prepared to understand and utilize the evidence related to all aspects of athletic training. Likewise, students must learn how to 
+add to the body of knowledge within athletic training. A variety of research methods will be discussed, including both qualitative 
+and quantitative, as they relate to athletic training and health care. Students will begin a yearlong independent research project. 
+Fee required. Applies to liberal arts writing-intensive requirement. OFFERED: Sem. I. LAST OFFERED: (2, 0)"
+4850,Practicum in Athletic Training,1-4,"hrs. (arranged)
+Provides opportunity for independent work or field experiences in the sports medicine field. PREREQUISITE: Athletic training 
+major in good standing. CONSENT: Instructor. REPEAT: May be repeated for a total of 8 hours. GRADE: CR/NC. OFFERED:
+Every semester as needed. LAST OFFERED:"
+4910,Seminar in Athletic Training,2,"Overview of research methodology in athletic training. Prepares students for the BOC examination and entry into the 
+profession. Capstone course in athletic training. Selected topics of current interest in sports medicine. Requires the 
+development and presentation of an independent research project. Applies to liberal arts speaking-intensive requirement. 
+PREREQUISITE: Senior athletic training major in good standing. Fee required. OFFERED: Sem. II. LAST OFFERED: (2, 0)"
+1360,Introduction to Exercise Science,2,"Explores the discipline and sub-disciplines represented within exercise science. Examination of the historical and cultural 
+aspects of exercise science as well as current trends and future developments, including professional development and 
+certification. Fee required. OFFERED: Sem. I. (2, 0)"
+2140,Nutrition in Health and Disease,4,"Introductory view of the relationship between nutrition and disease. Covers the methodology used to determine nutritional 
+and health status and how evidence is gathered to determine links between nutrition and the prevention of specific diseases 
+and conditions, such as cardiovascular disease, cancer, diabetes, obesity, gastrointestinal disorders, and osteoporosis are 
+covered in depth. Emphasis on the scientific method and how scientific processes allow these facts to be known. OFFERED:
+Sem. I, II. (3, 2)"
+2440,Stress Management,3,"Investigates stressors in the personal, work, and social environments and the interconnectedness of health and stress. 
+Discusses the physiological aspects of the stress response. Explores various coping strategies for stress management. 
+OFFERED: Sem. I. (3, 1)"
+2455,Foundations of Exercise Leadership,3,"Emphasizes fundamentals necessary to design safe and appropriate cardiovascular and strength training programs for 
+personal-training clients based on exercise prescription principles. Develops applicable teaching methodology in various 
+activity and lecture situations. Fee required. OFFERED: Sem. II. (3, 0)"
+2550,"Health, Exercise, and Aging",2,"Examines the health-related physiological dimensions of aging and the role of lifestyle activity and exercise as strategy for 
+coping with the changes. OFFERED: Sem. I. (2, 0)"
+2580,Sports Nutrition,3,"Explores principles of nutrition as they relate to athletes and athletic competition, including the role of athletic trainers and 
+coaches in implementing sound sports nutrition programs to promote optimal health and performance for athletes. Includes 
+topics such as pre-event and post-event meal planning, nutritional assessment, nutritional counseling, carbohydrate loading, 
+electrolyte drinks, ergogenic aids, protein and vitamin supplementation, recognition of eating disorders, and physiological 
+aspects of nutrition as they relate to athletic competition. Fee required. OFFERED: Sem. I, II. (2, 1)"
+3100,Eating Disorders,3,"Analysis of factors involved in etiology, assessment, medical consequences, treatment, and prevention of eating disorders. 
+OFFERED: Sem. II. (3, 0)"
+3200,Nutrition in the Life Cycle,3,"Addresses specific nutritional needs at various stages of the human life cycle: lactation, infancy, childhood, adolescence, and 
+adulthood, including old age. The most common nutritional concerns, their relationship to food choices and health status, and 
+strategies to enhance well-being at each stage of the life cycle are emphasized. (3, 0) PREREQUISITE: EXSC 2140 or EXSC 2580"
+3300,Health Implications of Obesity,3,"Study of obesity and being overweight with special emphasis on diet, nutrition, and exercise. Modes of prevention and 
+treatment will also be discussed. (3, 0) PREREQUISITE: EXSC 2140 or EXSC 2580"
+3470,Physiology of Exercise I,4,"Studies physiological changes in the human organism as a result of physical exercise, including immediate and chronic 
+responses of the body to exercise, physiological limitations to exercise, and limitations of present physiological knowledge for 
+total understanding of exercise response. Practical applications of physiology to coaching and teaching. (3, 2) PREREQUISITE: BIOL 2420"
+3480,Physiology of Exercise II,4,"An advanced course in the area of exercise and human performance. Which provides further in-depth examination of the 
+physiological mechanisms responsible for both the acute and chronic changes which occur with exercise. (3, 2) PREREQUISITE: EXSC 3470"
+3520,Biomechanics I,4,"Examines the scientific principles basic to human motion: both anatomical and biomechanical. Includes a laboratory 
+experience. (3, 2) PREREQUISITE: BIOL 2410"
+3530,Biomechanics II,4,"Continues to explore and apply biomechanical principles to human movement through lecture and laboratory experiences. 
+Topics include the Newtonian mechanics, kinematics, and kinetics of human motion through applied knowledge of anatomy 
+and physics. (3, 2) PREREQUISITE: EXSC 3520"
+4010,Advanced Resistance Training and Conditioning,3,"Analyzes advanced principles of skeletal muscle physiology and bioenergetics in the application of strength training and 
+conditioning programs designed for athletes and recreational exercisers. (3, 0) PREREQUISITE: EXSC 3470 and ATRG 1530"
+4050,EKG and Cardiovascular Disease,3,"Introduction to the basic principles and interpretation of the electrocardiograph (EKG) as it relates to clinical and fitness
+programs. Students learn how to record EKGs, vital signs, recognize cardiac rhythms and will learn the importance of an EKG 
+and how EKG rhythms provide important data for the diagnosis of heart conditions. Will cover the many risk factors 
+associated with coronary artery disease and the management and treatment of cardiovascular disease. (2,1) PREREQUISITE: EXSC 3470"
+4150,Exercise Testing and Prescription,4,"Provides an in-depth study of the theoretical basis and applied knowledge required for graded exercise testing and 
+individualized exercise prescription. Includes electrocardiograph techniques/interpretation, pharmacological considerations, 
+test data interpretation, and emergency procedures. (3, 2) PREREQUISITE: EXSC 3470"
+4160,Clinical Experience in Exercise Testing and Prescription,1,"Provides laboratory experiences designed to present and refine skills in conducting various health fitness assessments (e.g. 
+resting and exercise blood pressure, body composition, submaximal aerobic capacity, maximal graded exercise stress tests, 
+EKG placement and rhythm recognition). Students will also demonstrate the ability to prescribe physical activity and exercise 
+programs to maintain and promote good health. The implications of test results and application to exercise prescription will 
+be discussed. (0, 2) PREREQUISITE: EXSC 4150"
+4650,Independent Research in Exercise Science,1-3,"Provides opportunity for independently executed investigations, normally by students with upper-division standing. REPEAT:
+May be repeated; credit not to exceed 6 hours. OFFERED: Every semester as needed. (0, 3)"
+4800,Internship in Exercise Science,4,"hrs. (arranged)
+Intended for students to observe and gain practical experience in a professional environment in which they plan to work as a 
+career. Students are required to complete 4 credits of internship before graduation. CONSENT: Instructor. PREREQUISITE: EXSC 4150"
+4850,Practicum in Exercise Science,1-4,"hrs. (arranged)
+Provides opportunity for independent work or field experience in settings of personal training, agencies, or clinics in the 
+exercise science field. CONSENT: Instructor. PREREQUISITE: Exercise science major; junior standing. REPEAT: May be 
+repeated for a total of 8 hours. GRADE: CR/NC. OFFERED: Every semester as needed.
+102 Anderson University Undergraduate Catalog"
+4910,Research in Exercise Science,3,"The need for quality evidence-based practice is growing in all allied health professions. Students must be prepared to 
+understand and utilize the evidence related to all aspects of professional practice. A variety of research methods will be 
+discussed, including both qualitative and quantitative. Students will begin a yearlong independent research project.
+OFFERED: Sem. I. (3, 0)"
+4920,Seminar in Exercise Science,3,"Investigates selected topics of current interest in exercise and health science. Capstone course in exercise science. Requires a 
+written and oral presentation of a creative project involving either applied, experimental, or library research. Applies to liberal 
+arts writing and speaking-intensive requirement. PREREQUISITE: Exercise science major; senior standing. Fee required. 
+OFFERED: Sem. II.
+PETE COURSES (2, 0)"
+1300,"Introduction to Sports, Physical Activity, and Recreation",2,"Introduces foundational concepts in sports, physical activity, physical education, and recreation, including historical and 
+philosophical orientations, current issues, and career opportunities. Fee required. OFFERED: Sem. II. (2, 1)"
+2250,Motor Behavior,3,"Examines the forces that influence the acquisition of motor skill and movement patterns. Surveys growth and development 
+patterns. Identifies characteristics of skilled movement forms. Reviews factors which impact the learning of skills like 
+knowledge of results and performance. Discusses motivational patterns and sport interests. Surveys the sub discipline of 
+motor learning. Applies to liberal arts writing-intensive requirement. OFFERED: Sem. II. (3, 0)"
+3710,Instructional Strategies (K-5),3,"Examines and develops instructional strategies for teaching physical education in grades K-5. The development of 
+fundamental movement patterns and foundational movement concepts will be examined as well. Includes teaching practicum 
+with children ages 4 to 12 years. OFFERED: Sem. II. (3, 1)"
+3720,"Sports, Physical Activity, and Recreation for Special Populations",3,"Introduces students to a variety of physical, mental, and emotional disabilities, including characteristics and behavior 
+patterns. Physical activities and recreational activities, which are developmentally appropriate for all age groups and 
+populations will be discussed, including their physical and social benefits. OFFERED: Sem. II, (3, 0)"
+3750,Instructional Strategies (6-12),3,"Provides laboratory experience in teaching methodology of physical education for grades 6-12. Requires planning and 
+implementing lessons using a variety of teaching strategies. Considers sociological and psychological issues in student 
+interactions. EXPECTATION: At least six hours of activity classes. PREREQUISITE: Junior standing; SPRL (3, 1)"
+4260,Directed Experience in Teaching Physical Education,3,"Provides students with field experiences in teaching physical education within public schools prior to the student-teaching 
+semester. Applies content knowledge, management strategies, motivational ideas, and pedagogical skills that they have learned
+in previous courses. Allows a real-life teaching situation so that students can test their skills with the guidance of a veteran public 
+school teacher as a mentor. PREREQUISITE: Teaching major. PETE (1, 3)"
+4300,Curriculum Development and Assessment in Physical Education,3,"Examines the integration of content, instruction, and assessment to the principles and practices of program development. 
+Requires the creation of teaching documents that shape the physical education curriculum. Provides a field experience that 
+promotes the application of curriculum development in three age-level settings. Reviews administrative issues facing physical 
+education teachers. Applies to liberal arts writing-intensive requirement. PREREQUISITE: Teaching major. PETE (3, 2)"
+4850,Practicum in Physical Education Teaching,1-4,"hrs. (arranged)
+Provides opportunity for independent work or field experiences in physical education teaching in area schools. CONSENT:
+Instructor. PREREQUISITE: Physical education teaching major; junior standing. REPEAT: May be repeated for a total of 8 
+hours. GRADE: CR/NC. OFFERED: Every semester as needed. LAST OFFERED:"
+4900,"Technology Applications in Sport, Physical Activity, and Recreation",2,"Investigates and applies techniques and practice in the use of technology-based media, which supports and enhances 
+sport, physical activity, and recreation programs. Emphasizes computer and smartphone applications that support 
+teaching, coaching, and recreation (e.g., databases, PowerPoint, screencast, geocaching, etc.). Applies to liberal arts 
+speaking-intensive requirement. OFFERED: Sem. I.
+Sport and Recreational Leadership Program: 
+SPRL COURSES (2, 1)"
+1350,Physical Activity Cluster I - Focus on Team Sports,3,"Develops content knowledge and instructional skills in selected team sports such as basketball, team handball, football, 
+soccer, volleyball, softball, and ultimate. Emphasizes skill development, instructional strategies, rules and strategies, 
+management, and assessment. OFFERED: Sem. I. (0, 4)"
+2450,Physical Activity Cluster III - Focus on Recreational Activities & Outdoor Pursuits,3,"Develops content knowledge and instructional skills in recreational and outdoor activities such as archery, golf, bowling, 
+badminton, pickleball, tennis, Frisbee golf, adventure education, and outdoor pursuits. Emphasizes skill development, 
+instructional strategies, rules and strategies, and management. Fee required. OFFERED: Sem. II. (0, 4)"
+2550,Youth and Adult Sports Programming,2,"Introduces planning, programming, and implementation of sports programs for youth and adults within such organizations as 
+recreation centers, YMCAs, churches, camps, and businesses. OFFERED: Sem. I. (2, 1)"
+3150,Recreational Leadership,2,"Examines the essential elements and basic principles of organization and leadership of recreational and leisure programs, 
+including planning and conducting organized programs in private and public agencies. Special emphasis will be given to the 
+role of face-to-face leadership within recreational organizations. OFFERED: Sem. I. (2, 0)"
+3250,Legal Aspects of Sport and Recreation,3,"An examination of the laws and policies governing the various aspects of sport and sport business and their relationship to 
+personal and professional ethics. The role of regulatory commissions and organizations in sport will be explored. OFFERED:
+Sem. II. (3, 0)"
+3300,Management of Sport Facilities and Events,3,"Designed to give students information and knowledge on the operation and management of athletic and recreational 
+facilities. In addition, event planning, sponsorship, budgeting, management, and evaluation of athletic and recreational 
+events will be emphasized. Fee required. OFFERED: Sem. II. (3, 0)"
+4850,Practicum in Sport and Recreational Leadership,3,"hrs. (arranged)
+Introduces planning, programming, and implementation of sports programs for youth and adults within such 
+organizations as recreation centers, YMCAs, churches, camps, and businesses. CONSENT: Instructor. PREREQUISITE:
+Sport and recreational leadership major; junior standing. REPEAT: May be repeated up to 6 hours. GRADE: CR/NC. 
+OFFERED: Every semester as needed.
+104 Anderson University Undergraduate Catalog"
+1000,College Survival Skills,2,"Provides an opportunity for students to learn and adopt methods to be successful in undergraduate work. Deals with basic 
+academic, study, and life skills, and attitudes necessary for collegiate success. OFFERED: Sem. I, II, Summer. (2, 0)"
+1010,Strategies for Academic Success,3,"Introduces the concept of how emotional intelligence (EQ) and personal learning preferences affect the student’s ability to 
+think critically and therefore improve learning. Provides an opportunity to assess and develop basic EQ skills and study 
+strategies necessary for academic success, including textbook reading, note-taking, test-taking, time management, 
+communication skills, collegiate writing skills, presentation skills, and career planning. OFFERED: Sem. I, II. (3, 0)"
+1020,Strategies for Academic Success for Adult Learners,3,"Introduces adult students to strategies necessary for academic success, including time management, note-taking, test-taking, 
+reading strategies, communication skills, collegiate writing skills, and research skills. Introduces the concept of how emotional
+intelligence (EQ) affects the ability to think critically and achieve success. OFFERED: Sem. I, II. (3, 0)"
+1050,First-Year Experience Seminar,1,"A holistic orientation during which students reflect, connect, and grow intellectually, socially, and spiritually as part of AU’s 
+community. Students reflect upon AU’s five core values and its distinctive Christian character while also connecting to campus 
+resources necessary for their success. Students grow as whole people by considering how their core values, individual 
+strengths, and vocational call can work together to benefit their personal and professional future. GRADE: CR/NC. OFFERED:
+Sem. I, II. (1, 0)"
+1100,Critical-Thinking Seminar,3,"Cultivates critical-thinking, communication, and community-building skills common to most other university-level classes and 
+useful for pursuing truth and living lives of faith and service. OFFERED: Sem. I, II. (3, 0)"
+1200,Career and Life Planning,1,"Addresses the role of decision-making skills in choosing a college major. Students assess interests, personality, skills, and 
+values to assist them in finding the “best fit” among the majors and career options they are researching. Students also learn 
+effective problem-solving skills that can be used over a lifetime for career and life-planning decisions. PREREQUISITE:
+Designed for undecided freshman or sophomore students, but open to juniors and seniors with instructor’s consent. 
+OFFERED: Sem. I. (2, 0)"
+2110,Honors Literature and History,5,"Focuses on historical investigation and reading and writing on a common theme. EXPECTATION: C- or better, to fulfill the 
+Written Communication portion of the Liberal Arts Core Curriculum. (5, 0)"
+2125,The Scholar as Servant Leader,2,"Focuses on the stories of great men and women who were cast into positions of leadership and analyzes what is to be 
+understood of their personal formation and qualities as leaders and servants. Applies to liberal arts speaking-intensive 
+requirement. (2, 0)"
+2210,Scientific Discoveries and Paradigm Shifts,4,"Examines the nature of science, the history and philosophy of science, and the experiential, hands-on practice of science. 
+“Paradigm shifts” are explored as they relate to how science helps us understand our world. (3, 2)"
+3221,Traditionalism and Globalization,3,"Examines the bridges and barriers among various cultures of the world through a historical analysis. Applies to liberal arts 
+writing-intensive requirement. (3, 0)"
+3000,Dance and the Human Response,3,"An integrated appreciation/experiential dance course that investigates how dance is an important element of social, political, 
+personal and religious expression across time and cultures, and engages students in the practice of a few specific dance forms. (3, 0)"
+3325,Christ and Culture,3,"Organized as a seminar in historical theology that considers the various relationships between Christians and their culture. 
+Readings in primary and secondary sources, as well as journal articles, will inform seminar discussions. (2, 0)"
+4910,Honors Senior Seminar,1,"Honors scholars will develop and complete an original research project which makes a unique scholarly contribution, under 
+the direction of an academic mentor (1, 0)"
+2900,Student-Leadership Seminar,1,"Students will explore the discipline of leadership. With a biblical framework, applicable themes will give students practical
+ways to reflect on their strengths and grow in their leadership skills. OFFERED: Sem. I, II. (1, 0)"
+4500,Critical Thinking and Professional Development,3,"Focuses on transforming learning from the classroom to the real world through the assessment and development of the 6 
+major areas and 16 subcomponents of emotional intelligence (EQ) and the 8 Competencies for a Career-Ready Workforce 
+(National Association of Colleges and Employers). Students incorporate a variety of methods to enhance the critical-thinking 
+skills and EQ skills necessary to positively affect decision-making skills and personal, collegiate, and professional relationships 
+that define success. Applies to liberal arts speaking-intensive and experiential requirements. OFFERED: Sem. I, Summer.
+INCS COURSE (3, 0)"
+3850,Domestic/Global Experience,0,"hrs. (arranged)
+Participation in an intercultural service/learning experience. Offered in conjunction with a Tri-S program. CONSENT:
+Instructor. OFFERED: Sem. I, II; Summer"
 2010,Principles of Accounting I,3,"Introduces accounting principles and practice. Covers the accounting cycle, internal control and system design principles, and 
 financial statement preparation and interpretation. (3, 0) PREREQUISITE: MATH 1300 or 1400 or 2010"
 2020,Principles of Accounting II,3,"Continues accounting principles and practice with emphasis on the use of accounting information by management and 
