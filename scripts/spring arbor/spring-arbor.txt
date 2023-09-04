@@ -1,5 +1,3 @@
-ACC (Accounting) 
- 
 ACC 221 Principles of Accounting I (3) (Fall) 
 Involves the study of the principles of bookkeeping and financial reporting. Examines the accounting cycle, which 
 deals with the analysis, journalizing, and posting of business transactions within the double-entry framework, and 
@@ -57,10 +55,9 @@ Prerequisite: ACC 391 Individual Taxation.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-223 
+
  
 ACC 404 Fund Accounting (3) (Odd Springs) 
 Emphasizes accounting for the state and local government units. Accounting for hospitals, colleges, universities and 
@@ -116,11 +113,10 @@ conflicts, employment in relief missions and civic action programs in the late 1
 actions concluding with Desert Shield/Desert Storm.  
 Prerequisite: AERO 102. 
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-224 
+
  
  
 AERO 202 U.S. Aviation History & Its Development into Air Power II (1)  
@@ -182,10 +178,9 @@ Prerequisites: ENG 104 College Writing, Gen. Ed. oral communication course (COM 
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-225 
+
  
 APR 347 Public Relations (3) (Fall) 
 Analysis of public relations principles, including public opinion, image creation, maintenance of press, and community 
@@ -242,11 +237,10 @@ wheel to classic painting concepts through current color technology. "C" or bett
 ART 205 Foundations of Photography (3) (Fall) 
 Introduces the methods, theories, processes, and history of photography using both digital and analog platforms. 
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-226 
+
  
  
 ART 213 Painting I (3) (Odd Falls) 
@@ -308,10 +302,9 @@ department majors.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-227 
+
  
 ART 376 Typography (3) (Even Falls) 
 Training in type design and layout, including the study of rules and conventions of design and a brief history of type 
@@ -368,11 +361,10 @@ Recommended: one year of general biology and one year of general chemistry.
  
 ASI 303 Ecological Agriculture (4) (Pacific Rim, Summer II) 
 Focuses on development of agricultural systems to better resemble natural ecosystems to achieve food for 
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-228 
+
  
  
 communities, vibrant economies, and healthy ecosystems. Focuses on agricultural principles applied in rural, urban, 
@@ -435,10 +427,9 @@ Includes several trips to different ecosystem regions of Costa Rica.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-229 
+
  
 ASI 345 Wildlife Ecology (4) (Great Lakes, Summer II) 
 Ecology, conservation, and stewardship of wildlife and their habitats. Includes examination of growth and structure 
@@ -494,14 +485,7 @@ values and objectives, including instrumental (economic/utilitarian and life sup
 and watershed protection, and climate moderation) and non-instrumental values (such as aesthetic, moral/spiritual 
 values, e.g. recreation). Addresses the evolution of forest management and some specific practices, methods, and 
 techniques of growing trees and the development and care of forests (silviculture) as applied to natural forests. 
- 
-COURSE DESCRIPTIONS 
- 
- 
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-230 
- 
- 
+
 ASI 471 Conservation Biology (4) (Great Lakes, Summer I) 
 Conservation biology principles with applications to sustainable human society and biospheric integrity. An integrative 
 approach to biology and society that interrelates population biology, ecological principles, biogeochemical cycles, 
@@ -523,8 +507,7 @@ river, coastal dunes, kettle-hole bogs, deforested lands, degraded residential a
 wells. A practical field lab is included in which techniques are applied to a specific site.  
 Prerequisite: one year of biology and one course in ecology or field biology, or permission of instructor. 
  
-AUD (Audio Production) 
- 
+
 AUD 174 Radio Production (3) (Even Falls) 
 Examines day-to-day operations of a radio station. Introduces principles of station management and promotion, and 
 techniques used to write, produce, and perform various types of programming for live and voice-tracked broadcasts. 
@@ -561,10 +544,9 @@ Church’s ongoing theological reflection and practice.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-231 
+
  
 BIB 302 Old Testament Historical Books (3) (Even Interims) 
 An exegetical study of Joshua through Esther as part of the Church’s Scriptures. Specific emphasis on the development 
@@ -621,11 +603,10 @@ Temple Jewish eschatology, early Christian eschatology, and contemporary underst
  
 BIB 408 The Bible in Global Perspectives (3) (Odd Falls) 
 Addresses key issues in contemporary readings of the Bible, drawing upon hermeneutical and theological tools, and 
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-232 
+
  
  
 explores biblical interpretation and theological development of the church in Africa, Asia, Latin America, and among 
@@ -687,10 +668,9 @@ complications; and how pathophysiology forms the rationale for evidence-based me
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-233 
+
  
 BIO 236 Pharmacology for Nurses (3) (Spring) 
 Introduces the principles of pharmacology, including pharmacokinetics, pharmacodynamics, mediation interactions, 
@@ -747,11 +727,10 @@ Studies of photosynthetic life, particularly plants, at the organismal level, in
 been, are, and will be dependent upon photosynthetic organisms, the recognition, classification, and geographic 
 distribution of plants, and the ecological impact and roles of photosynthetic life. Includes lab and field studies. 
 Prerequisites: BIO 111 Introductory Biology I and BIO 112 Introductory Biology II. 
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-234 
+
  
  
 BIO 342 Vertebrate Zoology (4) (Even Springs) 
@@ -813,10 +792,9 @@ Corequisite: BIO 406L.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-235 
+
  
 BIO 440 Research in Biology and Chemistry (3) 
 See CHE 440. 
@@ -873,11 +851,10 @@ students’ analytical and presentation skills.
 BUS 232 Business Seminar (1) (Fall, Spring) 
 A seminar course to engage students on topics where Judeo-Christian values, the liberal arts, economics, and current 
 events overlap to prepare students to operate from a biblical foundation in a largely secular business world.  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-236 
+
  
  
 BUS 271 Business Law I (3) (Fall, Spring) 
@@ -939,10 +916,9 @@ Prerequisite: junior standing.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-237 
+
  
 BUS 432 Human Resources Management and Supervision (3) (Spring) 
 Analyzes and applies principles and practices related to human resource planning, recruitment, selection, utilization, 
@@ -999,11 +975,10 @@ Corequisite: CHE 173L.
  
  
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-238 
+
  
  
 CHE 201 Organic Chemistry I (4) (Fall) 
@@ -1065,10 +1040,9 @@ See Courses for All Disciplines. Thesis is required.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-239 
+
  
 CMI (Christian Ministry) 
  
@@ -1125,11 +1099,10 @@ Focuses on the ministerial practices of baptism, Eucharist, wedding and funeral 
 CMI 422 Counseling in Ministry (3) (Limited) 
 Explores basic skills needed interact with various human needs encountered in ministry. Includes basic counseling 
 theories and applied techniques/methods essential in the general Christian counseling. Focuses on needs of the 
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-240 
+
  
  
 general population rather than clinical therapy, such as pre-marriage/marriage issues, age-related adjustments, sexual 
@@ -1190,10 +1163,9 @@ audience to understand and experience the journey of social media influencers. M
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-241 
+
  
 COM 324 Web Content and Management (3) (Spring) 
 Explores web-based innovations in media production and distribution. Students examine content quality and 
@@ -1250,11 +1222,10 @@ school transfer college credit.
  
 COR 110 Christ and the University Experience (3) (Online) 
 Introduces students to the life and philosophy of Spring Arbor University, The Concept, the process of becoming an 
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-242 
+
  
  
 educated person with the objectives. Assists student in discovering themselves as persons through development of 
@@ -1316,10 +1287,9 @@ Prerequisite: permission of the Cross Cultural Studies office.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-243 
+
  
 COR 475 Cross Cultural Studies-Advanced (3) (Application Required) 
 Offers a variety of study options in several foreign countries. Students fulfill all of the same course assessments, 
@@ -1376,11 +1346,10 @@ the introduction of finite automata, digital logic, and microprogramming; levels
 of sequence control, type checking, runtime storage management, and nonprocedural programming paradigms; and 
 levels of applications through a general introduction to the areas of database systems and artificial intelligence.  
 Prerequisite: CPS 202 Coding II. 
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-244 
+
  
  
 CPS 303 Data Management (3) (Even Falls) 
@@ -1442,10 +1411,9 @@ Prerequisite: CPS 202 Coding II.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-245 
+
  
 CPS 331 Software Development Project (3) (Odd Springs) 
 Students apply systems analysis concepts as they develop a system based on a real-life problem. Students gain 
@@ -1502,11 +1470,10 @@ design, implementation, testing, operation, and support. Application of systems 
 Prerequisite: CPS 202 Coding II. 
  
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-246 
+
  
  
 CPS 431 IT Systems Analysis and Design II (3) (Odd Spring) 
@@ -1568,10 +1535,9 @@ Professional Educator.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-247 
+
  
 ECE 266 Early Child Growth and Development (3) (Fall) 
 Focuses on the prenatal stages of human development through age eight. Students will study normal and exceptional 
@@ -1628,11 +1594,10 @@ Prerequisites: ECE 266 Early Child Growth and Development and EDU 267 Early Adol
 ECE 378 Assessment and Intervention Strategies in Early Childhood Education (3) (Spring) 
 Explores theories and implications of formal assessment in early childhood, procedures for initiating and developing 
 formal reporting assessment documents such as IEP, IAP, IFSP, and essential dispositions and skills to develop positive, 
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-248 
+
  
  
 respectful relationships with children and caregivers when discussing assessment results. Includes creating and 
@@ -1694,10 +1659,9 @@ financial payments, regulatory mechanisms, and international challenges in the i
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-249 
+
  
 EDU (Education) 
  
@@ -1754,11 +1718,10 @@ EDU 267 Early Adolescent Development (1) (Fall)
 Focuses on the development of children ages 9-13 and their physical, cognitive, emotional, and social development, 
 and techniques to sustain them in attaining their potential. Required field assignment - two clock hours weekly, 
 individually arranged. "C" or better required. 
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-250 
+
  
  
 Prerequisite: EDU 140L Professional Skills Lab, "C" or better in PSY 100 Introduction to Psychology. 
@@ -1820,10 +1783,9 @@ Prerequisites: MAT 201 Calculus I, EDU 202 Issues and Trends in American Educati
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-251 
+
  
 EDU 343 Teaching Science at the Secondary Level (2) (Even Falls) 
 Topics unique to the teaching of science at the secondary level. Emphasis on recent curriculum developments in 
@@ -1881,11 +1843,10 @@ and motivational basis for effective technology use; benchmarks for PK-12 teachi
 and reflection on technology-based teaching and learning in class and field experience. "C" or better required. 
 Prerequisites: "B-" or better in EDU 140 Exploring Critical Skills for the Professional Educator. 
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-252 
+
  
  
 EDU 366 Multiple Modes of Representation in Elementary Mathematics (4) (Fall, Spring) 
@@ -1999,11 +1960,10 @@ of transient response of R-L and R-C networks to a unit pulse driving function, 
 current, including polyphase circuits, mutual coupling, and ideal transformers.  
 Prerequisite: MAT 202 Calculus II. 
 Corequisite: EGR 203L. 
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-254 
+
  
  
 EGR 206 Statics (3) (Fall) 
@@ -2065,10 +2025,9 @@ Prerequisite: EGR 216 Dynamics.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-255 
+
  
 EGR 401 Senior Design I (4) (Fall) 
 Application of design principles to a capstone engineering project. Team-based projects include developing design 
@@ -2124,11 +2083,10 @@ blood flow, and cell deformation analysis. Historical overview of biomechanics, 
 Neurological motor control relating to human movement. Computer modeling of several human biological systems. 
 Prerequisites: PHY 211 Modern University Physics I, BIO 264 Anatomy and Physiology I. 
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-256 
+
  
  
 ENG (English) 
@@ -2190,10 +2148,9 @@ See VID 314.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-257 
+
  
 ENG 315 Shakespeare (3) (Even Falls) 
 Selected Shakespearean histories, comedies and tragedies, with special emphasis upon Shakespeare’s themes and 
@@ -2250,11 +2207,10 @@ Introduces the process of turning an idea into a successful startup enterprise. 
 necessary component to beginning a small business and a process by which ideas can become businesses. Addresses 
 facets of the business plan from determining actual content, reviewing examples of plans, to creating a 
 comprehensive plan.  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-258 
+
  
  
 ENT 401 Social Entrepreneurship (3) (Odd Falls) 
@@ -2316,10 +2272,9 @@ Prerequisite: FIN 362 Principles of Finance.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-259 
+
  
 FIN 368 Insurance and Risk Management (3) (Even Springs) 
 Provides an overview of risk management and insurance concepts. Primary focus on identification and evaluation of 
@@ -2374,11 +2329,10 @@ markets, pension funds, investment firms, commercial banks, credit unions, mutua
 Prerequisite: FIN 362 Principles of Finance. 
  
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-260 
+
  
  
 FRE (French) FRE courses are suspended until further notice.  
@@ -2441,10 +2395,9 @@ Prerequisite: "B-" in FRE 306 Introduction to French Literature and Culture.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-261 
+
  
 FRE 410 Seminar in French Literature (3)  
 A capstone study of selected landmark works in prose and poetry incorporating literary analysis and criticism as well 
@@ -2501,11 +2454,10 @@ Review and thorough study of grammar and communication skills. Extensive practic
 composition in a cross-cultural context. Designed to promote awareness/appreciation of German culture.  
 Prerequisite: GER 102 Elementary German II. 
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-262 
+
  
  
 GER 306 Introduction to German Literature and Culture (3) (Limited) 
@@ -2566,10 +2518,9 @@ transition words.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-263 
+
  
 GES 135 ESL Intermediate Listening and Speaking (1-4) (Limited) 
 Focuses on developing each student’s ability to communicate fluently and accurately by integrating listening, speaking 
@@ -2626,11 +2577,10 @@ HEB 331 Elementary Biblical Hebrew I (3) (Odd Falls)
 An introduction to the study of biblical Hebrew including grammatical structure, vocabulary acquisition, and its 
 application to the Hebrew Scriptures. Introduces appropriate study tools to facilitate reading and exegesis.  
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-264 
+
  
  
 HEB 332 Elementary Biblical Hebrew II (3) (Even Springs) 
@@ -2693,10 +2643,9 @@ Prerequisites: HES 382 Functional Anatomy and Application.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-265 
+
  
 HES 450 Internship (6-12) (Fall) 
 "C" or better required for departmental majors. 
@@ -2753,11 +2702,10 @@ Covers the rise of an uneasy global civilization in the 21st Century. Explores C
 HIS 141 United States to 1877 (3) (Fall, Sites, Online) 
 Study of American history from colonial times through the Civil War and Reconstruction. Emphasizes fundamental 
 forces or cultural ideals that have shaped this period of history, such as Puritanism, the Enlightenment, the 
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-266 
+
  
  
 Revolution, antebellum Evangelicalism, and the struggle over slavery. A multidisciplinary approach will be taken, as 
@@ -2819,10 +2767,9 @@ by major conflict. Special emphasis placed on causative factors such as slavery,
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-267 
+
  
 strengths and weaknesses of both sides, as well as the various reconstruction plans and realities. Students will be 
 encouraged to see all sides of this conflict, as well as reflecting on the impact the war has had on subsequent history.  
@@ -2879,11 +2826,10 @@ HIS 361 Michigan History (3) (Spring Online)
 Examines Michigan history within its geographic context at the heart of the Great Lakes region, the settlement of the 
 state, the variety of peoples that make up the area, and the political, social, and cultural institutions of the state. 
 Emphasizes Michigan’s role in the economy of North America, and history of the state’s use of resources.  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-268 
+
  
  
 HIS 368 Diplomatic History (3) (Odd Falls) 
@@ -2945,10 +2891,9 @@ rise of modern conservativism. Sources will range from Puritan sermons, Common S
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-269 
+
  
 to slave and feminist writings, presidential speeches, and civil rights treatises. 
  
@@ -3004,11 +2949,10 @@ Prerequisite: HPR 153 Foundations of Physical Fitness, Health, and Wellness.
  
  
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-270 
+
  
  
 HPR 201 Teaching Elementary Health and Physical Education (2) (Fall, Spring) 
@@ -3070,10 +3014,9 @@ algebra with at least a "B" average.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-271 
+
  
 MAT 201 Calculus I (4) (Fall) 
 Examines the differentiation and integration of functions including parametric equations and polar coordinates, 
@@ -3130,11 +3073,10 @@ Prerequisite: EDU 140 Exploring Critical Skills for the Professional Educator.
  
 MAT 342 Foundations of Secondary School Mathematics (3) (Even Springs)  
 See EDU 342. 
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-272 
+
  
  
 MAT 351 Statistics (3) (Spring) 
@@ -3196,10 +3138,9 @@ systems, expense and cost reporting, budget management, and the use of basic acc
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-273 
+
  
 MHS 342 Health Care Systems (3) (Online, Limited) 
 Examines delivery and evaluation of health care in a variety of structures, such as inpatient and outpatient facilities, 
@@ -3256,11 +3197,10 @@ Explores all activities involved in selling goods or services directly to final 
 structures of retail operations, pricing and positioning stores in minds of consumers, marketing strategy for retailers, 
 promotional strategies, growth of non-store retail and global retail operations.  
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-274 
+
  
  
 MKT 347 Public Relations (3) 
@@ -3321,10 +3261,9 @@ Prerequisite: MUS 205 Music Theory III.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-275 
+
  
 MUS 210* Applied Lessons (1) (Fall, Spring) 
 One half-hour applied lesson per week per credit hour. May register for 2 credit hours per semester. May not be taken 
@@ -3392,11 +3331,10 @@ MUS 230S String Orchestra
 A string orchestra performing a variety of music from the Baroque, Classical, Romantic and Contemporary 
 periods. Membership is open by invitation or audition to students and community members with sufficient 
 experience in violin, viola, cello or bass. 
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-276 
+
  
  
 MUS 240* Choral Groups (1) (Fall, Spring) 
@@ -3469,10 +3407,9 @@ Prerequisite: two semesters of Applied voice.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-277 
+
  
 MUS 312 Diction (3) (Even Springs) 
 Elementary singing pronunciation techniques in English, Latin, Italian, French, and German. Students prepare songs in 
@@ -3530,11 +3467,10 @@ Prerequisite: MUS 106 Music Theory II: Harmony.
  
  
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-278 
+
  
  
 MUS 337 Woodwind Methods (1) (Even Springs) 
@@ -3592,10 +3528,9 @@ Graduation requirement for all music majors. Graded "S"/"U."
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-279 
+
  
 NSC (Natural Science) 
  
@@ -3652,11 +3587,10 @@ Corequisite: NUR 325L.
  
 NUR 326 Medical Surgical Theory/Clinical II (6) (Fall) 
 Laboratory and client care experiences in institutional settings. Students utilize their assessment and advanced 
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-280 
+
  
  
 psychomotor skills and are expected to establish and maintain therapeutic relationships, to begin educating and 
@@ -3719,10 +3653,9 @@ Corequisite: NUR 424L
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-281 
+
  
 NUR 425 Nursing Leadership and Transition (5) (Spring) 
 Explores the nurse’s role as leader and manager in client care, the nursing care delivery system, and the health care 
@@ -3780,11 +3713,10 @@ promotes deeper understanding within the context of health care research and evi
 453A, B, and C fulfill the math General Education requirement. 
  
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-282 
+
  
  
 NUR 453C Evidence-based Practice II (1) (Online) 
@@ -3846,10 +3778,9 @@ organizational structure, decision-making, environmental issues, and corporate s
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-283 
+
  
 ORM 462 Organizational Change (3) (Video Conference, Online) 
 Examines organizational change concepts necessary for identifying an organization’s systems and recognizing 
@@ -3907,11 +3838,10 @@ See REL 394.
   
  
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-284 
+
  
  
 PHI 401 Philosophy of Science (3) (Limited) 
@@ -3973,10 +3903,9 @@ Corequisites: PHY 211L and MAT 201 Calculus I (MAT 202 Calculus II is recommende
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-285 
+
  
 PHY 212 Modern University Physics II (4) (Spring) 
 Continuation of PHY 211. Calculus-based. Modern physics. Electromagnetism, optics, relativity, quantum physics, 
@@ -4033,11 +3962,10 @@ POL 230 Contemporary World Affairs (3) (Even Falls)
 Examines contemporary events of the world, emphasizing critical use newspapers, journals of opinion, electronic 
 media, and library materials. Discusses Christian perspectives and diverse views on current topics. Cross listed HIS 230.  
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-286 
+
  
  
 POL 236 Christianity and Politics (3) (Odd Springs) 
@@ -4099,10 +4027,9 @@ psychology. Introductory psychology students will be exposed to the approaches o
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-287 
+
  
 about the causes and correlates of behavior. Emphasizes the means by which psychological knowledge is, or can be, 
 applied to improve the quality of individual and community life.  
@@ -4159,11 +4086,10 @@ Prerequisite: PSY 100 Introduction to Psychology.
  
 PSY 306 Middle Childhood and Adolescent Development (3) (Spring) 
 Focuses on the psychological, social, and physical development of middle childhood through adolescence, as well as 
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-288 
+
  
  
 the major theories, concepts, and issues related to this age range. Students will have an opportunity to apply what 
@@ -4225,10 +4151,9 @@ Prerequisite: PSY 100 Introduction to Psychology.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-289 
+
  
 PSY 363 A Systems Approach to Helping Families (3) (Fall) 
 An introduction to understanding and helping families by examining theoretical concepts and current research of 
@@ -4285,11 +4210,10 @@ Information and guidelines are available in the Psychology Department. Applicati
  
 PSY 490 Honors Thesis (3-6) (Fall, Spring; by Application) 
 Provides an opportunity for students to do a significant project of scholarly productivity and/or research in the 
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-290 
+
  
  
 student’s major area of study. Ideally taken the semester directly following PSY 480 Thesis Prospectus.  
@@ -4351,10 +4275,9 @@ instruction approach and home-based connections based on the reader’s needs. S
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-291 
+
  
 the intervention response to the reader, family, and classroom teacher or specialist. Off-site case study required.  
 Prerequisites: SOE admission, "B-" or better in EDU 424 Elementary and Middle School Reading Problems, and EDU 321 
@@ -4410,11 +4333,10 @@ sufficient to teach, demonstrate, and lead the activity in a recreation and/or l
 REC 171 Water Safety Instructor (2) (Limited) 
 Covers a range of educational methods for conducting swimming and safety courses on various levels. Emphasizes 
 waterfront set up for campus and recreational facilities. American Red Cross certification can be earned.  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-292 
+
  
  
 REC 248 Lifeguard Training (2) (Limited) 
@@ -4476,10 +4398,9 @@ repertoire, and practice and apply course content through various SAU student le
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-293 
+
  
 SDL 120 Life/Work Planning (1) (Fall, Spring) 
 Prepares students for success after graduation. Through various teaching methods, students will be guided through 
@@ -4536,11 +4457,10 @@ dispute resolution and Section 504 of the Americans with Disabilities Act and ID
 to effectively communicate the needs and rights of persons with disabilities according to state and federal special 
 education law. "C" or better is required. 
 Prerequisite: "C" in SED 200 Foundations in Special Education. 
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-294 
+
  
  
 SED 360 Technology for Special Education (3) (Odd Springs) 
@@ -4602,10 +4522,9 @@ endorsement in learning disabilities meet as a group during their special educat
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-295 
+
  
 professional portfolio of the internship experience. "B-" required. 
 Prerequisites: SOE admission, completion of all SED coursework, and approved to student teach. 
@@ -4663,11 +4582,10 @@ political, religious, economic, and environmental elements of people’s lives i
 critiques such dominant perspectives on development as modernization, dependency, world systems, globalization, 
 and sustainable development.  
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-296 
+
  
  
 SOC 300 Urban Sociology (3) (Limited) 
@@ -4728,10 +4646,9 @@ Prerequisites: SOC 101 Introduction to Sociology and junior standing.
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-297 
+
  
 SOC 480 Senior Seminar (1) (Fall) 
 Seminar course. Covers advanced studies in selected sociological, criminological, and global topics related to 
@@ -4788,11 +4705,10 @@ Prerequisite: "B-" or better in SPA 306 Introduction to Spanish Literature and C
  
 SPA 324 Latin American Civilization and Culture (3) (Even Falls) 
 A study of the history, culture, and geography of Mexico, Central and South America with emphasis on major political, 
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-298 
+
  
  
 philosophical, social and artistic movements.  
@@ -4854,10 +4770,9 @@ Prepares candidates to teach social studies content directly aligned with the re
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-299 
+
  
 SWK (Social Work) 
  
@@ -4915,11 +4830,10 @@ organizations, and communities. May be taken concurrent with SWK 340 Practice wi
 Minimum "C" for social work majors. 
 Prerequisite: SWK 305 Human Behavior in the Social Environment, or permission. 
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-300 
+
  
  
 SWK 340 Practice with Individuals and Families (3) (Spring, Video Conference, Online) 
@@ -4981,10 +4895,9 @@ Prerequisites: SWK 335 Interviewing and SWK 340 Practice with Individuals and Fa
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-301 
+
  
 SWK 447 Practice with Communities and Organizations (3) (Fall, Video Conference, Online) 
 Builds on the theory of human behavior in the social environment from SWK 305 and SWK 446 by providing additional 
@@ -5042,11 +4955,10 @@ Discusses key theological issues particular to the Reformation period: sola scri
 of the sacraments, the understanding of the church, etc.  
 Prerequisite: THE 206 Doctrines of the Christian Faith or instructor’s permission. 
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-302 
+
  
  
 THE 405 The Problem of Evil (3) (Even Falls) 
@@ -5108,10 +5020,9 @@ Prerequisite: TSL 311 Cross Cultural Communication or TSL 321 Essential Linguist
  
  
  
-COURSE DESCRIPTIONS 
+
   
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-303 
+
  
 TSL 420 Assessment and Evaluation of English Language Learners and Programs (3) (Odd Springs Online) 
 Explores theoretical and practical aspects of language assessment and evaluation, particularly in measuring second 
@@ -5167,11 +5078,10 @@ different role may be assumed each semester repeated. New films are produced eac
  
  
  
-COURSE DESCRIPTIONS 
+
  
  
-Spring Arbor University 2022-2023 Undergraduate Academic Catalog 
-304 
+
  
  
 VID 376 Editing (3) (Even Falls) 
