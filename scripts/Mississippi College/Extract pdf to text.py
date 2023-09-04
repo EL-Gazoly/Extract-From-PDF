@@ -13,9 +13,9 @@ def extract_text_from_pdf(input_pdf, output_text, start_page, end_page):
 
 if __name__ == "__main__":
     input_pdf_file = "./mississippi-college.pdf"  # Replace with your input PDF file path
-    output_text_file = "mississippi-college.txt"  # Replace with the desired output text file path
-    start_page_number = 645 # Replace with the starting page number
-    end_page_number = 661  # Replace with the ending page number
+    output_text_file = "output.txt"  # Replace with the desired output text file path
+    start_page_number = 618 # Replace with the starting page number
+    end_page_number = 622  # Replace with the ending page number
     
     extract_text_from_pdf(input_pdf_file, output_text_file, start_page_number, end_page_number)
     print(f"Text extracted from pages {start_page_number}-{end_page_number} and saved to '{output_text_file}'.")
