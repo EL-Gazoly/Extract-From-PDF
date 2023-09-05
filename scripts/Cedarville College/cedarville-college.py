@@ -6,7 +6,7 @@ with open('./cedarville-college.txt', 'r', encoding='utf-8') as txt_file:
     txt_content = txt_file.read()
 
     # Create a regex pattern to match course data
-    pattern = re.compile(r'([A-Z]+(?:-[A-Z\d]+)?-\d{4}(?:,\s?[A-Z]+(?:-[A-Z\d]+)?-\d{4})*)\s*((?:[\w\s,–]+(?:\s[a-zA-Z\d]+\s)?)?)\s+(\d+(?:–\d+)?)\s+((?:(?!from \d+ to)[\s\S])+)(?:Prerequisites?:\s+([\w\s–,]+)\.)?(?=\n[A-Z]+(?:-[A-Z\d]+)?-\d{4}|$)', re.DOTALL)
+    pattern = re.compile(r'([A-Z]+(?:-[A-Z\d]+)?-\d{4}(?:,\s?[A-Z]+(?:-[A-Z\d]+)?-\d{4})*)\s*((?:[\w\s,–]+(?:\s[a-zA-Z\d]+\s)?)?)\s+(\d+(?:–\d+)?)\s+((?:(?![A-Z]+(?:-[A-Z\d]+)?-\d{4}|Prerequisites?:)[\s\S])+)(?:\s*Prerequisites?:\s+([\w\s–,]+))?')
 
     # Initialize a list to store extracted course data
     course_data = []
@@ -14,7 +14,7 @@ with open('./cedarville-college.txt', 'r', encoding='utf-8') as txt_file:
     # Find all matches in the text content
     matches = pattern.findall(txt_content)
 
-    for match in matches:
+    for i, match in enumerate( matches):
         codes = match[0].split(', ')  # Split multiple course codes by comma and space
         name = match[1].strip() or "No Name"  # Replace an empty course name with "No Name"
         credit_hours = match[2]
@@ -22,6 +22,16 @@ with open('./cedarville-college.txt', 'r', encoding='utf-8') as txt_file:
         prerequisite = match[4].strip() if match[4] else "NONE"
 
         # Add the prerequisite information to the description
+        if name == "No Name":
+            hours_match = re.search(r'(\d+\s+hours)', txt_content)
+            if hours_match:
+                hours_end = hours_match.end()
+                next_line_match = re.search(r'\n(.+)', txt_content[hours_end:])
+                if next_line_match:
+                    name = next_line_match.group(1).strip()
+                    description = description.replace(hours_match.group(1), '')
+                    description = description.replace(name, '')
+
         if prerequisite != "NONE":
             description += f"\nPrerequisite: {prerequisite}"
 
@@ -38,7 +48,7 @@ with open('cedarville-college.csv', 'w', newline='', encoding='utf-8') as csv_fi
     csv_writer = csv.writer(csv_file)
 
     # Write header row
-    csv_writer.writerow(['Code', 'Name', 'Credit Hours', 'Description'])
+    csv_writer.writerow(['code', 'name', 'credits', 'description'])
 
     # Write course data rows
     for course in course_data:
