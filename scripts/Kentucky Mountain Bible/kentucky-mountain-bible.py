@@ -22,7 +22,7 @@ with open('kentucky-mountain-bible.txt', 'r', encoding='utf-8') as txt_file:
             name = match[1].strip()
             credits = match[2] if match[2] else '0'  # Replace None with '0'
             description = match[3].strip()
-            course_data.append({'Code': code, 'Title': name, 'Credits': credits, 'Description': description})
+            course_data.append({'code': code, 'title': name, 'credits': credits, 'description': description})
             course_codes.add(code)
 
     # Create a regex pattern to match the new course format
@@ -38,7 +38,7 @@ with open('kentucky-mountain-bible.txt', 'r', encoding='utf-8') as txt_file:
             title = ', '.join(titles)
             credits = match[2] if match[2] else '0'
             description = match[3].strip()
-            course_data.append({'Code': code, 'Title': title, 'Credits': credits, 'Description': description})
+            course_data.append({'code': code, 'title': title, 'credits': credits, 'description': description})
             course_codes.add(code)
 
     # Create a regex pattern to handle '&' in the course title
@@ -52,12 +52,12 @@ with open('kentucky-mountain-bible.txt', 'r', encoding='utf-8') as txt_file:
             name = match[1].strip()
             credits = match[2] if match[2] else '0'
             description = match[3].strip()
-            course_data.append({'Code': code, 'Title': name, 'Credits': credits, 'Description': description})
+            course_data.append({'code': code, 'title': name, 'credits': credits, 'description': description})
             course_codes.add(code)
 
 # Write the extracted course data to a CSV file
 with open('kentucky-mountain-bible.csv', 'w', newline='', encoding='utf-8') as csv_file:
-    csv_writer = csv.DictWriter(csv_file, fieldnames=['Code', 'Title', 'Credits', 'Description'])
+    csv_writer = csv.DictWriter(csv_file, fieldnames=['code', 'title', 'credits', 'description'])
 
     # Write header row
     csv_writer.writeheader()
