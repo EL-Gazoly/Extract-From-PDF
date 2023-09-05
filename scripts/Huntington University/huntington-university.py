@@ -8,10 +8,10 @@ with open('./huntington-university.txt', 'r', encoding='utf-8') as txt_file:
     # Create the first regex pattern to match most course data, including prerequisites
     pattern = re.compile(r'([A-Z]{2} \d{2,3}[A-Z]*[A-Z]?)\s+([\w\s:/?]+)\s*\(([^)]+)\)\s*([\s\S]*?)(?:Prerequisite:\s*(.*?)(?=\n[A-Z]{2} \d{2,3}[A-Z]*[A-Z]?|$))', re.DOTALL)
 
-    # Initialize a set to store unique course codes
+    
     unique_course_codes = set()
 
-    # Initialize a list to store extracted course data
+    
     course_data = []
 
     # Find all matches in the text content using the first pattern
@@ -147,7 +147,7 @@ with open('./huntington-university.txt', 'r', encoding='utf-8') as txt_file:
         course_data.append({
             'code': code,
             'title': title,
-            'credits': credits,  # Renamed "credit hours" to "credits"
+            'credits': credits,
             'description': description
         })
 
