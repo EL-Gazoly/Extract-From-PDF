@@ -170,7 +170,7 @@ AG 251 Food Science
 Chemistry, microbiology and processing of foods. Food additives, food safety and biotechnology of foods. 
 Regulatory aspects of food processing, quality, safety and labeling. Manufacturing practices to ensure food 
 quality and safety.  
-Identical with BI 251.  
+
 Prerequisite: CH 141/L or 161/L 
  
 AG 311 Precision Agriculture Basics 
@@ -186,21 +186,21 @@ AG 322 Animal Anatomy and Physiology
 Structure and function of animal body systems, with reference to farm animals. Includes tissues, organs and 
 systems and their physiological functions. Tissue and organ systems covered include blood, nervous, sensory, 
 endocrine, skeletal, muscular, cardiovascular, respiratory, urinary, digestive, reproductive and lactation.  
-Identical with BI 322. Must be taken concurrently with AG 322L.  
+
 Prerequisite: AG 231/L 
  
 AG 322L Laboratory for Animal Anatomy and Physiology 
 (1 credit - Fall Odd Years)   
 Laboratory experiments and demonstrations which support, extend, or complement the concepts presented in the 
 lecture course.  
-Identical with BI 322L. Must be taken concurrently with AG 322. 
+
  
 AG 323 Animal Health and Disease 
 (3 credits - Fall Odd Years)   
 Maintaining the health of farm animals through an understanding of diseases caused or influenced by pathogens, 
 inadequate nutrition or environmental hazards. Management of animal diseases that affect humans. Animal 
 welfare and ethical issues in managing animals.  
-Identical with BI 323.  
+
 Prerequisite: AG 231/L 
  
 AG 325 Livestock Management and Production 
@@ -223,14 +223,14 @@ A comprehensive introduction to the field of soil science, covering soil physica
 properties; soil formation and classification; and soil conversation and management. Environmental 
 sustainability, efficient food production, and soil health are overarching themes. This course includes a lab 
 component.  
-Identical with ES 331. Must be taken concurrently with AG 331L.  
+
 Prerequisite: AG 221/L recommended 
  
 AG 331L Laboratory for Soil Science 
 (1 credit - Fall Even Years)   
 Laboratory experiments and demonstrations which support, extend, or complement the concepts presented in the 
 lecture course.  
-Identical with ES 331L. Must be taken concurrently with AG 331. 
+
  
 AG 335 Crop Health and Pest Management 
 (3 credits - Spring Even Years)   
@@ -289,21 +289,21 @@ and function, endocrine relationships, fertility and factors affecting reproduct
 used in managing farm animal reproduction, including artificial insemination and embryo transfer. Population 
 and quantitative genetics as they relate to animal breeding and mating systems used for the improvement of 
 various livestock/farm animal species and breeds.  
-Identical with BI 365. Must be taken concurrently with AG 365L.  
+
 Prerequisites: AG 231/L, 322/L and BI 321/L 
  
 AG 365L Laboratory for Reproduction and Breeding of Farm Animals 
 (1 credit - Spring Odd Years)   
 Laboratory experiments and demonstrations which support, extend, or complement the concepts presented in the 
 lecture course.  
-Identical with BI 365L. Must be taken concurrently with AG 365. 
+
  
 AG 373 Animal Growth and Development 
 (3 credits - Fall Even Years)   
 Overview of how cell types differentiate, how tissues develop, and how bodies grow throughout the lifespan of 
 mammals, bird, etc. Changes during prenatal and postnatal growth and development will be discussed. This 
 course does not include a lab component.  
-Identical with BI 373.  
+
 Prerequisite: BI 161/L 
  
 AG 395 Practicum in Agricultural Studies 
@@ -494,7 +494,7 @@ This class studies the political rise and material culture of the ancient Angkor
 The Angkor Empire was deeply influenced by the art and religion of India. The class, therefore, focuses on the 
 cross-cultural connection and transfer of sculpture, temple structures and people groups within mainland 
 Southeast Asia.  
-Identical with HS 373 and PS 373. 
+
  
 AR 376 Ceramics II 
 (3 credits - Spring Even Years)   
@@ -561,7 +561,7 @@ AR 491 Advanced Studio
 Studio experiences in specific visual arts disciplines are offered to enhance regular curriculum offerings. Students 
 counting AR 491XXX toward the hours required for a track in the studio art major should take the advanced 
 studio prior to the senior project.  
-Prerequisites: Art and design major and consent 
+Prerequisites: Art and design major and consent.
  
 AR 491CER Advanced Ceramics 
 (3 credits - Fall, Spring)   
@@ -712,7 +712,7 @@ BI 251 Food Science
 Chemistry, microbiology and processing of foods. Food additives, food safety and biotechnology of foods. 
 Regulatory aspects of food processing, quality, safety and labeling. Manufacturing practices to ensure food 
 quality and safety.  
-Identical with AG 251.  
+
 Prerequisite: CH 141/L or 161/L 
 
 BI 261 Botany 
@@ -734,14 +734,14 @@ BI 271 Nutrition
 A general course designed to address dietary needs of individuals across the lifespan. Students are introduced to 
 dietary guidelines and nutritional standards. Some attention will be given to the role of the nurse, dietician and 
 community agencies in promoting good health through the proper use of food.  
-Identical with EX 271. 
+
  
 BI 287 Medical Terminology 
 (2 credits - Fall)   
 This course introduces medical words and terms through an analysis of their construction, including prefix, 
 suffix, root, connecting and combining forms. Medical meanings applicable to the structure, function and 
 diseases of the human body are stressed. 
-Identical with EX 287. 
+
  
 BI 295 Practicum in Biology 
 (1 to 3 credits - Fall, Spring)   
@@ -778,21 +778,21 @@ BI 322 Animal Anatomy and Physiology
 Structure and function of animal body systems, with reference to farm animals. Includes tissues, organs and 
 systems and their physiological functions. Tissue and organ systems covered include blood, nervous, sensory, 
 endocrine, skeletal, muscular, cardiovascular, respiratory, urinary, digestive, reproductive and lactation.  
-Identical with AG 322. Must be taken concurrently with BI 322L.  
+
 Prerequisite: AG 231/L 
  
 BI 322L Laboratory for Animal Anatomy and Physiology 
 (1 credit - Fall Odd Years)   
 Laboratory experiments and demonstrations which support, extend, or complement the concepts presented in the 
 lecture course.  
-Identical with AG 322L. Must be taken concurrently with BI 322. 
+
  
 BI 323 Animal Health and Disease 
 (3 credits - Fall Odd Years)   
 Maintaining the health of farm animals through an understanding of diseases caused or influenced by pathogens, 
 inadequate nutrition or environmental hazards. Management of animal diseases that affect humans. Animal 
 welfare and ethical issues in managing animals.  
-Identical with AG 323.  
+
 Prerequisite: AG 231/L 
  
 BI 342 Human Physiology 
@@ -816,14 +816,14 @@ and function, endocrine relationships, fertility and factors affecting reproduct
 used in managing farm animal reproduction, including artificial insemination and embryo transfer. Population 
 and quantitative genetics as they relate to animal breeding and mating systems used for the improvement of 
 various livestock/farm animal species and breeds.  
-Identical with AG 365. Must be taken concurrently with BI 365L.  
+
 Prerequisites: AG 231/L, 322/L and BI 321/L 
 
 BI 365L Laboratory for Reproduction and Breeding of Farm Animals 
 (1 credit - Fall Odd Years)   
 Laboratory experiments and demonstrations which support, extend, or complement the concepts presented in the 
 lecture course.  
-Identical with AG 365L. Must be taken concurrently with BI 365. 
+
  
 BI 371 Comparative Embryology 
 (3 credits - Spring Even Years)  
@@ -843,7 +843,7 @@ BI 373 Animal Growth and Development
 Overview of how cell types differentiate, how tissues develop, and how bodies grow throughout the lifespan of 
 mammals, bird, etc. Changes during prenatal and postnatal growth and development will be discussed. This 
 course does not include a lab component.  
-Identical with AG 373.  
+
 Prerequisite: BI 161/L 
  
 BI 375 Cognitive Neuroscience 
@@ -852,7 +852,7 @@ An introduction to the biological mechanisms and processes that underlie human b
 how the central nervous system controls and affects individual neurons, sensory and motor systems, emotion and 
 motivation, learning , memory, speech, development and aging and abnormal behavior. Effects of brain injury 
 and psychopharmacology will also be discussed.  
-Identical with PY 375.  
+
 Prerequisites: PY 111; BI 111 or 161; and sophomore standing at time of registration 
  
 BI 395 Practicum in Biology 
@@ -1034,7 +1034,7 @@ BA 213 Social Media
 (3 credits - Fall)   
 This course introduces students to the theory and practical application of social media for marketing, journalistic 
 reporting and public relations professionals.  
-Identical with CO 213. 
+
  
 BA 232 Accounting and Finance for Entrepreneurs 
 (3 credits - Fall)   
@@ -1113,7 +1113,7 @@ BA 341 Organizational Communication
 Principles of communication applied to the organizational context. Topics covered include information flow, 
 organizational structure, leadership styles related to communication, interviewing and communication problems 
 within organizations.  
-Identical with CO 346.  
+
 Prerequisite: CO 111 or BA 252 
 
 BA 343 Marketing of Agricultural Products 
@@ -1121,7 +1121,7 @@ BA 343 Marketing of Agricultural Products
 An analysis of agricultural marketing systems. Topics include understanding factors that determine agricultural 
 prices; establishing marketing goals; study of government price institutions; contracts, option, and futures market 
 analysis; establishing lines of credit; and crop insurance management.  
-Identical with EB 343.  
+
 Prerequisites: BA 252 and EB 211 
  
 BA 351 Business Law 
@@ -1171,7 +1171,7 @@ BA 461 Global Economic and Business Strategy
 A study of the global environment facing business. Topics studied include international trade theory, foreign 
 investment, the multinational enterprise and human resource, marketing and production decisions in the 
 international arena.  
-Identical with EB 461.  
+
 Prerequisites: EB 211 and BA 252 
  
 BA 473 Market Research 
@@ -1260,7 +1260,7 @@ EB 321 Public Finance
 A study of the political economy with a focus on public policies related to government spending and taxation. 
 Political ideologies related to funding government and providing public goods are examined. Current issues in 
 social welfare, defense and security, public infrastructure, energy and education are studied.  
-Identical with PS 321.  
+
 Prerequisite: EB 211 
 
 EB 325 Personal Finance 
@@ -1283,7 +1283,7 @@ EB 343 Marketing of Agricultural Products
 An analysis of agricultural marketing systems. Topics include understanding factors that determine agricultural 
 prices; establishing marketing goals; study of government price institutions; contracts, option, and futures market 
 analysis; establishing lines of credit; and crop insurance management.  
-Identical with BA 343.  
+
 Prerequisites: BA 252 and EB 211 
  
 EB 346 Investments 
@@ -1317,7 +1317,7 @@ EB 413 The City
 (3 credits - Fall Odd Years)   
 This course examines the structure, functions, processes and change involved in rural and urban communities. 
 The changing ecological patterns of communities are examined in conjunction with problems of urbanization.  
-Identical with SO 413.  
+
 Prerequisite: SO 111 
  
 EB 421 Population Studies 
@@ -1325,7 +1325,7 @@ EB 421 Population Studies
 This course will examine the trends and changes in world population, its composition and distribution, population 
 movements, issues involving quality of life and approaches used by various nations in dealing with population 
 problems.  
-Identical with SO 421.  
+
 Prerequisite: SO 111 
  
 EB 461 Global Economic and Business Strategy 
@@ -1333,7 +1333,7 @@ EB 461 Global Economic and Business Strategy
 A study of the global environment facing business. Topics studied include international trade theory, foreign 
 investment, the multinational enterprise and human resource, marketing and production decisions in the 
 international arena.  
-Identical with BA 461.  
+
 Prerequisites: EB 211 and BA 252 
  
 EB 490 Independent Study 
@@ -1364,7 +1364,7 @@ construct a theology which integrates faith and sport. Church and parachurch spo
 will be reviewed. Attention will be given to methods of programming and curriculum development related to 
 evangelism and discipleship associated with the culture of sport. Communicating the gospel within a sport setting 
 will include student preparation and delivery of sports-specific messages and object lessons.  
-Identical with MI 224.
+
 
 CH 111 Chemistry and Contemporary Society 
 (3 credits - Fall, Spring)   
@@ -1686,7 +1686,7 @@ relationship to morality? If no, what kind of morality can exist without a God? 
 separate from a God? Are there objective moral truths if there is no God? As part of this course, students will 
 discuss the voluntarist/intellectualist debate regarding the nature of God, how Christians have argued for the 
 existence of God based on the existence of values like good and evil and what makes a life meaningful.  
-Identical with PL 333GE.  
+
 Prerequisite: PL 220 or 260 
  
 BT 333PT Philosophical Theology 
@@ -1695,7 +1695,7 @@ Provides an advanced study of what philosophers and theologians have said about 
 includes a discussion of the historical development of the 'God' concept from the pre-Socratics through its apex 
 in classical theism to the critique of this concept in modern atheism. The tools of contemporary analytic 
 philosophy will be utilized to examine specific attributes of God.  
-Identical with PL 333PT.  
+
 Prerequisites: One course in Bible and PL 220 or 260 
  
 BT 333TB Theological Bioethics 
@@ -1741,14 +1741,14 @@ BT 440 Religion and Scientific Thought
 This course provides a study of the nature of scientific thought and scientific method, consideration of historical 
 and contemporary views concerning the relationship between science and religion and of current issues resulting 
 from the interaction of modern science and the Christian worldview.  
-Identical with PL 440.  
+
 Prerequisite: PL 220 or 260 
  
 BT 460 Philosophy of Religion 
 (3 credits - Spring Even Years)   
 A consideration of various attempts to provide a philosophical formulation and defense of the basic tenets of the 
 theistic worldview, with particular attention to recent analytic philosophy.  
-Identical with PL 460.  
+
 Prerequisite: PL 220 or 260 
  
 BT 490 Independent Study 
@@ -1846,7 +1846,7 @@ construct a theology which integrates faith and sport. Church and parachurch spo
 will be reviewed. Attention will be given to methods of programming and curriculum development related to 
 evangelism and discipleship associated with the culture of sport. Communicating the gospel within a sport setting 
 will include student preparation and delivery of sports-specific messages and object lessons.  
-Identical with SM 224. 
+
  
 MI 233 Topics in Missions 
 (2 credits - Offered on Sufficient Demand)   
@@ -1961,7 +1961,7 @@ This course explores issues related to the intercultural communication process a
 context (social, cultural and historical) in intercultural interactions. This course examines the complex 
 relationship between cultures and communication from various perspectives. Special emphasis will be given to 
 managing cross-cultural conflict, cross-cultural teaching and cross-cultural ministry applications.  
-Identical with CO 322.  
+
 Prerequisite: Sophomore standing 
 
 MI 331 Ministry Leadership 
@@ -2074,7 +2074,7 @@ CO 213 Social Media
 (3 credits - Fall)   
 This course introduces students to the theory and practical application of social media for marketing, journalistic 
 reporting and public relations professionals.  
-Identical with BA 213. 
+
  
 CO 215 Public Speaking 
 (3 credits - Fall, Spring)   
@@ -2107,7 +2107,7 @@ This course explores issues related to the intercultural communication process a
 context (social, cultural and historical) in intercultural interactions. Students in the class examine the complex 
 relationship between cultures and communication from various perspectives. Special emphasis will be given to 
 managing cross-cultural conflict, cross-cultural teaching and cross-cultural ministry applications.  
-Identical with MI 321.  
+
 Prerequisite: CO 111 
 
 CO 331 Principles of Public Relations 
@@ -2129,7 +2129,7 @@ CO 346 Organizational Communication
 Students in this course learn principles of communication applied to the organizational context. Topics covered 
 include information flow, organizational structure, leadership styles related to communication interviewing and 
 communication problems within organizations.  
-Identical with BA 341.  
+
 Prerequisite: CO 111 or BA 252 
  
 CO 370 Argumentation and Persuasion 
@@ -2155,7 +2155,7 @@ empirical research design, descriptive and basic inferential data analysis techn
 measurement considerations, empirical journal articles, APA style scholarly writing and ethical issues in 
 research. Students will analyze and interpret data and write APA style reports. Students will also develop basic 
 skills in analyzing data using statistical analysis software.  
-Identical with CJ 380, PY 380 and SO 380.  
+
 Prerequisites: PY 111 or SO 111, and successful completion of MA 151 
 
 CO 381 Media Law 
@@ -2192,7 +2192,7 @@ behavioral science research. Topics include empirical research design and statis
 critique of empirical research, implications of research results and writing in APA style. Students will plan, 
 conduct, analyze and present a research project during the course, and they will further develop skills in 
 analyzing data using statistical analysis software.  
-Identical with CJ 480, PY 480, and SO 480.  
+
 Prerequisite: CO 380 
  
 CO 481 Mass Communication 
@@ -2429,7 +2429,7 @@ DM 271 Television Performance
 (3 credits - Spring Even Years)   
 Students will learn basic principles of on-camera presentation and creating an authentic character/personality. 
 Emphasis is on commercial/industrial work, news presentation, and self-taping.  
-Identical with TH 271. 
+
  
 DM 278 3D Computer Graphics II 
 (4 credits - Fall)   
@@ -2559,7 +2559,7 @@ DM 373 Acting for Film
 (3 credits - Spring Odd Years)   
 Students will learn and apply character and text analysis skills to create in-depth characters and perform them in 
 narrative scenes. Special emphasis is given to multi-person and multi-camera scene work.  
-Identical with TH 373. 
+
  
 DM 375 Junior Animation Studio II 
 (4 credits - Spring)   
@@ -2847,7 +2847,7 @@ ED 236 Educational Psychology
 Applications of theories of teaching, learning, development and measurement to classroom environments are 
 explored. This course also examines qualities of classroom interaction, particularly related to instructional 
 processes, motivation of students and classroom management.  
-Identical with PY 236.  
+
 Prerequisite: PY 111 
  
 ED 242 Early Childhood Literacy Development 
@@ -3125,7 +3125,6 @@ This course provides an overview of the developmental, behavioral, intellectual 
 students with disabilities. Early intervention, identification and placement as well as appropriate adaptations for 
 diverse learners in inclusive classroom settings will be emphasized. In addition, the special methodologies related 
 to the instruction of gifted and talented students are addressed.  
-Identical with PY232.  
 Prerequisite: PY 111 
 
 SE 233 Foundations of Special Education 
@@ -3134,7 +3133,6 @@ This course focuses on special education as a profession. Emphasis will be place
 and legal foundations of special education. The rights and responsibilities of parents, students, educators and 
 other professionals as these relate to students with exceptional needs will also be studied. Programming options 
 and ethical practices for mild interventions will be emphasized.  
-Identical with PY 233.  
 Prerequisite: PY 111 
  
 SE 325 Differentiated Instruction 
@@ -3410,7 +3408,7 @@ our inner lives? Has Othello influenced the development of racism, or has it hel
 racism? William Shakespeare's plays have an ongoing presence in our lives. This course will examine as many as 
 eleven Shakespeare plays with attention give to their presence today, on stage and transformed in our culture. 
 (Attending a play, performed professionally if possible, is a requirement for this course.)  
-Identical with TH 431.  
+
 Prerequisite: EN 151 
  
 EN 452 Southern Accents 
@@ -3650,7 +3648,7 @@ through such media as print, music, film, and the visual arts. The course will e
 people who helped write the African-American story. Students will consider the perspectives of prominent 
 African-American figures and discover the way African-American cultural expressions have impacted the United 
 States.  
-Identical with PS 318.  
+
 Prerequisite: HS 115 or 116 
  
 HS 322 European Reformations and Revolutions 
@@ -3658,7 +3656,7 @@ HS 322 European Reformations and Revolutions
 In-depth study of selected topics in European history from the Reformation era through the French Revolution. 
 Utilizes complex role-playing games to examine historically significant sources, both primary and secondary, and 
 to acquaint students with the essential historiography and interpretive problems of the period.  
-Identical with PS 322.  
+
 Prerequisite: HS 115 
  
 HS 344 American Political Institutions 
@@ -3666,7 +3664,7 @@ HS 344 American Political Institutions
 An in-depth study of the structures and processes of American governance. Topics include the origins of the U.S. 
 constitutional system, the development of party organizations, the role of interest groups and grassroots 
 movements, election campaigns and voter behavior, and the administration of the federal government.  
-Identical with PS 344.  
+
 Prerequisite: HS 211 or 212 
  
 HS 346 Cambodia: Revolution and Genocide 
@@ -3674,7 +3672,7 @@ HS 346 Cambodia: Revolution and Genocide
 This course introduces students to the political, economic and social history of Cambodia. It explores Cambodia's 
 struggle for independence, involvement in the Vietnam War, revolution, genocide, rehabilitation and 
 reconciliation, and environmental history since 1945.  
-Identical with PS 346.  
+
 Prerequisite: HS 116 
  
 HS 361 American Religious History 
@@ -3689,7 +3687,7 @@ This class studies the political rise and material culture of the ancient Angkor
 The Angkor Empire was deeply influenced by the art and religion of India. The class, therefore, focuses on the 
 cross-cultural connection and transfer of sculpture, temple structures and people groups within mainland 
 Southeast Asia.  
-Identical with AR 373 and PS 373. 
+
 
 HS 376 Hindu Maharajas and Buddhist Kings 
 (3 credits - Spring Odd Years)   
@@ -3697,7 +3695,7 @@ The study of Kashmiri and Cambodian society from periods of contested sovereignt
 legitimacies, and to collaborative authorities within colonial statecraft 1800-1950. Students examine the 
 relationship between indigenous kingship and European Empires with specific reference to religion 
 (Hinduism/Islam/Buddhism), power, and authority, within "Indianized" kingdom spaces.  
-Identical with PS 376.  
+
 Prerequisite: HS 116 
  
 HS 381 Civil War and Reconstruction 
@@ -3714,7 +3712,7 @@ movement for American independence. Topics include the preconditions and precipi
 Revolution, the military history of the conflict, internal problems in Britain and the rebellious colonies, the 
 divergence of British and American political theory and constitutional practice, the growth of American national 
 consciousness and the consequences of the war for world history.  
-Identical with PS 385.  
+
 Prerequisite: HS 211 
  
 HS 395 Practicum in History 
@@ -3744,7 +3742,7 @@ HS 434 Classics of Political Thought
 In-depth study of the classic political texts in the Western tradition from Ancient Greece to modern times. The 
 course will examine how these texts answer the major theoretical questions about the need for and purpose of 
 government.  
-Identical with PS 434.  
+
 Prerequisites: HS 222 and PS 111 
  
 HS 456 America and Vietnam 
@@ -3753,7 +3751,7 @@ The course examines the key factors concerning United States involvement in the 
 American involvement in relation to European decolonization, Cold War politics, congress and public opinion. 
 The unit considers the impact of the Vietnam War on American foreign policy since 1975 and - using film, 
 literature and oral histories - the way in which it continues to affect the United States today.  
-Identical with PS 456.  
+
 Prerequisite: HS 116 
  
 HS 463 American Environmental History 
@@ -3762,7 +3760,7 @@ This course explores the changing relationship between people and their natural 
 history from the colonial era to the present. Topics include native American ecology, ideas and practices of 
 settler colonialism, the emergence of modern industrial and agricultural development, conservation and 
 preservation movements, and contemporary conflicts over natural resources and environmental health.  
-Identical with PS 463.  
+
 Prerequisite: HS 115 or 116 
  
 HS 477 European Nation-States in Conflict 
@@ -3770,7 +3768,7 @@ HS 477 European Nation-States in Conflict
 An in-depth study of selected topics in modern European history from the early 19th century to the present. 
 Utilizes complex role-playing games to examine historically significant sources, both primary and secondary, and 
 to acquaint students with the essential historiography and interpretive problems of the period.  
-Identical with PS 477.  
+
 Prerequisite: HS 116 
  
 HS 490 Independent Study 
@@ -3796,7 +3794,7 @@ PS 105 Introduction to Law
 Survey of the fields of criminal law and criminal procedure, civil law and civil procedure, torts, business and 
 contract law, property and constitutional law. Attention is given to preparation for law school and aspects of the 
 legal profession.  
-Identical with CJ 105. 
+
  
 PS 111 Public Policy 
 (3 credits - Spring)   
@@ -3812,7 +3810,7 @@ long-term stability of human populations. Through various case studies, students
 in community deterioration and ultimately, dispersal of human populations. This course is intended to develop 
 practical skills and academic competencies for further academic and professional work in international affairs, 
 immigrant and refugee studies and community development.  
-Identical with SO 171. 
+
  
 PS 318 African-American History 
 (3 credits - Fall Odd Years)   
@@ -3821,7 +3819,7 @@ through such media as print, music, film, and the visual arts. The course will e
 people who helped write the African-American story. Students will consider the perspectives of prominent 
 African-American figures and discover the way African-American cultural expressions have impacted the United 
 States.  
-Identical with HS 318.  
+
 Prerequisite: HS 115 or 116 
  
 PS 321 Public Finance 
@@ -3829,7 +3827,7 @@ PS 321 Public Finance
 A study of the political economy with a focus on public policies related to government spending and taxation. 
 Political ideologies related to funding government and providing public goods are examined. Current issues in 
 social welfare, defense and security, public infrastructure, energy and education are studied.  
-Identical with EB 321.  
+
 Prerequisite: EB 211 
  
 PS 322 European Reformations and Revolutions 
@@ -3837,7 +3835,7 @@ PS 322 European Reformations and Revolutions
 In-depth study of selected topics in European history from the Reformation era through the French Revolution. 
 Utilizes complex role-playing games to examine historically significant sources, both primary and secondary, and 
 to acquaint students with the essential historiography and interpretive problems of the period.  
-Identical with HS 322.  
+
 Prerequisite: HS 115 
 
 PS 344 American Political Institutions 
@@ -3845,7 +3843,7 @@ PS 344 American Political Institutions
 An in-depth study of the structures and processes of American governance. Topics include the origins of the U.S. 
 constitutional system, the development of party organizations, the role of interest groups and grassroots 
 movements, election campaigns and voter behavior, and the administration of the federal government.  
-Identical with HS 344.  
+
 Prerequisite: HS 211 or 212 
  
 PS 346 Cambodia: Revolution and Genocide 
@@ -3853,7 +3851,7 @@ PS 346 Cambodia: Revolution and Genocide
 This course introduces students to the political, economic and social history of Cambodia. It explores Cambodia's 
 struggle for independence, involvement in the Vietnam War, revolution, genocide, rehabilitation and 
 reconciliation, and environmental history since 1945.  
-Identical with HS 346.  
+
 Prerequisite: HS 116 
  
 PS 373 Art and Archaeology of Angkor 
@@ -3862,7 +3860,7 @@ This class studies the political rise and material culture of the ancient Angkor
 The Angkor Empire was deeply influenced by the art and religion of India. The class, therefore, focuses on the 
 cross-cultural connection and transfer of sculpture, temple structures and people groups within mainland 
 Southeast Asia.  
-Identical with AR 373 and HS 373. 
+
  
 PS 376 Hindu Maharajas and Buddhist Kings 
 (3 credits - Spring Odd Years)   
@@ -3870,7 +3868,7 @@ The study of Kashmiri and Cambodian society from periods of contested sovereignt
 legitimacies, and to collaborative authorities within colonial statecraft 1800-1950. Students examine the 
 relationship between indigenous kingship and European Empires with specific reference to religion 
 (Hinduism/Islam/Buddhism), power, and authority, within "Indianized" kingdom spaces.  
-Identical with HS 376.  
+
 Prerequisite: HS 116 
  
 PS 385 The American Revolution 
@@ -3880,7 +3878,7 @@ movement for American independence. Topics include the preconditions and precipi
 Revolution, the military history of the conflict, internal problems in Britain and the rebellious colonies, the 
 divergence of British and American political theory and constitutional practice, the growth of American national 
 consciousness and the consequences of the war for world history.  
-Identical with HS 385.  
+
 Prerequisite: HS 211 
  
 PS 391 Policy Debate Practicum 
@@ -3922,7 +3920,7 @@ PS 434 Classics of Political Thought
 In-depth study of the classic political texts in the Western tradition from Ancient Greece to modern times. The 
 course will examine how these texts answer the major theoretical questions about the need for and purpose of 
 government.  
-Identical with HS 434.  
+
 Prerequisites: HS 222 and PS 111 
  
 PS 456 America and Vietnam 
@@ -3931,7 +3929,7 @@ The course examines the key factors concerning United States involvement in the 
 American involvement in relation to European decolonization, Cold War politics, congress and public opinion. 
 The unit considers the impact of the Vietnam War on American foreign policy since 1975 and - using film, 
 literature and oral histories - the way in which it continues to affect the United States today.  
-Identical with HS 456.  
+
 Prerequisite: HS 116 
  
 PS 463 American Environmental History 
@@ -3940,7 +3938,7 @@ This course explores the changing relationship between people and their natural 
 history from the colonial era to the present. Topics include native American ecology, ideas and practices of 
 settler colonialism, the emergence of modern industrial and agricultural development, conservation and 
 preservation movements, and contemporary conflicts over natural resources and environmental health.  
-Identical with HS 463.  
+
 Prerequisite: HS 115 or 116 
 
 PS 477 European Nation-States in Conflict 
@@ -3948,7 +3946,7 @@ PS 477 European Nation-States in Conflict
 An in-depth study of selected topics in modern European history from the early 19th century to the present. 
 Utilizes complex role-playing games to examine historically significant sources, both primary and secondary, and 
 to acquaint students with the essential historiography and interpretive problems of the period.  
-Identical with HS 477.  
+
 Prerequisite: HS 116 
  
 PS 490 Independent Study 
@@ -4093,14 +4091,14 @@ EX 271 Nutrition
 A general course designed to address dietary needs of individuals across the lifespan. Students are introduced to 
 dietary guidelines and nutritional standards. Some attention will be given to the role of the nurse, dietician and 
 community agencies in promoting good health through the proper use of food.  
-Identical with BI 271. 
+
  
 EX 287 Medical Terminology 
 (2 credits - Fall, Summer)   
 This course introduces medical words and terms through an analysis of their construction, including prefix, 
 suffix, root, connecting and combining forms. Medical meanings applicable to the structure, function and 
 diseases of the human body are stressed. 
-Identical with BI 287. 
+
  
 EX 295 Practicum in Exercise Science 
 (1 to 3 credits - Fall, Spring)   
@@ -4118,7 +4116,7 @@ EX 318 Sport and Exercise Psychology
 This course is an introduction to the science and theory of sport and exercise psychology. Factors related to 
 individual, group and institutional behavior in the following physical activity settings are emphasized: 
 competitive and recreational athletics, exercise, physical education and rehabilitative.  
-Identical with PY 318.  
+
 Prerequisite: PY 111 
 
 EX 321 Exercise Physiology 
@@ -4784,7 +4782,7 @@ MU 365 Techniques of Musical Theatre
 This course is an introduction to the skills essential for today's musical theatre performer. Topics such as song 
 preparation, dance/ movement, ensemble and duet work, musicality and acting the lyric will be covered. The 
 semester will conclude with a public performance of music and scenes.  
-Identical with TH 365.  
+
 Prerequisites: Music or theatre major and sophomore standing 
  
 MU 380 Instrumental Pedagogy 
@@ -5383,7 +5381,7 @@ If no, what kind of morality can exist without a God? Do ethical systems have to
 there objective moral truths if there is no God? As part of this course, students will discuss the 
 voluntarist/intellectualist debate regarding the nature of God, how Christians have argued for the existence of 
 God based on the existence of values like good and evil, and what makes a life meaningful.  
-Identical with BT 333GE.  
+
 Prerequisite: PL 220 or 260 
  
 PL 333MP Metaphysics 
@@ -5406,7 +5404,7 @@ Provides an advanced study of what philosophers and theologians have said about 
 includes a discussion of the historical development of the 'God' concept from the pre-Socratics through its apex 
 in classical theism to the critique of this concept in modern atheism. The tools of contemporary analytic 
 philosophy will be utilized to examine specific attributes of God.  
-Identical with BT 333PT.  
+
 Prerequisites: One course in Bible and PL 220 or 260 
 
 PL 333TI Philosophy of Time 
@@ -5423,14 +5421,14 @@ PL 440 Religion and Scientific Thought
 This course provides a study of the nature of scientific thought and scientific method; consideration of historical 
 and contemporary views, concerning the relationship between science and religion; and of current issues 
 resulting from the interaction of modern science and the Christian worldview.  
-Identical with BT 440.  
+
 Prerequisite: PL 220 or 260 
  
 PL 460 Philosophy of Religion 
 (3 credits - Spring Even Years)   
 A consideration of various attempts to provide a philosophical formulation and defense of the basic tenets of the 
 theistic worldview, with particular attention to recent analytic philosophy.  
-Identical with BT 460.  
+
 Prerequisite: PL 220 or 260 
  
 PL 490 Independent Study 
@@ -5581,7 +5579,7 @@ This course provides an overview of the developmental, behavioral, intellectual 
 students with disabilities. Early intervention, identification and placement as well as appropriate adaptations for 
 diverse learners in inclusive classroom settings will be emphasized. In addition, the special methodologies related 
 to the instruction of gifted and talented students are addressed.  
-Identical with SE 232.  
+
 Prerequisite: PY 111 
  
 PY 233 Foundations of Special Education 
@@ -5590,7 +5588,7 @@ This course focuses on special education as a profession. Emphasis will be place
 and legal foundations of special education. The rights and responsibilities of parents, students, educators and 
 other professionals as these relate to students with exceptional needs will also be studied. Programming options 
 and ethical practices for mild interventions will be emphasized.  
-Identical with SE233.  
+
 Prerequisite: PY 111 
  
 PY 236 Educational Psychology 
@@ -5598,7 +5596,7 @@ PY 236 Educational Psychology
 Applications of theories of teaching, learning, development and measurement to classroom environments are 
 explored. This course also examines qualities of classroom interaction, particularly related to instructional 
 processes, motivation of students and classroom management.  
-Identical with ED 236.  
+
 Prerequisite: PY 111 
  
 PY 265 Human Sexuality 
@@ -5613,7 +5611,7 @@ PY 318 Sport and Exercise Psychology
 This course is an introduction to the science and theory of sport and exercise psychology. Factors related to 
 individual, group and institutional behavior in the following physical activity settings are emphasized: 
 competitive and recreational athletics, exercise, physical education and rehabilitative.  
-Identical with EX 318.  
+
 Prerequisite: PY 111 
  
 PY 321 Interpersonal Relationships 
@@ -5640,7 +5638,7 @@ This course considers issues relative to the integration of the behavioral scien
 contributions of psychology and sociology to the understanding of religion. The influence of personality and 
 social factors on religious behavior is considered. Topics include faith development, conversion, mysticism, cults 
 and religion and mental health.  
-Identical with SO 341.  
+
 Prerequisite: PY 111 or SO 111 
  
 PY 351 Social Psychology 
@@ -5648,7 +5646,7 @@ PY 351 Social Psychology
 A study of how the thoughts, feelings and behavior of individuals are influenced by others. Topics include 
 attitude formation and change, prejudice, conformity, leadership, interpersonal attraction, prosocial behavior and 
 cooperation/competition.  
-Identical with SO 351.  
+
 Prerequisites: PY 111 or SO 111 and sophomore standing at time of registration 
  
 PY 375 Cognitive Neuroscience 
@@ -5657,7 +5655,7 @@ An introduction to the biological mechanisms and processes that underlie human b
 how the central nervous system controls and affects individual neurons, sensory and motor systems, emotion and 
 motivation, learning, memory, speech, development and aging and abnormal behavior. Effects of brain injury and 
 psychopharmacology will also be discussed.  
-Identical with BI 375.  
+
 Prerequisites: PY 111; BI 111 or 161; and sophomore standing at time of registration 
 
 PY 380 Introduction to Research Methods 
@@ -5667,7 +5665,7 @@ empirical research design, descriptive and basic inferential data analysis techn
 measurement considerations, empirical journal articles, APA style scholarly writing and ethical issues in 
 research. Students will analyze and interpret data and write APA style reports. Students will also develop basic 
 skills in analyzing data using statistical analysis software.  
-Identical with CJ 380, CO 380 and SO 380.  
+
 Prerequisites: PY 111 or SO 111, and successful completion of MA 151 
  
 PY 391 Psychological Assessment 
@@ -5742,7 +5740,7 @@ behavioral science research. Topics include empirical research design and statis
 critique of empirical research, implications of research results and writing in APA style. Students will plan, 
 conduct, analyze and present a research project during the course, and they will further develop skills in 
 analyzing data using statistical analysis software.  
-Identical with CJ 480, CO 480, and SO 480.  
+
 Prerequisite: PY 380 
  
 PY 485 Senior Seminar in Psychology 
@@ -5805,7 +5803,7 @@ SW 321 Minority Groups
 The focus of this course is intergroup relations of a dominant-minority character. The majority-minority relations 
 in many societies are examined with emphasis on American patterns. The goal is to identify the universal 
 behavior patterns and basic concepts in the study of majority-minority relations.  
-Identical with SO 321.  
+
 Prerequisite: SO 111 
  
 SW 325 Social Work Practice I 
@@ -5823,7 +5821,7 @@ A study of the ideology, function and structure of the public and private auspic
 assure the well being of their members, historically and currently. American society is the primary focus, 
 accompanied by ongoing global comparisons. Key topics include poverty, oppression, health care, education and 
 families.  
-Identical with SO 333.  
+
 Prerequisite: SO 111 
  
 SW 345 Social Work Practice II 
@@ -5904,7 +5902,7 @@ CJ 105 Introduction to Law
 Survey of the fields of criminal law and criminal procedure, civil law and civil procedure, torts, business and 
 contract law, property and constitutional law. Attention is given to preparation for law school and aspects of the 
 legal profession.  
-Identical with PS 105. 
+
  
 CJ 111 Introduction to Criminal Justice 
 (3 credits - Spring Odd Years)   
@@ -5941,7 +5939,7 @@ CJ 345 Criminology
 (3 credits - Fall Even Years)   
 This course examines theoretical explanations of crime, the distribution of crime within the U.S. population, legal 
 definitions of crime and victimology.  
-Identical with SO 345.  
+
 Prerequisites: SO 111 and criminal justice major or minor or sociology major or minor 
  
 CJ 346 Juvenile Justice 
@@ -5958,7 +5956,6 @@ empirical research design, descriptive and basic inferential data analysis techn
 measurement considerations, empirical journal articles, APA style scholarly writing and ethical issues in 
 research. Students will analyze and interpret data and write APA style reports. Students will also develop basic 
 skills in analyzing data using statistical analysis software.  
-Identical with CO 380, PY 380 and SO 380.  
 Prerequisites: PY 111 or SO 111, and successful completion of MA 151 
  
 CJ 480 Applied Research Methods 
@@ -5968,7 +5965,7 @@ behavioral science research. Topics include empirical research design and statis
 critique of empirical research, implications of research results and writing in APA style. Students will plan, 
 conduct, analyze and present a research project during the course, and they will further develop skills in 
 analyzing data using statistical analysis software.  
-Identical with CO 480, PY 480, and SO 480.  
+
 Prerequisite: CJ 380 
  
 CJ 490 Independent Study in Criminal Justice 
@@ -6001,7 +5998,7 @@ long-term stability of human populations. Through various case studies, students
 in community deterioration and ultimately, dispersal of human populations. This course is intended to develop 
 practical skills and academic competencies for further academic and professional work in international affairs, 
 immigrant and refugee studies and community development.  
-Identical with PS 171. 
+
 
 SO 195 Job Shadow in Sociology 
 (1 to 2 credits - Fall, Spring)   
@@ -6030,7 +6027,7 @@ SO 321 Minority Groups
 The focus of this course is intergroup relations of a dominant-minority character. The majority-minority relations 
 in many societies are examined with emphasis on American patterns. The goal is to identify the universal 
 behavior patterns and basic concepts in the study of majority-minority relations.  
-Identical with SW 321.  
+
 Prerequisite: SO 111 
  
 SO 333 Social Welfare Institutions 
@@ -6039,7 +6036,7 @@ A study of the ideology, function and structure of the public and private auspic
 assure the well being of their members, historically and currently. American society is the primary focus, 
 accompanied by ongoing global comparisons. Key topics include poverty, oppression, health care, education and 
 families.  
-Identical with SW 333.  
+
 Prerequisite: SO 111 
  
 SO 341 Religion and Behavioral Science 
@@ -6048,14 +6045,14 @@ This course considers the contributions of psychology and sociology to the under
 studied both as an individual experience and as a social institution. The influence of personality factors and social 
 variables on religious behavior will be considered. Topics will include stages of faith development, conversion, 
 mysticism, charismatic experience, cults and the influence of social class on religion.  
-Identical with PY 341.  
+
 Prerequisite: PY 111 or SO 111 
  
 SO 345 Criminology 
 (3 credits - Fall Even Years)   
 This course examines theoretical explanations of crime, the distribution of crime within the U.S. population, legal 
 definitions of crime and victimology.  
-Identical with CJ 345.  
+
 Prerequisites: SO 111 and criminal justice major or minor or sociology major or minor 
 
 SO 351 Social Psychology 
@@ -6063,7 +6060,7 @@ SO 351 Social Psychology
 A study of how the thoughts, feelings and behavior of individuals are influenced by others. Topics include 
 attitude formation and change, prejudice, conformity, leadership, interpersonal attraction, prosocial behavior and 
 cooperation/competition.  
-Identical with PY 351.  
+
 Prerequisites: PY 111 or SO 111 and sophomore standing at time of registration 
  
 SO 380 Introduction to Research Methods 
@@ -6073,7 +6070,7 @@ empirical research design, descriptive and basic inferential data analysis techn
 measurement considerations, empirical journal articles, APA style scholarly writing and ethical issues in 
 research. Students will analyze and interpret data and write APA style reports. Students will also develop basic 
 skills in analyzing data using statistical analysis software.  
-Identical with CJ 380, CO 380 and PY 380.  
+
 Prerequisites: PY 111 or SO 111, and successful completion of MA 151 
  
 SO 395 Practicum in Sociology 
@@ -6085,7 +6082,7 @@ SO 413 The City
 (3 credits - Fall Odd Years)   
 This course examines the process of urbanization in the U.S. as well as in other societies. Urban life styles and 
 the social changes and problems associated with urbanization will also be explored.  
-Identical with EB 413.  
+
 Prerequisite: SO 111 
  
 SO 421 Population Studies 
@@ -6093,7 +6090,7 @@ SO 421 Population Studies
 This course will examine the trends and changes in world population, its composition and distribution, population 
 movements, issues involving quality of life and approaches used by various nations in dealing with population 
 problems.  
-Identical with EB 421.  
+
 Prerequisite: SO 111 
  
 SO 480 Applied Research Methods 
@@ -6103,7 +6100,7 @@ behavioral science research. Topics include empirical research design and statis
 critique of empirical research, implications of research results and writing in APA style. Students will plan, 
 conduct, analyze and present a research project during the course, and they will further develop skills in 
 analyzing data using statistical analysis software.  
-Identical with CJ 480, CO 480, and PY 480.  
+
 Prerequisite: SO 380 
  
 SO 481 Seminar in Sociology 
@@ -6332,7 +6329,7 @@ TH 271 Television Performance
 (3 credits - Spring Even Years)   
 Students will learn basic principles of on-camera presentation and creating an authentic character/personality. 
 Emphasis is on commercial/industrial work, news presentation, and self-taping.  
-Identical with DM 271. 
+
  
 TH 311 History and Literature of Theatre I 
 (3 credits - Fall Odd Years)   
@@ -6434,14 +6431,14 @@ TH 365 Techniques of Musical Theatre
 This course is an introduction to the skills essential for today's musical theatre performer. Topics such as song 
 preparation, dance/movement, ensemble and duet work, musicality and acting the lyric will be covered. The 
 semester will conclude with a public performance of music and scenes.  
-Identical with MU 365.  
+
 Prerequisites: Music or theatre major and sophomore standing 
  
 TH 373 Acting for Film 
 (3 credits - Spring Odd Years)   
 Students will learn and apply character and text analysis skills to create in-depth characters and perform them in 
 narrative scenes. Special emphasis is given to multi-person and multi-camera scene work.  
-Identical with DM 373. 
+
  
 TH 391 Play Production: Technical 
 (1 credit - Fall, Spring)   
@@ -6480,7 +6477,7 @@ our inner lives? Has Othello influenced the development of racism, or has it hel
 racism? William Shakespeare's plays have an ongoing presence in our lives. This course will examine as many as 
 eleven Shakespeare plays with attention give to their presence today, on stage and transformed in our culture. 
 (Attending a play, performed professionally if possible, is a requirement for this course.)  
-Identical with EN 431.  
+
 Prerequisite: EN 151 
  
 TH 441 Historical Acting Styles 
