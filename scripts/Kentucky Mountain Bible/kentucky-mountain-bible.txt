@@ -54,7 +54,7 @@ NT 251 Galatians and Thessalonians (2 credits)
 Paul’s missionary journeys brought him to both Galatia and Thessalonica.  This study 
 reveals needs of young Gentile churches that were grasping the truths of grace, 
 growth, persecution and understand of the second coming of Christ.  Prerequisite: 
-BI 111�
+BI 
 NT 271 Prison Epistles (2 credits)
 The four Epistles of Ephesians, Philippians, Colossians and Philemon were written 
 by Paul during his Roman imprisonment.   This class will consider the theological 
@@ -79,7 +79,7 @@ NT 441 Hebrews (2 credits)
 A study of the Book of Hebrews which views the Old Testament in the light of the 
 New Testament and informs Christology and Soteriology especially as they pertain 
 to Entire Sanctification and Christian perseverance.  Prerequisites:  OT 212 and BI 
-111� 
+ 
 Biblical Languages
 GR 161 Beginning Greek (3 credits)
 An introductory course to New Testament Greek, including a study of vocabulary, 
@@ -584,7 +584,7 @@ a Christian world view.
 AP 472 Cultural & Ethical Apologetics (2 credits)
 A study of the Christian response to the cultural & ethical issues like: Sexuality, 
 Abortion, Critical Race Theory, Modern Issues, Postmodernism. Prerequisite: AP 
-241�
+
 PH 400 Senior Seminar (3 credits)
 This course enables senior students to refine their biblical worldview and to 
 demonstrate integration of accumulated learning regarding contemporary issues.
@@ -670,7 +670,7 @@ A comprehensive and systematic study of the major doctrines of the Christian fai
 in their organic interrelatedness and contemporary relevance which are foundational 
 to Christian thought and life. This course addresses the doctrine of Christian ethics, 
 the Holy Spirit, the Church, the means of grace, and eschatology. Prerequisite: TH 
-121�
+
 TH 372 Old Testament Theology (2 credits)
 This course will provide the student with an understanding of the particular theological 
 contributions of the Old Testament. It will do so by exploring the distinctive nature 
