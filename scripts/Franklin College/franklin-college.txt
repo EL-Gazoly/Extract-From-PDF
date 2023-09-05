@@ -70,8 +70,7 @@ PDP 330 Big Data and the Professional Workplace
 3 credit hours 
 Spring 
  
-Prereq: CMP/DAT 141 or CMP 150, PDP 200 & 
-MAT/SOC 224 
+Prereq: CMP/DAT 141 or CMP 150, PDP 200 & MAT/SOC 224 
 This course provides an introduction to the field of statistical learning and the essential tools for making sense of 
 large and complex data sets. The topics include linear regression, classification, resampling methods, shrinkage 
 methods, and tree-based methods. Students will work in teams, each under the coaching of an alumni professional 
@@ -223,9 +222,7 @@ ACC 420 Auditing
 3 credit hours 
 Fall, even academic years 
  
-Prereq: ACC 312 or concurrent enrollment in 
-ACC 311 with junior-level status in accounting 
-curriculum 
+Prereq: ACC 312 or concurrent enrollment in ACC 311 with junior-level status in accounting curriculum 
 Auditing with emphasis on standards, scope of audits, work-papers, and audit reports. 
  
 ACC 431 Advanced Accounting                
@@ -285,12 +282,6 @@ No credit
  
 Prereq: Senior class standing 
 Satisfactory performance on simulated CPA Exam.  Passing grade ‘C-’ or better. 
- 
-88 
- 
-Art 
- 
- 
  
 Department: Art 
 Department Chair: R. Frye 
@@ -382,9 +373,7 @@ Creative Arts exploratory
  
 An introduction to painting techniques, materials, and history.  Studio format with lectures, demonstrations, group 
 critiques, and individualized instruction. Fee: $125 nonrefundable for cost of all materials.  
- 
-97 
- 
+
 ART 175 Ceramics I 
 3 credit hours 
 Every Fall, and Spring even academic years Creative 
@@ -452,10 +441,7 @@ expected to bring together all of the basic component skills of drawing: percept
 relationships of angles and proportions, lights and shadows, and the skills of crosshatching and continuous tone.  
 Studio format with lectures, demonstrations, group critiques, and individualized instruction. Subject matter 
 includes still life, interior, landscape, and human figure. Additional materials required.  
- 
- 
-98 
- 
+
 ART 270 Painting II 
 3 credit hours 
 Fall even academic years, and 
@@ -522,12 +508,7 @@ Prereq: ART 270
 A continuation of ART 270, this is an advanced painting experience where students are challenged to express unique 
 personal ideas while developing individual style. Studio format with lectures, demonstrations, group critiques, and 
 individualized instruction. Fee: $50 nonrefundable for cost of all materials.  
- 
- 
- 
- 
-99 
- 
+
 ART 375 Ceramics III 
  
 3 credit hours 
@@ -600,11 +581,7 @@ ART 490 Independent Study
 Prereq:  departmental & instructor permission 
 A course designed to encourage student initiative and to provide a degree of flexibility in the departmental program.  
 Normally the subject is not sufficiently or appropriately covered in departmental course offerings.  
- 
- 
- 
-100 
- 
+
 ART 498 (ART HISTORY) Senior Portfolio Review 
 No credit 
 Fall and spring 
@@ -728,11 +705,6 @@ permission of the instructor
 Coreq:  BIO 140 
 Lab portion of Cell Biology.  Must be taken concurrently with BIO 140. 
  
- 
- 
- 
-111 
- 
 BIO 205 Environmental Issues 
 3 credit hours 
 Fall 
@@ -802,9 +774,7 @@ lab, and field learning will include a focus on understanding and manipulating w
 dynamics, in the context of human objectives and influences. The relationship between theoretical ecology and 
 applied management will be emphasized by examining the specific ways in which the biology of plants and wildlife 
 informs effective management. Three hours lecture, three hours laboratory. 
- 
-112 
- 
+
 BIO 300 Topics in Biology 
 3 credit hours 
 On demand 
@@ -915,8 +885,7 @@ BIO 355 Ultrasonography
 Spring, odd academic years, 
 rotating with  PHY 365 
  
-Prereq: BIO 210 & 215 or ANAT 210 & 220 or 
-BIO 360 or consent of instructor 
+Prereq: BIO 210 & 215 or ANAT 210 & 220 or BIO 360 or consent of instructor 
 Ultrasound is integrated in the health professions and medical education curriculum extensively because of its non-
 invasive nature and diagnostic utility.  The course is divided into four sections:  introductory ultrasonography, 
 musculoskeletal, cardiovascular, and abdominal ultrasonography.  The course provides hands-on training for proper 
@@ -943,8 +912,6 @@ will engage in project-based learning to develop the fundamental skills needed t
 software tool, ArcGIS.  As technical consultants, we will create maps and conduct spatial analyses to assist local 
 non-profit organizations in their conservation objectives. 
  
- 
-114 
  
 BIO 372 Exercise Physiology 
 3 credit hours 
@@ -1013,8 +980,7 @@ communities are emphasized.  Students conduct a research project that is present
 addition to keeping a detailed journal that includes both scientific information and reflections of the experience.  
 Hiking and other outdoor skills are required.   
  
-115 
- 
+
 BIO 382 Comparative Animal Behavior 
 3 credit hours 
 On demand 
@@ -1162,9 +1128,6 @@ On demand
 A topic of current interest in business will be taught. Topics will vary depending on faculty and student interest. 
 Course will be offered upon the request of a faculty member and with approval of the Vice President of Academic 
 Affairs. 
- 
- 
-126 
  
 BUS 340 Business Organization and Public Policy 
 3 credit hours 
@@ -1414,10 +1377,7 @@ An introduction to the study of carbon and its compounds through an examination 
 alcohol, and carbonyl functional groups. Emphasis is placed on establishing relationships among structure, physical 
 properties, and chemical activity. The mechanisms of substitution and elimination reactions are studied in detail. 
 Three hours lecture.  
- 
- 
-138 
- 
+
 CHE 222 Organic Chemistry II    
 3 credit hours 
 Spring 
@@ -1474,7 +1434,7 @@ CHE 334 Biochemistry
 3 credit hours 
 Spring 
  
-                  Prereq: BIO 140, CHE 221 and CHE 223 
+Prereq: BIO 140, CHE 221 and CHE 223 
 An introduction to the chemistry of biomolecules, metabolism, and biosynthesis. Three hours lecture. Note: This 
 course may count toward either a Chemistry major or a Biology major, but not both. Same as BIO 334.  
  
@@ -1488,10 +1448,7 @@ Coreq:  CHE 343
 Chemical thermodynamics. A study of the laws of thermodynamics with particular emphasis on applications to 
 thermochemistry, solutions, chemical equilibrium, phase equilibria, chemical kinetics, and electrochemistry. Three 
 hours lecture.  Same as PHY 341.  Corequisite: CHE 343.  Highly recommended MAT 142.  
- 
- 
-139 
- 
+
 CHE 342 Quantum Chemistry and Spectroscopy  
  
 3 credit hours 
@@ -1627,14 +1584,7 @@ An examination taken by senior majors to assess their knowledge of the field of 
 this knowledge to solve practical problems. Normally given during the fall term of the student‘s senior year. Consists 
 of an oral examination and/or a written Major Field Test from the Educational Testing Service. Passing grade D- or 
 higher.  
- 
- 
- 
- 
- 
- 
-141 
- 
+
 PDP 301 Medical School Admission Preparation 
 1 credit hour 
 Spring 
@@ -1697,13 +1647,7 @@ Spring
 Co-req: PHY 202 or PHY 212 
 Lab component of General Physics II.  A laboratory-based courses that consolidates the theoretical principles in the 
 course using experimental physics techniques.  
- 
- 
- 
- 
- 
-142 
- 
+
 PHY 211 General Physics I – Calculus 
 5 credit hours 
 Fall, even academic years 
@@ -1776,8 +1720,7 @@ responsibility, careful and thoughtful planning, experimentation, data interpret
 of results. Experiments will be closely associated with thermodynamics, chemical equilibrium, and include some 
 spectroscopy of primarily inorganic compounds. Four hours laboratory (including pre-lab lecture).  Same as CHE 
 343.   
-143 
- 
+
  
 PHY 344 Quantum Chemistry and Spectroscopy Lab 
 1 credit hour 
@@ -1795,8 +1738,7 @@ PHY 355 Ultrasonography
 Spring, odd academic years, 
 rotating with  PHY 365 
  
-Prereq: BIO 210 & 215 or ANAT 210 & 220 or 
-BIO 360 or consent of instructor 
+Prereq: BIO 210 & 215 or ANAT 210 & 220 or BIO 360 or consent of instructor 
 Ultrasound is integrated in the health professions and medical education curriculum extensively because of its non-
 invasive nature and diagnostic utility.  The course is divided into four sections:  introductory ultrasonography, 
 musculoskeletal, cardiovascular, and abdominal ultrasonography.  The course provides hands-on training for proper 
@@ -1831,17 +1773,7 @@ refraction and reflection, dispersion, interference, polarization, and diffracti
 deliberation of a few topics related to the quantum nature of light and quantum optics.  The final part of the course 
 will address the optics of human eye emphasizing the propagation and interactions of light in biological tissues and 
 physiology of a visual system. 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-144 
- 
+
 PHY 375 Undergraduate Research in Biology, Chemistry or Physics      
 1-3 credit hours 
  
@@ -1957,9 +1889,7 @@ Prereq: CMP 141 or consent of instructor
 An introduction to the fundamental concepts of web software construction and testing.  Topics include the client-
 server model and server-side programming languages (e.g., ASP.NET, C#.NET). 
  
- 
- 
-149 
+
  
 CMP 285 Web Software Construction and Testing II 
 3 credit hours 
@@ -2028,10 +1958,7 @@ consent of instructor
 An introduction to database concepts. Topics include file systems and databases, the relational database model, 
 structured query language, entity relationship modeling, database table normalization, transaction management 
 and concurrency control, and data warehouses.   
- 
- 
- 
-150 
+
  
 CMP 372 Computer Networks and Security      
 3 credit hours 
@@ -2098,12 +2025,7 @@ Prereq: departmental consent
 Courses are designed to encourage student initiative and to provide a degree of flexibility in the departmental 
 program.  Normally the subject is not sufficiently or appropriately covered in departmental course offerings.  Course 
 work is planned by student and instructor jointly to meet student’s individual needs.   
- 
- 
- 
- 
-151 
- 
+
 CMP 499 Senior Competency Practicum                    
 No credit 
 Spring 
@@ -2236,11 +2158,7 @@ Fall, odd academic years
 Prereq: ECO 115 
 Studies industrial organization and public policy toward business. The course examines the economic rationale and 
 impact of antitrust legislation and government regulation of business activity. Same as BUS 340.  
- 
- 
- 
- 
-161 
+
  
 ECO 350 International Business and Finance 
 3 credit hours 
@@ -2350,7 +2268,7 @@ This course introduces students to the teaching profession and provides practica
 essential skills and dispositions necessary to become an effective teacher.  Special emphasis will be given to the 
 education department’s program expectations and processes for those students seeking teacher licensure. 
  
-EDU 210: Educational Philosophy, Law, and Ethics 
+EDU 210 Educational Philosophy, Law, and Ethics 
 3 credit hours 
 Freshman or sophomore year 
 Civic Learning exploratory 
@@ -2394,14 +2312,7 @@ instructor
 This course focuses on developing an understanding of individual differences in an inclusive learning environment. 
 Course content focuses on students with exceptional needs, including those with disabilities and giftedness, and 
 ways educators can help all learners achieve at high levels and reach their full potential.  
- 
- 
- 
- 
- 
- 
-168 
- 
+
 EDE 235 Teaching English Language Arts-Elementary 
 3 credit hours 
 Sophomore year 
@@ -2464,11 +2375,7 @@ development, including cognitive, linguistic, cultural, social, and motivational
 acquisition and literacy development will be explored. Points of emphasis include direct, explicit, multi-sensory 
 interventions and extensions; systematic observation and documentation; and progress monitoring practices. 
  
- 
- 
-169 
- 
- 
+
 EDE 345 Scientifically Based Reading Instruction (Grades 4-6) 
 3 credit hours 
 Junior year 
@@ -2633,9 +2540,7 @@ Active participation in an elementary classroom one full day each week across 12
 on the total school environment; teaching and decision-making skills in preparation for student teaching; and digital 
 learning opportunities. 
  
- 
-172 
- 
+
 EST 489 Student Teaching in the Elementary Classroom 
 11 credit hours 
 Senior year 
@@ -2756,9 +2661,6 @@ emphasis on SBRR-focused methods and materials, candidates will learn to apply, 
 strategies to reach all learners in classrooms with diverse populations. 
  
  
-175 
- 
- 
 EDUT 457 Assessment & Classroom Management-Secondary     
 2 credit hours 
  
@@ -2857,11 +2759,7 @@ Fall, odd academic years
 International exploratory 
 Prereq: LA 101 
 Reading and analysis of selected literary works from a particular region of the globe.   
- 
- 
- 
-184 
- 
+
 ENG 232 Greek Literature                 
 4 credit hours 
 Spring, odd academic years 
@@ -2933,12 +2831,7 @@ A study of selected works from ca. 1789-1914, including the Romantic, Victorian,
 British literature.  Attention will be paid to the revolutions in poetry, the development of the novel into a significant 
 art form, and the interrelationship of social and political concerns and aesthetic form.   
  
- 
- 
- 
- 
-185 
- 
+
 ENG 314 Modern & Contemporary British Literature 
 4 credit hours 
 Fall, odd academic years 
@@ -3008,12 +2901,7 @@ Co-req: SNT 489, ENG 482, or CWR 482
 A course designed to help students succeed in their internships.  Readings and discussions center on 
 professionalism, negotiation, communication skills, and fostering collegiality, as well as the relationship between 
 the internship and future career plans.  Same as CWR 385.  Junior year.  Credit does not count toward the major. 
- 
- 
- 
- 
-186 
- 
+
 ENG 410 Senior Seminar                 
 4 credit hours 
 Fall, senior year 
@@ -3080,11 +2968,7 @@ Fall
  
 An introduction to the process of editing a literary magazine, including the selection process, advertising, and 
 editing.   
- 
- 
- 
-187 
- 
+
 CWR 002 Apogee Editorial Board                 
 1 activity credit 
 Fall 
@@ -3151,14 +3035,7 @@ CWR 300 Topics in Creative Writing
  
 A topic of current interest in Creative Writing will be taught.  Topics will vary depending on faculty interest.  Course 
 will be offered upon the request of a faculty member and with approval of the Vice President of Academic Affairs. 
- 
- 
- 
- 
- 
- 
-188 
- 
+
 CWR 370 Fiction II 
 4 credit hours 
 Spring, even of junior or 
@@ -3283,16 +3160,7 @@ This course will prepare students to identify muscles commonly used in training 
 the specific muscles. Emphasis will be on progression and modification of movements using machines, free weights, 
 body weight, and other forms of exercise equipment along with proper stretching techniques.   
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-197 
+
  
 EXE 321 Advanced Strength and Conditioning Methods 
 3 credit hours 
@@ -3367,10 +3235,7 @@ Fall
  
 Coreq: EXE 372 
 Lab component to EXE 372 Exercise Physiology. Same as BIO 372L.   
- 
- 
- 
-198 
+
  
 EXE 375 Exercise Testing and Prescription 
 3 credit hours 
@@ -3409,7 +3274,7 @@ Spring
  
 Prereq: BIO 215 or ANAT 210/210L and ANAT 
 220/220L, and EXE 372/372L 
-Coreq: EXE 387L 
+Coreq: EXE 387L     
 The course will provide the student with a mechanical examination of the motion of the human body.  Application 
 of anatomical, physiological, and mechanical data will be used to explain and predict movements of the body to 
 improve technique or prevent injury. A laboratory experience is integrated into class sessions. Same as BIO 387.   
@@ -3433,14 +3298,7 @@ of a method to solve a research question. Students will also learn to become sel
 research through the process of literature review and learn the ethical issues associated with research and progress 
 to the human subject protection application with the college’s Institutional Review Board (IRB).    
  
- 
- 
- 
- 
- 
- 
-199 
- 
+
 EXE 402 Research Methods in Exercise Science II 
 1 credit hour 
 Fall 
@@ -3456,8 +3314,7 @@ EXE 425 Exercise Prescription for Special Populations
 3 credit hours 
 Fall and spring 
 Diversity exploratory 
-Prereq: ANAT 210/210L & 220/220L, EXE 234, 
-251, 372/372L & 375 
+Prereq: ANAT 210/210L & 220/220L, EXE 234, 251, 372/372L &375 
 This course provides practical information on assessment and exercise for persons with a wide range of special 
 diseases and disabilities.  Students will learn and apply knowledge on how to modify exercise for individuals and 
 groups based on age, medical conditions, and special needs. Diseases and exercises will be explored through current 
@@ -3582,11 +3439,6 @@ studying in medical and allied health-care fields by learning a system for defin
 medical words. Basic principles of documentation and the various forms used by allied health-care professionals 
 are also encompassed in this course. Same as BIO 121. 
  
- 
- 
- 
-201 
- 
 KIN 300 Topics in Kinesiology 
 1-3 credit hours 
  
@@ -3683,7 +3535,7 @@ courses in the American Red Cross Swimming and Water Safety Program by developin
 to use the course materials, how to conduct training sessions and how to evaluate participants’ progress. 
 Prerequisite: Candidates must be at least 16 years old (proof of age required) by last class session and successfully 
 complete the basic skills test the first night of class. Basic Skills Strokes: Front Crawl, 25 yds.; Back Crawl, 25 yds.; 
-Sidestroke, 25 yds.; Breaststroke, 25 yds.; Elementary Backstroke, 25 yds.; Butterfly, 15 yds. Candidates must also 
+Sidestroke25 yds.; Breaststroke25 yds Elementary Backstroke25 yds Butterflyyds. Candidates must also 
 maintain position on back for 1 minute in deep water and tread water for 1 minute.   
  
 PED 115 Officiating in Volleyball 
@@ -3773,15 +3625,6 @@ Fall, Immersive, Spring
 Prereq: departmental consent 
 Previous course content is integrated into a practical experience in a coaching setting. 
 
- 
- 
- 
-  
-207 
- 
-French Course Descriptions 
- 
- 
 FRE 110 Elementary French I                 
 4 credit hours 
 Fall 
@@ -3845,12 +3688,10 @@ Fall, even academic years
 Prereq: Successful completion of FRE 314 and 
 FRE 315, or consent of instructor 
 An in-depth study of all aspects of French civilization with an emphasis on the intellectual and cultural achievements 
-in France and French-speaking countries. From 1871 to the present, the stress is on the movement of ideas and 
+in France and French-speaking countries. From-1871 to the present, the stress is on the movement of ideas and 
 social changes through the two World Wars and the Fifth Republic.  
  
- 
-208 
- 
+
 FRE 332 Masterpieces of French Literature         
 4 credit hours 
 Spring, even academic years 
@@ -3916,9 +3757,6 @@ No credit
 Students will save all components leading to their senior essay required in FRE 499; research, drafts, final copy. 
 Contents may also include assignments and projects of the student’s choosing from other coursework. The portfolio 
 is completed with assignments related to leadership and professional development from the PDP 200 course. 
- 
- 
-209 
  
 FRE 499 Senior Essay 
 No credit 
@@ -4025,12 +3863,7 @@ pride; b) A contested site of personal and political activism; and c) A tool for
 discuss disciplines such as soccer, baseball, boxing, and volleyball, as well as key sports events such as the Summer 
 Olympics of 1968 in Mexico, and the World Cups of 1970 in Mexico and 1978 in Argentina.  We will also examine 
 how race, gender, and class were intertwined with sports in Latin America during the Cold War. 
- 
- 
- 
- 
-214 
- 
+
 HIS 214 The South Atlantic World, 1400-1824  
 4 credit hours 
 Spring, even academic years 
@@ -4102,8 +3935,7 @@ Spring, even academic years
 Prereq: HIS 121 or consent of the instructor 
 This course examines major political, economic, cultural, and social developments in the U. S. from 1945 to the 
 present.   
- 
-215 
+
  
 HIS 340 Global Military History  
 4 credit hours 
@@ -4304,10 +4136,7 @@ Diversity exploratory
  
 In this course students will examine how different cultures define leadership and respond to its core elements such 
 as power, vision, conflict, and decision making.  
- 
- 
-223 
- 
+
 LEA 482 Leadership Practicum  
 1-2 credit hours 
  
@@ -4370,30 +4199,12 @@ Prereq: MAT 135 and MAT 140 or consent of instructor
 A continuation of MAT 135.  Course material includes the rotation of functions in three-dimensional space, 
 applications and techniques of integration, the convergence and divergence of sequences and series, and 
 parameterization.  
- 
- 
- 
- 
- 
- 
- 
- 
- 
-233 
- 
+
 MAT 181 Discrete Mathematics I 
 3 credit hours 
 Fall 
-Fulfills LA 103 requirement 
-Note: MAT 131 or MAT 224 or placement into 
-MAT 135 based upon mathematics placement 
-criteria 
-This course provides a foundation for the study of discrete (finite) structures.  The course focuses heavily on proof 
-techniques and style, including proof by contradiction and proof by contraposition.  Boolean algebra and 
-propositional logic make up a large portion of the semester.  Additional topics include introductory set theory, 
-methods of counting, and basic probability, including the ideas of expected value and variance. There is also heavy 
-emphasis on the use of typesetting technology, making this course attractive for those considering graduate school 
-in mathematics, computing or the natural sciences.   
+Fulfills LA 103 requirement Note: MAT "131" or MAT "224" or placement into
+   
  
 MAT 182 Discrete Mathematics II 
 3 credit hours 
@@ -4447,9 +4258,6 @@ Prereq: MAT 142
 A study of ordinary differential equations, their applications, and selected methods of solutions both in closed form 
 and by numerical methods. Includes qualitative methods and use of computer technology.   
  
- 
-234 
- 
 MAT 300  Topics in Mathematics                
 3 credit hours 
 Spring, even academic years 
@@ -4486,19 +4294,18 @@ MAT 343 Probability Theory
 3 credit hours 
 Spring 
  
-                              Prereq: CMP 150, MAT 142, &   
-                                                                     MAT 181      
+Prereq: CMP 150, MAT 142, & MAT 181      
 An introduction to probability theory, the part of mathematics that studies random phenomena.  We model simple 
 random experiments mathematically and learn techniques for studying these models.  Topics covered include a 
 review of combinatorics, axioms of probability, discrete and continuous random variables, common probability 
 distributions, expectations, moment generating functions, conditional probability and conditional expectations, 
 multivariate distributions, covariance, laws of large numbers, and the central limit theorem. 
- 
+
 MAT 344 Mathematical Statistics 
 3 credit hours 
 Fall, odd academic years 
- 
-                                  Prereq: MAT 224 & MAT 343 
+
+Prereq: MAT 224 & MAT 343 
 A calculus-based course that examines the theoretical foundations of sampling and statistical inference, together 
 with their applications to real-life data.  Topics will include sampling theory, properties of estimators, confidence 
 intervals, hypothesis testing, and nonparametric tests.  Regression analysis will be covered in-depth.  The statistical 
@@ -4515,21 +4322,18 @@ and consulting.  Projects will be chosen to require the use of important statist
 design, survey design, or regression analysis.  Recommended especially for majors in the social sciences who are 
 intending to go to graduate school or for those aiming for careers involving statistical applications.  Same as 
 ECO/PSY/SOC 345.  Students may receive credit in only one of these cross-referenced courses.  
- 
- 
-235 
- 
+
 MAT 352 Financial Mathematics 
 3 credit hours 
 Fall, even academic years 
- 
-                                 Prereq:  MAT 142 & MAT 182 
+
+Prereq:  MAT 142 & MAT 182 
 A calculus-based course that provides an introduction to the fundamental concepts of financial mathematics and 
 how those concepts are applied in calculating present and accumulated values for various streams of cash flows.  
 Major topics will include the mathematical foundations of interest rate measurement, annuities, loans, bonds, 
 general cash flows, immunization, interest rate swaps, and determinants of interest rates.  The topics in this course 
 serve as the foundation for the second actuarial exam, Exam 2/FM Financial Mathematics. 
- 
+
 MAT 361 Modern Algebra                  
 3 credit hours 
 Fall, odd academic years 
@@ -4582,11 +4386,7 @@ A capstone course focusing on a re-examination of major mathematical concepts an
 development.  A study of the history and philosophy of mathematics establishes a frame within which students 
 prepare for the senior competency exam.  Emphasizes individual and team student presentations. Satisfies the 
 senior year portfolio requirements for graduation.  
- 
- 
- 
- 
-236 
+
  
 MAT 482 Mathematics Practicum 
 1-2 credit hours 
@@ -4623,8 +4423,7 @@ PDP 330 Big Data and the Professional Workplace
 3 credit hours 
 Spring 
  
-Prereq: CMP/DAT 141 or CMP 150, PDP 200 & 
-MAT/SOC 224 
+Prereq: CMP/DAT 141 or CMP 150, PDP 200 & MAT/SOC 224 
 This course provides an introduction to the field of statistical learning and the essential tools for making sense of 
 large and complex data sets. The topics include linear regression, classification, resampling methods, shrinkage 
 methods, and tree-based methods. Students will work in teams, each under the coaching of an alumni professional 
@@ -4636,8 +4435,7 @@ of the conditions experienced by telecommuting professionals.
 SNT 489 (MAT) Professional Development Internship in Math 
 7-10 credit hours 
 
-244 
- 
+
 Multimedia Journalism Course Descriptions 
  
 MMJ 001 Student Media 
@@ -4703,8 +4501,7 @@ This course introduces students to copyediting, self-editing and fact-checking s
 Web, broadcast and print.  Same as SPR 135. 
  
  
-245 
- 
+
 MMJ 150 Introduction to Digital Photography and Audio Reporting    
 3 credit hours 
 Fall and Spring 
@@ -4768,8 +4565,7 @@ Distribution of individual stories via social media will be required.  Same as S
  
  
  
-246 
- 
+
 MMJ 300 Topics in Multimedia News      
 3 credit hours 
  
@@ -4874,8 +4670,7 @@ training and sight singing skills.
  
  
  
-252 
- 
+
 MUS 112 Piano Proficiency Examination 
 No credit 
  
@@ -4925,8 +4720,7 @@ exploratory
 if 
 accumulated at least four credit hours 
 between any combinations of MUS 121-125; 
-127 
- 
+
 Franklin College Singers is a chamber ensemble that is committed to excellence in choral singing. The ensemble 
 performs in concert on campus, at campus athletic events, in the Franklin community, and in area schools and 
 churches.  The Franklin College Singers uphold the mission statement of the college and strive to represent the 
@@ -4944,15 +4738,13 @@ exploratory
 if 
 accumulated at least four credit hours 
 between any combinations of MUS 121-125; 
-127 
- 
+
 This non-auditioned choir is open to all men at Franklin College who enjoy singing.  Rehearsals will address music 
 reading skills and voice skills.  The ensemble frequently performs for events on campus and in the greater 
 community. Graded.  
  
  
-253 
- 
+
 MUS 123 Women’s Chorus 
 1 credit hour 
 Fall and Spring 
@@ -4963,8 +4755,7 @@ exploratory
 if 
 accumulated at least four credit hours 
 between any combinations of MUS 121-125; 
-127 
- 
+
 This non-auditioned choir is open to all women at Franklin College who enjoy singing.  Rehearsals will address music 
 reading skills and voice skills.  A variety of choral music for women’s voices will be performed on campus and within 
 the Franklin community. Graded.  
@@ -4979,8 +4770,7 @@ exploratory
 if 
 accumulated at least four credit hours 
 between any combinations of MUS 121-125; 
-127 
- 
+
 The Franklin College Band is open to all students with high school band experience and is dedicated to the musical 
 enrichment of the campus and community. The band performs as a pep band for athletic events and as a wind 
 ensemble for concerts each semester. Graded. 
@@ -4995,8 +4785,7 @@ exploratory
 if 
 accumulated at least four credit hours 
 between any combinations of MUS 121-125; 
-127 
- 
+
 The String Ensemble is open to all students with high school orchestra experience and is committed to the musical 
 enrichment of the campus and community. The string ensemble plays chamber music for a variety of events and 
 concludes with a concert each semester.  Graded.  
@@ -5021,8 +4810,7 @@ exploratory
 if 
 accumulated at least four credit hours 
 between any combinations of MUS 121-125; 
-127 
- 
+
 The Percussion Ensemble is a chamber ensemble that is committed to percussion performance.  The ensemble is 
 open to students with a limited knowledge of music who desire to gain experience learning and playing percussion 
 instruments.  The ensemble performs in concert on campus, in the Franklin community, and in area schools.  The 
@@ -5033,8 +4821,7 @@ both on and off-campus.  Graded.
  
  
  
-254 
- 
+
 MUS 170 Class Guitar I  
 2 credit hours 
 Fall and spring 
@@ -5106,8 +4893,7 @@ a student’s ability to think in musical sound.  This course focuses on chromat
  
  
  
-255 
- 
+
 MUS 211 Theory and Musicianship IV 
 3 credit hours 
 Spring, odd academic years 
@@ -5178,8 +4964,7 @@ integrate components of music theory, history and performance in such a way that
 that are appropriate to prepare and conduct rehearsals and performances. 
  
  
-256 
- 
+
 MUS 321 Woodwind Methods and  Pedagogy 
 1 credit hour 
 Spring, odd academic years 
@@ -5250,8 +5035,7 @@ programming issues.  Instrumental music majors should take this class in conjunc
  
  
  
-257 
- 
+
 MUS 343 Survey of Vocal and Choral Literature  
 3 credit hours 
 Fall, even academic years 
@@ -5322,8 +5106,7 @@ Normally the subject is not sufficiently or appropriately covered in departmenta
  
  
  
-258 
- 
+
 MUS 498 Senior Portfolio 
 No credit 
  
@@ -5352,31 +5135,8 @@ research in selecting repertoire, preparing program notes, and promoting the per
 IMO 491 Music Teaching Observation 
 3 credit hours 
  
-Music teaching observation for students planning to complete music teaching licensure. 
+Music teaching observation for students planning to complete music teaching licensure.
 
-PSY 322 Behavioral Neuroscience 
-Independent study, research, or Internship related to Neuroscience (2 credit minimum) 
-  
- 
-
- 
-PSY 324 Psychology of Learning 
- 
- 
- 
-PSY 326 Psychopharmacology 
- 
-Complete course descriptions for each of these offerings may be found elsewhere in this catalog under the 
-appropriate major headings. 
- 
- 
- 
- 
- 
-261 
- 
- Neuroscience Course Descriptions 
- 
 NEU 490 Independent Study 
 1-2 credit hours 
  
@@ -5398,109 +5158,10 @@ NEU 499 Senior Competency Practicum
 0 credit hours 
 Spring, senior year 
  
- 
 An examination covering basic neuroscience principles and material from the core neuroscience curriculum.  Grade 
- of D- or better required. 
+of D- or better required. 
  
- 
-262 
- 
-Philosophy 
- 
-Department: Philosophy and Religion 
-Department Chair: J. Alexander 
-Department Members: J. Alexander 
- 
-Major: Philosophy 
-Minor: Philosophy  
- 
-The Franklin College philosophy program is designed to prepare students for a life of critical examination of 
-themselves and their society; to develop in students an ability to detect the structures, the strengths and 
-weaknesses, and the assumptions of argumentation; and to seek to put these skills to use for the betterment of 
-society. 
- 
-To fulfill this mission, the program provides opportunities for students to understand the basic questions of all 
-disciplines and of human existence by introducing them to the major traditions and thinkers in philosophy.  The 
-program also provides practice in sharpening the skills of logical argument and awareness of the major value 
-systems and how they shape persons and cultures. 
- 
-Students will learn to think philosophically in a variety of contexts; to seek and detect the assumptions involved in 
-argumentation; to judge what is not only in terms of what might be, but as well in terms of what ought to be; and 
-to understand the value of critical self-examination. 
- 
- 
-263 
- 
-Philosophy Major 
-A major in philosophy is offered for those students preparing for professional careers in college teaching, law, 
-medicine, and the ministry.  As well, the area is strongly recommended for persons expecting careers involving 
-significant amounts of decision-making, such as management, or involving the helping professions.  All courses are 
-available to all students except 400 level philosophy courses, which are not available to first-year students.  PHL 
-470 and PHL 490 require the consent of the instructor.  All prerequisites require a C- or better.  
- 
-Core Requirements 
-PHL 116 Introduction to Philosophy 
-PHL 210 Logic 
- 
- 
-PHL 499 Senior Competency Practicum 
- 
- 
-Professional Development Requirements 
-PDP 200 Preparing for Your Internship 
- 
-PHL 498 Portfolio Development Practicum 
- 
-SNR/SNT 489 (PHL) Senior Year Experience/Project 
- 
-One of the following courses 
-PHL 220 Principles of Ethics 
-PHL/POL 360 Social and Political Thought 
- 
-One of the following courses 
-PHL 230 Philosophy of Language 
- 
- 
-PHL 314 History of Philosophy 
- 
-One of the following courses 
-PHL 325 Topics in Value 
- 
- 
- 
-Nine to ten additional hours in PHL 
- 
-Related Field Requirement 
-Twelve semester hours to be approved by the department and submitted in writing to the Academic Records  
-Office. All related field courses require a C- or better. 
- 
-A student planning to do graduate work should acquire a reading knowledge of French. 
- 
- 
-264 
- 
-Philosophy Minor 
- 
-Core Requirements 
-PHL 116 Introduction to Philosophy 
-PHL 210 Logic 
- 
-One of the following courses 
-PHL 220 Principles of Ethics 
- 
-PHL/POL 360 Social and Political Thought 
- 
- 
-One of the following courses 
-PHL 230 Philosophy of Language 
-PHL 314 History of Philosophy 
- 
-One additional PHL course beyond those listed above 
- 
- 
-265 
- 
-Philosophy Course Descriptions 
+
  
 PHL 116 Introduction to Philosophy             
 4 credit hours 
@@ -5569,14 +5230,13 @@ Affairs.
  
  
  
-266 
- 
+
  
 PHL 314 History of Philosophy             
 4 credit hours 
 Spring, odd academic years 
 Reasoning & Values exploratory 
-Prereq:  One additional PHL course 
+Prereq: One additional PHL course 
 This course covers key figures in the history of western philosophy.  Time periods covered will include Pre-Socratic, 
 Ancient, Medieval, Modern, and developments in the early 20th century.  Will cover major works by Plato, Aristotle, 
 Augustine, Aquinas, Descartes, Spinoza, Hobbes, Locke, Rousseau, Hume, Kant, James, Wittgenstein, Sartre, and 
@@ -5586,7 +5246,7 @@ PHL 325 Topics in Value
 4 credit hours 
 Spring 
  
-Prereq:  One additional PHL course 
+Prereq: One additional PHL course 
 This course offers a rotating topic of major concern in value theory, broadly construed.  Areas within value theory 
 include:  Metaethics, Normative Ethics, Social and Political Theory, Applied Ethics, Aesthetics, and Non-Ideal Theory.  
 This course will focus on creating students’ knowledge and understanding of the nature of value and normativity, 
@@ -5641,8 +5301,7 @@ offerings.
  
  
  
-267 
- 
+
 PHL 498 Portfolio Development Practicum 
 No credit 
  
@@ -5673,258 +5332,8 @@ Franklin College requires a senior year experience (SNR/SNT 489) of all graduati
 participation in PDP 200 and a practical professional development experience related to the field of philosophy and 
 the student’s future plans are normal components.  Options for completing this requirement will be as determined 
 for each student in consultation with the department.   
- 
- 
-268 
- 
-Political Science 
- 
-Department Chair: R. Smith 
-Department Members: A. Fetter-Harrott, R. Smith 
- 
-Major: Political Science, Political Economy 
-Minors: Political Science, International Relations, Political Economy 
- 
-The political science department provides the means by which, within the liberal arts curriculum, undergraduate 
-students learn to understand the political process (at both domestic and international levels.)  The place of political 
-science in a liberal arts setting has been established for the better part of 3,000 years.  The department offers two 
-sets of courses: one concerned with international politics, and another concerned with American politics.  Like the 
-ancient Greek philosophers, political science is concerned both with understanding and evaluating the processes 
-which allocate societal values.  In so doing, our students will be able to appreciate and understand these two levels 
-of the political process. The department offers core coursework within two majors, which each focus on different 
-aspects of the study of politics. 
- 
-The major in Political Science builds from a core academic and philosophical examination of politics through to 
-practical application. Students majoring in Political Science live the connection between theory and practice as they 
-explore the interplay of politics/law in their choice of an immersive learning experience. Throughout the rest of the 
-curriculum students expand upon this knowledge and experience base to build a formidable resume that includes 
-completion of their own independent research prior to graduation.  As a result of this training, students will be able 
-to think analytically about the problems that face humankind internationally and domestically.  They will be 
-prepared for such things as law school, graduate school, employment by government at the local, state, and federal 
-levels, as well as careers in teaching. 
- 
-All political science majors and minors must earn a grade of C- or better in all required political science courses. 
-Students majoring in political science must complete the 29 semester hours of political science with a minimum 
-graduation GPA of 2.00 (A=4.00). Students wishing to minor in political science or international relations must 
-complete all required courses with a minimum graduation GPA of 2.00 (A=4.00). 
- 
-The major in Political Economy is Franklin College’s interdisciplinary major. Coursework within the major examines 
-the relationship between politics and economics in modern societies and focuses on problems of both domestic 
-and international policy. Students majoring in Political Economy study the political and economic factors that affect, 
-and are affected by, systems of production, exchange, and distribution. That is, political economy majors analyze 
-how international and domestic political factors interact with micro- and macro-economic factors to determine 
-outcomes in a wide variety of areas including globalization, international trade and finance, regulation, 
-development, taxes, and income distribution. As a result, students will be able to think logically and analytically 
-about the problems that face humankind internationally and domestically. They will be prepared for law school, 
-graduate school and employment by private sectors and government at the local, state, and federal levels, as well 
-as careers in teaching. 
- 
-All political economy majors and minors must earn a grade of C- or better in all required coursework for the major, 
-minor and related field.  Students majoring in political economy must complete the all required major/minor 
-courses with a minimum graduation GPA of 2.00 (A=4.00).. Furthermore, regardless of major, all students taking 
-economics courses must complete all prerequisites with a C- or better. 
- 
- 
-269 
- 
-Political Science Major 
- 
-Core Requirements 
-POL 110 American National Government 
- 
-POL 360 Social and Political Thought 
- 
-POL 469 Methods of Political Inquiry 
-POL 470 Senior Seminar 
-POL 499 Senior Competency Practicum 
-MAT 224 Basic Applied Statistics 
- 
-One of the following courses 
-POL 410 American Constitutional Law I: Powers and Duties  
-POL 420 American Constitutional Law II: Civil Rights and Liberties 
- 
-Immersive Learning Requirement – one of the following courses 
-POL 225 State and Local Government 
-POL 234 American Political Participation 
-POL 275 Law and Politics in American Society 
-Any other experiential course relating to political science by approval of the Department 
- 
-Two of the following courses – not the same courses as used above 
-POL 225 State and Local Government 
- 
- 
-POL 234 American Political Participation 
- 
-POL 275 Law and Politics in American Society 
-POL 316 American Presidency 
-POL 317 American Congress 
- 
- 
-POL 336 Introduction to Public Policy 
-POL 350 Public Administration 
-POL 410 American Constitutional Law I: Powers and Duties 
-POL 420 American Constitutional Law II: Civil Rights and Liberties 
- 
-Two of the following courses – not the same course as used above 
-POL 120 Introduction to International Relations 
- 
-POL 130 Introduction to Comparative Politics  
-  
-POL 320 International Security and Conflict Management 
-POL 341 International Law and Organizations 
-POL 355 Comparative Politics in Developed Countries 
-POL 390 American Foreign Policy 
- 
-Additional POL credits, if necessary, to meet the minimum required of 25 hours beyond POL 110.  
- 
-Professional Development Requirements 
-POL 498 Portfolio (take with POL 470) 
- 
-SNR/SNT489 (POL) Senior Internship/Project  
- 
-Related Field Requirement 
-Twelve semester hours in a related field such as journalism, philosophy, history, economics, psychology, or 
-sociology (any variations must be approved by the department and submitted in writing to the Academic 
-Records Office). Courses may be taken outside these departments for a related field only with the consent of 
-270 
- 
-the chairperson of the department of political science. All related field courses must be completed with a 
-grade of D or better.  
- 
-NOTE: POL 110 should be taken before the completion of the sophomore year. 
- 
-Political Economy Major 
-Cannot be combined with Economics and/or Political Science majors 
- 
-Core requirements 
-Political Science Field 
-POL 110 American National Government 
- 
-POL 120 Introduction to International Relations 
-POL 130 Introduction to Comparative Politics 
-POL 336 Introduction to Public Policy 
-POL 360 Social and Political Thought 
- 
-Economics Field 
-ECO 115 Principles of Economics 
-ECO 223 Intermediate Macroeconomics 
- 
-Statistics Field 
-ECO 380 Econometrics 
- 
-Senior Capstone Courses 
-ECO 475 Strategic Implementation Project 
-ECO 499 Senior Competency Practicum or POL 499 Senior Competency Practicum 
- 
-Elective courses 
-Political Science Field – choose three courses from the following 
-POL 316 American Presidency 
-POL 317 American Congress 
- 
- 
-POL 320 International Security and Conflict Management 
-POL 341 International Law and Organizations 
-POL 350 Public Administration 
-POL 390 American Foreign Policy 
-POL 410 American Constitutional Law I: Powers and Duties 
-POL 420 American Constitutional Law II: Civil Rights and Liberties 
- 
-Economics Field – choose two courses from the following 
-ECO 330 Money and Banking                            
-ECO 350 International Business and Finance  
-ECO 360 Labor Economics and Management 
- 
-Professional Development Requirement 
-PDP 200 Preparing for Your Internship 
- 
-INT XXX Internship in Economics or related field (4 credits) or SNR/SNT489 (POL) Senior Internship/Project (4-
-6 credits) 
-ECO 482 Professional Practicum or POL 498 Portfolio (take with POL 470) 
- 
- 
-271 
- 
-Related Field Requirement 
-MAT 131 Introduction to Quantitative Analysis 
-MAT 224 Basic Applied Statistics 
- 
-Two of the following courses 
-ACC 341 Introduction to Taxation 
-BUS 341 Business Law I 
-PHL 220 Principles of Ethics 
-PSY 320 Social Psychology 
-SOC 210 Criminal Justice 
-SOC 321 Criminology 
-Other courses approved by faculty from both political science and economics 
- 
-Political Science Minor 
- 
-Core requirements 
-POL 110 American National Government 
- 
-POL 120 Introduction to International Relations 
-POL 130 Introduction to Comparative Politics  
-POL 360 Social and Political Thought 
- 
-One of the following courses 
-POL 410 American Constitutional Law I: Powers and Duties 
-POL 420 American Constitutional Law II: Civil Rights and Liberties 
- 
- 
-International Relations Minor 
-Note: This minor is not available to political science majors. 
- 
-Core requirements 
-POL 120 Introduction to International Relations 
- 
-POL 130 Introduction to Comparative Politics  
-POL 341 International Law and Organizations 
-POL 360 Social and Political Thought 
- 
-One of the following courses 
-BUS/ECO 350 International Business and Finance 
-POL 355 Comparative Politics in Developed Countries  
-HIS 361 East Asian History 
-HIS 365 History of the Middle East 
-PHL/REL 250 Living Religions East 
- 
-Two semesters of a foreign language offered by Franklin College. 
- 
- 
-272 
- 
-Political Economy Minor 
-Note: This minor is not available to political science majors or minors, economics majors or minors, or international 
-relations minors.  
- 
-Core requirements 
-Political Science Field 
-POL 110 American National Government 
- 
-POL 120 Introduction to International Relations 
-POL 336 Introduction to Public Policy 
- 
-Economics Field 
-ECO 115 Principles of Economics 
-ECO 223 Intermediate Macroeconomics 
- 
-Elective courses 
-Political Science Field – choose one course from the following 
-POL 130 Introduction to Comparative Politics 
-POL 225 State and Local Government 
-POL 316 American Presidency 
-POL 317 American Congress 
-POL 360 Social and Political Thought 
- 
-Economics Field – choose one course from the following 
-ECO 330 Money and Banking 
-ECO 350 International Business and Finance  
-ECO 360 Labor Economics and Management 
- 
-273 
- 
-Political Science Course Descriptions 
- 
+
+
 POL 110 American National Government               
 4 credit hours 
 Fall, 
@@ -6001,8 +5410,7 @@ both international and domestic, may be selected by the department. Courses will
 a faculty member and with approval of the Vice President of Academic Affairs.  
  
  
-274 
- 
+
 POL 316 American Presidency  
 4 credit hours 
 On demand 
@@ -6076,8 +5484,7 @@ Fall
 Study of social and political ideas such as the nature and justification of political power, the nature and legitimacy 
 of governments, and related topics, from Plato to the present. Same as PHL 360.  
  
-275 
- 
+
 POL 375 Justice and Advocacy 
 2 credit hours 
 Fall, odd academic years 
@@ -6152,8 +5559,7 @@ Prereq: departmental consent is required
 Courses are designed to encourage student initiative and to provide a degree of flexibility in the departmental 
 program.  Normally the subject is not sufficiently or appropriately covered in departmental course offerings.  Course 
 can consist of individualized reading and research in a field or area of student interest or need.   
-276 
- 
+
 POL 498 Portfolio 
 No credit  
 Spring 
@@ -6180,253 +5586,6 @@ SNR/SNT 489 (POL) Senior Internship/Project
  
  
 A senior internship/project which may also be completed in the junior year. 
- 
- 
- 
- 
-277 
- 
-Pre-Law Curriculum 
- 
-Program Advisors: A. Fetter-Harrott, R. Smith 
- 
-Program: Pre-Law 
- 
-Students who plan to enter a law school upon graduation from Franklin College may complete any major. Those 
-most prepared for the challenge of law school practice will develop an understanding of the U.S. legal system, its 
-historical and philosophical bases, and issues central to ethical, contemporary practice.  To earn a pre-law 
-designation upon graduation from Franklin College, students must complete the following program with the 
-guidance of the pre-law advisors.   
- 
-Required courses 
-POL 110 American National Government 
-POL 275 Law and Politics in American Society 
- 
-Category A: One of the following courses 
- 
-MAT 181 Discrete Mathematics I 
- 
-PHL 210 Logic 
- 
-Category B: One of the following courses 
- 
-ENG 227 Advanced Grammar 
- 
-ENG 228 Advanced Composition 
- 
-Category C: One of the following courses 
-BUS 341 Business Law I 
-MMJ/PRL/SPR 445 Communication Law in a Digital World 
-POL 341 International Law and Organizations 
-POL 410 American Constitutional Law I: Powers and Duties 
-POL 420 American Constitutional Law II: Civil Rights and Liberties 
- 
-Category D: 10 or 11 semester hours* from the following courses 
-Any course listed in Category C above 
-ACC 221 Principles of Accounting I  
-ACC 222 Principles of Accounting II  
-BIO 225 Bioethics 
-BIO/CHE 334 Biochemistry 
-BIO/CHE 392 Techniques in Biotechnology and Biochemistry 
- 
-BUS/ECO 340 Business Organization and Public Policy 
- 
-BUS/ECO 360 Labor Economics and Management  
-ECO 115 Principles of Economics 
-ECO 221 Intermediate Microeconomics 
-ENG 333 Shakespeare 
-HIS 231 African American History  
- 
-HIS 332 History of Women in the United States  
-LEA 220 Leadership: Foundations, Theory, and Practice 
-MAT/SOC 224 Basic Applied Statistics 
-PHL 220 Principles of Ethics 
-278 
- 
-POL 225 State and Local Government 
-POL 336 Introduction to Public Policy 
-POL 360 Social and Political Thought 
-SOC 118 Introduction to Sociology 
-SOC 210 Criminal Justice 
-SOC 321 Criminology 
- 
-*Students who take either BUS 341 Business Law I or MMJ/PRL 445 Communication Law in a Digital World to fulfill 
-their Category C requirement must take 11 hours from Category D.  All others must take only 10 hours from Category 
-D. 
- 
-Additionally, students may petition the Pre-Law Program Advisors to substitute another course not listed in the 
-catalogue (such as a Topics, Immersive Term, or Independent Study course) to meet the 10 or 11 hour requirement. 
- 
-Internship Requirement 
- 
-Students must complete at least one high quality law-related internship approved by the pre-law advisors. 
- 
-Complete course descriptions for each of these offerings may be found elsewhere in this catalog under the 
-appropriate major headings.  Note that some course may have prerequisites. 
- 
- 
- 
-279 
- 
-Psychology 
- 
-Department: Psychology 
-Department Chair: J. Bromley 
-Department Members: J. Bromley, W. Eiler, K. Flora 
- 
-Major: Psychology 
-Minors: Psychology 
-Associated Major:  Neuroscience 
-Associated Minor:  Neuroscience 
-Cooperative Program: Accelerated Master of Public Health 
- 
-Program Information: Psychology is the scientific study of human behavior. Even the most introverted, isolated 
-individuals must interact with others at some point; nobody is exempt from the findings of the field of psychology. 
-Because most people interact with others regularly, most people use psychology on a daily basis whether they are 
-aware of it or not. Findings from the field of psychology can be applicable to a broad range of occupations and roles, 
-from managers to teachers to parents. Thus, psychology provides the insight to better understand ourselves and 
-our wide network of relationships.  
- 
-Operating within the strong liberal arts structure at Franklin College, the Psychology Program communicates to 
-students that psychology offers unique ways of thinking and knowing, which have great potential for helping people 
-identify and cope with the world’s problems. Additionally, the program aims to develop in students the compassion, 
-command and comprehension they will need to work toward making the world a better place for all individuals to 
-lead satisfying and productive lives.  
- 
-The Psychology Program strives to:  
-• provide students with a broad and deep knowledge base in psychology  
-• engage students in practical applications of that knowledge base  
-• enable students to develop methodological competence and ethical sensitivity  
-• encourage students to play an active role in their education both inside and  
-outside of the classroom.  
- 
- 
-All major and minor courses and prerequisites must be completed with a grade of C- or better. 
- 
- 
-280 
- 
-Psychology Major  
-Minimum of 30 semester hours as follows.  A maximum of 9 credit hours of transfer credit may be applied to the 30 
-hours of coursework required for the psychology major. 
- 
-Core Requirements 
-PSY 117 General Psychology 
-PSY 227 Introductory Statistics and Research Methods in Psychology 
-PSY 240 Abnormal Psychology 
-PSY 320 Social Psychology 
-PSY 322 Behavioral Neuroscience 
-PSY 419 Advanced Statistics and Research Methods in Psychology I 
-PSY 420 Advanced Statistics and Research Methods in Psychology II 
-PSY 422 History and Systems 
-PSY 499 Senior Competency Practicum 
- 
-Professional Development Requirements 
-PDP 200 Preparing for you Internship 
-PSY 482 Professional Development in Psychology 
-PSY 498 Portfolio 
-SNT 489 PSY Internship in Psychology 
- 
-One course from two of the following three categories 
-Category A – Developmental/Applied 
-PSY 226 Lifespan Development 
-PSY 250 Industrial Organizational Psychology 
-PSY 330 Psychology and Law 
-PSY 416 Health Psychology 
- 
-Category B – Personality/Counseling 
-PSY 310 Introduction to Counseling 
-PSY 315 Psychology of Diversity 
-PSY 421 Theories of Personality 
- 
-Category C – Cognitive/Biological 
-PSY 210 Introduction to Neuroscience 
-PSY 324 Psychology of Learning 
-PSY 326 Psychopharmacology 
-PSY 328 Cognitive Psychology 
- 
-Related Field Requirement:  Students are required to choose ONE of the following options 
-Related Field Option - Twelve credit hours from one academic field outside of psychology as approved by 
-the department. 
-Minor Option - A minor in an academic field outside of psychology.  Students must meet the requirements 
-of the department offering the minor. 
-Double Major Option - A second major at Franklin College. Students must meet all requirements for the 
-second major and the psychology major 
- 
-Sequencing Notes: A student is strongly recommended to take PSY 227 in the first or sophomore year since PSY 227 
-is a prerequisite for the PSY 419/PSY 420 course sequence. Students contemplating a major or minor in psychology 
-must receive a grade of C- or better in PSY 117 before registering for upper level classes. Another general 
-281 
- 
-recommendation is that PSY 320 should be completed in the junior year. Students should pay particular attention 
-to alternate year course offerings and carefully plan, in close consultation with their advisor, the timing for taking 
-these courses. Undergraduate research is recommended for students planning to attend graduate school. 
- 
-Neuroscience Major 
-Please see separate Neuroscience section in this course catalog. 
- 
-Psychology Minor 
- 
-Core Requirement 
-PSY 117 General Psychology 
- 
-Four of the following courses - At least one of the four courses must be a 300 or 400 level course.  
-Students should select four of the following courses best suited to supplement their major emphasis or career 
-interest, after consultation with advisor or psychology faculty.   
-PSY 226 Lifespan Development 
-PSY 227 Introductory Statistics and Research Methods in Psychology 
-PSY 240 Abnormal Psychology 
-PSY 250 Industrial Organizational Psychology 
-PSY 310 Introduction to Counseling 
-PSY 315 Psychology of Diversity 
-PSY 320 Social Psychology 
-PSY 322 Behavioral Neuroscience 
-PSY 324 Psychology of Learning 
-PSY 326 Psychopharmacology 
-PSY 328 Cognitive Psychology 
-PSY 330 Psychology and Law 
-PSY 416 Health Psychology 
-PSY 421 Theories of Personality 
-  
-Neuroscience Minor  
-Please see separate Neuroscience section in this course catalog. 
- 
- 
-282 
- 
-Cooperative Programs in Psychology  
-Franklin College offers an accelerated Master of Public Health (AMPH) in the form of a 3 + 2 combined Bachelor of 
-Arts (3) and Master of Public Health (2) degree with the IUPUI Richard M. Fairbanks School of Public Health. This 
-consists of a common core and specific courses required for each particular program. After completion of three 
-years of college work and fulfilling Franklin College graduation requirements (except total graduation hours and 
-completion of one of the two required diversity and international courses), students may receive a bachelor of arts 
-degree from Franklin College upon completing one year at IUPUI, for a total of 120 semester hours. Successful 
-completion of the first year in the cooperative program satisfies the internship or senior year experience 
-requirement for the major. Any student following these programs who is not accepted by IUPUI after the third year 
-could return to Franklin College and receive a bachelor of arts in psychology by completing: 1) all of the remaining 
-requirements for the psychology major, 2) one additional diversity or international course, and 3) 120 total 
-semester hours required for graduation. (Students with a declared enrollment in the aforementioned cooperative 
-program will be given priority during registration in subsequent semester(s)).  See the Public Health section of this 
-catalog for more details. 
- 
-3+2 Program in Psychology and Athletic Training 
-Franklin College offers an accelerated Master of Science in Athletic Training (MSAT) track in the form of a 
-combined Bachelor of Arts in Psychology and Master of Science in Athletic Training, with the potential to 
-complete both degrees in five years. This cooperative program consists of common core and specific courses 
-required for each particular program, in addition to specific pre-requisites for application to the MSAT program. 
-Upon acceptance to the MSAT program, the fourth year consists of primarily MSAT graduate courses, while also 
-finishing any required undergraduate courses. After completing three years of undergraduate courses and one 
-year in the MSAT program, students graduate with a Bachelor of Arts degree in Psychology from Franklin College. 
-After completing the second year in the MSAT program, students graduate with their Master’s in Athletic Training.  
- 
-Students interested in this option should apply to the MSAT program by December 31st of their junior year to 
-meet the early admission deadline for the MSAT program. Please refer to the Master of Science in Athletic 
-Training section of this catalog for more details.  
- 
- 
-283 
- 
-Psychology Course Descriptions 
  
 PSY 117 General Psychology  
 4 credit hours 
@@ -6494,9 +5653,6 @@ Prereq: PSY 117
 Offers a survey of adult abnormal psychology integrating theory and research with case histories and first-person 
 narratives. 
  
- 
-284 
- 
 PSY 250 Industrial Organizational Psychology  
 4 credit hours 
 Fall, even academic years 
@@ -6560,15 +5716,7 @@ Prereq: PSY 117
 A course focused on theories and principles of animal and human learning.  Topics include innate behaviors and 
 habituation, classical conditioning, operant conditioning, observational and motor learning.    
  
- 
- 
- 
- 
- 
- 
- 
-285 
- 
+
 PSY 326 Psychopharmacology 
 4 credit hours 
 Spring, even academic years 
@@ -6664,10 +5812,8 @@ PSY 422 History and Systems
 3 credit hours 
 Spring 
  
-Prereq: at least 15 semester hours of PSY excluding 
-PSY 117, senior standing, psychology major;  
-Coreq: PSY 499 
-Historical antecedents of contemporary psychological systems, with special emphasis on the relationship of these 
+Prereq: at least 15 semester hours of PSY excluding PSY 117 senior standing, psychology major;  
+Coreq: PSY 499 Historical antecedents of contemporary psychological systems, with special emphasis on the relationship of these 
 systems to contemporary psychological theory.  
  
 PSY 470 Psychology Seminar 
@@ -6724,210 +5870,7 @@ Prereq:  PDP 200
 Internship experience in a field related to the student’s chosen career field and in conjunction with professional 
 development.  Credit hours vary according to particular internship experience.  May be completed after the student 
 completes PDP 200. 
- 
- 
-288 
- 
-Accelerated Master of Public Health 
- 
-Franklin College offers an accelerated Master of Public Health Program (AMPH) in the form of a 3 + 2 combined 
-Bachelor of Arts (3 years) and Master of Public Health (2 years) degree with the IUPUI Richard M. Fairbanks School 
-of Public Health. Upon successful completion of a minimum of 105 credit hours (in three years) of baccalaureate 
-instruction at Franklin College and the core requirements of the Master of Public Health degree (in the 4th year) at 
-IUPUI (15 credit hours), the student will be eligible to receive a baccalaureate degree from Franklin College.  After 
-completion of the required credits in the MPH program, the student will then be eligible to receive the MPH degree 
-from IUPUI. 
- 
-The MPH core graduate level courses which will be part of the credits that the student will take in the fourth year 
-(1st year at IUPUI) of the AMPH program to fulfill the final 15 credit hours required for an FC Bachelor of Arts degree 
-are: 
- 
-S500: Social and Behavioral Science in Public Health (3 hours) 
- 
-H501: US Health care Systems and Health Policy (3 hours) 
- 
-E517: Fundamentals of Epidemiology (3 hours) 
- 
-A519: Environmental Science in Public Health (3 hours) 
- 
-B551: Biostatistics for Public Health (3 hours) 
- 
-Students interested in this three-year-plus-two-year program should carefully plan Franklin College course 
-selections after consultation with the following AMPH faculty advisors: Jason Jimerson, Allison Fetter-Harrott, and 
-Kristin Flora. 
- 
-The criteria utilized by the Richard M. Fairbanks School of Public Health to select students for admission to the 
-program include the following: 
- 
-1. Cumulative grade point average of 3.50 (A= 4.00) or better. 
-2. Minimum of one year of undergraduate mathematics (MAT/PSY/SOC 224 recommended). 
- 
-3. Minimum of one semester human physiology biology course 
- 
-4. Competent written and oral communication skills. 
- 
-5. Completed application package (contact Dr. Steven Lacy at IUPUI). 
- 
-6. Personal Interview 
- 
-The application to the Richard M. Fairbanks School of Public Health program must be completed by July 1st of your 
-third year at FC for the MPH program which begins the following fall.  
- 
-Academic prerequisites for the AMPH program: 
- 
-Biological Science: At least one semester of Human Anatomy & Physiology 
- 
-Chemistry: At least one semester of Introductory Chemistry or higher   
- 
-Mathematics: One year of college math including MAT/PSY/SOC 224 
- 
-The minimum total of 105 semester hours required for admission to the Richard M. Fairbanks School of Public 
-Health programs must include all graduation requirements at Franklin College: a departmental major, six immersive 
-term hours, and the liberal arts program requirements. Successful completion of a Public Health related internship 
-at FC will satisfy the internship requirements for the MPH program as well.  Once students are admitted into the 
-MPH program at IUPUI they will be expected to maintain full time graduate student status (at least 9 Cr Hours per 
-289 
- 
-semester) and take the core courses listed above in their first year of the graduate program to allow them to obtain 
-their FC degree at the end of their fourth year in the AMPH program. 
- 
-Tuition and fees for the MPH program are paid directly to IUPUI. For additional information about this program, 
-students should consult with the faculty advisors listed above. 
- 
- 
-290 
- 
-Public Relations 
- 
-Department: Journalism 
-Pulliam School of Journalism Director: J. Krull 
-Department Members:  S. McDaniel 
- 
-Major: Public Relations  
-Minor: Public Relations  
- 
-Public relations is a management function that helps business, government and nonprofit organizations reach 
-desired outcomes by ethically and effectively building and maintaining relationships with target audiences. Deeply 
-rooted in the liberal arts tradition of Aristotle's Rhetoric teachings, PR has become an engaging, fast-paced, 
-demanding and strategically sophisticated profession that today uses multi-media communications tactics and 
-technologies.  
- 
-Hallmarks of the profession include, but are certainly not limited to, a) a commitment to freedom of speech and 
-expression; b) clear, concise and compelling writing; c) an understanding of and appreciation for journalism's role 
-in a democracy; d) appreciation of and commitment to multicultural awareness; e) mass media literacy; f) critical 
-thinking and problem-solving skills; g) adherence to the codes of ethics of the Public Relations Society of America 
-and the International Association of Business Communicators.  
- 
-Students pursue in-depth academic studies of public relations while also gaining real-world, real-time learning 
-experiences. Graduates are well prepared to launch careers in public relations and related fields. The public 
-relations major also serves students who plan to pursue graduate or professional degrees in communications or 
-other areas. The public relations program encourages students to explore possibilities for double majors, and also 
-possibilities for study abroad and study away experiences.  
- 
-Franklin College is the alma mater of one of the key historical figures in American public relations – Elmer Davis, 
-who directed the Office of War Information for President Franklin  Roosevelt during World War II.   
- 
-All major and minor courses must be completed with a grade of C- or better. 
-291 
- 
-Public Relations Major  
- 
-Core Requirements 
- 
- 
- 
-PRL 221 Public Relations Practice Areas  
-PRL 222 Social Media Strategy and Tactics 
- 
- 
- 
-  
-PRL 333 Public Relations Writing 
-PRL 334 Learning Engagement with Public Relations Professionals 
-PRL 375 Public Relations Research 
-PRL 480 Strategic Communications Campaigns 
-PRL 498 Portfolio Development Seminar  
-PRL 499 Senior Competency Seminar 
- 
-Optional Course 
-PRL 303 Sports Information and Public Relations 
- 
-Professional Development Requirements 
-PRL 120 Ethics and Professional Development 
- 
-  
-SNT 489 PRL Senior Year Internship 
- 
-Media Skills and Knowledge Requirements 
-PRL 150 Introduction to Digital Photography and Audio Reporting 
-PRL 155 Video for Digital Journalism 
-PRL 180 Publications Design 
-PRL 445 Communication Law in a Digital World 
- 
-Activity Credits 
-All PRL majors must participate and earn credit for at least THREE multimedia journalism activity experiences such 
-as: 
-MMJ 001 Student Media 
- 
- 
- 
-MMJ 002 Statehouse File 
- 
- 
- 
- 
-MMJ 005 TV News 
- 
-MMJ 007 Media Manager 
- 
-Related Field Requirements: Students are required to choose ONE of the following options  
-Related Field Option – Twelve credit hours from one academic field outside of public relations.  Cross-
-listed courses with PRL courses, such as PRL/MMJ Publication Design, cannot count toward a related field.  
-Minor Option – A minor in an academic field outside of public relations.   Students must meet the 
-requirements of the department offering the minor.  Courses cross-listed with PRL, such as PRL/MMJ 180 
-Publication Design, cannot count toward a minor. 
-Double Major Option – A second major at Franklin College. Students must meet all requirements for the  
-second major AND the public relations major.  Courses cross-listed with PRL, such as PRL/MMJ 180 
-Publication Design, cannot count toward a second major. 
- 
- 
- 
- 
- 
- 
- 
- 
-292 
- 
-Public Relations Minor (except for Multimedia Journalism and Sports Communication Majors) 
- 
-Core Requirements 
-PRL 150 Introduction to Digital Photography and Audio Reporting 
-PRL 155 Video for Digital Journalism 
-PRL 180 Publication Design 
-PRL 221 Public Relations Practice Areas 
-PRL 334 Learning Engagement with Public Relations Professionals 
-PRL 445 Communication Law in a Digital World 
- 
-Public Relations Minor for Multimedia Journalism and Sports Communication Majors 
- 
-Core Requirements 
-PRL 221 Public Relations Practice Areas  
-PRL 222 Social Media Strategy and Tactics 
- 
- 
- 
-  
-PRL 333 Public Relations Writing 
-PRL 334 Learning Engagement with Public Relations Professionals 
-BUS 101 Introduction to the Business Mindset 
-SOC 230 Introduction to Nonprofits 
- 
- 
- 
-293 
- 
-Public Relations Course Descriptions  
+
  
 PRL 120 Ethics and Professional Development 
 3 credit hours 
@@ -6989,13 +5932,7 @@ The study and practical application of social media best practices in public rel
 media policy development/management, using social media within strategic communications plans, case studies 
 in social media success, and basic analysis of social media metrics.  Course includes hands-on practice in results-
 driven social media simulations. 
- 
- 
- 
- 
- 
-294 
- 
+
 PRL 300 Topics in Public Relations 
 3 credit hours 
  
@@ -7125,131 +6062,7 @@ Summer
 A practical professional experience in public relations. In special circumstances, and with permission of a majority 
 of Pulliam School faculty, a significant experience in mass media, and not specifically in public relations, may be 
 accepted. Pass/Fail grading.  
- 
- 
-296 
- 
-Religion 
- 
-Department: Philosophy and Religion 
-Department Chair: J. Alexander 
-Department Members: J. Alexander 
- 
-Major: Religious Studies (Optional Track:  Religion and Nonprofits) 
-Minor: Religious Studies 
- 
-The Franklin College religious studies program is designed to provide students with the opportunity to study religion 
-as a response to the basic question of human life, to become familiar with the religious perceptions and practices 
-in Western and Eastern cultures, and to develop their own theological understandings and responses. 
- 
-The program acquaints students with the diverse traditions of the world religions, explores the various dimensions 
-of the phenomenon of religion, and provides insights into the spiritual quest for the “Divine” or the “Holy.” 
- 
-Students will gain a foundational knowledge of major religious traditions, a substantive and applied knowledge of 
-the major religious questions, and be able to analyze religious expressions in this culture and in the global 
-community. 
- 
- 
-297 
- 
-Religious Studies Major 
-A major in religious studies is intended to prepare students for entrance into the field of church vocations (pastorate, 
-Christian education, counseling), the nonprofit sector, or for graduate work in preparation for teaching religion on 
-a college or university level. REL 340, 350, 470 and 490 require consent of the instructor or specified prerequisites. 
-Courses numbered 400 are not available to first-year students. All other religious studies courses are available as 
-electives to all students. All prerequisites require a C- or better.  The major in religious studies consists of 26 semester 
-hours in religious studies, plus 12 semester hours in supporting fields. 
- 
-Core Requirements 
-REL 114 Introduction to Religion 
-REL 310 Historical Faith and Modern Culture 
-REL 365 Philosophy of Religion 
-REL 499 Senior Competency Practicum 
- 
-Professional Development Requirements 
-PDP 200 Preparing for Your Internship 
-REL 498 Portfolio Development Practicum 
-SNR/SNT 489 REL Senior Year Experience/Project 
- 
-One of the following courses 
-REL 220 Old Testament Life and Literature 
-REL 230 New Testament Life and Literature 
- 
-One of the following courses 
-REL 250 Living Religions East 
-REL 260 Living Religions West 
- 
-Plus additional Religion coursework to meet the minimum requirement of 26 credit hours 
- 
-Related Field Requirement 
- 
-Twelve semester hours to be approved by the department and submitted in writing to the Academic Records  
- 
-Office. All related field courses require a C- or better. 
- 
- 
-298 
- 
-Religious Studies Major – Religion and Nonprofits Track 
- 
-Core Requirements 
-REL 114 Introduction to Religion 
- 
- 
-REL 310 Historical Faith and Modern Culture 
-REL 499 Senior Competency Practicum 
- 
- 
-Professional Development Requirements 
-PDP 200 Preparing for Your Internship 
- 
-REL 498 Portfolio Development Practicum 
- 
-SNR/SNT 489 REL Senior Year Experience/Project 
- 
-One of the following courses 
-REL 220 Old Testament Life and Literature 
- 
-REL 230 New Testament Life and Literature 
- 
-One of the following courses 
-REL 250 Living Religions East 
- 
- 
-REL 260 Living Religions West 
- 
-One of the following courses 
-REL 215 Religion in America I: History of Religion in America 
-REL 225 Religion in American II: Contemporary Religious Experience 
- 
-All of the following courses 
-NPL 222 Social Problems and Nonprofit Responses 
-NPL 230 Introduction to Nonprofits 
-NPL 315 Nonprofit Leadership Capstone 
-REL 240 Giving in Religion 
-REL 490 Independent Study – research topic concerning Religion and Philanthropy (1 credit) 
- 
- 
-Religious Studies Minor 
- 
-Core Requirements 
-REL 114 Introduction to Religion 
- 
-REL 490 Independent Study (two hours - relating religious studies to some aspect of the student’s major) 
- 
-One of the following courses 
-REL 220 Old Testament Life & Literature      
-REL 230 New Testament Life & Lit 
- 
-One of the following courses 
-REL 310 Historical Faith & Mod. Culture       
-REL 360 Contemporary Christian Thought 
-REL 365 Philosophy of Religion 
- 
-Plus additional Religion coursework to meet the minimum requirement of 20 credit hours
-299 
- 
-Religious Studies Course Descriptions 
+
  
 REL 114 Introduction to Religion 
 4 credit hours 
@@ -7317,9 +6130,7 @@ This course explores how different religious traditions understand the importanc
 that the offering of “time, talent, and treasure” promote between the divine and humanity.  The course will focus 
 on religious understandings of volunteerism through a variety of service projects with members of different 
 religious traditions as well as on religion in faith-based organizations.  Open to all students. 
- 
-300 
- 
+
 REL 250 Living Religions East                
 4 credit hours 
 Spring, even academic years 
@@ -7513,9 +6324,7 @@ An introduction to statistical reasoning for students in life and social science
 data.  Data reduction, probability concepts, sampling theory, hypothesis testing, estimation, chi-square, t-test, 
 analysis of variance, correlation and regression, and some non-parametric tests are included.  Does not count 
 towards a mathematics major. Same as MAT 224. Students cannot receive credit for both. 
- 
- 
-306 
+
  
 SOC 227 Inquiry in the Social Sciences 
 3 credit hours 
@@ -7583,10 +6392,7 @@ presentation.  The capstone project must be reviewed and approved by the course 
 representative of the Engaged Learning Team.  Total course experience brings opportunity to think independently, 
 lead responsibly, and serve with integrity.  Same as NPL/LEA 315.   
  
- 
- 
-307 
- 
+
 SOC 319 Gender and Sexualities 
 4 credit hours 
 Fall, even academic years 
@@ -7654,10 +6460,7 @@ Prereq: SOC 118
 A consideration of the nature and purpose of sociological theory and its relationship to empirical research. The 
 course will consider the theories of major sociological thinkers, past and present. Students should take this course 
 during the junior year.  
- 
- 
- 
-308 
+
  
 SOC 425 Research Methods I                  
 4 credit hours 
@@ -7728,14 +6531,7 @@ interact. Human elements of population, cultural inheritance, and accomplishment
 with the physical elements. Education majors will create a project using the five themes of geography (location, 
 place, human/environmental interaction, movement, and regions). 
  
- 
- 
- 
- 
-309 
- 
-Nonprofit Leadership Courses 
- 
+
 NPL 222 Social Problems and Nonprofit Responses                         
 4 credit hours 
 Spring, even academic years 
@@ -7761,8 +6557,7 @@ NPL 315 Nonprofit Leadership Capstone
 4 credit hours 
 Spring, odd academic years. 
 Civic Learning exploratory 
-Prereq: NPL/SOC 230 & LA 101, 102, 103, 111, 
-& 201 
+Prereq: NPL/SOC 230 & LA 101, 102, 103, 111, & 201 
 This course provides an integrative experience linking the student’s leadership skills and liberal arts preparation to 
 the learning in her/his major field of study.  Specifically, the capstone experience will involve direct student 
 participation working with a non-profit organization and that organization’s board.  Students in the course must 
@@ -7804,8 +6599,7 @@ SPA 210 Intermediate Spanish
 4 credit hours 
 Fall 
 International exploratory 
-Prereq: C- or better in SPA 111 or equivalent 
-Spanish 210 is the first course at the intermediate level of university Spanish.  This course will focus on fomenting 
+Prereq: C- or better in SPA 111 or equivalent Spanish 210 is the first course at the intermediate level of university Spanish.  This course will focus on fomenting 
 and polishing speaking, listening comprehension, reading, and writing skills in the target language.  
  
 SPA 211 Intermediate Reading, Writing, and Discussion    
@@ -7978,10 +6772,7 @@ Fall
 Students will save all components leading to their senior essay required in SPA 499; research, drafts, final copy.  
 Contents may also include assignments and projects of the student’s choosing from other coursework.  The portfolio 
 is completed with assignments related to leadership and professional development from the PDP 200 course.   
- 
- 
-316 
- 
+
 SPA 499 Senior Essay          
 No credit 
 Spring 
@@ -8083,14 +6874,7 @@ The course will focus on the practices and principles of shooting, editing and d
 platforms.  Topics include: shooting with DSLR cameras and dedicated video cameras; preproduction planning; 
 lighting principles; audio for video, editing video and distributing digital stories through multiple platforms. Same 
 as MMJ/PRL 155.   
- 
- 
- 
- 
- 
- 
- 
-320 
+
  
 SPR 180 Publication Design      
 3 credit hours 
@@ -8133,8 +6917,7 @@ SPR 301 Covering Economics & Public Policy in Sports
 3 credit hours 
 Fall and Spring 
  
-Prereq for SPR:  SPR 101, MMJ/SPR 115, & 
-MMJ/PRL/SPR 120 or consent of instructor 
+Prereq for SPR:  SPR 101, MMJ/SPR 115, & MMJ/PRL/SPR 120 or consent of instructor 
 The study of the ways financial considerations and government policies affect athletics.  Features a series of in-
 depth interviews/discussions with decision-makers in sports, business and government.  Focus will be on developing 
 a deep understanding of the frameworks within which viable sports organizations and leagues operate. 
@@ -8143,8 +6926,7 @@ SPR 302 Covering Lifestyle and Outdoor Sports
 3 credit hours 
 Fall 
  
-Prereq for SPR:  SPR 101, MMJ/SPR 115, & 
-MMJ/PRL/SPR 120 or consent of instructor 
+Prereq for SPR:  SPR 101, MMJ/SPR 115, & MMJ/PRL/SPR 120 or consent of instructor 
 This course will help students learn to cover recreational and competitive outdoor sports.  Students will explore 
 policy issues related to public recreation and personal hobby sports. 
  
@@ -8292,9 +7074,7 @@ Spring, odd academic years
 Prereq: THE 205 or consent of instructor 
 Principles and theories of play selection, analysis, and conceptualization; auditioning, casting, and rehearsing; stage 
 composition, picturization, and movement; and overall production management.   
- 
-326 
- 
+
 THE 235 Scenic Painting 
 3 credit hours 
 Fall, even academic years 
@@ -8355,9 +7135,7 @@ Fall, odd academic years
 Prereq: ENG 117, THE 110, or THE 125 or 
 consent of the instructor   
 Reading and analysis of selected significant plays from ancient times through the Renaissance.  Same as ENG 375. 
- 
- 
-327 
+
  
 THE 376 Dramatic Literature II  
 4 credit hours 
@@ -8593,10 +7371,7 @@ Prerequisite: MSAT 550
 A clinical course in which students complete supervised experiences in a variety of health care settings under the guidance 
 of preceptors.   Clinical experience hours will be augmented with a seminar on practices necessary to become a successful 
 athletic trainer.  Students are responsible for costs associated with travel to and from their clinical experiences.  
- 
- 
- 
-341 
+
  
 MSAT 553 Clinical Experience in Athletic Training IV 
 3.5 credit hours 
@@ -8648,7 +7423,7 @@ MSAT 631 Clinical Pathology and Medical Interventions
 4 credit hours 
 Fall 
  
-                              Prerequisite: MSAT 530 &  MSAT 531 
+Prerequisite: MSAT 530 &  MSAT 531 
 An advanced course for athletic training students to build a foundational understanding of disease, disorders, illness and 
 other general medical conditions affecting the health of physically active people across the lifespan.  Students learn to 
 recognize signs, symptoms and predisposing factors of pathology along with appropriate interventions for treating 
@@ -8668,8 +7443,7 @@ competitive state for physically active individuals.  Treatment effectiveness, p
 evidence in relation to patient care will be emphasized.  Laboratory experiences will be used to supplement classroom 
 instructions.   
  
- 
-342 
+
  
 MSAT 635 Psychosocial Strategies and Referral  
 3 credit hours 
@@ -8686,9 +7460,9 @@ MSAT 637 Professional Preparation in Athletic Training
 2 credit hours 
 Winter 
  
-                                               Prerequisite: Semester 
-                                      of or just prior to  
-                            graduation 
+Prerequisite: Semester 
+of or just prior to  
+graduation 
 A focus on advanced concepts in professional development.  Students complete a self-assessment and construct a plan for 
 continued professional development. Preparation for the Board of Certification exam is emphasized. Strategies related to 
 enhancing leadership skills and the promotion of athletic training will be explored.   
@@ -8735,21 +7509,6 @@ context of real patient care will be assessed. This clinical experience will als
 the students to experience the totality of care provided by athletic trainers.  During the immersive component, students 
 will participate in the day-to-day and week-to-week role of an athletic trainer for a four-week period.  Students are 
 responsible for costs associated with travel to and from their clinical experiences. 
-
-
-Patient Care Hours 
-A minimum of 200 documented patient care hours under the supervision of a licensed health care professional is 
-required.  
- 
-Direct, hands-on patient care hours are intended to demonstrate the applicants experience working in a 
-healthcare setting.  Assessment of the quality of the patient care hours will be based upon the description of the 
-applicant’s duties performed in terms of patient contact and interaction with other healthcare providers.  
-Examples of direct patient care include but are not limited to nurse, certified nurse assistant (CNA), medical 
-assistant, EMT, paramedic, emergency room tech, scribe, surgical tech, athletic trainer, PT aide, etc. 
-Physician Assistant Shadowing 
-We encourage you to observe (“shadow”) a PA in the field.  We prefer PA shadowing in multiple specialties.  Note: 
-shadowing hours are recorded in CASPA and should not count towards your patient care hours.   
-
 
 MSPA 500 Principles of PA Practice I 
 1 credit hour 
@@ -8814,10 +7573,6 @@ understand pathophysiology.  The genetics portion of the course will present the
 genetics as a foundation to build upon the role of genetics in disease risk, development, and prevention which will be 
 presented throughout the curriculum where clinically relevant. 
  
- 
- 
- 
-351 
  
 MSPA 515 Intro to Clinical Pharmacology 
 1 credit hour 
@@ -9025,7 +7780,7 @@ learned medical knowledge regarding conditions and disease states in this organ 
 medicine approaches and health promotion and disease prevention concepts to the ongoing development of their 
 history taking and physical examination and critical thinking skills in case based learning sessions. 
  
-MSPA 581: Clinical Endocrinology 
+MSPA 581 Clinical Endocrinology 
 2 credit hours 
 Fall 
  
@@ -9050,9 +7805,6 @@ In conjunction with the Applied Patient Care IV course, students will be provide
 learned medical knowledge regarding conditions and disease states in this organ system along with evidence based 
 medicine approaches and health promotion and disease prevention concepts to the ongoing development of their 
 history taking and physical examination and critical thinking skills in case based learning sessions. 
-
-355 
- 
  
 MSPA 583 Clinical Gynecology and Obstetrics 
 3 credit hours 
@@ -9108,10 +7860,7 @@ Provides students with the opportunity to reflect on their clinical experiences 
 being a practicing physician assistant. Focuses on students’ work in collaborative, inter-professional, patient-centered 
 teams, and the development of problem solving and medical decision-making skills.  Students will present evidence-
 based medicine cases in a grand rounds format. 
- 
- 
-356 
- 
+
 MSPA 632 Bridge to Clinical Practice III 
 1 credit hour each 
 Fall 
@@ -9170,10 +7919,7 @@ that is supervised by a board certified internal medicine physician.
 The student will actively engage in applying medical knowledge gained during the didactic year and demonstrate 
 continued development of interpersonal, clinical and technical skills, professional behaviors, clinical reasoning and 
 problem solving. 
- 
- 
-357 
- 
+
 MSPA 652 Emergency Medicine Clinical Course 
 4 credit hours 
 Spring, Summer, Fall 
@@ -9194,7 +7940,7 @@ continued development of interpersonal, clinical and technical skills, professio
 problem solving to the evaluation and management of acute, urgent and emergent problems commonly encountered in 
 emergency medicine. 
  
-MSPA 653: Family Medicine Clinical Course 
+MSPA 653 Family Medicine Clinical Course 
 4 credit hours 
 Spring, Summer, Fall 
  
@@ -9213,3 +7959,55 @@ supervised by a board certified Family Medicine physician.
 The student will actively engage in applying medical knowledge gained during the didactic year and demonstrate 
 continued development of interpersonal, clinical and technical skills, professional behaviors, clinical reasoning and 
 problem solving. 
+
+MSPA 656 Behavioral Medicine Clinical Course
+4 credit hours 
+Spring, Summer, Fall
+Prereq: All didactic year courses 
+This is a five-week required clinical rotation for a second-year PA student which focuses on the role of the physician 
+assistant in behavioral medicine. The rotation is designed to provide students with supervised medical and clinical 
+practice experiences enabling them to meet program expectations (outcomes) and acquire the competencies needed for 
+entry-level clinical PA practice. 
+Under the supervision of a behavioral medicine clinical preceptor designated by the PA program, the student will gain 
+knowledge and experience toward the refinement of skills needed for the unique medical, physiological, behavioral and 
+psychosocial components and issues common to the practice of psychiatry, behavioral and mental health. Students will 
+work to adapt the standard medical history, physical examination, diagnostic and treatment plans to the psychiatric 
+patient. For the Behavioral Medicine Clinical Course, the program-determined preceptor will be a physician who is 
+board certified in psychiatry or a PA that is supervised by a board certified psychiatrist. 
+The student will actively engage in applying medical knowledge gained during the didactic year and demonstrate 
+continued development of interpersonal, professional behaviors, clinical reasoning and problem solving. 
+
+MSPA 657 Elective Clinical
+4 credit hours 
+Spring, Summer, Fall Prereq: All didactic year courses 
+Each student is granted to opportunity to complete two five week elective rotations designed to facilitate the student's 
+ability to evaluate health-related problems encountered in an area of medical interest. It can include the choice to 
+obtain additional experience in one or two of the core rotation disciplines or other medical specialties. 
+Under the supervision of a clinical preceptor designated by the PA program, the student will gain knowledge and 
+experience in the evaluation, treatment, and management including referral of common diseases and conditions 
+encountered in the chosen discipline or medical specialty. During one of the elective rotation blocks the student will 
+have a rotation deliverable, which will be an inter-professionalism project. 
+The student will actively engage in applying medical knowledge gained during the didactic year and demonstrate 
+continued development of interpersonal, clinical and technical skills, professional behaviors, clinical reasoning and 
+problem solving. 
+
+MSPA 658 Elective Clinical
+4 credit hours
+Spring, Summer, Fall Prereq: All didactic year courses 
+Each student is granted to opportunity to complete two five week elective rotations designed to facilitate the student's 
+ability to evaluate health-related problems encountered in an area of medical interest. It can include the choice to 
+obtain additional experience in one or two of the core rotation disciplines or other medical specialties. 
+Under the supervision of a clinical preceptor designated by the PA program, the student will gain knowledge and 
+experience in the evaluation, treatment, and management including referral of common diseases and conditions 
+encountered in the chosen discipline or medical specialty. During one of the elective rotation blocks the student will 
+have a rotation deliverable, which will be an inter-professionalism project. 
+The student will actively engage in applying medical knowledge gained during the didactic year and demonstrate 
+continued development of interpersonal, clinical and technical skills, professional behaviors, clinical reasoning and 
+problem solving.
+
+MSPA 665 Community Engagement
+2 credit hours 
+Summer, Winter Prereq: All didactic year courses 
+Students will select a health promotion/disease prevention topic of interest and design and create a methodology and 
+curriculum for an educational presentation. Students will collect and analyze data and present results to faculty, staff, 
+community partners, and fellow students.
