@@ -46,7 +46,7 @@ New Testament
 NT 221 Gospels (3 credits)
 A comprehensive study of the life and ministry of Jesus presented by the four gospel 
 writers. Prerequisite: BI 111.
- KMBC Academic Catalog 2023-2024  | Course Descriptions | 121
+ 
 NT 222 Acts (2 credits)
 The history of the origin, rise, and expansion of universal Christianity as presented 
 in the Acts of the Apostles. Prerequisite: BI 111.
@@ -100,7 +100,7 @@ covered in this introductory course.
 HE 252 Beginning Hebrew (3 credits)
 This course is a continuation of HE 251 which includes the translation of portions 
 of Genesis.  Prerequisite:  HE 251
- KMBC Academic Catalog 2023-2024  | Course Descriptions | 123
+ 
 HE 351 Intermediate Hebrew (3 credits) - Not Currently Offered
 Further portions of Genesis are translated with attention given to grammar, 
 vocabulary, and interpretation. Prerequisite: HE 252
@@ -154,7 +154,7 @@ Includes an emphasis on discipling youth in various settings.
 DS 372 Adult Discipleship (2 credits)
 This course explores the developmental and spiritual needs of adults and the various 
 theories and methods to help adults grow and develop in the Christian faith.
- KMBC Academic Catalog 2023-2024  | Course Descriptions | 125
+ 
 DS 382 Family Spiritual Formation (2 credits)
 This course focuses on the theories and techniques of discipleship and educational 
 programs in local churches for families which will build stronger families and preempt 
@@ -212,7 +212,7 @@ web-centered world. Media examined include video, audio, desktop publishing,
 graphics, computer presentations, and websites. Emphasis is given to integrating 
 these media with web technologies. The course assumes the student possesses a 
 working knowledge of typing, word processing, internet navigation, and Windows. 
- KMBC Academic Catalog 2023-2024  | Course Descriptions | 127
+ 
 This class is cross-referenced with CO 322 and CE 322.  Prerequisites: CS 201.
 ED 342 Teaching Math in Elementary Schools (3 credits) 
 A survey of mathematics in early childhood with emphasis in curriculum, method 
@@ -271,7 +271,7 @@ The course introduces the process of communication as a critical element in
 human relationship and society, and examines various aspects of communication: 
 information processing, interpersonal communication in dyadic relationships and 
 small groups, organizational communication, and mass communication.
- KMBC Academic Catalog 2023-2024  | Course Descriptions | 129
+ 
 EN 102 English Composition (3 credits)
 Practice is given in various kinds of writing, including the formal research paper and 
 the informal/formal essay to enable students to write clearly, concisely, logically 
@@ -333,7 +333,7 @@ imaginative way.  Prerequisites, English 101, 102.  This course is offered on de
 only.
 CO 392 Cross-Cultural Communication (3 credits)
 This course investigates the principles and processes of communicating from one 
- KMBC Academic Catalog 2023-2024  | Course Descriptions | 131
+ 
 culture to another with a focus on understanding other peoples and their cultures 
 and on the relevance of the Incarnation as the model for intercultural communication 
 of the gospel. This course will provide a blend of communication, anthropological, 
@@ -393,7 +393,7 @@ Taking information and operating principles from the study of various science
 disciplines, this course is a multi-disciplinary introduction to the earth’s processes 
 and environment.  The biblical account of creation is held to be accurate, and a six 
 literal day creation period lays the foundation for this study of the earth.
- KMBC Academic Catalog 2023-2024  | Course Descriptions | 133
+ 
 Missions
 MI 141 Introduction to Missions (2 credits) 
 This course provides a biblical, historical and practical survey of world missions. 
@@ -451,7 +451,7 @@ A survey of the principles, content, method, and materials for directing the spi
 growth of new converts and preparing them for leadership.  Emphasis is given to 
 skill building and to program development within the local church.  This class is 
 cross-referenced with DS 222.
- KMBC Academic Catalog 2023-2024  | Course Descriptions | 135
+ 
 MT 291 Introduction to Homiletics (2 credits) 
 A general overview of the art and craft of preaching. Attention is given to the 
 preacher, study helps, and sermon development.
@@ -511,7 +511,7 @@ student will progress at different speeds, each will be responsible for their ow
 personal development through individual instruction.  This course is for those 
 students not studying in the Music Ministry Major.  For students in the music tract, 
 see MU 151-452.
- KMBC Academic Catalog 2023-2024  | Course Descriptions | 137
+ 
 MU 111-412 Choir (0.5 credit for each course)
 A limited number of students who are chosen through auditions compose a vocal 
 ensemble for ministry, performances and vocal learning experiences.  They represent 
@@ -572,7 +572,7 @@ public�
 AP 332 Scientific Apologetics (2 Credit)
 A study of the principles of science, origins, evolution, intelligent design, etc. 
 Prerequisite: AP 241.
- KMBC Academic Catalog 2023-2024  | Course Descriptions | 139
+ 
 AP 321 Historical & Philosophical Apologetics (3 credits)
 A study of the philosophy of religion, history, using logic and critical thinking. The 
 Biblical evidence resurrection, prophecy, and archeology. Prerequisite: AP 241.
@@ -626,7 +626,7 @@ This course considers the dynamics of marriage and family relationships.  The
 emphasis will be upon the development of relationships from dating through 
 courtship and marriage, with a special consideration for enrichment skills such as 
 communication, conflict solving, budgeting, and role concepts.
- KMBC Academic Catalog 2023-2024  | Course Descriptions | 141
+ 
 Theology
 TH 112 Doctrine of Holiness (3 credits)
 An intensive study of the doctrine of Christian perfection and entire sanctification 
