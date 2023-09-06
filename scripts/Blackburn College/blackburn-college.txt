@@ -1,5 +1,4 @@
-Accounting Courses
-COURSES ACCOUNTING COURSES (AC)
+AC Courses
 211. Financial Accounting (3 hours)
 First Semester
 Introduction to financial accounting. Basic accounting concepts and practices involved in the 
@@ -45,9 +44,8 @@ Contemporary approach to the theory and practice of auditing. Introduction to th
 concepts underlying assurance, attestation and auditing services. Practical application of concepts 
 in examination of financial statements. Development of communication and computer skills 
 necessary in an audit. Prerequisite: AC 211, 212, and Junior standing.
-72
-Agricultural Business Courses
-AGRICULTURAL BUSINESS (AG)
+
+AG Courses
 120. Introduction to Agricultural Business (3 hours)
 As needed
 An introduction to topics such as modern agricultural practices and technology, agricultural 
@@ -82,9 +80,7 @@ As needed
 An integration of agricultural concepts in management, marketing, and law within comprehensive 
 projects and case studies that are focused on strategic planning and decision making.  
 Prerequisites:  Senior standing, AG 315, AG 318.  
-73
-Art Courses (AR)
-ART COURSES 
+AR Courses
 109. Foundations: Design and Visual Perception, 2D Design (3 hours)
 First Semester
 This is a studio course in which students create two-dimensional designs based on the 
@@ -170,9 +166,6 @@ Each Semester
 Internships involve working and learning experiences off campus. Each student’s program is 
 developed according to established College guidelines under sponsorship of a faculty member. 
 See index under “Internships” for reference to additional information on internship guidelines, 
-Art Courses
-75
-Art Courses
 or consult the department chair. Prerequisite: Junior standing or above. Not open to any student 
 who is on academic, disciplinary, or Work probation.
 310. Studio Course: Advanced Painting (3 hours)
@@ -215,7 +208,6 @@ Second Semester
 This is a continuation of AR 288. The course is redesigned each semester to include content not 
 discussed in previous semesters. Students will use power tools. Course content will be presented 
 by means of demonstrations and lectures. Prerequisite: AR 288.
-76
 390. Junior Seminar (3 hours)
 Each Semester
 A prerequisite to AR 490. Students will prepare work for the junior exhibition to be staged at the 
@@ -257,9 +249,6 @@ Each Semester
 This is an advanced studio course. Students will be expected to work at a professional pace, further 
 exploring the possibilities of clay and glazes. A working knowledge of kilns will be emphasized. 
 May be repeated for credit. Prerequisite: AR 380.
-Art Courses
-77
-Arts Courses
 488. Studio Course: Senior Sculpture (3 hours)
 Second Semester
 A continuation of AR 388. Prerequisite: AR 388.
@@ -269,7 +258,7 @@ In this course students will prepare works for their senior exhibitions, write t
 refi ne their resumes, and assemble images for their portfolios. Graphic Arts students will base their 
 Senior Seminar work on graphic arts. Prerequisite: Senior standing.
 78
-BIOLOGY COURSES (BI)
+BI Courses
 100. Fundamentals of Biology (4 hours: 3 lectures, 1 lab)
 Second Semester
 Introduction to biological principles as part of liberal study. Includes historical contributions of 
@@ -311,9 +300,6 @@ There will be emphasis on renewable and non-renewable energy sources and the imp
 pollutants on the environment. When appropriate, economic, political, ethical and social issues 
 related to the environment will be addressed. Prerequisite: BI 100, BI 201, or BI 202, or with 
 consent of instructor. (IAI: L1 905)
-Biology Courses
-79
-Biology Courses
 210. Human Nutrition (3 hours)
 Offered Summer
 This course will address the important nutrients including proteins, lipids, carbohydrates, 
@@ -357,7 +343,6 @@ First Semester
 Principles and concepts of environmental relationships and interactions of living organisms. Most 
 laboratory work is conducted in the field and may include weekend trips. Prerequisites: BI 201 
 and 202.
-80
 Biology Courses
 308. Field Biology (4 hours: 3 lectures, 1 lab)
 Second Semester, alternate years. Offered 2022-2023.
@@ -444,8 +429,7 @@ Discussion of current and controversial topics of biology, especially designed t
 student to modern trends and advances in biology research. Two semesters required of majors. 
 Prerequisite: Senior standing.
  
-82
-BLACKBURN & BEYOND COURSES (BL)
+BL Courses
 015. Health I – Personal Care and Nutrition (3 hours)
 First Semester
 Th is course examines all the dimensions of health and wellness.  An emphasis is placed on the 
@@ -492,8 +476,6 @@ struction that enables students to accelerate the
 development of reading and writing skills and 
 to strengthen those skills so they are able to 
 successfully read and write text independently.  
-Blackburn & Beyond Courses
-83
 Instruction emphasizes reading comprehension, writing fluency, and vocabulary study through the 
 use of a variety of literary and informational texts encompassing a broad range of text structures, 
 genres, and levels of complexity.  
@@ -537,9 +519,7 @@ This course is designed to bring together a cohesive understanding of what indep
 for each individual.  Topics include personal and familial relationships, community supports, 
 emergency situations, different types of insurance, banking and money management assistance, 
 state agencies for support, communicating with different entities and understanding legal respon-
-sibilities.  
-Blackburn & Beyond Courses
-84
+sibilities.
 075. Community Engagement (3 hours)
 First Semester
 Components of successful independent and 
@@ -588,8 +568,7 @@ Second Semester
 Development of advanced workplace skills in time management, communication, problem solv-
 ing, and performance; one or more internships individualized to meet needs for further workplace 
 soft skill development; observation in workplace by instructor, employers and mentors; journaling 
-Blackburn & Beyond Courses
-075. Community Engagement (3 hours)
+Community Engagement (3 hours)
 First Semester
 Components of successful independent and 
 community living; personal safety issues, 
@@ -647,7 +626,7 @@ attributes, and daily living skills.  Students will apply principles of personal
 management and informed decision-making skills.  Th ey will learn necessary skills to work with 
 people from diverse backgrounds.  Th is course is only open to students admitted to the Blackburn 
 and Beyond program.  
-CAREERS COURSES (CA)
+CA Courses
 275. Career and Life Planning (1 hour)
 Each Semester
 Designed to aid students in making the most of their Blackburn experience while preparing for 
@@ -661,7 +640,7 @@ Focus is on job-search-related skills. Location of career information, productio
 package, utilization of career resource personnel and development of the art of interviewing will 
 be emphasized. Prerequisite: Junior or senior standing. 
 
-CHEMISTRY COURSES (CH)
+CH Courses
 100. Contemporary Chemistry (4 hours: 3 lectures, 1 lab)
 First Semester
 Introduction to chemical principles and their application to the contemporary world, centering 
@@ -704,8 +683,6 @@ is developed according to established College guidelines under the sponsorship o
 member. See the index under “Internships” for reference to additional information on internship 
 guidelines, or consult the department chair. Prerequisite: Junior standing or above. Not open to 
 any student who is on academic, social, or Work Program probation.
-87
-Chemistry Courses
 301. Astronomy and Earth Science (3 hours)
 As Needed
 This course considers the planetary characteristics of Earth and notes the most important 
@@ -747,8 +724,6 @@ Survey at the intermediate level of modern inorganic chemistry. Prerequisite: CH
 As Needed
 In depth study of a selected topic in advanced chemistry. Prerequisites: CH 242 and consent  
 of instructor.
-88
-Chemistry • Communication Courses
 399. Chemical Problems (1-4 hours)
 As Needed
 A study of problems, methods, and preparation in chemistry, designed to encourage independent 
@@ -768,7 +743,7 @@ A. Chemistry     B. Biochemistry
 Designed to acquaint the student with the chemical literature and current areas of research and to 
 develop skill in the oral and written presentation of reports. Two semester hours required for the 
 chemistry major. Prerequisites: CH 242 and senior standing.
-COMMUNICATION COURSES (CO)
+CO Courses
 131. Introduction to Communications (3 hours)
 First Semester
 An introduction to the field of communications, with emphasis on foundational concepts, key 
@@ -788,8 +763,6 @@ extemporaneous nature, with some secondary training in impromptu delivery. (IAI:
 Second Semester
 A survey of mass communications. A study of the techniques, forms, issues and effects from the 
 first printed media to current electronic communications.
-89
-Communication Courses
 233. Media and Information Literacy (3 hours)
 First Semester
 Students will learn to decode, evaluate and analyze mass media information in this foundational 
@@ -834,8 +807,7 @@ equipment for video production.
 As needed
 Special topics in communication based on student/faculty interests. Prerequisites: Junior standing 
 and consent of the instructor.
-90
-Communication • Computer Science Courses
+
 353. Communication Theory (3 hours)
 First Semester
 This course provides students with a comprehensive grounding in mass communication theory 
@@ -857,7 +829,7 @@ Second Semester
 Intensive study of communication history and theory including lecture and group discussion; 
 development, completion, and presentation of an in-depth research project. Prerequisite: CO 353;  
 Senior standing or consent of instructor.
-COMPUTER SCIENCE COURSES (CS)
+CS COURSES
 120. Liberal Arts Computing (3 hours: 2 lectures, 1 lab)
 First Semester
 This course is an introduction to fundamentals of computing technology and the principles that 
@@ -880,8 +852,6 @@ Second Semester
 Continuation of CS 211 with emphasis on nonnumerical applications and programming language 
 paradigms. Fundamental data structures. At least two programming languages from different 
 language paradigms will be covered. Prerequisite: CS 211.
-91
-Computer Science Courses
 220. Software and Information Systems (3 hours)
 First Semester
 User-centered software development and professional practice with particular emphasis on the 
@@ -927,8 +897,6 @@ distributed algorithms in a modern production-level language. Prerequisites: CS 
 As Needed
 A study of the software process from initial concept to eventual retirement. Special emphasis on 
 the specification and design of object-oriented systems. Prerequisite: CS 313.
-92
-Computer Science Courses
 350. Networks and Distributed Systems (3 hours)
 Second Semester, alternate years. Offered 2022-2023.
 Concepts and principles of computer networks. Topics include data transmission, packet 
@@ -1011,7 +979,7 @@ C. Game Design and Development
 Second Semester
 Continuation of CS 491. Prerequisite: CS 491.
 
-COOPERATIVE EDUCATION COURSES (CO)
+CO Courses
 300. Cooperative Education I (3 hours)
 Each Semester, Summer
 Cooperative education is a work/study program wherein periods of study may be regularly 
@@ -1027,8 +995,7 @@ Same as CE 300 except that senior standing and at least one previous cooperative
 the 300 level are required. May be repeated provided the total credits earned in CE 300 and CE 
 400 do not exceed 12 hours. 
 95
-Economics Courses
-ECONOMICS COURSES (EC)
+EC Courses
 110. Fundamentals of Economics (3 hours)
 First Semester, alternate years. Offered 2022-2023.
 An overview of economic theory and economic thought including macroeconomic and 
@@ -1072,8 +1039,6 @@ First Semester, alternate years.  Offered 2022-2023.
 An economic analysis of the public sector.  Topics include public goods, externalities, government 
 expenditures and revenues, taxation, income distribution and current issues. Prerequisites: EC 200, 
 202, 242. 
-96
-Economics • Education Courses
 442. Economics of Sports (3 hours)
 Second Semester, alternate years.  Offered 2021-2022.
 An economic analysis of sports.  Topics include monopoly markets, antitrust issues, competitive 
@@ -1083,7 +1048,7 @@ Prerequisites: EC 200, 202, 242.
 As Needed
 Reading and discussion of current topics of interest from a theoretical or social policy viewpoint. 
 Prerequisite: Consent of the instructor.
-EDUCATION COURSES (ED)
+ED Courses
 100. Introduction to Teacher Education (2 hours)
 Each Semester
 This survey course provides candidates with an introduction to the knowledge and performance
@@ -1119,8 +1084,6 @@ This interdisciplinary course explores issues of gender in education within the 
 context of current and past educational practices. Gender and its intersection with ethnicity 
 and socio-economic status at the local and global level will be analyzed with particular focus on 
 schooling and career options. 
-97
-Education Courses
 227. Adolescent Psychology and Development (3 hours)
 Second Semester and Summer
 This course focuses on the development of adolescents from puberty to late adolescence.  
@@ -1214,9 +1177,6 @@ civics, economics, geography, and history.
 Each Semester
 This course introduces and begins to develop foundational skills for clinical practice such as lesson 
 planning, instructional approach, assessment, integrating technology, and classroom management 
-Education Courses
-99
-Education Courses
 for future elementary, middle level, and secondary educators. Students will plan and deliver 
 micro-lessons and engage in reflective practice. This course includes a 20 hour field experience. 
 Prerequisite:  ED 100, 110, and Conditional or Formal Admittance to the Teacher Education 
@@ -1555,7 +1515,7 @@ As needed
 Students will engage in a comprehensive project to highlight their work in the education studies 
 majors. Prerequisite:  Formal Admittance to an Education Studies Major program, senior 
 standing. 
-ENGLISH COURSES (EN)
+EN Courses
 140. Introduction to Literature (3 hours)
 Each Semester
 Interpretative reading in fiction, poetry, and drama. Prerequisite: Completion of WR 111 and 112 
@@ -1592,8 +1552,6 @@ Study of selected literature from authors of minority ethnicity.  Discussion wil
 as the immigrant experience, how ethnicity shapes perceptions of identity and experiences of the 
 national community, and identification and alienation across ethnic experiences. Prerequisite: 
 Completion of WR 111 and 112 or equivalents.
-107
-English Courses
 300. Internship (1-12 hours)
 As needed
 Working and learning experiences off  campus. Each student’s program is developed according to 
@@ -1652,7 +1610,7 @@ study will result in a series of literary analyses. Prerequisites: Junior standi
 department.
 110
 Foreign Study  • Health Education • History
-FOREIGN STUDY OPTION/COURSES (FO)
+FO Courses 
 200. Foreign Study Semester (1 or 3 hours)
 Each Semester
 One credit with submission of weekly journal entries. Three credits with submission of weekly 
@@ -1660,7 +1618,7 @@ journal entries and completion of an academic component (assigned reading and su
 of formal essay of analysis concerning cultural contrasts). Can be taken concurrently with any 
 foreign study program sponsored by Blackburn College. Please contact the Coordinator of Study 
 Abroad, or the chair of the Department of Modern Languages for details.  
-HEALTH EDUCATION COURSES (HE)
+HE Courses
 220. Theories and Concepts of Health (3 hours)
 Summer only
 Exploration of the social cognitive and social inoculation theoretical approaches that effectively 
@@ -1685,7 +1643,6 @@ issues.
 Summer only
 Principles and approaches of developing accurate, reliable and functional health knowledge.  How 
 to use formative and summative assessment to improve student learning.
-HISTORY COURSES
 110. Introduction to Historical Thought (3 hours)
 First Semester
 Students will receive a broad introduction to the discipline of History. Equal attention will be 
@@ -1787,8 +1744,7 @@ As needed
 An intensive study of methods of historical research and communication. Completion of essay 
 begun in HI 451. Prerequisite: HI 451.
 113
-Humanities • Justice Admin. Courses
-HUMANITIES COURSES (HU)
+HU COURSES 
 110. Introduction to Second Language (1 hour)
 Each Semester; as needed
 An introduction to a language other than English that will emphasize basic communication skills 
@@ -1878,8 +1834,6 @@ First Semester, alternate years. Offered 2022-2023.
 An overview of crime and delinquency from a psychosocial perspective focusing on behavioral, 
 emotional and cognitive aspects. Prerequisites: SO 104, PY 101, Junior standing or consent of 
 instructor.
-115
-Justice Admin. • Leadership Courses
 475. Topics in Criminal Justice (3 hours)
 As Needed
 Topics will focus on various issues in criminal justice. Since topics will vary, this course may be 
@@ -1891,7 +1845,7 @@ criminal justice issues and themes demonstrating their mastery of the major cont
 Students will prepare and present a lecture over an approved area and complete various 
 assignments enhancing their transition to the next stage of professional development. Prerequisite: 
 Senior standing or department approval.
-LEADERSHIP COURSES  (LD)
+LD courses
 110. Introduction to Teamwork (1 hour)
 Each Semester
 An introduction to teamwork including an examination of the role of teams in the workplace and 
@@ -1925,8 +1879,6 @@ is developed according to established College guidelines under the sponsorship o
 member. See the index under “Internships” for reference to additional information on internship 
 guidelines, or consult the department chair. Prerequisite: Junior standing or above. Not open to 
 any student who is on academic, disciplinary, or Work Program probation.
-116
- Leadership • Liberal Education Courses
 303. Conflict and Mediation (3 hours)
 First Semester
 This course surveys major areas of conflict, including, but not limited to, conflict involving race, 
@@ -1955,7 +1907,7 @@ Prerequisite: Junior standing
 Each Semester 
 Design and implementation of individual research in a current subfield. Culminates in an oral 
 defense of thesis and presentation to the community. Prerequisite: LD 352.
-LIBERAL EDUCATION COURSES (LE)
+LE Courses
 106.  Academic Skills Workshop (0.5-1 hour)
 Each Semester
 This course provides students with the opportunity to review, practice, and refine vital academic 
@@ -1966,10 +1918,7 @@ based on placement criteria.  Student taking this class must be currently enroll
 area class, and must withdraw from this class if they withdraw from the content area class.  
 Multiple sections of the class may be taken in a semester when they are associated with different 
 content area courses.  This course may be repeated for academic credit four times. 
- 
-117
-Management Courses
-MANAGEMENT COURSES (MG)
+MG Courses
 120. Introduction to Business (3 hours)
 Each Semester
 An introductory course into all areas of business: management, marketing, economics, finance, 
@@ -2059,8 +2008,7 @@ A final course for seniors in business. The integration of all business function
 comprehensive company-wide approach to business strategy, business policy and the role of the 
 firm in society. Prerequisites: AC 212; MG 215, 321; MK 211, Senior standing, and EC 242. 
 119
-Marketing Courses
-MARKETING COURSES (MK)
+MK Courses
 211. Principles of Marketing (3 hours)
 Each Semester
 The business activities necessary to affect the transfer in ownership of goods and services, along 
@@ -2100,7 +2048,7 @@ Second Semester, alternate years. Offered 2022-2023.
 This course will analyze methods of collecting market data and how to use quantitative and 
 qualitative methods of analysis. Prerequisites: MG 215; MK 211; MK 324 or 331 or 334; Junior 
 standing or consent of instructor. 
-MATHEMATICS COURSES (MA)
+MA courses
 100. Intermediate Algebra (3 hours)
 Each Semester
 Study of real numbers, linear and quadratic equations, exponents, polynomials, factoring, rational 
@@ -2228,9 +2176,7 @@ presentations of their work.  Interested students may submit an alternative prop
 seminar project.  Proposal subject to approval by faculty.  Prerequisite:  Senior standing except for 
 math education majors who enroll as juniors.  
 123
-Medical Lab. Sciences Courses
-MEDICAL LABORATORY SCIENCE COURSES  (ME)
-(Taken at an affiliated hospital.)
+ME Courses
 400. Clinical Chemistry I (5 hours)
 Includes qualitative and quantitative analysis of blood constituents through manual and 
 automated methods, metabolic reactions, and interpretation of results, as well as operational 
@@ -2273,8 +2219,7 @@ A basic introduction to the principles and theory of management and education as
 the clinical laboratory. The special job responsibilities of the clinical laboratory scientist in 
 management and education are addressed.
 124
-Music Courses
-MUSIC COURSES (MU)
+MU Courses
 100.  Performance Lab (0 hours)
 Each Semester
 Students will perform in weekly classes and masterclasses.  Additional attendance at on-campus 
@@ -2317,8 +2262,6 @@ functional harmony, rhythmic notation, and musical vocabulary.  Prerequisite: no
 Second Semester, alternate years.  Offered 2022-2023.
 Course in tonal harmony.  Includes introduction to seventh chords, written analysis of diatonic 
 harmonies, and an introduction to formal analysis.  Prerequisite:  MU 151. 
-125
-Music Courses
 153. Aural Skills I (1 hour)
 First Semester, alternate years.  Offered 2022-2023.
 Ear training and dictation skills related to MU 151, Music Theory I course content.  Prerequisite:  
@@ -2363,8 +2306,6 @@ such as Rock and Roll, Jazz, Film Music, Popular Song, Hip Hop, etc. May be repe
 when topic is different.  Prerequisite: none.   
 240. Ensemble: College Choir (1 hour)
 Each Semester
-126
-Music Courses
 Rehearsal and performance of repertoire from a variety of styles and historical periods. Includes 
 one choral-orchestral work each year. Attendance at performances outside of class time is 
 mandatory. Full year commitment is expected; exceptions made at the discretion of the conductor.
@@ -2410,8 +2351,6 @@ consent of the instructor.
 Each Semester, alternate years.  Offered 2022-2023.  
 Study of the International Phonetic Alphabet and its practical application to German and French 
 through the study of vocal literature.  Prerequisite:  MU 275.
-127
-Music Courses
 295. Applied Lessons: Piano, Organ, or Voice (1-2 hours)
 Each Semester
 Private, one-on-one instruction.  May be taken at 1 credit for a weekly 30-miute lesson or at 2 
@@ -2455,8 +2394,6 @@ Advanced study of the International Phonetic Alphabet and its practical applicat
 and French through the study of vocal literature.  Students will also identify and correct incorrect 
 diction.  Prerequisite:  MU 375. 
 384. Vocal Pedagogy (3 hours)
-128
-Music Courses
 Second Semester, alternate years.  Offered 2023-2024. 
 Study of teaching voice.  Instruction includes vocal anatomy, building a healthy technique in 
 students, and studio management.  Prerequisite:  Status as a Music major or minor, or consent of 
@@ -2508,7 +2445,7 @@ credits for a weekly 60-minute lesson.  Gate jury required for acceptance to upp
 400 level students will prepare a 60-minute recital.  Prerequisite: corresponding MU 495 section.  
 Additionally, for Voice lessons: Status as a Music major or minor.  Section will be indicated by 
 letter designation (i.e. MU 496P=Piano, MU 496O=Organ, MU 496V=Voice)
-NATURAL SCIENCE COURSES (NA)
+NA Courses
 120. Special Topics in the Natural Sciences (1-4 hours)
 As Needed
 An investigation of a significant introductory theme or issue in the Natural Sciences and not 
@@ -2532,7 +2469,7 @@ A detailed investigation of a significant advanced theme or issue in the Natural
 available in the regular departmental course offerings. The student may repeat the course for credit 
 when topics are changed.  Prerequisite: appropriate support classes as determined by the chair of 
 the offering department.  
-PHILOSOPHY AND RELIGION COURSES
+PSY  COURSES
 200.  Experiencing Philosophy (3 hours)
 First Semester, alternate years.  Offered 2022-2023.
 This is an introduction to philosophy providing opportunities to reflect upon the meaning and 
@@ -2548,8 +2485,6 @@ Prerequisite: Sophomore standing or consent of instructor. (IAI: H4 900)
 Second Semester each year and First Semester, alternate years—offered 2021-2022.
 An introduction to theoretical and practical issues of ethics across a variety of Western and 
 non-Western contexts. Also examines the tension between ethical relativism and efforts to define 
-130
-Philosophy and Religion Courses
 a more universal ethics. Includes evaluation of how different cultural and ethical systems treat 
 various practical issues associated with biomedical advances, environmentalism, and social justice. 
 Prerequisite: Sophomore standing or consent of the instructor. (IAI: H4 904)
@@ -2595,8 +2530,6 @@ Confucianism, Taoism, Islam, Christianity, and Judaism.  The class will examine 
 these traditions as well as their modern shape as truly global religions.  Both primary sources and 
 historical-comparative perspectives will be utilized.  Prerequisite:  Sophomore standing or consent 
 of the instructor.  
-131
-Philosophy and Religion Courses
 275. Religions in America (3 hours)
 As needed
 Study of the major Christian denominations; indigenous American religious movements; 
@@ -2661,7 +2594,7 @@ Consent of the instructor.
 As Needed
 For students wanting to pursue independent research in philosophy or religion under the 
 guidance of an instructor. Prerequisites: Senior standing and consent of the instructor.
-PHYSICAL EDUCATION COURSES (PE)
+PE EDUCATION Courses
 101. First Aid (2 hours)
 Summer only
 Introduction and practice in applying the basic techniques of administering first aid.  Pertinent 
@@ -2732,11 +2665,10 @@ specific to students with special needs. Prerequisites: PE 111 or 201.
 499. Physical Education Seminar (3 hours)
 Each Semester, as needed.
 Research and discussion of current issues and topics in physical education and sport management; 
-134
 Physics • Political Science
 introduction to modern trends and advances in physical education and sports. Prerequisites: 
 Senior year, consent of instructor, advisor, and department chair.
-PHYSICS COURSES (PSY)
+PHY Courses
 201. General College Physics I (4 hours: 3 lectures, 1 lab)
 Second Semester, alternate years. Offered 2022-2023.
 Principles of physics including mechanics, forces, fluids, and waves. Prerequisite: Good 
@@ -2748,7 +2680,7 @@ Good background in algebra and trigonometry.
 350. Topics in Physics (3 hours)
 As Needed.
 In-depth study of a selected topic in advanced Physics. 
-POLITICAL SCIENCE COURSES (PO)
+PO COURSES
 102. U.S. National Government (3 hours)
 Second Semester
 Analysis of the national political system, the Constitution and the effects of values, pressure 
@@ -2883,8 +2815,7 @@ decision-making, and legal and judicial procedures. Prerequisite: PS 102 or 105.
 495. Senior Seminar (3 hours)
 Each Semester
 Design and implementation of individual research in a current subfield. Culminates in an oral 
-defense of thesis and presentation to the community. Prerequisite: PS 352.
-PSYCHOLOGY COURSES (PS)
+PS COURSES
 101. General Psychology (3 hours)
 Each Semester
 An introductory course in psychology that surveys knowledge of human behavior and mental 
@@ -2963,9 +2894,6 @@ Both theoretical and practical aspects are emphasized in the study of various hu
 in organizational and industrial settings (e.g., leadership, motivation and job satisfaction, 
 communication and conflict in organizations, personnel psychology). Prerequisite: PY 101 and 
 Sophomore standing. 
-Psychology Courses
-139
-Psychology • Social Science
 400. Independent Research in Psychology (3 hours)
 As needed
 Student independently designs and conducts an empirical research project dealing with a
@@ -3001,7 +2929,7 @@ Second Semester
 Readings, student-led seminar sessions, and discussions of current issues in psychology designed 
 to measure student mastery of psychological concepts. Prerequisites: PY101, 490; SS 230, 330, 
 430; and senior standing or consent.
-SOCIAL SCIENCE COURSES (SOC)
+SOC Courses
 120. Special Topics in the Social Sciences (1-4 hours)
 As Needed
 An investigation of a significant introductory theme or issue in the Social Sciences and not 
@@ -3053,8 +2981,6 @@ A detailed investigation of a significant theme or issue in the Social Sciences 
 in the regular departmental course offerings.  The student may repeat the course for credit when 
 topics are changed.  Prerequisite:  appropriate support classes as determined by the chair of the 
 offering department.  
- Social Science Courses
-141
 Social Science • Sociology • Spanish
 330. Statistics for the Social Sciences (3 hours)
 Each Semester
@@ -3077,12 +3003,12 @@ Second Semester
 An advanced course in the techniques of research design. Students design a unique research 
 project, draft a research proposal, complete an IRB application, and defend the proposal.
 Prerequisites:  SS 230, 330, or permission of the instructor; Junior standing or consent.
-SOCIOLOGY COURSES (SO)
+SO Courses
 104. Principles of Sociology (3 hours)
 First Semester
 A survey of the fundamental principles of sociology, including basic sociological concepts, 
 theoretical perspectives and research techniques. (IAI: S7 900)
-SPANISH COURSES (SP)
+SP Courses
 101. Elementary Spanish I (4 hours)
 First Semester
 Introduction to the fundamentals of Spanish including pronunciation, grammar, conversation, 
@@ -3218,7 +3144,7 @@ SP 304.
 As Needed
 Readings and conferences in a specific area of Hispanic literature, civilization or culture. 
 Prerequisites: SP 304 and consent of the instructor.
-SPORT MANAGEMENT COURSES (SM)
+SM Courses
 203. Sports Management (3 hours)
 First Semester
 Preparation of students for leadership roles in sports, clubs, health spas, fitness centers and 
@@ -3283,8 +3209,6 @@ features of many different areas and types of facilities will be covered. Prereq
 Second Semester
 Concepts involved in the promotion, advertising, public relations, selling and retailing, licensing 
 of sport and sport-related products. Fundamentals needed to implement a sports information 
-Sport Management Courses
-146
 program, including authoring press releases and publications, statistical breakdowns, website 
 design, communication with the press and marketing techniques specific to sport. Prerequisite: 
 Junior standing.
@@ -3306,6 +3230,7 @@ the sophomore year. Each student is expected to furnish his or her own uniform a
 where required. No student may enroll in an activity course in a sport in which the student 
 previously earned academic credit through participation in a season of intercollegiate athletics. A 
 maximum of two credits in activity courses may be earned in any one semester.
+TH Courses
 131. Introduction to Theatre and Drama (3 hours)
 First Semester 
 Introduction to the theory and practice of theatre, including acting, directing, and basic 
@@ -3358,8 +3283,7 @@ is developed according to established College guidelines under the sponsorship o
 member. See the index under “Internships” for reference to additional information on internship 
 guidelines, or consult the department chair. Prerequisite: Junior standing or above. Not open to 
 any student who is on academic, disciplinary, or Work Program probation.
-Theatre Courses
-148
+
 321. Theatre History I (3 hours)
 First Semester, alternate years.  Offered 2022-2023.
 An overview of the History of the Theatre arts from pre-Greek to pre-Ibsen; the beginning of 
@@ -3418,7 +3342,7 @@ As needed.
 A creative project in the performance (directing, acting, writing) or technical (set, costume, 
 lighting) aspects of theatre that results in full-length program presented to a public audience. 
 Prerequisites: Theatre Major, senior standing, and permission. 
-WRITING COURSES (WR)
+WR Courses
 101. Writing Studio I (1 hour)
 Each Semester
 Students enrolled in WR 111 will work intensively in small groups facilitated by a peer discussion 
