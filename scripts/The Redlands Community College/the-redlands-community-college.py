@@ -6,51 +6,38 @@ with open('./the-redlands-community-college.txt', 'r', encoding='utf-8') as txt_
     txt_content = txt_file.read()
 
     # Create a regex pattern to match course data with various formats
-    pattern = re.compile(r'(\w+(?:\s+|\s?-)\d+(?:-\d+)?\s*)(?:\s+(.+?))?\s+([\s\S]*?)(?=\w+(?:\s+|\s?-)\d+(?:-\d+)?\s+|$)')
+    pattern = re.compile(r'(\w+(?:\s+|\s?-)\d+(?:-\d+)?\s*)(.*?)(?=\n\w+(?:\s+|\s?-)\d+(?:-\d+)?\s+|\Z)', re.DOTALL)
 
     # Initialize a list to store extracted course data
     course_data = []
 
-    # Find all matches in the text content
-    matches = pattern.findall(txt_content)
+    for match in pattern.finditer(txt_content):
+        match_code = match.group(1).strip()
+        match_description = match.group(2).strip()
 
-    # Initialize variables to store course details
-    code = ""
-    title = ""
-    description = ""
+        # Split the description into lines
+        description_lines = match_description.split('\n')
 
-    for match in matches:
-        match_code = match[0].strip()
-        match_name = match[1].strip() if match[1] else ""
-        match_description = match[2].strip()
+        # The first line is the title
+        title = description_lines[0]
 
-        # Check if this part of the match is a code or a title
-        if re.match(r'^\w+\s+\d+(?:-\d+)?$', match_code):
-            # If it's a code, update the previous course details and reset
-            if code:
-                course_data.append({
-                    'code': code,
-                    'title': title,
-                    'description': description
-                })
-            code = match_code
-            title = match_name
-            description = match_description
-        else:
-            # If it's not a code, append the description to the current course
-            description += "\n" + match_description
+        # The rest is the description
+        description = '\n'.join(description_lines[1:])
 
-    # Add the last course to the list
-    if code:
+        # Extract course credits from the course code (last digit(s))
+        credits_match = re.search(r'(\d+(?:-\d+)?)$', match_code)
+        course_credits = credits_match.group(1)[-1] if credits_match else ""
+
         course_data.append({
-            'code': code,
+            'code': match_code,
             'title': title,
+            'credits': course_credits,
             'description': description
         })
 
 # Write the extracted course data to a CSV file
 with open('the-redlands-community-college.csv', 'w', newline='', encoding='utf-8') as csv_file:
-    csv_writer = csv.DictWriter(csv_file, fieldnames=['code', 'title', 'description'])
+    csv_writer = csv.DictWriter(csv_file, fieldnames=['code', 'title', 'credits', 'description'])
 
     # Write header row
     csv_writer.writeheader()
