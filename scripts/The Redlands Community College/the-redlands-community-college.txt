@@ -1,11 +1,6 @@
 
 ACCT 2173 FINANCIAL ACCOUNTING  
-Prerequisite: 
-MATH 
-1303 
-General 
-Quantitative 
-Reasoning  
+Prerequisite: MATH 1303 General Quantitative Reasoning  
 This course is a study of accounting theories and concepts 
 involved in analyzing, processing, interpreting, and 
 communicating decision-making information for internal 
@@ -18,8 +13,7 @@ involved in analyzing, processing, interpreting, and
 communicating decision-making information for internal 
 and external uses. These courses are intended for majors 
 and non-majors.  (Spring, Fall) 
-AGEC 1373 INTRODUCTION TO AGRICULTURE 
-ECONOMICS  
+AGEC 1373 INTRODUCTION TO AGRICULTURE ECONOMICS  
 This course presents basic economic theory of production, 
 marketing and consumption of agricultural products and 
 the role and structure of agriculture in the American 
@@ -29,12 +23,7 @@ This course covers the application of principles and
 practices of farm and ranch management in order to 
 improve or enhance the profitability of the enterprise. 
 (Spring) 
-AGEC 
-2143 
-PRINCIPLES 
-OF 
-AGRICULTURE 
-MARKETING  
+AGEC 2143 PRINCIPLES OF AGRICULTURE MARKETING  
 This course covers the types of marketing practices and 
 alternatives to these marketing practices. Emphasis will 
 be on the application of principles of marketing for 
@@ -52,8 +41,7 @@ news writing and other communication methods.  The
 students will be informed of careers in agricultural 
 communications and the importance of the media in 
 agriculture and related fields.  (Fall) 
-AGRI 2143 INTRODUCTION TO AGRICULTURE 
-EDUCATION 
+AGRI 2143 INTRODUCTION TO AGRICULTURE EDUCATION 
 This course is an exploration into the world of teaching 
 agricultural education with a primary focus on the 
 agricultural education programs. Required components 
@@ -94,12 +82,7 @@ civic responsibility, and strengthen communities.  This
 course involves students in community service activities 
 to enhance their academic and personal development.  
 (Spring, Fall) 
-AGRI 
-2302 
-LIVESTOCK 
-PHOTOGRAPHY 
-IN 
-AGRICULTURE 
+AGRI 2302 LIVESTOCK PHOTOGRAPHY IN AGRICULTURE 
 This course provides an opportunity for the student to 
 learn how to set up livestock for photos, catalog and sale 
 design, landscape agriculture, getting to know the camera, 
@@ -108,7 +91,7 @@ entries, exposure, balance and attractiveness of photos.
 Bracketing, High Density Resolutions and artsy 
 photography will also be learned. The student will get 
 information on how to manage and adjust photos on a 
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
 computer using Picassa, Photoshop and Photomatix.  
@@ -189,8 +172,7 @@ greenhouses, location factors, materials, glazing
 selection, calculation of and provision of heating and 
 cooling requirements, lighting, benches, and energy 
 conservation. 3 hours lecture credit. (Spring) 
-AGSU 2223 APPLIED SUSTAINABILITY 
-CAPSTONE 
+AGSU 2223 APPLIED SUSTAINABILITY CAPSTONE 
 Prerequisites: Must successfully have completed a 
 minimum of 2 AGSU courses (one of which must have 
 included a lab) to enroll in this course. 
@@ -204,7 +186,7 @@ This course prepares students with an introduction to
 drone flight and proficiency, with particular focus on 
 safe and efficient operation. Students will be exposed to 
 multiple drone types and will have dedicated flight time 
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
 to become familiar with controls and techniques. In 
@@ -212,8 +194,7 @@ addition, this course will include all materials and
 knowledge base necessary to pass the FAA TRUST test 
 now required for recreational drone use. (2 hours Lecture 
 Credit; 1 hour Laboratory Credit) (Fall) 
-AGTE 1022 DRONE PHOTOGRAPHY AND 
-VIDEOGRAPHY 
+AGTE 1022 DRONE PHOTOGRAPHY AND VIDEOGRAPHY 
 This course reinforces the basics of flying a drone, with 
 particular attention to fundamentals, safety, and legal 
 aspects. Photography and videography instruction, 
@@ -257,7 +238,7 @@ troubleshooting, project planning, and multimeter use.
 Students will synthesize activities and knowledge base 
 to build a fully programmable, mobile robot. (3 hours 
 lecture credit; 1 hour laboratory credit) (Spring) 
-AGRONOMY 
+
 AGRN 1124 INTRODUCTION TO SOIL SCIENCE 
 This course explores the principal physical, chemical, and 
 biological properties of soil related to plant growth.  
@@ -300,7 +281,7 @@ AHS 2013 NUTRITION
 This course examines the basic composition of nutrients 
 and accessory factors required for adequate human 
 nutrition. It includes the application of nutritional 
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
 principles to the planning of normal and special dietary 
@@ -336,14 +317,12 @@ and feeding recommendations.  (Spring)
 ANSI 2001-3 ANIMAL SCIENCE SEMINAR  
 This course is a study of selected topics in Animal 
 Science. 
-ANSI 2023 MEAT ANIMAL/CARCASS 
-EVALUATION  
+ANSI 2023 MEAT ANIMAL/CARCASS EVALUATION  
 This course discusses how to identify and evaluate carcass 
 cuts and apply yield grades and grading standards to live 
 meat animals. Students have an opportunity to select 
 superior meat animals. 
-ANSI 2112 LIVESTOCK EVALUATION AND 
-SELECTION  
+ANSI 2112 LIVESTOCK EVALUATION AND SELECTION  
 Prerequisite: Must be on the Livestock Judging Team to 
 enroll in this course. 
 This course covers the use of performance records, 
@@ -358,8 +337,7 @@ classes of livestock feeding.  Students are taught how to
 formulate rations for domestic livestock and to use the 
 results of the rations to improve rate of gain and control 
 production costs.  (Spring) 
-ANSI 2133 ADVANCED LIVESTOCK 
-EVALUATION/SELECTION 
+ANSI 2133 ADVANCED LIVESTOCK EVALUATION/SELECTION 
 This course provides advanced training with livestock 
 evaluation and selection. Emphasis will be on the 
 demonstrated ability to judge livestock classes and 
@@ -376,8 +354,7 @@ storage,
 semen 
 deposition, 
 synchronization, sanitation, and sire selection.  (Spring) 
-ANSI 2143 ANATOMY AND PHYSIOLOGY OF 
-REPRODUCTION 
+ANSI 2143 ANATOMY AND PHYSIOLOGY OF REPRODUCTION 
 This course provides the opportunity to examine the 
 reproductive systems of livestock as such systems 
 produce new offspring. Emphasis will be on identifying 
@@ -406,7 +383,7 @@ of the principles and elements of art and design. Emphasis
 is placed on the organizational command of the 2D picture 
 plane and issues of illusion. Format of this class will be a 
 combination of studio practice, lecture, demonstration, 
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
 critique, and quizzes. Students will explore a variety of art 
@@ -517,15 +494,14 @@ continuing to introduce and explore a variety of tools and
 techniques. Emphasis will be placed on the further growth 
 of all aesthetic qualities as they relate to a more 
 complicated visual means of expression.  (Spring) 
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
 ART 2123 NATIVE AMERICAN PAINTING  
 This course introduces the student to the symbolism, 
 heritage and painting techniques involved in Native 
 American art. 
-ART 2163 INTERMEDIATE DIGITAL 
-PHOTOGRAPHY 
+ART 2163 INTERMEDIATE DIGITAL PHOTOGRAPHY 
 This course complements ART 2063, Introduction to 
 Digital Photography, with students progressing in the 
 areas of more advanced computer software skills and 
@@ -602,7 +578,7 @@ is a collaborative process, utilizing dozens of creative
 individuals. This course is an examination of the 
 significant roles that artists play in the film, video and 
 social media related industries.  (Spring, Fall) 
-ASTRONOMY 
+
 ASTR 1614 ASTRONOMY WITH LAB 
 Prerequisites: none 
 This course is designed to examine the history and 
@@ -619,7 +595,7 @@ Prerequisites: none
 This course is designed to provide fundamental 
 information concerning life and life processes with an 
 introduction to the integration between structure and 
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
 function. Introduction of principles at the major levels of 
@@ -726,7 +702,7 @@ features of atomic structure, nomenclature, periodic
 properties, chemical bonding, molecular geometries of 
 organic and inorganic compounds, stoichiometry, the 
 reactions and properties of solutions, gas laws, and 
-thermochemistry. 4 hours lecture;  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+thermochemistry. 4 hours lecture;   
  
 
  
@@ -839,9 +815,6 @@ This course is designed to prepare early childhood
 professionals who have the ability to establish and 
 maintain positive collaborative relationships with 
 families, who can respect parents’ choices and goals for 
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
- 
-
 children and communicate effectively with parents about 
 curriculum and children’s progress and who can involve 
 families in assessing and planning for individual children, 
@@ -870,8 +843,7 @@ classroom
 instruction, hands-on activities and observation of 
 children in group care to develop competence in working 
 with young children. (Fall) 
-CD 2063 BEHAVIOR AND GUIDANCE OF YOUNG 
-CHILDREN  
+CD 2063 BEHAVIOR AND GUIDANCE OF YOUNG CHILDREN  
 This course emphasizes the knowledge necessary to 
 provide positive child guidance strategies which help 
 children learn to make responsible decisions regarding 
@@ -889,8 +861,7 @@ hands-on
 activities and observation of children in group care to 
 develop competence in working with young children. 
 (Spring, Summer, Fall) 
-CD 2073 MUSIC, MOVEMENT AND CREATIVE 
-ARTS 
+CD 2073 MUSIC, MOVEMENT AND CREATIVE ARTS 
 This course emphasizes the acquisition of the knowledge 
 of and ability to develop and implement meaningful, 
 integrated learning experiences, using the central 
@@ -904,16 +875,14 @@ activities and observations of children in group care to
 develop competence in the design and implementation of 
 curriculum and instructional strategies related to music, 
 movement and creative arts.  (Spring, Fall) 
-CD 2101 PORTFOLIO DEVELOPMENT IN CHILD 
-DEVELOPMENT 
+CD 2101 PORTFOLIO DEVELOPMENT IN CHILD DEVELOPMENT 
 In this course, the student begins compiling a professional 
 portfolio. The portfolio will be developed around the state 
 standards for early childhood education and the standards 
 of the National Association for Education of Young 
 Children. The portfolio will continue to be developed 
 throughout the degree program. (Spring) 
-CD 2103 EDUCATION AND SERVICES FOR 
-CHILDREN WITH SPECIAL NEEDS 
+CD 2103 EDUCATION AND SERVICES FOR CHILDREN WITH SPECIAL NEEDS 
 This course is designed to provide an understanding of 
 conditions which affect children’s development and 
 learning, including risk factors, developmental variations 
@@ -947,13 +916,12 @@ differing
 instructional approaches based upon children’s individual 
 cognitive development and learning styles. (Summer, 
 Fall) 
-CD 2183 LANGUAGE AND SOCIAL SKILLS FOR 
-CHILDREN 
+CD 2183 LANGUAGE AND SOCIAL SKILLS FOR CHILDREN 
 This course explores methods of skill development in 
 encouraging children’s language and social development. 
 Emphasis will be on 1) developing an understanding of 
 emergent literacy theories and practices, 2) learning how 
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
 to encourage classroom environments that foster positive 
@@ -963,12 +931,7 @@ skills, reading skills and second language acquisition
 skills. The course combines classroom instruction, hands-
 on activities and observations of children in group care.  
 (Spring) 
-CD 
-2203 
-PROGRAM 
-PLANNING 
-AND 
-EVALUATION IN CHILD DEVELOPMENT 
+CD 2203 PROGRAM PLANNING AND EVALUATION IN CHILD DEVELOPMENT 
 This course provides the opportunity to plan, implement 
 and evaluate an integrated curriculum that focuses on 
 children’s needs and interests and takes into account 
@@ -987,12 +950,7 @@ the importance of a multicultural approach to early
 childhood education. The course combines classroom 
 instruction, hands-on activities and observations of 
 children in group care. (Spring) 
-CD 
-2223 
-PROFESSIONALISM 
-IN 
-CHILD 
-DEVELOPMENT 
+CD 2223 PROFESSIONALISM IN CHILD DEVELOPMENT 
 This course prepares students to become early childhood 
 professionals who reflect on their practices, articulate a 
 philosophy and rational for decisions and continually self-
@@ -1007,8 +965,7 @@ and the importance of seeking out opportunities to grow
 professionally by locating and using appropriate 
 professional literature, organizations, resources and 
 experiences to inform and improve their practice. (Fall) 
-CD 2233 ASSESSMENT & EVALUATION OF CHILD 
-GROWTH & DEVELOPMENT  
+CD 2233 ASSESSMENT & EVALUATION OF CHILD GROWTH & DEVELOPMENT  
 This course covers the use of informal and formal 
 assessment strategies to plan an individual curriculum and 
 teaching practices based on each child’s growth and 
@@ -1040,12 +997,8 @@ strategies to become proficient in critical and creative
 reasoning. Students will also have the opportunity to 
 expand their academic study skills as well as plan their 
 college and career pathways. 
-COMMUNICATIONS 
-COM 
-1113 
-INTRODUCTION 
-TO 
-COMMUNICATIONS  
+
+COM 1113 INTRODUCTION TO COMMUNICATIONS  
 This course is concerned with the improvement of skills 
 in four areas of communication—listening, speaking, 
 reading and writing. Interpersonal and small group 
@@ -1071,7 +1024,7 @@ I, with an emphasis on acquiring greater elementary
 conversational skills through an increase of targeted 
 grammar, syntax and vocabulary. Expanded emphasis is 
 on expressive skills to begin the development of sign 
-language fluency. Completion of COM  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+language fluency. Completion of COM   
  
 
 Sign Language I and COM 2113 American Sign 
@@ -1097,8 +1050,7 @@ to include police, courts, and corrections. (Spring, Fall)
 CJ 1223 INTRODUCTION TO LAW ENFORCEMENT  
 This course covers the history, development, and 
 functions of law enforcement. (Spring) 
-CJ 1243 TRAFFIC INVESTIGATION AND 
-ENFORCEMENT  
+CJ 1243 TRAFFIC INVESTIGATION AND ENFORCEMENT  
 Prerequisite: CJ 2313 Criminal Law or CJ 2443 Criminal 
 Law and Procedure 
 Recommendation: Completion of CJ 1223 Introduction 
@@ -1141,11 +1093,7 @@ research papers. Writing assignments will be based upon
 work-related scenarios relevant to law enforcement.  
 (Spring) 
 CJ 2053 ORGANIZED CRIME AND GANGS  
-Understanding 
-Organized 
-Crime 
-provides 
-a 
+Understanding Organized Crime provides a 
 comprehensive introduction to the subject of organized 
 crime. This course covers the complex and controversial 
 issues associated with organized crime. Topics covered 
@@ -1155,8 +1103,7 @@ and different types of organized crime factions. Students
 will learn about organized crime and how law-
 enforcement practitioners today are counteracting these 
 prevailing criminal organizations.  (Spring) 
-CJ 2063 UNDERSTANDING VIOLENCE AND 
-VICTIMIZATION 
+CJ 2063 UNDERSTANDING VIOLENCE AND VICTIMIZATION 
 Understanding Violence and Victimization, explores 
 selected types of violence and examines the causes and 
 responses to such victimization. It addresses topics such 
@@ -1170,7 +1117,7 @@ including the impact of drugs on our society; their history
 and the pharmacological impact of drugs on the body; 
 drug policy implications; the criminal justice system 
 response; the effects, treatment and prevention of abuse; 
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
 theories of use; the drug business; and drug law 
@@ -1194,8 +1141,7 @@ historical and contemporary issues relating to terrorism.
 CJ 2101-4 PRACTICUM IN CRIMINAL JUSTICE  
 This course provides an opportunity to gain practical 
 experience in a criminal justice setting.  (Spring) 
-CJ 2201-4 SPECIFIC PROBLEMS IN CRIMINAL 
-JUSTICE  
+CJ 2201-4 SPECIFIC PROBLEMS IN CRIMINAL JUSTICE  
 This course presents selected studies of current social 
 problems in criminal justice. 
 CJ 2313 CRIMINAL LAW 
@@ -1205,8 +1151,7 @@ and elements of major offenses in the criminal codes of
 all levels of government and the penalties which attach to 
 those convicted of committing crimes. Oklahoma statutes 
 are used as illustrations.  (Fall) 
-CJ 2333 POLICE ORGANIZATION AND 
-MANAGEMENT  
+CJ 2333 POLICE ORGANIZATION AND MANAGEMENT  
 This course is a description of the principles of 
 organization, leadership and management as applied to 
 law enforcement agencies and personnel at all levels of 
@@ -1223,16 +1168,14 @@ presentation in court. Emphasis is given to case
 investigation models, developing leads, theory building, 
 conceptual approaches to the investigative mandate and 
 information processing and reporting.  (Spring) 
-CJ 2353 THE ADMINISTRATION OF 
-CORRECTIONAL INSTITUTIONS  
+CJ 2353 THE ADMINISTRATION OF CORRECTIONAL INSTITUTIONS  
 This course is a study of the organization, management 
 and leadership of institutions which confine offenders. 
 The course includes discussion of short-term detention 
 facilities, jails, prisons, personnel issues, staff-inmate 
 relations and the future directions of institutional design 
 and administration.  (Spring) 
-CJ 2363 ENVIRONMENTAL SECURITY 
-PROCEDURES 
+CJ 2363 ENVIRONMENTAL SECURITY PROCEDURES 
 This course is designed to assist in gaining an in-depth 
 knowledge of Environmental Security Procedures in a 
 prison setting. Environmental Security Procedures is 
@@ -1242,8 +1185,7 @@ course includes the five types of emergencies that can
 occur in a correctional facility, the reasons for the 
 “games” inmates play and how to effectively transport 
 an inmate outside the security of the facility. 
-CJ 2433 COMMUNITY AND CULTURAL 
-DIVERSITY 
+CJ 2433 COMMUNITY AND CULTURALDIVERSITY 
 This course is an examination of the conflict, both 
 historical and current, which prevents criminal justice 
 agencies and various communities from forming lasting 
@@ -1268,13 +1210,12 @@ weaponless (open hand) subject control, intermediate
 range weapons use and self-defense techniques. The 
 course also instructs students in how to negate or 
 minimize the use of excessive and unnecessary deadly 
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
 force to meet legal review. It covers the need and use of 
 verbal commands in the law enforcement environment. 
-CJ 2453 PROBATION, PAROLE AND COMMUNITY 
-TREATMENT  
+CJ 2453 PROBATION, PAROLE AND COMMUNITY TREATMENT  
 This course is an examination of the most common and 
 the new methods of supervising offenders in the 
 community. The structure, management and personnel of 
@@ -1301,10 +1242,8 @@ maintenance procedures of service revolvers. Instruction
 in the basics of marksmanship, with emphasis placed on 
 the mental process involved in various shoot/don’t shoot 
 situations, is covered both in theory and application. 
-EARLY CHILDHOOD CENTER 
-MANAGEMENT 
-ECM 2123 EARLY CHILDHOOD CENTER 
-FINANCIAL PLANNING & MANAGEMENT 
+ 
+ECM 2123 EARLY CHILDHOOD CENTER FINANCIAL PLANNING & MANAGEMENT 
 This course is designed to provide practical experience in 
 designing and managing a financial plan and budget, as 
 well as guidelines and tools for complying with or 
@@ -1318,33 +1257,17 @@ how these skills and habits could impact the manner in
 which the professional would manage an early childhood 
 center. Also included will be the development of an early 
 childhood center business plan.  (Spring) 
-ECM 2133 EARLY CHILDHOOD CENTER 
-PERSONNEL DEVELOPMENT AND 
-MANAGEMENT 
+ECM 2133 EARLY CHILDHOOD CENTER PERSONNEL DEVELOPMENT AND MANAGEMENT 
 This course is designed to study the principles, procedures 
 and organizational techniques currently utilized by 
 business in the development and management of 
 personnel. It includes a study of current developments 
 within the general field of personnel development and 
 management, including employment practices, employee 
-assessment 
-and 
-evaluation, 
-orientation, 
-training 
-programs, related federal and state legislation, regulations 
-and 
-orders, 
-workforce 
-diversity, 
-employee 
-and 
-employer/management 
-relations 
-and 
-compensation 
-management. 
-ECONOMICS 
+assessment and evaluation, orientation, training 
+programs, related federal and state legislation, regulations and orders, workforce diversity, 
+employee and employer/management relations and compensation management. 
+
 ECON 1353 PERSONAL FINANCE  
 This course is an introductory course covering the various 
 problems of individual/consumer financial management. 
@@ -1373,13 +1296,7 @@ structures, factor market, government regulations, and
 international trade. (Spring, Fall) 
  
  
- 
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
- 
-
-ENGLISH 
-ENGL 0013 FUNDAMENTALS OF READING AND 
-WRITING 
+ENGL 0013 FUNDAMENTALS OF READING AND WRITING 
 This course is offered to give students an opportunity to 
 improve their basic reading and writing skills through a 
 curriculum of vocabulary and comprehension and rules of 
@@ -1472,7 +1389,7 @@ This course develops a basis for the interpretation,
 evaluation and appreciation of fiction, particularly the 
 novel and short story. Representative sections are read, 
 discussed and analyzed, with consideration for themes, 
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
 mood, characterization, style, tone, language and other 
@@ -1496,8 +1413,7 @@ poetic techniques and forms and the rhetoric of verse.
 Representative works are read, discussed and analyzed 
 with emphasis on theme, structure and language.  
 FILM AND VIDEO 
-FV 2001-4 SEMINAR IN DOCUMENTARY 
-FILMMAKING 
+FV 2001-4 SEMINAR IN DOCUMENTARY FILMMAKING 
 This course is a study of selected topics in documentary 
 film production. 
 FV-2013 DOCUMENTARY FILM 
@@ -1536,8 +1452,7 @@ written and screened film examples. The student will
 demonstrate proficiency by writing a short project in the 
 screenplay format designed to expand appreciation of the 
 literary as well as the physical. 
-FV 2101-4 INTERNSHIP IN DOCUMENTARY 
-FILMMAKING 
+FV 2101-4 INTERNSHIP IN DOCUMENTARY FILMMAKING 
 This course provides an opportunity to gain practical 
 experience in a documentary film production setting. 
 GEOGRAPHY 
@@ -1550,7 +1465,7 @@ GEG 2253 WORLD REGIONAL GEOGRAPHY
 A study of the world’s major geographic religions 
 integrating the components of the political, historic, 
 economic, social and physical and environments.  (Fall) 
-GEOLOGY 
+
 GEOL 1053 EARTH SCIENCE 
 This is a survey course of geology, which includes the 
 study of geologic forces in the earth such as volcanism, 
@@ -1574,7 +1489,7 @@ science requirement for graduation and is not intended for
 health or science majors. 3 hours lecture credit.  (Spring, 
 Summer, Fall) 
  
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
 GEOL 1054 PHYSICAL GEOLOGY WITH LAB 
@@ -1672,7 +1587,7 @@ HPER 2103 EXERCISE TESTING AND
 PRESCRIPTION 
 This course covers knowledge of anatomy and physiology 
 as it relates to exercise testing and prescription of 
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
 exercise. Students will learn to administer and interpret 
@@ -1706,8 +1621,7 @@ sports injuries. Basic foundations are also provided in
 more specific areas of rehabilitation.  (Fall) 
  
  
-HPER 2593 PROTECTIVE TECHNIQUES IN 
-ATHLETIC TRAINING 
+HPER 2593 PROTECTIVE TECHNIQUES IN ATHLETIC TRAINING 
 This course is designed for the student pursuing a career 
 as an Athletic Trainer, for a coach whose school does not 
 have access to athletic training services or for an 
@@ -1741,8 +1655,7 @@ programs,
 reassessment tests including cardio-respiratory fitness, 
 body composition, muscular fitness, flexibility and lower 
 back function.  (Fall) 
-HPER 2623 PERSONAL TRAINER CERTIFICATION 
-COURSE 
+HPER 2623 PERSONAL TRAINER CERTIFICATION COURSE 
 Prerequisites: ZOOL 2134 Anatomy with Lab; ZOOL 
 2144 Physiology with Lab; HPER 2103 Exercise Testing 
 and Prescription; and AHS2013 Nutrition 
@@ -1774,7 +1687,7 @@ quickly as possible. The practicum takes place over a
 semester period. During the semester the student will 
 work in the RCC athletic training room and with the 
 athletic teams.  (Spring, Fall) 
-HPER 266 Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+HPER 266  
  
 
 Prerequisite:  HPER 2343 Care and Prevention of 
@@ -1868,11 +1781,10 @@ management such as planning, decision making,
 organizing, staffing, communicating, motivating, leading 
 and controlling. Concepts of management apply to both 
 profit and non-profit organizations.  (Spring) 
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
-MGMT 2103 OCCUPATIONAL/TECHNICAL 
-INTERNSHIP 
+MGMT 2103 OCCUPATIONAL/TECHNICAL INTERNSHIP 
 This course is a directed internship experience in an 
 organization at a level requiring specific duties and 
 responsibilities related to the student’s program of study. 
@@ -1978,15 +1890,14 @@ estimation and fluency with large numbers; evaluating
 expressions and formulas; rates, ratios, and proportions; 
 percentages; solving equations; linear models; data 
 interpretations including graphs and tables; verbal, 
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
 algebraic and graphical representations of functions; 
 exponential models. Any student with an ACT math score 
 < 19 is required to take the math placement exam. (Spring, 
 Fall) 
-MATH 0482 FUNCTIONS AND MODELING 
-REVIEW 
+MATH 0482 FUNCTIONS AND MODELING REVIEW 
 Prerequisite: MATH 0234 Foundations of Mathematical 
 Reasoning with a grade of “C” or higher, or appropriate 
 course placement score. 
@@ -2015,22 +1926,18 @@ interaction.  This expanded format version is designed
 and required to be taken in conjunction with College 
 Algebra (MATH 1513) to receive full academic credit. 
 (Spring, Fall) 
-MATH 1023 STRUCTURAL CONCEPTS IN 
-ARITHMETIC I  
+MATH 1023 STRUCTURAL CONCEPTS IN ARITHMETIC I  
 This course presents an introduction to problem solving 
 and number theory as they relate to numeration systems, 
 rational numbers, elementary algebra, functions and the 
 use of current technologies. Does not apply toward a 
-major or minor in mathematics. Does not substitute for 
-MATH 1303 or MATH 1513.  (Summer) 
-MATH 1123 STRUCTURAL CONCEPTS IN 
-ARITHMETIC II 
+major or minor in mathematics. Does not substitute for MATH 1303 or MATH 1513.  (Summer) 
+MATH 1123 STRUCTURAL CONCEPTS IN ARITHMETIC II 
 This course is an introduction to geometric notation, and 
 the study of constructions, measurements, similarity, 
 congruence, translations, rotations, and reflections. This 
 course is designed for elementary education majors. Does 
 not apply toward a major or minor in mathematics. 
-(Spring) 
 MATH 1303 GENERAL QUANTITATIVE REASONING 
 Pre-requisite of 3 years of high school mathematics OR 
 a required score on placement exam OR equivalent. 
@@ -2092,7 +1999,7 @@ forms of complex numbers, identify and graph polar
 curves.  (Spring, Fall) 
  
  
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
 MATH 2001-3 MATHEMATICS SEMINAR  
@@ -2195,7 +2102,7 @@ This course is a review of the rudiments of tonal music:
 scales, key signature, intervals and triads. It incorporates 
 four-part music writing, music analysis, composition and 
 associated skills. Also included is the development of 
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
 basic aural skills related to sight-reading with rhythmic, 
@@ -2242,8 +2149,7 @@ This is a course designed to meet prerequisites to science
 courses for those students lacking two units of lab science 
 in high school or acceptable ACT scores. 2 semester 
 credit hours lecture; 1 semester credit hour lab.  
-NASC 1013-EXPERIENTIAL APPLIED SCIENTIFIC 
-RESEARCH 
+NASC 1013 EXPERIENTIAL APPLIED SCIENTIFIC RESEARCH 
 Prerequisite:  Successful completion of one (1) year of 
 research and instruction at BlueSTEM AgriLearning 
 Center and USDA Grazinglands Research Laboratory 
@@ -2300,14 +2206,10 @@ The course will require students to identify a research
 question, develop a hypothesis, plan and execute 
 experiments, collect and analyze data and develop 
 conclusions. The student will organize the scientific 
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
- 
-
 research into a formal oral presentation and/or poster 
 presentation.  (Spring) 
  
-NASC 2014 METHODOLOGY OF APPLIED 
-RESEARCH IN NATURAL SCIENCES 
+NASC 2014 METHODOLOGY OF APPLIED RESEARCH IN NATURAL SCIENCES 
 This course is designed as an interdisciplinary approach 
 to scientific research. Each student will be responsible for 
 individual research projects which include the research, 
@@ -2318,8 +2220,7 @@ dimensions including statistical evaluation of research
 data. Areas of emphasis will include hydrology, 
 agriculture, biology, chemistry, microbiology and 
 technology. (Spring) 
-NASC 2214 METHODS OF SCIENTIFIC RESEARCH 
-AND WRITING 
+NASC 2214 METHODS OF SCIENTIFIC RESEARCH AND WRITING 
 This course is designed for the students to apply and 
 complete the scientific method to their research from the 
 previous semesters. The requirements complete the steps 
@@ -2406,7 +2307,7 @@ assessment, group learning experiences, laboratory
 simulation, and clinical rotation. (Spring) 
  
  
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
 NURS 2342 NURSING CAPSTONE 
@@ -2500,7 +2401,7 @@ The course will cover topics such as: conformity, social
 influences, social cognition, prosocial behavior, 
 prejudice, group processes, interpersonal attraction and 
 social comparison. (Spring)  
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
 PSY 2163 DEVELOPMENTAL PSYCHOLOGY  
@@ -2512,8 +2413,7 @@ SOC 1113 INTRODUCTION TO SOCIOLOGY
 A general survey of the field of sociology, the origin and 
 development of social institutions, and social processes. 
 (Spring, Summer, Fall) 
-SOC 1121-3 INTRODUCTION TO SERVICE 
-LEARNING 
+SOC 1121-3 INTRODUCTION TO SERVICE LEARNING 
 Prerequisite: ENGL1113 English Composition I 
 By combining academic theory with practical real-life 
 experience, service-learning provides students with a 
@@ -2597,7 +2497,7 @@ conflict management to their relationships with
 individuals and small groups.  (Spring, Summer, Fall) 
  
  
-  Catalog 2023-2024        Redlands Community College        Section III-Course Descriptions 
+   
  
 
 ZOOLOGY 
