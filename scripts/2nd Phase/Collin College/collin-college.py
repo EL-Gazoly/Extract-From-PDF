@@ -5,8 +5,8 @@ import csv
 with open('collin-college.txt', 'r', encoding='utf-8') as txt_file:
     txt_content = txt_file.read()
 
-    # Create a regex pattern to match course data
-    pattern = re.compile(r'([A-Z]{4}\s\d{4})\s(.*?)\n(.*?)((?=\n[A-Z]{4}\s\d{4})|$)', re.DOTALL)
+    # Create a regex pattern to match course data with the updated course code format
+    pattern = re.compile(r'([A-Z]{4}\s\d{3,4}[A-Z]?)\s(.*?)\n(.*?)((?=\n[A-Z]{4}\s\d{3,4}[A-Z]?)|$)', re.DOTALL)
 
     # Initialize a list to store extracted course data
     course_data = []
@@ -18,7 +18,11 @@ with open('collin-college.txt', 'r', encoding='utf-8') as txt_file:
         code, title, description, _ = match
 
         # Extract the second digit from the course code as credits
-        credits = int(re.search(r'[A-Z]{4}\s\d(\d)', code).group(1))
+        credits_match = re.search(r'(\d)', code)
+        if credits_match:
+            credits = int(credits_match.group(1))
+        else:
+            credits = 0  # Default to 0 if no digit is found
 
         # Remove extra whitespace from the description
         description = description.strip()
