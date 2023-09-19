@@ -16,9 +16,11 @@ with open('./southeastern-oklahoma.txt', 'r', encoding='utf-8') as txt_file:
 
     for match in matches:
         code, title, description = match
+        last_digit = int(re.search(r'\d$', code).group())  # Extract the last digit from the course code
         course_data.append({
             'code': code.strip(),
-            'name': title.strip(),
+            'title': title.strip(),
+            'credits': last_digit,
             'description': description.strip() if description else ''
         })
 
@@ -27,10 +29,10 @@ with open('southeastern-oklahoma.csv', 'w', newline='', encoding='utf-8') as csv
     csv_writer = csv.writer(csv_file)
 
     # Write header row
-    csv_writer.writerow(['code', 'name', 'description'])
+    csv_writer.writerow(['code', 'title', 'credits', 'description'])
 
     # Write course data rows
     for course in course_data:
-        csv_writer.writerow([course['code'], course['name'], course['description']])
+        csv_writer.writerow([course['code'], course['title'], course['credits'], course['description']])
 
 print("CSV file 'southeastern-oklahoma' has been created with the extracted course data.")
