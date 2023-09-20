@@ -1,0 +1,789 @@
+Aviation Electronics Technology 
+ 
+ELT1001LEC – DC Fundamentals Lecture | 2 Semester Credit Hours (62.5 Hours Didactic) 
+Preferred Prerequisite: None 
+Corequisite: ELT1001LAB 
+This course focuses on basic direct-current (DC) electronics, along with the technical math required for 
+an electronics technician. Students are introduced to the concepts of voltage, current, and resistance, 
+along with Ohm’s law. Components discussed include conductors, semiconductors, insulators, and 
+resistors, along with their characteristics in circuits. The course also covers the mathematical application 
+of resistors in series, parallel, and complex circuits. Magnetism concepts, transducers, and basic types of 
+switches are introduced, along with the use of a digital multimeter, and an introduction to schematics. 
+Students are also introduced to the basic concepts of soldering. Upon completion of this class, students 
+should understand the concepts of voltage, current, and resistance, and how various DC components act 
+in series, parallel, and complex circuits.    
+ 
+ELT1001LAB – DC Fundamentals Lab | 2 Semester Credit Hours (61 Hours Lab) 
+Preferred Prerequisite: None 
+Corequisite: ELT1001LEC 
+This course focuses on basic direct-current (DC) electronics, along with the technical math required for 
+an electronics technician. Students are introduced to the concepts of voltage, current, and resistance, 
+along with Ohm’s law. Components discussed include conductors, semiconductors, insulators, and 
+resistors, along with their characteristics in circuits. The course also covers the application of resistors in 
+series, parallel, and complex circuits. Magnetism concepts, transducers, and basic types of switches are 
+introduced, along with the use of a digital multimeter, and an introduction to schematics. Students are 
+also introduced to the basic concepts of soldering.  Shop safety is stressed throughout the 
+course.  Towards the end of the course, students will be given a “Benchmark Lab.  Upon completion of 
+this class, students should understand the concepts of voltage, current, and resistance, and how various 
+DC components act in series, parallel, and complex circuits.    
+ 
+ELT1002LEC - AC Theory and Control Devices Lecture | 2 Semester Credit Hours (62.5 Hours Didactic) 
+Preferred Prerequisites: ELT1001LEC, ELT1001LAB 
+Corequisite: ELT1002LAB 
+This course focuses on basic alternating current (AC) electronics. Students are introduced to the 
+concepts of voltage, current, reactance, and impedance, AC components such as inductors and 
+capacitors, and specific AC circuits such as reactance circuits and filters. This course also introduces basic 
+power supplies, diodes and continues with the introduction of schematics. Upon completion of this 
+class, students should understand the concepts of voltage, current, reactance, and impedance, and how 
+various AC components act in series, parallel, and series-parallel circuits.  
+ 
+ELT1002LAB - AC Theory and Control Devices Lab | 2 Semester Credit Hours (61 Hours Lab) 
+Preferred Prerequisites: ELT1001LEC, ELT1001LAB 
+Corequisite: ELT1002LEC 
+This course focuses on basic alternating current (AC) electronics. Students are introduced to the 
+concepts of voltage, current, reactance, and impedance, AC components such as inductors and 
+capacitors, and specific AC circuits such as reactance circuits and filters. This course also introduces basic 
+power supplies, diodes and continues with the introduction of schematics.  Students continue working 
+with a digital multimeter and begin extensive work with an oscilloscope. Shop safety is 
+stressed throughout the course.  Towards the end of the course, students will be given a “Benchmark 
+Lab”.  Upon completion of this class, students should understand the concepts of voltage, current, 
+reactance, and impedance, and how various AC components act in series, parallel, and series-parallel 
+circuits.  
+ 
+ELT1003LEC - Amplifiers and Power Control Devices Lecture | 2 Semester Credit Hours (62.5 Hours 
+Didactic) 
+Preferred Prerequisites: ELT1002LEC, ELT1002LAB 
+Corequisite: ELT1003LAB 
+This course focuses on basic transistor theory and Troubleshooting, and applies it to amplifiers, amplifier 
+classes, amplifier configurations, operational amplifiers, and oscillators. Students learn transistor theory 
+and transistor types, including BJT, FET, UJT, and IGBT, as well as decibel conversions, gain calculations, 
+and amplifier construction. Upon successful completion of this course, students should understand the 
+basic concepts of transistors and amplifiers and be able to troubleshoot transistor circuits.  
+ 
+ELT1003LAB - Amplifiers and Power Control Devices LAB | 2 Semester Credit Hours (61 Hours lab) 
+Preferred Prerequisites: ELT1002LEC, ELT1002LAB 
+Corequisite: ELT1003LEC 
+This course focuses on basic transistor theory and Troubleshooting, and applies it to amplifiers, amplifier 
+classes, amplifier configurations, operational amplifiers, and oscillators. Students learn transistor theory 
+and transistor types, including BJT, FET, UJT, and IGBT, as well as decibel conversions, gain calculations, 
+and amplifier construction. Students will also troubleshoot analog transistor circuits 
+utilizing common test equipment. Towards the end of the course, students will be given a “Benchmark 
+Lab”. Upon successful completion of this course, students should understand the basic concepts of 
+transistors and amplifiers and be able to troubleshoot transistor circuits.  
+ 
+ELT1004LEC - Digital and Microcontroller Technology Lecture | 2 Semester Credit Hours (62.5 Hours 
+Didactic) 
+Preferred Prerequisites: ELT1002LEC, ELT1002LAB 
+Corequisite: ELT1004LAB 
+This course focuses on digital electronic concepts, such as binary/octal/hexadecimal numbers, logic 
+gates, logic circuits including flip-flops and counters, and shift registers. This course also discusses light 
+microcontroller and microprocessor theory, encoders and decoders, and an in-depth study of data 
+busses. Upon successful completion of this course, students should be able to describe digital electronic 
+concepts, interpret binary data, and troubleshoot logic circuits.  
+ 
+ 
+ 
+ 
+  
+                
+ 
+ELT1004LAB - Digital and Microcontroller Technology Lab | 2 Semester Credit Hours (61 Hours Lab) 
+Preferred Prerequisites: ELT1002LEC, ELT1002LAB 
+Corequisite: ELT1004LEC 
+This course focuses on digital electronic concepts, such as binary/octal/hexadecimal numbers, logic 
+gates, logic circuits including flip-flops and counters, and shift registers. This course also discusses light 
+microcontroller and microprocessor theory, encoders and decoders, and an in-depth study of data 
+busses. Lab projects are focused on the construction and application of digital logic, up to and including 
+a digital clock with number displays. Towards the end of the course, students will be given a “Benchmark 
+Lab”.  Upon successful completion of this course, students should be able to describe digital electronic 
+concepts, interpret binary data, and troubleshoot logic circuits.  
+  
+ELT1005LEC - Industrial Controls and Robotics Lecture | 2 Semester Credit Hours (62.5 Hours Didactic)   
+Preferred Prerequisites: ELT1003LEC, ELT1003LAB, ELT1004LEC, ELT1004LAB 
+Corequisite: ELT1005LAB 
+This course covers a wide range of industrial electronics, components, and applications. The 
+components discussed include industrial switches, relays, analog/digital sensors, and a full range of 
+thyristors. This course also includes a study of residential wiring including 2 phase and 3 phase power, 
+industrial control schematics, motor and generator theory, and programmable logic controllers (PLC)’s 
+with applications in manufacturing. Upon completion of this course, students should be familiar with the 
+various components common in residential and industrial electronics and should be able to read basic 
+wiring diagrams.  
+ 
+ELT1005LAB - Industrial Controls and Robotics Lab | 2 Semester Credit Hours (61 Hours Lab)   
+Preferred Prerequisites: ELT1003LEC, ELT1003LAB, ELT1004LEC, ELT1004LAB 
+Corequisite: ELT1005LEC 
+This course covers a wide range of industrial electronics, components, and applications. The 
+components discussed include industrial switches, relays, analog/digital sensors, and a full range of 
+thyristors. This course also includes a study of residential wiring including 2 phase and 3 phase power, 
+industrial control schematics, motor and generator theory, and programmable logic controllers (PLC)’s 
+with applications in manufacturing. Shop safety, especially around high voltages is stressed throughout 
+the course.  Towards the end of the course, students will be given a “Benchmark Lab”. Upon completion 
+of this course, students should be familiar with the various components common in residential and 
+industrial electronics and should be able to read basic wiring diagrams.  
+ 
+AVN2001LEC - Aerospace Soldering and Inspection Lecture | 2 Semester Credit Hours (60.5 Hours 
+Didactic)   
+Preferred Prerequisites: ELT1001LEC, ELT1001LAB 
+Corequisite: AVN2001LAB  
+This course focuses on the concepts of soldering techniques and skills for high-level soldering work and 
+assembly with two Association Connecting Electronics Industries IPC programs: J-STD-001F – Certified 
+IPC Specialist CIS Requirements for Soldered Electrical and Electronic Assemblies with Space Addendum, 
+and IPC-A-610 – Certified IPC specialists CIS Acceptability of Electronic Assemblies. The J-STD-001F 
+program describes the materials, methods, and verification criteria for producing high quality soldered 
+connections, including surface mount connections, and leads to an IPC certification once all IPC course 
+requirements are met. The IPC-A-610 program focuses on product acceptance criteria for consumer and 
+high reliability printed wiring assemblies and leads to an IPC certification once all IPC course 
+requirements are met. 
+ 
+ 
+  
+                
+ 
+AVN2001LAB - Aerospace Soldering and Inspection Lab | 2 Semester Credit Hours (63 Hours Lab)   
+Preferred Prerequisites: ELT1001LEC, ELT1001LAB 
+Corequisite: AVN2001LEC  
+This course focuses on soldering techniques and skills for high-level soldering work and assembly.   
+This course focuses on two Association Connecting Electronics Industries IPC programs: J-STD-001F – 
+Certified IPC Specialist CIS Requirements for Soldered Electrical and Electronic Assemblies with Space 
+Addendum, and IPC-A-610 – Certified IPC specialists CIS Acceptability of Electronic Assemblies. The J-
+STD-001F program describes the materials, methods, and verification criteria for producing high quality 
+soldered connections, including surface mount connections, and leads to an IPC certification once all IPC 
+course requirements are met. The IPC-A-610 program focuses on product acceptance criteria for 
+consumer and high reliability printed wiring assemblies and leads to an IPC certification once all IPC 
+course requirements are met. Upon completion of this course, students will be able to perform J-
+Standard soldering to space requirements and be able to perform inspection of electronic equipment to 
+strict industry standards.  
+ 
+AVN2002LEC - Aerospace Wiring Lecture | 2 Semester Credit Hours (55.5 Hours Didactic) 
+Preferred Prerequisites: ELT1002LEC, ELT1002LAB 
+Corequisite: AVN2002LAB  
+This course will introduce students to basic wiring concepts. Wiring diagrams, types of connectors, 
+installation tools and common materials, as well as installation procedures and techniques will be 
+covered.  The course includes the study of Avionics installation practices, with the main emphasis on 
+wiring techniques using a wide range of specialized crimpers and the use of installation manuals. The 
+rules and regulations of the aviation industry, including Federal Aviation Regulations, Air Transport 
+Association codes, manufacturer’s manuals, and industry documentation requirements are also 
+discussed. Students are introduced to the FAA Aircraft Electrical Wiring Interconnect System (EWIS) best 
+practices, as well as the basic theory of antennas, transmission lines, and fiber optics.  The course also 
+focuses on the Association Connecting Electronics Industries IPC/WHMA-A-620, Requirements and 
+Acceptance for Cable and Wire Harness Assemblies, which describes acceptability criteria for crimped, 
+mechanically secured, and soldered interconnection and the corresponding lacing/restraining criteria 
+associated with cable and harness assemblies. This program leads to an IPC certification once all IPC 
+course requirements are met. Upon successful completion of this course, students should be familiar 
+with a wide range of wiring concepts and have basic knowledge of the documents and manuals used in 
+the aviation industry. 
+  
+AVN2002LAB - Aerospace Wiring Lab | 2 Semester Credit Hours (68 Hours Lab) 
+Preferred Prerequisites: ELT1002LEC, ELT1002LAB 
+Corequisite: AVN2002LEC  
+This course will introduce students to basic wiring concepts. Wiring diagrams, types of connectors, 
+installation tools and common materials, as well as installation procedures and techniques will be 
+covered. Students will fabricate a Class 3 NASA quality wiring harness. The course includes the study of 
+Avionics installation practices, with the main emphasis on wiring techniques using a wide range of 
+specialized crimpers and the use of installation manuals. The rules and regulations of the aviation 
+industry, including Federal Aviation Regulations, Air Transport Association codes, manufacturer’s 
+manuals, and industry documentation requirements are also discussed. Students are introduced to the 
+FAA Aircraft Electrical Wiring Interconnect System (EWIS) best practices, as well as the basic theory of 
+antennas, transmission lines, and fiber optics.  The course also focuses on the Association Connecting 
+Electronics Industries IPC/WHMA-A-620, Requirements and Acceptance for Cable and Wire Harness 
+Assemblies, which describes acceptability criteria for crimped, mechanically secured, and soldered 
+ 
+  
+                
+ 
+interconnection and the corresponding lacing/restraining criteria associated with cable and harness 
+assemblies. This program leads to an IPC certification once all IPC course requirements are met. Upon 
+successful completion of this course, students should be familiar with a wide range 
+of wiring concepts and have basic knowledge of the documents and manuals used in the aviation 
+industry.  
+ 
+AVN2003LEC - Avionics Communication Systems Lecture | 2 Semester Credit Hours (62.5 Hours 
+Didactic) 
+Preferred Prerequisites: ELT1003LEC, ELT1003LAB, ELT1004LEC, ELT1004LAB 
+Corequisite: AVN2003LAB  
+This course is a complete study of electronic communication theory, with a focus on aircraft 
+communications. Students will study AM and FM modulation, transmitters, and receivers. These 
+knowledge areas are then applied to avionics specifically as the students learn about HF com, VHF com, 
+and satellite communications/in-flight entertainment systems. Students will also be trained on basic 
+com test equipment, particularly the spectrum analyzer. Upon successful completion of this course, 
+students should be able to exhibit basic knowledge and skills in communication and fiber optics, 
+operational checkout and troubleshooting, as well as an understanding of common aviation com 
+systems.   
+ 
+AVN2003LAB - Avionics Communication Systems Lab | 2 Semester Credit Hours (61 Hours Lab) 
+Preferred Prerequisites: ELT1003LEC, ELT1003LAB, ELT1004LEC, ELT1004LAB 
+Corequisite: AVN2003LEC  
+This course is a complete study of electronic communication theory, with a focus on aircraft 
+communications. Students will study AM and FM modulation, transmitters, and receivers. These 
+knowledge areas are then applied to avionics specifically as the students learn about HF com, VHF com, 
+and satellite communications/in-flight entertainment systems. Students will also be trained on basic 
+com test equipment, particularly the spectrum analyzer. Towards the end of the course, students will be 
+given a “Benchmark Lab”.  Upon successful completion of this course, students should be able to exhibit 
+basic knowledge and skills in communication and fiber optics, operational checkout 
+and troubleshooting, as well as an understanding of common aviation com systems.   
+ 
+AVN2004LEC - Navigation and Instrumentation Lecture | 2 Semester Credit Hours (62.5 Hours Didactic) 
+Preferred Prerequisites: AVN2003LEC, AVN2003LAB 
+Corequisite: AVN2004LAB  
+This course is a study of aviation navigation systems and their instrumentation. The nav systems studied 
+include VOR, GPS, Localizer, Glide Slope, Marker Beacon, and Gyros. Channeling methods and aviation-
+specific data busses are also introduced. This course also goes into various analog instruments and how 
+different systems are displayed on the flight deck. Lab exercises will simulate real-world shop repair 
+experience by requiring students to evaluate, troubleshoot, and identify equipment failure to the 
+component level, utilizing schematics and industry-standard test equipment on actual 
+aircraft avionics equipment. Upon completion of this course, the student should be able to demonstrate 
+a basic understanding of the various navigation systems presented in class at both the theoretical and 
+application level, as well as troubleshooting aviation electronic equipment to the intermediate level.  
+ 
+ 
+ 
+ 
+  
+                
+ 
+AVN2004LAB - Navigation and Instrumentation Lab | 2 Semester Credit Hours (61 Hours Lab) 
+Preferred Prerequisites: AVN2003LEC, AVN2003LAB 
+Corequisite: AVN2004LEC  
+This course is a study of aviation navigation systems and their instrumentation. The nav systems studied 
+include VOR, GPS, Localizer, Glide Slope, Marker Beacon, and Gyros. Channeling methods and aviation-
+specific data busses are also introduced. This course also goes into various analog instruments and how 
+different systems are displayed on the flight deck. Lab exercises will simulate real-world shop repair 
+experience by requiring students to evaluate, troubleshoot, and identify equipment failure to the 
+component level, utilizing schematics and industry-standard test equipment on actual 
+aircraft avionics equipment. Towards the end of the course, students will be given a “Benchmark 
+Lab”. Upon completion of this course, the student should be able to demonstrate a basic understanding 
+of the various navigation systems presented in class at both the theoretical and application level, as well 
+as troubleshooting aviation electronic equipment to the intermediate level.  
+ 
+AVN2005LEC - Radar and Pulse Systems Lecture | 2 Semester Credit Hours (62.5 Hours Didactic) 
+Preferred Prerequisites: AVN2004LEC, AVN2004LAB 
+Corequisite: AVN2005LAB  
+This course focuses on basic microwave principles and theory, using it as a basis for understanding 
+radar/microwave devices and systems. Specific aircraft systems covered include Transponders, DME, 
+TCAS I, TCAS II, ADS-B, Weather Radar, Radar Altimeters, TAWS, and GPWS. Upon course completion, 
+the student should have a fundamental understanding of the theory, operation, and practical usage of 
+various radar/microwave systems, the usage of related test equipment, and how to troubleshoot and 
+repair these systems.  
+ 
+AVN2005LAB - Radar and Pulse Systems Lab | 2 Semester Credit Hours (61 Hours Lab) 
+Preferred Prerequisites: AVN2004LEC, AVN2004LAB 
+Corequisite: AVN2005LEC  
+This course focuses on basic microwave principles and theory, using it as a basis for understanding 
+radar/microwave devices and systems. Specific aircraft systems covered include Transponders, DME, 
+TCAS I, TCAS II, ADS-B, Weather Radar, Radar Altimeters, TAWS, and GPWS. Towards the end of the 
+course, students will be given a “Benchmark Lab”. Upon course completion, the student should have a 
+fundamental understanding of the theory, operation, and practical usage of various radar/microwave 
+systems, the usage of related test equipment, and how to troubleshoot and repair these systems.  
+ 
+AVN2006LEC - Systems Integration Lecture | 2 Semester Credit Hours (62.5 Hours Didactic)   
+Preferred Prerequisites: AVN2005LEC, AVN2005LAB 
+Corequisite: AVN2006LAB  
+This course is an in-depth look at how all the different systems of an aircraft work together to perform 
+common functions. Students will study power/data distribution, and how synchros and servos are 
+used on the aircraft. Integration of Autonomous Navigation systems such as Air Data, inertial 
+measurement devices, compass systems, onboard communications, and Autopilot/Autoflight are 
+studied, demonstrating how multiple systems working together can provide reliable information to the 
+flight crew. Next Generation Systems and digital display systems (EFIS), will also be covered. Upon 
+completion of this course, a student will be able to describe how the discussed systems are 
+integrated into nearly every aspect of the aircraft. 
+  
+ 
+ 
+ 
+  
+                
+ 
+AVN2006LAB - Systems Integration Lab | 2 Semester Credit Hours (61 Hours Lab)   
+Preferred Prerequisites: AVN2005LEC, AVN2005LAB 
+Corequisite: AVN2006LEC  
+This course is an in-depth look at how all the different systems of an aircraft work together to perform 
+common functions. Students will study power/data distribution, and how synchros and servos are 
+used on the aircraft. Integration of Autonomous Navigation systems such as Air Data, inertial 
+measurement devices, compass systems, onboard communications, and Autopilot/Autoflight are 
+studied, demonstrating how multiple systems working together can provide reliable information to the 
+flight crew. Next Generation Systems and digital display systems (EFIS), will also be covered. Upon 
+completion of this course, a student will be able to describe how the discussed systems are 
+integrated into nearly every aspect of the aircraft.  
+ 
+AVN2007LEC - Unmanned Aerial Systems and Robotics Lecture | 2 Semester Credit Hours (62.5 Hours 
+Didactic) 
+Preferred Prerequisites: None 
+Corequisite: AVN2007LAB  
+In this course, students will learn many of the aspects of Unmanned Aerial Systems (UAS), including 
+classes, size, capabilities/limitations and different technologies, and different Robotic technologies 
+as well as the FAA regulations associated with UAS’s. The course integrates prior course material 
+associated with sensors, interface, control, communications, and flight dynamics, 
+and further reinforces and expands upon these areas as they relate to UAS’s. UAS C3 systems and 
+concepts are covered, as well as the maintenance aspects of the associated support equipment. 
+Students will maintain and operate a complete small UAS and will learn basic troubleshooting 
+techniques for ground control stations and UAS maintenance. Upon completion of this course, students 
+will be eligible to take the FAA Part 107 Remote Pilot – Small Unmanned Aircraft General exam.   
+ 
+AVN2007LAB - Unmanned Aerial Systems and Robotics Lab | 2 Semester Credit Hours (61 Hours Lab) 
+Preferred Prerequisites: None 
+Corequisite: AVN2007LEC   
+In this course, students will learn many of the aspects of Unmanned Aerial Systems (UAS), including 
+classes, size, capabilities/limitations and different technologies, and different Robotic technologies 
+as well as the FAA regulations associated with UAS’s. The course integrates prior course material 
+associated with sensors, interface, control, communications, and flight dynamics, 
+and further reinforces and expands upon these areas as they relate to UAS’s. UAS C3 systems and 
+concepts are covered, as well as the maintenance aspects of the associated support equipment. 
+Students will maintain and operate a complete small UAS and will learn basic troubleshooting 
+techniques for ground control stations and UAS maintenance. Students will perform ﬂight- testing, 
+following Flight and Ground Safety procedures, along with proper use of tools and equipment. Upon 
+completion of this course, students will be eligible to take the FAA Part 107 Remote Pilot – Small 
+Unmanned Aircraft General exam.  
+ 
+ 
+ 
+ 
+  
+                
+ 
+Aviation Maintenance Technology 
+ 
+GEN1001LEC - Basic Electricity Lecture | 2 Semester Credits (60 Didactic Hours) 
+Preferred Prerequisites: MAT1001, PHY1001 
+Corequisite: GEN1001LAB   
+In this course, students will study scientific laws and theories of electricity and its application to aircraft 
+systems, components, and circuits. Concepts studied include fundamentals of magnetism, DC circuits, 
+and AC circuits. In addition, students study the use of electrical measuring instruments, multi meters, 
+and basic troubleshooting procedures. Also, included in this course is the study of electrical schematics 
+and their application to aircraft. Upon successful completion of this course, students should have a 
+sound foundation of electrical theory and its application to aircraft systems and components, as well as 
+knowing how to read and apply basic electrical schematics to aircraft.  
+ 
+GEN1001LAB - Basic Electricity Lab | 2 Semester Credits (63.5 Lab Hours) 
+Preferred Prerequisites: MAT1001, PHY1001 
+Corequisite: GEN1001LEC   
+In this course students will perform all lab activities related to Basic Electricity. Students study scientific 
+laws and theories of electricity and its application to aircraft systems, components, and 
+circuits. Concepts studied include fundamentals of magnetism, DC circuits, and AC circuits. In addition, 
+students study the use of electrical measuring instruments, multi meters, and basic troubleshooting 
+procedures. Students will perform analysis of electrical circuits and determine resistance, current, 
+voltage, inductance, capacitance, impedance, and power.  Also, included in this course is the study of 
+electrical schematics and their application to aircraft. Upon successful completion of this course, 
+students should have a sound foundation of electrical theory and its application to aircraft systems and 
+components, as well as knowing how to read and apply basic electrical schematics to aircraft.  
+  
+GEN1002LEC - Aviation Science Lecture | 2 Semester Credits (59 Didactic Hours) 
+Preferred Prerequisites: GEN1001LEC, GEN1001LAB 
+Corequisite: GEN1002LAB   
+This course will continue the study of electrical concepts to include, batteries, and additional 
+information on reading and interpreting aircraft electrical circuit diagrams that include digital and solid-
+state circuits and logic functions. Students study aircraft drawings of aircraft parts and repairs. This 
+course will also contain a detailed study of aviation materials and processes. This includes the basic 
+knowledge in the use of basic mechanics hand tools, hardware and safety methods, principles of 
+nondestructive testing including eddy current, ultrasonic, magnetic particle and dye penetrant 
+procedures. Students will study precision measurement equipment including micrometers, calipers and 
+dial indicators. Students will learn about the various types of fluid lines and fitting used in the aircraft.  In 
+addition, the students will study the concepts of aircraft cleaning and corrosion control methods and 
+techniques and corrosion inspections. Upon successful completion of this course, students should have 
+knowledge of servicing batteries, reading wiring diagrams, reading and completing drawings, 
+demonstrate knowledge of aircraft materials and processes, aircraft fluid lines and corrosion control 
+process.    
+ 
+ 
+ 
+ 
+  
+                
+ 
+GEN1002LAB - Aviation Science Lab | 2 Semester Credits (64.5 Lab Hours) 
+Preferred Prerequisites: GEN1001LEC, GEN1001LAB  
+Corequisite: GEN1002LEC   
+This course will complete the lab requirements of electrical concepts to include, batteries, 
+and additional information on reading and interpreting aircraft electrical circuit diagrams that include 
+digital and solid-state circuits and logic functions. Students make drawings of aircraft parts 
+and document repairs to aircraft parts. This includes the skills in the use of basic mechanics hand 
+tools, identifying hardware and using safety methods. Labs will be performed in nondestructive testing 
+including eddy current, ultrasonic, magnetic particle and dye penetrant procedures. Students will use 
+precision measurement equipment including micrometers, calipers, and dial indicators. Students will 
+fabricate the various types of fluid lines and fitting used in the aircraft. In addition, the students 
+will perform aircraft cleaning, corrosion control techniques, and perform a corrosion inspection. Upon 
+successful completion of this course, students should be able to service batteries, read wiring diagrams, 
+read and complete aircraft part drawings, demonstrate hands on knowledge of aircraft materials and 
+processes, aircraft fluid lines and corrosion control processes.  
+ 
+GEN1003LEC – Aviation Maintenance Practices Lecture |  3 Semester Credits (71.5 Didactic Hours) 
+Preferred Prerequisite: MAT1001 
+Corequisite: GEN1003LAB   
+This course covers topics, including technical writing in maintenance publications and maintenance 
+forms and records, Students will read, select, and use FAA and manufacturer's aircraft maintenance 
+specifications, data sheets, manuals, publications, technical data, related Federal Aviation Regulations 
+and aircraft records keeping. The course covers a detailed study of aircraft weight and balance. The 
+student will also study maintenance human factors which affect aircraft maintenance as well as 
+mechanics privileges and limitations. Upon successful completion of this course, students should be able 
+to read in interpret maintenance publication, complete aircraft maintenance forms and 
+records, understand basic ground operations and servicing of aircraft, visualize the weighing of 
+an aircraft and perform all calculations, be aware of mechanic privileges and limitations and understand 
+Human Factors that can affect aircraft maintenance.  
+ 
+GEN1003LAB – Aviation Maintenance Practices Lab | 1 Semester Credits (52 Lab Hours) 
+Preferred Prerequisite: MAT1001  
+Corequisite: GEN1003LEC   
+This course covers all lab requirements for Aviation Maintenance Practices.  Topics, including technical 
+writing in maintenance publications and maintenance forms and records, Students will read, select, and 
+use FAA and manufacturer's aircraft maintenance specifications, data sheets, manuals, publications, 
+technical data, related Federal Aviation Regulations and aircraft records keeping. The course also 
+incorporates aircraft ground operations and servicing procedures with several different lab projects. The 
+course covers a detailed study of aircraft weight and balance, including the actual weighing of an 
+aircraft. The student will also study maintenance human factors which affect aircraft maintenance as 
+well as mechanics privileges and limitations. Lab projects for these topics are performed enhance 
+classroom lecture. Upon successful completion of this course, students should be able to read in 
+interpret maintenance publication, complete aircraft maintenance forms and records, perform basic 
+ground operations and servicing of aircraft, weigh aircraft and perform all calculations, be aware of 
+mechanic privileges and limitations and understand Human Factors that can affect aircraft 
+maintenance.  
+ 
+ 
+ 
+ 
+  
+                
+ 
+AFP1001LEC - Electrical and Fire Protection Systems Lecture | 3 Semester Credits (67.5 Didactic Hours) 
+Preferred Prerequisites: GEN1001LEC, GEN1001LAB, GEN1002LEC, GEN1002LAB, GEN1003LEC, 
+GEN1003LAB 
+Corequisite: AFP1001LAB   
+This course provides study of airframe and powerplant electrical systems, including inspection and 
+repair of components and related wiring, power distribution, and circuit troubleshooting. This course 
+includes a detailed study of electrical schematics and their application and troubleshooting. This course 
+also covers the study of various aircraft fire protection, detection, and extinguishing systems. Upon 
+successful completion of this course students should know how to read and apply electrical schematics 
+and understand the operation of aircraft fire protection systems.  
+ 
+AFP1001LAB - Electrical and Fire Protection Systems Lab | 1 Semester Credits (56 Lab Hours) 
+Preferred Prerequisites: GEN1001LEC, GEN1001LAB, GEN1002LEC, GEN1002LAB, GEN1003LEC, 
+GEN1003LAB 
+Corequisite: AFP1001LEC  
+In this course the student will perform lab activities related to Electrical and Fire Protections Systems. 
+Students study airframe and powerplant electrical systems, including inspection and repair of 
+components and related wiring, power distribution, and circuit troubleshooting. This course includes a 
+detailed study of electrical schematics and their application and troubleshooting. This course also covers 
+the study of various aircraft fire protection, detection, and extinguishing systems. Upon successful 
+completion of this course, students should be able to troubleshoot and repair airframe electrical 
+systems, know how to read and apply electrical schematics, and understand the operation and repair of 
+aircraft fire protection systems.  
+ 
+ARF2001LEC - Metallic Structures Lecture | 2 Semester Credits (50 Didactic Hours) 
+Preferred Prerequisites: AFP1001LAB, AFP1001LEC 
+Corequisite: ARF2001LAB   
+In this course, aircraft sheet metal structures and different fastening methods are studied in detail. 
+Upon successful completion of this course, students will have the basic knowledge required of an 
+aircraft maintenance technician related to metallic structures.  
+ 
+ARF2001LAB - Metallic Structures Lab | 2 Semester Credits (73.5 Lab Hours) 
+Preferred Prerequisites: AFP1001LAB, AFP1001LEC 
+Corequisite: ARF2001LEC   
+In this course the student will complete all lab requirements for Metallic Structures. Topics include 
+aircraft sheet metal structures and different fastening methods and are performed in detail. Students 
+will accomplish a wide variety of lab projects leading to an understanding of subject material. Upon 
+successful completion of this course, students will be able to perform all basic tasks required of an 
+aircraft maintenance technician related to metallic structures.  
+ 
+ARF2002LEC - Non-Metallic Structures Lecture | 2 Semester Credits (52 Didactic Hours) 
+Preferred Prerequisites: AFP1001LAB, AFP1001LEC 
+Corequisite: ARF2002LAB   
+Students in this course will learn about composite structures including fiberglass, Kevlar, various core 
+materials, and Plexiglass. Also covered in this class are wood structures, fabric coverings, and aircraft 
+finishes. Upon successful completion of this class, students should be able to explain aircraft wood and 
+fabric.   
+ 
+ 
+  
+                
+ 
+ARF2002LAB - Non-Metallic Structures Lab | 2 Semester Credits (71.5 Lab Hours) 
+Preferred Prerequisites: AFP1001LAB, AFP1001LEC 
+Corequisite: ARF2002LEC   
+Students in this course complete lab requirements for composite structures including fiberglass, Kevlar, 
+various core materials, and Plexiglass. Extensive lab work will enhance learned objectives. Also covered 
+in this class are wood structures, fabric coverings, and aircraft finishes. Upon successful completion of 
+this class, students should be able to accomplish aircraft composite structure work and be able to 
+explain aircraft wood and fabric. Students should also apply the finish to an aircraft.  
+ 
+ARF2003LEC - Hydraulics and Landing Gear Systems Lecture | 2 Semester Credits (60 Didactic Hours)   
+Preferred Prerequisites: AFP1001LAB, AFP1001LEC 
+Corequisite: ARF2003LAB   
+The theory in operation and maintenance of aircraft hydraulic and pneumatic systems are covered. The 
+troubleshooting, maintenance, and repair knowledge of both systems is stressed. Aircraft landing gears, 
+including retraction systems, oleos, brakes, wheels, and tires, are also studied. This course also includes 
+study of aircraft position and warning systems. Upon successful completion of this course, students 
+should be able to understand concepts of aircraft hydraulic and pneumatic systems, aircraft landing 
+gears, and understand the concepts of aircraft position and warning.  
+ 
+ARF2003LAB - Hydraulics and Landing Gear Systems Lab | 2 Semester Credits (63.5 Lab Hours)   
+Preferred Prerequisites: AFP1001LAB, AFP1001LEC 
+Corequisite: ARF2003LEC   
+In this course the student will complete all lab requirements for Hydraulic and Landing Gear Systems. 
+Topics include operation, and maintenance of aircraft hydraulic and pneumatic systems. The 
+troubleshooting, maintenance, and repair of both systems is stressed. Aircraft landing gears, including 
+retraction systems, oleos, brakes, wheels, and tires, are also studied. This course also includes study of 
+aircraft position and warning systems. Upon successful completion of this course, students should be 
+able to troubleshoot and repair aircraft hydraulic and pneumatic systems, aircraft landing gears, and 
+understand the concepts of aircraft position and warning.  
+ 
+ARF2004LEC - Comm/Nav and Instrument Systems Lecture | 3 Semester Credits (71.5 Didactic Hours) 
+Preferred Prerequisites: AFP1001LEC, AFP1001LAB  
+Corequisite: ARF2004LAB   
+This course covers the theory, operation, and maintenance of aircraft communication and navigation 
+systems and the wide range of aircraft instrument systems found in today’s aircraft. Upon successful 
+completion of this course, students should be able to explain the operation and maintenance of aircraft 
+communication, navigation, and instrument systems.  
+ 
+ARF2004LAB - Comm/Nav and Instrument Systems Lab | 1 Semester Credits (52 Lab Hours) 
+Preferred Prerequisites: AFP1001LEC, AFP1001LAB 
+Corequisite: ARF2004LEC   
+This course covers the lab requirements for the operation, and maintenance of aircraft communication 
+and navigation systems and the wide range of aircraft instrument systems found in today’s aircraft. 
+Upon successful completion of this course, students should be able to explain and perform the 
+operation and maintenance of aircraft communication, navigation, and instrument systems.  
+ 
+ 
+ 
+ 
+  
+                
+ 
+ARF2005LEC - Airframe Systems Lecture | 3 Semester Credits (71.75 Didactic Hours)   
+Preferred Prerequisites: AFP1001LEC, AFP1001LAB 
+Corequisite: ARF2005LAB  
+This course covers the theory and operation of aircraft cabin atmosphere control systems, ice and rain 
+control systems along with water and waste systems. Aircraft fuel system theory, maintenance, and 
+troubleshooting are also discussed, as well as the basic concepts of welding. Upon successful completion 
+of this course, students should be able to explain the basic operation cabin atmosphere control 
+systems, ice and rain control systems, maintain an aircraft fuel system, and perform basic welding 
+processes.  
+ 
+ARF2005LAB - Airframe Systems Lab | 1 Semester Credits (51.75 Lab Hours)   
+Preferred Prerequisites: AFP1001LEC, AFP1001LAB 
+Corequisite: ARF2005LEC   
+The student will conduct lab requirements that covers the theory and operation of aircraft cabin 
+atmosphere control systems, ice, and rain control systems along with water and waste systems. Aircraft 
+fuel system, maintenance, and troubleshooting are also performed, as well as the basic of welding. 
+Upon successful completion of this course, students should be able to explain and perform the basic 
+operation of the cabin atmosphere control systems, ice and rain control systems, maintain an aircraft 
+fuel system, and perform basic welding processes.  
+ 
+ARF2006LEC - Flight Controls and Airframe Inspections Lecture | 2 Semester Credits (52 Didactic Hours)   
+Preferred Prerequisites: AFP1001LEC, AFP1001LAB, ARF2001LEC, ARF2001LAB, ARF2002LEC, 
+ARF2002LAB, ARF2003LEC, ARF2003LAB, ARF2004LEC, ARF2004LAB, ARF2005LEC, ARF2005LAB 
+Corequisite: ARF2006LAB   
+This course covers the theory of aircraft control surfaces, including system rigging, maintenance, 
+inspection, and troubleshooting. This course also covers the basic theory of rotary wing maintenance 
+and operations. Also covered are the inspection techniques as they to the aircraft structure and its 
+related systems. Upon successful completion of this course, students should know the theory of how 
+to rig a general aviation aircraft, know the basic concepts of rotary wing aircraft and airframe conformity 
+inspections. This course also includes a review and testing period to aid the student in FAA Airframe 
+Certification. 
+ 
+ARF2006LAB - Flight Controls and Airframe Inspections Lab | 2 Semester Credits (71.5 Lab Hours)   
+Preferred Prerequisites: AFP1001LEC, AFP1001LAB, ARF2001LEC, ARF2001LAB, ARF2002LEC, 
+ARF2002LAB, ARF2003LEC, ARF2003LAB, ARF2004LEC, ARF2004LAB, ARF2005LEC, ARF2005LAB 
+Corequisite: ARF2006LEC   
+The student will conduct the required lab that covers aircraft control surfaces, including system rigging, 
+maintenance, inspection, and troubleshooting. This course also covers the basic concepts of rotary wing 
+maintenance and operations. Also covered are the inspection techniques as they to the aircraft 
+structure and its related systems. Upon successful completion of this course, students should be able to 
+rig a general aviation aircraft, know the basic concepts of rotary wing aircraft and perform airframe 
+conformity inspections. This course also includes a review and testing period to aid the student in FAA 
+Airframe Certification.  
+ 
+ 
+ 
+ 
+  
+                
+ 
+PPT2001LEC - Reciprocating Engines Lecture | 2 Semester Credits (52 Didactic Hours)   
+Preferred Prerequisites: AFP1001LEC, AFP1001LAB 
+Corequisite: PPT2001LAB   
+This course covers the theory and operation of a reciprocating engines. All internal components are 
+studied, along with how each part functions. Upon completion of this course, students should be able to 
+explain the operation of a reciprocating engine.  
+ 
+PPT2001LAB - Reciprocating Engines Lab | 2 Semester Credits (71.5 Lab Hours)   
+Preferred Prerequisites: AFP1001LEC, AFP1001LAB 
+Corequisite: PPT2001LEC   
+This course covers the lab requirements and operation of a reciprocating engines. All internal 
+components are studied, along with how each part functions. A reciprocating engine is disassembled, 
+measured, reassembled, and timed. Upon completion of this course, students should be able 
+to disassemble and reassemble a reciprocating engine, along with performing critical measurements of 
+the engine's internal components.  
+ 
+PPT2002LEC - Reciprocating Engine Systems Lecture | 2 Semester Credits (61.75 Didactic Hours)   
+Preferred Prerequisites: PPT2001LEC, PPT2001LAB  
+Corequisite: PPT2002LAB   
+In this course the study of reciprocating engine lubrications, induction and engine airflow systems, 
+engine cooling systems, and engine exhaust systems are covered in detail.  Reciprocating engine 
+instrument systems are discussed. Upon completion of this course, students should be able to explain 
+the operation of engine induction, cooling, exhaust, the engine instrument system, and study the 
+concept of the removal and replacement of a reciprocating engine.  
+ 
+PPT2002LAB - Reciprocating Engine Systems Lab | 2 Semester Credits (61.75 Lab Hours)   
+Preferred Prerequisites: PPT2001LEC, PPT2001LAB 
+Corequisite: PPT2002LEC   
+In this course the requirements for lab of reciprocating engine lubrications, induction and engine airflow 
+systems, engine cooling systems, and reciprocating engine exhaust systems 
+are performed. Troubleshooting is performed on the reciprocating engine instrument systems.  A 
+reciprocating engine is removed and reinstalled. Upon completion of this course, students should be 
+able to inspect, troubleshoot and repair; engine induction, cooling, exhaust, the instrument system and 
+can remove and reinstall an aircraft reciprocating engine.   
+ 
+PPT2003LEC - Fuel Metering and Propellers Lecture | 3  Semester Credits (71.5 Didactic Hours)   
+Preferred Prerequisites: PPT2002LEC, PPT2002LAB  
+Corequisite: PPT2003LAB   
+In this course, students study the theory and operation of a wide variety of propellers and controlling 
+governors. Reciprocating engine fuel and fuel metering devices, including float carburetors and fuel 
+injection systems, are explained in detail. Upon completion of this course, students should understand 
+all propeller operation and inspection requirements, and can troubleshoot and repair reciprocating 
+engine fuel and fuel metering devices.  
+ 
+ 
+ 
+ 
+  
+                
+ 
+PPT2003LAB - Fuel Metering and Propellers Lab | 1   Semester Credits (52 Lab Hours)   
+Preferred Prerequisites: PPT2002LEC, PPT2002LAB 
+Corequisite: PPT2003LEC   
+In this class, students will perform the required labs for the operation of a wide variety of propellers and 
+controlling governors. Reciprocating engine fuel metering devices including float carburetors and 
+fuel injection systems are serviced in detail. Upon completion of this class, students should 
+understand and perform all propeller operation and inspection requirements and be able to 
+troubleshoot and repair reciprocating engine fuel metering devices.  
+ 
+PPT2004LEC - Engine Inspection and Operation Lecture | 2 Semester Credits (52 Didactic Hours)   
+Preferred Prerequisites: PPT2001LEC, PPT2001LAB, PPT2002LEC, PPT2002LAB, PPT2003LEC, 
+PPT2003LAB  
+Corequisite: PPT2004LAB   
+In this course the study of ignition systems, including magnetos, spark plugs, leads, and auxiliary starting 
+systems, are covered in detail. Upon successful completion of this course, students should be able 
+to understand and explain how to troubleshoot, repair, and time an aircraft magneto, and troubleshoot 
+shoot and repair various reciprocating engine systems, explain engine ground 
+operation procedures and explain how to perform an engine inspection.  
+  
+PPT2004LAB - Engine Inspection and Operation Lab | 2 Semester Credits (71.5 Lab Hours)   
+Preferred Prerequisites: PPT2001LEC, PPT2001LAB, PPT2002LEC, PPT2002LAB, PPT2003LEC, 
+PPT2003LAB  
+Corequisite: PPT2004LEC   
+In this course the lab requirements will be performed on ignition systems, including magnetos, spark 
+plugs, leads, and auxiliary starting systems. A magneto is disassembled, inspected, reassembled, 
+internally timed and timed to the engine.  Lab activities include the ground operation, troubleshooting 
+and repairs to various reciprocating engine systems. Students will perform a powerplant conformity 
+inspection using FAA records and manufacturer’s publications and manuals. Upon successful completion 
+of this course, students should be able to troubleshoot, repair, and time an aircraft magneto, and 
+troubleshoot shoot and repair various reciprocating engine systems, explain engine ground 
+operation procedures and perform engine inspection.  
+  
+PPT2005LEC - Turbine Engine Fundamentals Lecture | 3 Semester Credits (68.5 Didactic Hours)   
+Preferred Prerequisites: AFP1001LEC, AFP1001LAB 
+Corequisite: PPT2005LAB   
+This course studies turbine engine theory of operation as it applies to turbojet, turboprop, and turbofan 
+engines. The course covers in depth the compressor section, diffuser section, combustion section, 
+turbine section, and the exhaust and reverser sections, as well as an in-depth study of auxiliary power 
+units. Upon successful completion of this course, students should be able to explain the theory of 
+operation of turbine engines and auxiliary power units.   
+  
+PPT2005LAB - Turbine Engine Fundamentals Lab | 1 Semester Credits (55 Lab Hours)   
+Preferred Prerequisites: AFP1001LEC, AFP1001LAB 
+Corequisite: PPT2005LEC   
+This course covers the lab requirements for turbine engines which include turbojet, turboprop, and 
+turbofan engines. Students will perform inspections on the compressor section, diffuser section, 
+combustion section, turbine section, exhaust and reverser sections, and auxiliary power units. Upon 
+successful completion of this course, students should be able to perform inspection and maintenance 
+ 
+  
+                
+ 
+requirements of turbine engines, and can troubleshoot and repair turbine engine exhaust and reverser 
+systems.  
+ 
+PPT2006LEC - Turbine Engine Systems Lecture | 2 Semester Credits (58 Didactic Hours) 
+Preferred Prerequisites: PPT2005LEC, PPT2005LAB  
+Corequisite: PPT2006LAB  
+This course covers the study of topics including turbine engine instrument systems, lubrication systems, 
+fuel metering, ignition and starting systems. Also, included in this course are techniques for turbine 
+engine inspections as well as concepts involving turbine engine removal and replacement. This course 
+also includes a review and testing component which will aid the student in preparation for FAA 
+certification exams.  Upon successful completion of this course, students should be able to explain the 
+operation of the turbine engine lubrication, fuel metering, ignition and starting, engine instruments.  
+ 
+PPT2006LAB - Turbine Engine Systems Lab | 2 Semester Credits (65.5 Lab Hours) 
+Preferred Prerequisites: PPT2005LEC, PPT2005LAB 
+Corequisite: PPT2006LEC   
+This course covers the lab requirements for turbine engine instrument systems, lubrication systems, fuel 
+metering, ignition and starting systems. Also, included in this course are techniques for turbine engine 
+inspections as well as turbine engine removal and replacement. A variety of lab projects including 
+operation, maintenance and troubleshooting of the turbine engine and its systems enhance learning of 
+course lessons. This course also includes a review and testing component which will aid the student in 
+preparation for FAA certification exams.  Upon successful completion of this course, students should be 
+able to perform the operation and inspection of the turbine engine lubrication, fuel metering, ignition 
+and starting, engine instruments, and conduct maintenance and troubleshooting operations. 
+ 
+General Education Courses 
+ 
+MAT1001 – College Mathematics | 4 Semester Credits (58 Didactic Hours, 7 Lab Hours) 
+Preferred Prerequisite: None 
+In this class, the student will study the concepts of mathematics which will include fractions, decimals, 
+ratios and proportions, percentages, sign numbers, transforming formulas, powers and roots, basic 
+geometry, number bases, scientific notation, basic trig functions, and basic vectors. This course also 
+meets the requirements for FAR Part 147  
+ 
+PHY1001 – College Physics | 3 Semester Credits (40 Didactic Hours, 18.5 Lab Hours) 
+Preferred Prerequisite: None 
+This class is an introductory course covering the principles of physics. Topics include simple mechanics, 
+aerodynamics, fluid dynamics, atmospheric properties, matter, work, power, energy, motion, heat and 
+temperature and sound. Laboratory work is included. This course also meets the requirements for FAR 
+Part 147  
+ 
+ENG1001 – English Composition | 3 Semester Credits (48 Didactic Hours) 
+Preferred Prerequisite: None 
+This course is a practical expository writing experience in standard usage and essential writing skills. 
+Emphasis is given to the development of the basic sentence, paragraph and essay.  
+ 
+ 
+ 
+ 
+  
+                
+ 
+HIS1001 – American History: 1865 to Present | 3 Semester Credits (48 Didactic Hours) 
+Preferred Prerequisite: None 
+Students trace the economic, political, social, and intellectual development that shaped modern 
+America. They investigate in detail the impact of industrialization in shaping the emerging nation.  
+ 
+SOC1001 – Modern Sociology | 3 Semester Credits (48 Didactic Hours) 
+Preferred Prerequisite: None 
+This course is a study of the role society plays in the lives of individuals and groups. The increased 
+diversity in an ever-shrinking world requires students to acquire a better understanding of the social and 
+cultural factors that will influence their future lives and careers.  
+ 
+SPH2001 – Fundamentals of Public Speaking (Speech) | 3 Semester Credits (48 Didactic Hours) 
+Preferred Prerequisite: None 
+This is an introductory course in oral communication emphasizing effective listening, group discussion 
+and group problem-solving techniques, organizational skills, use of evidence and persuasion, and 
+effective delivery techniques.  
+ENG2001 - English Composition II – Technical Writing | 3 Semester Credits AMT AAS Only (48 Didactic 
+Hours) 
+Preferred Prerequisite: ENG1001 
+This course is a practical writing experience employing standard usage and essential writing skills. It 
+prepares students to design effective technical documents for both written and digital media, with 
+emphasis on technical memos, reports, organizational product-support, and technical-information webs. 
+To support these writing tasks, the course provides an introduction to principles of audience analysis, 
+research and documentation, drafting and revision processes, readability and accessibility of written 
+texts. (48 Didactic Hours) 
+ 
+CAR2001 - Career Exploration | 1 Semester Credit (24 Didactic Hours) 
+Preferred Prerequisite: None 
+This course is designed to help pending graduates develop an effective approach to the job search 
+process as they approach graduation. The course emphasizes the understanding of industry 
+expectations and job trends, assessing and developing skills for the workplace, developing a professional 
+portfolio with cover letters and resumes, projecting professionalism, and the practical applications of 
+networking.  This course also helps develop self-promotion strategies, successful interviewing, salary 
+negotiations, and overcoming rejection. Prerequisite: None  
+ 
+ 
+ 
