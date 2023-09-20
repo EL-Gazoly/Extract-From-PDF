@@ -26,7 +26,7 @@ class HoustonUniversityScraper(scrapy.Spider):
         item['title'] = response.xpath("//h1[@id='course_preview_title']/text()").re_first(r'(?:.*\d{3,6}.*?)(?:-)(.*)',
                                                                                            '').strip()
 
-        strong_texts = response.css("td[class='block_content'] strong::text").getall()
+        
 
         # Extracting credit hours
         item['credits'] = item['code'][6]
