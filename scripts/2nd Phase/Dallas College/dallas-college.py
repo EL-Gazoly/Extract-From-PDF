@@ -8,7 +8,7 @@ class DallasUniversityScraper(scrapy.Spider):
     name = 'dallas-college'
 
     def start_requests(self):
-        url = 'http://catalog.untdallas.edu/content.php?catoid=25&navoid=2027http://catalog.untdallas.edu/content.php?catoid=25&navoid=2027'
+        url = 'http://catalog.untdallas.edu/content.php?catoid=25&navoid=2027'
         yield scrapy.Request(url, callback=self.parse)
 
     def parse(self, response):
@@ -29,23 +29,12 @@ class DallasUniversityScraper(scrapy.Spider):
         
 
         # Extracting credit hours
-        item['credits'] = item['code'][6]
+        item['credits'] = response.xpath("//strong[contains(text(), 'Credit hours:')]/following-sibling::text()[1]").get().strip()
         # Extracting description
-        text_items = response.css("td[class='block_content']::text")
+        description = response.xpath("//p/strong[contains(text(), 'Description:')]/following-sibling::text()[1]").get()
+        item['description'] = self.normalize_spaces_and_line_breaks(description) if description else ''
 
-        possible_desc = []
-        for text_item in text_items:
-            print(text_item)
-            if len(text_item.get()) >= 100:
-                desc = self.normalize_spaces_and_line_breaks(text_item.get().strip())
-                length = len(text_item.get())
-                possible_desc.append((length, desc))
-
-        possible_desc.sort()
-        if len(possible_desc) >= 1:
-            item['description'] = possible_desc[-1][1]
-        else:
-            item['description'] = ''
+    
 
         yield item
 
