@@ -33,20 +33,15 @@ class AlvinCollegeScraper(scrapy.Spider):
         
 
         # Extracting description
-        text_items = response.css("td[class='block_content']::text")
+        item['description'] = response.xpath("//td[@class='block_content']//strong[contains(text(), 'Course Credits')]/following-sibling::br[1]/following-sibling::text()").get()
 
-        possible_desc = []
-        for text_item in text_items:
-            if len(text_item.get()) >= 100:
-                desc = self.normalize_spaces_and_line_breaks(text_item.get().strip())
-                length = len(text_item.get())
-                possible_desc.append((length, desc))
 
-        possible_desc.sort()
-        if len(possible_desc) >= 1:
-            item['description'] = possible_desc[-1][1]
-        else:
-            item['description'] = ''
+
+
+
+
+
+        
 
         yield item
 
