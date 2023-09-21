@@ -27,9 +27,7 @@ with open('./sul-ross-state-university.txt', 'r', encoding='utf-8') as txt_file:
             'code': code.strip(),
             'title': title.strip(),
             'credits': credits,
-            'description': description,
-            'prerequisites': prerequisites,
-            'equivalent_courses': equivalent_courses
+            'description': description + prerequisites + equivalent_courses,
         })
 
 # Write the extracted course data to a CSV file
@@ -37,10 +35,10 @@ with open('sul-ross-state-university.csv', 'w', newline='', encoding='utf-8') as
     csv_writer = csv.writer(csv_file)
 
     # Write header row
-    csv_writer.writerow(['code', 'title', 'credits', 'description', 'prerequisites', 'equivalent_courses'])
+    csv_writer.writerow(['code', 'title', 'credits', 'description'])
 
     # Write course data rows
     for course in course_data:
-        csv_writer.writerow([course['code'], course['title'], course['credits'], course['description'], course['prerequisites'], course['equivalent_courses']])
+        csv_writer.writerow([course['code'], course['title'], course['credits'], course['description']])
 
 print("CSV file 'sul-ross-state-university' has been created with the extracted course data.")
