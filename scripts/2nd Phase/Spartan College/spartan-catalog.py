@@ -6,7 +6,7 @@ with open('./spartan-catalog.txt', 'r', encoding='utf-8') as txt_file:
     txt_content = txt_file.read()
 
     # Create a regex pattern to match course data
-    pattern = re.compile(r'(\w+)\s+-\s+(.*?)\s+\|\s+(\d+)\s+Semester Credit Hours.*?\n(.*?)\n\n', re.DOTALL)
+    pattern = re.compile(r'(\w+\d+\w+)\s-\s(.*?)(?:\s\| (\d+)\sSemester Credit.*?\n(.*?)(?=\n\w+\d+\w+|\Z)|\Z)', re.DOTALL)
 
     # Initialize a list to store extracted course data
     course_data = []
@@ -19,7 +19,7 @@ with open('./spartan-catalog.txt', 'r', encoding='utf-8') as txt_file:
         course_data.append({
             'code': code.strip(),
             'title': title.strip(),
-            'credits': int(credits),
+            'credits': int(credits) if credits else None,
             'description': description.strip()
         })
 
