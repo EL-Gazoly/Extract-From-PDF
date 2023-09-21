@@ -41,8 +41,11 @@ class BrazosportCollegeScraper(scrapy.Spider):
         if len(possible_desc) >= 1:
             item['description'] = possible_desc[-1][1]
         else:
-            item['description'] = ''
-
+            description = self.normalize_spaces_and_line_breaks(response.xpath("//td[@class='block_content']//strong[text()='Credit Hours:']/following-sibling::text()[2]").get().strip())
+            if description:
+                item['description'] = description
+            else:
+                description = self.normalize_spaces_and_line_breaks(response.xpath("//td[@class='block_content']//strong[text()='Credit Hours:']/following-sibling::text()[1]").get().strip())
         yield item
 
     @staticmethod
