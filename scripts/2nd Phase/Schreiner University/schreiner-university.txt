@@ -18,7 +18,7 @@ current and long-term assets, present value computations and applications, depre
 asset impairments, and intangible assets. Key differences and similarities between U.S. 
 GAAP and International Financial Reporting Standards (IFRS) are covered. 
 3302. INTERMEDIATE ACCOUNTING II
-This course is a continuation of ACCT 3301 and covers such topics as valuation of 
+This course is a continuation of  and covers such topics as valuation of 
 liabilities and investments, financial reporting of stockholder’s equity, income recognition 
 and measurement of investments in debt and equity securities, special rules for revenue 
 recognition, accounting for tax carrybacks and carryforwards, pension accounting, 
@@ -259,10 +259,10 @@ of the student to acquire the internship.
 consent of instructor.
 4399. SENIOR PROJECT IN ART
 This is the culmination of the degree program. This capstone course is the visualization 
-of the thesis developed and presented during DESN 4360: Professional Portfolio with 
+of the thesis developed and presented during  Professional Portfolio with 
 emphasis on visual and verbal communication. The student will produce an exhibition 
 of their work that demonstrates their creativity and professionalism as a designer. The 
-student will finalize their professional print and website portfolio begun in DESN 4360: 
+student will finalize their professional print and website portfolio begun in
 Professional Portfolio. A senior exit interview will be conducted at the end of the semester. 
 
 proposals in the semester before the Senior Project course is to be taken.
@@ -270,7 +270,7 @@ proposals in the semester before the Senior Project course is to be taken.
 
 1101. INTRODUCTION TO ANATOMY AND PHYSIOLOGY
 This is a one-hour elective course designed to give students the background to 
-successfully complete BIOL 2301 and 2101, 2302 and 2102, Anatomy and Physiology I 
+successfully complete Anatomy and Physiology I 
 and II. Students who should take this course include those with limited backgrounds in 
 Biology or Chemistry, who have been out of school for an extended period of time, or 
 who desire an overview of Anatomy and Physiology. Does not fulfill requirements for the 
@@ -321,8 +321,7 @@ in discourse and in decision-making, and relate to the topic to its evolutionary
 *topic to be chosen by students, not by faculty.
 1300. HUMAN BIOLOGY
 This is a one semester study of biological principles particularly as they apply to humans. 
-Does not fulfill requirements for the biology major. Students who already have credit for 
-BIOL 1301 or BIOL 2301 and 2101 may not ordinarily receive credit for BIOL 1300. 
+Does not fulfill requirements for the biology major. Students who already have credit for. 
 
 1301. (1406) CONCEPTS OF BIOLOGICAL SCIENCE
 This course is a conceptual approach designed to provide students with an organizing 
@@ -343,8 +342,7 @@ dilemmas in science and technology affecting the world.
 This course studies major issues arising from interface of society and environmental, 
 natural sciences, with emphasis upon nature of scientific knowledge; its usefulness and 
 limitations in decision-making and problem-solving. Intended for partial fulfillment of 
-basic natural science distribution requirement. 
-BIOL 1106.
+basic natural science distribution requirement.
 2101. HUMAN ANATOMY AND PHYSIOLOGY I LAB
 
 2102. HUMAN ANATOMY AND PHYSIOLOGY II LAB
@@ -367,7 +365,7 @@ INDEPENDENT RESEARCH
 Synthesizing skills from Professional Skills in Biology 1-3, students will statistically 
 analyze and present the results of a novel experiment in both written and oral media. 
 These results will be the foundation for a new research proposal to be completed in this 
-course, but that may be used for research in BIOL 3307 or BIOL 4399. 
+course, but that may be used for research in
 2301. HUMAN ANATOMY AND PHYSIOLOGY I
 Human Anatomy and Physiology is a two semester laboratory course in which the human 
 body is studied systematically. The first semester includes study of organization of the 
@@ -380,12 +378,11 @@ endocrine, respiratory, circulatory, immune, digestive, excretory, and reproduct
 
 2305. GENETICS
 This course covers classical and molecular genetics. 
-of biology or consent of the instructor. Concurrent enrollment in lab BIOL 2105.
+of biology or consent of the instructor. Concurrent enrollment in lab
 2331. NUTRITION IN THE HEALTHCARE SYSTEM
 The purpose of this course is to explore the various nutrients, their sources, digestion, 
 absorption, metabolism, interaction, storage, and excretion. Emphasis is given to the role 
-that nutrition plays in the healthcare delivery system. Prerequisite(s): BIOL 2301 or 2302 
-and CHEM 1301 or 1303.
+that nutrition plays in the healthcare delivery system.
 2350. WRITING AND RESEARCH IN SCIENCE
 This course examines the standards and styles for various kinds of writing about biology. 
 The basic elements of biological research, its planning and reporting are included. 
@@ -414,29 +411,26 @@ vary.
 
 3145. HERPETOLOGY LAB
 Herpetology covers the biology of amphibians and reptiles, with an emphasis on field 
-identification. 
-in lab BIOL 3145.
+identification.
 3146. MAMMALOGY LAB
 Mammalogy covers the biology of mammals, with an emphasis on field identification. 
 
-3346.
 3147. ORNITHOLOGY LAB
 Ornithology covers the biology of birds, with an emphasis on field identification. 
 
-3347.
 3148. GENERAL ENTOMOLOGY LABORATORY
 This is the laboratory that accompanies General Entomology. This course is a survey 
 of the biology of insects, with an emphasis on biodiversity and evolution. In addition, 
 aspects of behavior, ecology, morphology, and physiology will be covered. Laboratory 
 will emphasize collection techniques, generalized insect morphology, identification of 
 orders and families, and behavior. 
-Concurrent enrollment in BIOL 3348.
+Concurrent enrollment in.
 3151. MOLECULAR BIOLOGY LAB
 
 3152. CELL BIOLOGY LAB
 
 3155. INVERTEBRATE ZOOLOGY LABORATORY
-This is the laboratory that accompanies BIOL 3355-Invertebrate Biology. This course is 
+This is the laboratory that accompanies -Invertebrate Biology. This course is 
 a survey of the biology of invertebrate animals, excluding insects, with an emphasis on 
 biodiversity and evolution. In addition, aspects of behavior, ecology, morphology, and 
 physiology will be covered. A laboratory for this course is being proposed separately that 
@@ -452,13 +446,11 @@ This course covers current techniques in genetics and genomics and the social, e
 and legal issues surrounding genetic technology. Topics will include DNA sequencing 
 technology, genome structure and evolution, genetics and disease, personal genomics 
 and the human microbiome. 
-in lab BIOL 3104.
 3306. ADVANCED PHYSIOLOGY
 This is an advanced study of the physiology of human systems, including weekly 
 laboratory session. This course is intended for students preparing for graduate or 
-professional school in the health sciences. See EXSI 3306. 
+professional school in the health sciences. 
 2101, 2302 and 2102 and Junior standing, or consent of instructor. Concurrent enrollment 
-in lab BIOL 3106.
 3307. RESEARCH DEVELOPMENT – R
 This course includes experience with design, execution, leadership and presentation of 
 scientific research. Students taking this course will participate in research teams helping 
@@ -468,19 +460,17 @@ the justification, approach, analysis, preparation and dissemination of scientif
 3308. ANIMAL BEHAVIOR
 This course explores the evolutionary, morphological and motivational causes of 
 behavior patterns in animals. 
-in lab BIOL 3108.
+in lab
 3310. PATHOPHYSIOLOGY
 This course is designed to provide an in-depth study of the cellular and systemic 
 physiology of pathology affecting the human body. Emphasis will be placed on conditions 
 in which the body deviates from homeostasis. All organ systems and interrelationships 
 between organ systems will be covered. The course will build on knowledge developed 
-from Anatomy and Physiology I and II. 
-2302, BIOL 2102.
+from Anatomy and Physiology I and II.
 3314. GENERAL MICROBIOLOGY
 This is a study of microorganisms as representative organisms. Application of basic 
 biological concepts to the study of microorganisms, with emphasis on allied health 
-topics. 
-in lab BIOL 3114.
+topics.
 3340. EVOLUTIONARY BIOLOGY
 This course is a study of the evidence supporting the common ancestry of life and 
 the forces that shape organisms over time. 
@@ -493,12 +483,10 @@ This course concerns the principles and techniques of preserving threatened and
 endangered biological resources. 
 3344. BIOLOGY OF MAJOR VERTEBRATE GROUP
 This course covers the biology of a major vertebrate group. May be repeated for credit 
-when topics vary. 
-in lab BIOL 3144.
+when topics vary.
 3345. HERPETOLOGY
 Herpetology covers the biology of amphibians and reptiles, with an emphasis on field 
-identification. 
-in lab BIOL 3145.
+identification.
 3346. MAMMALOGY
 Mammalogy covers the biology of mammals, with an emphasis on field identification. 
 
@@ -513,14 +501,13 @@ evolution. In addition, aspects of behavior, ecology, morphology, and physiology
 covered. A laboratory for this course is being proposed separately that will emphasize 
 collection techniques, generalized insect morphology, identification of orders and 
 families, and behavior. 
-enrollment in BIOL 3148.
+enrollment in.
 3351. MOLECULAR BIOLOGY
 This course is a study of the molecular basis of living organisms. 
 chemistry and BIOL 2305 and 2105 or consent of the instructor. Concurrent enrollment 
-in lab BIOL 3151.
+in lab.
 3352. CELL BIOLOGY
 This is a study of structure and function of cells as units of living matter. 
-3150.
 3355. INVERTEBRATE ZOOLOGY
 This course is a survey of the biology of invertebrate animals, excluding insects, with 
 an emphasis on biodiversity and evolution. In addition, aspects of behavior, ecology, 
@@ -603,9 +590,7 @@ online program.
 All BBA majors and the MBA consists of a combination of universal Business 
 Administration courses (BSAD) and specific business discipline courses in Accounting 
 (ACCT), Finance (FIN), Management (MGMT), and Marketing (MKTG).
-The MBA in Ethical Leadership degree consists of the following courses: ACCT 5301, 
-MGMT 5303, MGMT 5304, MKTG 5311, FIN 5312, MGMT 5321, MGMT 5322, 
-MGMT 5323, BSAD 5324, IS 5331, BSAD 5332, MGMT 5341.
+The MBA in Ethical Leadership degree consists of the following courses
 1301. INTRODUCTION TO BUSINESS
 This is a study and survey of the functional areas of business with particular emphasis 
 on the role of business in American society, various dimensions of business, business 
@@ -633,8 +618,7 @@ This is a study of research principles and tools that are typically used in busi
 efficiently and effectively plan, collect, organize, and assimilate information in order to 
 make informed business decisions. Students are exposed to the methods of design for 
 quantitative, qualitative, and mixed-methods of research. Students will fully develop a 
-business research proposal during the course. 
-MGMT 2341, FIN 2342, MATH 2330.
+business research proposal during the course.
 4331. BUSINESS STRATEGIES
 This course focuses on the analysis of the firm’s internal and external environments 
 in order to achieve competitive advantage and earn above-average returns. Students 
@@ -644,13 +628,11 @@ international strategy, entrepreneurial attitude in competitive planning, and st
 change through leadership. Students will engage in teams in the Capstone online business 
 simulation where they will manage a technology company over a simulated 8-year period 
 and compete against other 4-year university teams from around the world. 
-ACCT 2301, BSAD 2331, MKTG 2340, MGMT 2341, and FIN 2342.
 4342. ENTREPRENEURSHIP
 This course addresses the identification and analysis of entrepreneurial opportunities, 
 development of business plans, and issues unique to new business startups. The course 
 focus will be on managing small businesses with special emphasis on marketing and 
-financial management. 
-2341, and FIN 2342.
+financial management.
 4351. QUANTITATIVE METHODS IN BUSINESS
 This course is designed to provide students a foundation in the analytical decision making 
 practices in business organizations. Students will learn to solve business problems 
@@ -658,8 +640,7 @@ through computer modeling techniques. Topics include: decision analysis, decisio
 trees, linear programming, optimization, sensitivity analysis, estimation and forecasting, 
 inventory control models, queuing models, PERT/CPM, transportation, transshipment 
 and assignment. Extensive application of computer assisted analysis and modeling is 
-included. The major field exam in Business is required in this course. 
-BSAD 1331, MATH 1311, and MATH 2330.
+included. The major field exam in Business is required in this course.
 5001. GASTRONOMY AND WINE VINTAGES
 Students will receive an introduction into the world of wine and important wine 
 producing areas. The course deals with understanding terms you would find on wine 
@@ -743,11 +724,11 @@ program.
 1101. GENERAL CHEMISTRY I LAB
 This course is the laboratory study of chemistry designed to provide students with 
 basic knowledge and laboratory skills used in chemistry. Prerequisite(s): Concurrent 
-registration in CHEM 1301, or credit for CHEM 1301, or consent of instructor.
+registration i or consent of instructor.
 1102. GENERAL CHEMISTRY II LAB
 This course is the laboratory study of chemistry designed to provide students with 
 basic knowledge and laboratory skills used in chemistry. Prerequisite(s): Concurrent 
-registration in CHEM 1302, or credit for CHEM 1302, or consent of instructor.
+registration, or consent of instructor.
 1103. INTRODUCTORY CHEMISTRY LAB
 
 1301. GENERAL CHEMISTRY I
@@ -756,14 +737,14 @@ medical fields. Atomic theory, stoichiometry, bonding, periodic classification, 
 matter, and problem solving are emphasized. Prerequisite(s): 2 years of high school 
 algebra, MATH 1310 or concurrent enrollment in MATH 1310.
 1302. GENERAL CHEMISTRY II
-This is a continuation of CHEM 1301. Subjects included are: solutions, colloids, 
+This is a continuation of. Subjects included are: solutions, colloids, 
 thermodynamics, chemical kinetics, chemical equilibrium, electrochemistry, descriptive 
 inorganic chemistry, organic chemistry and nuclear chemistry. 
-of CHEM 1301 or equivalent with a grade of “C” or better.
+of or equivalent with a grade of “C” or better.
 1303. INTRODUCTORY CHEMISTRY
 This is a basic chemistry course for non-science majors. Emphasis is on allied health 
 topics. 
-or consent of instructor. Concurrent enrollment in lab CHEM 1103.
+or consent of instructor. Concurrent enrollment in lab.
 2111. ORGANIC CHEMISTRY I LAB
 
 2112. ORGANIC CHEMISTRY II LAB
@@ -772,16 +753,15 @@ or consent of instructor. Concurrent enrollment in lab CHEM 1103.
 This is designed for students preparing for careers in chemistry, biology, chemical 
 engineering, medicine, dentistry, and pharmacy. Main topics are bonding, classification, 
 theory of mechanism, aliphatics, aromatics, and stereochemistry. 
-in lab CHEM 2111.
+in lab.
 2312. ORGANIC CHEMISTRY II
-A continuation of CHEM 2311, topics include nuclear magnetic resonance, infrared 
+A continuation , topics include nuclear magnetic resonance, infrared 
 spectroscopy, halides, organometallics, alcohols, phenols, ethers, aldehydes, ketones, 
-carboxylic acids and derivatives, amines, carbohydrates, lipids, and proteins. 
-in lab CHEM 2112.
+carboxylic acids and derivatives, amines, carbohydrates, lipids, and proteins.
 2350. WRITING AND RESEARCH – CHEMISTRY FOCUS
 This course examines the standards and styles for various kinds of writing about chemistry 
 and bio-chemistry. The basic elements of chemical and biochemical research, its planning 
-and reporting are included. Prerequisite(s): CHEM 1301 or 1303.
+and reporting are included.
 3101. QUANTITATIVE METHODS LAB
 
 3102. INSTRUMENTAL ANALYSIS LAB
@@ -804,7 +784,7 @@ This course is a study of wet chemistry methods to determine the amount of chemi
 species in a sample. Gravimetric and volumetric analysis is combined with statistical data 
 to determine the sample identity and quantity. As equilibrium is of utmost importance to 
 the understanding of volumetric analysis, it is pursued vigorously. 
-1302/1102 with a “C” or better. Concurrent enrollment in lab CHEM 3101.
+1302/1102 with a “C” or better. Concurrent enrollment in lab.
 3302. INSTRUMENTAL ANALYSIS
 This course is a study of instrumental methods to determine the amount of chemical 
 species in a sample. Electronics are the basis of instrumentation and are used to 
@@ -812,24 +792,24 @@ understand the flux of information from sample to end-user. Gas Chromatography, 
 Chromatography, Mass Spectrometry, Spectroscopy techniques (UV, IR, Absorption, 
 and Emission) and Nuclear Magnetic Resonance are surveyed at both the atomic and 
 molecular level. 
-enrollment in lab CHEM 3102.
+enrollment in lab.
 3303. THERMODYNAMICS
 This course is a study of thermodynamic properties of gasses, liquids, and solids with 
 emphasis on chemical energy production and usage. 
-a “C” or better. Concurrent enrollment in CHEM 3103.
+a “C” or better. Concurrent enrollment in.
 3304. QUANTUM MECHANICS
 This course is a study of quantum mechanics and the implications it has on chemistry. 
 Wave functions, quantum numbers, electronic structure of atoms, and bonding theory 
 are presented and incorporated into spectroscopic determination of both atomic and 
 molecular species. 
-Concurrent enrollment in lab CHEM 3104.
+Concurrent enrollment in lab.
 3305. BIOCHEMISTRY I
 This is the study of the state of the structure and function of biologically significant 
 molecules; enzymology, metabolism, biosynthesis of macromolecules, bioenergetics, 
 molecular biology. 
-Concurrent enrollment in lab CHEM 3105.
+Concurrent enrollment in lab.
 3306. BIOCHEMISTRY II
-This is a continuation of CHEM 3305, the study of protein, carbohydrate, and fat 
+This is a continuation, the study of protein, carbohydrate, and fat 
 metabolism and their interrelationship. 
 of “C” or better. (3-3)
 3307. INORGANIC CHEMISTRY
@@ -837,7 +817,7 @@ This is the study of the basic concepts and theories of inorganic chemistry and 
 are used to predict and understand the physical and chemical properties of compounds of 
 the elements other than carbon. Inorganic compounds in the air, water, earth, and in the 
 laboratory will be studied. 
-of “C” or better. Concurrent enrollment in lab CHEM 3107.
+of “C” or better. Concurrent enrollment in lab.
 3350. INTRODUCTION TO CHEMICAL RESEARCH-R
 Student research is allied with the instructor’s research. The student, in consultation with 
 the instructor, will select a research problem, review the pertinent literature, collect and 
@@ -863,7 +843,7 @@ This is an introductory course which focuses upon basic reading, writing, listen
 speaking of Mandarin Chinese. Significant aspects of Chinese cultures are also addressed. 
 This course is the first in a sequence of introductory Chinese courses.
 1402. ELEMENTARY CHINESE II
-This course, a continuation of CHIN 1401, expands language proficiency skills in reading, 
+This course, a continuation of expands language proficiency skills in reading, 
 writing, listening and speaking Mandarin Chinese. It also emphasizes communicative 
 language proficiency with survival topics. 
 2303. INTERMEDIATE CHINESE I
@@ -1194,7 +1174,6 @@ understanding effective communication and integration with users and user system
 developing interpersonal skills with clients, users and team members and the adherence 
 to systems development life cycle standards. Students will gain hands-on experience with 
 object-oriented analysis and design and data modeling tools. 
-3403, and CIT 3405.
 4362. COMPTIA A PLUS CERTIFICATION
 CompTIA Network+ helps develop a career in IT infrastructure covering troubleshooting, 
 configuring, and managing networks. Network+ ensures an IT professional has the 
@@ -1340,15 +1319,6 @@ business processes; assessing the costs and benefits; cultural, structural and p
 aspects; managing and implementing single projects, and administering program projects. 
 
 CRIMINAL JUSTICE (CRIJ)
-Schreiner University offers a Bachelor of Arts in Criminal Justice. The program will 
-prepare students, with knowledge in policing, the courts, corrections systems and the 
-juvenile justice system.
-The major consists of CRIJ 1301, 2301, 2303, 2306, COMM 3310 or 3320, BIOL 1301, 
-1217, PHIL 1310, plus 33 upper level hours including: CRIJ 3301, 3302, 3303, 3307, 
-4398, ENGL 3363, POLS 3330 or 3376, PSYC 3341, RELI 4340 and 6 hours upper 
-level CRIJ. 
-The minor in Criminal Justice requires CRIJ 1301, 2306 and 12 upper level hours from: 
-CRIJ 3302, 3307, 3370, 4301, 4305, 4306, or 4307.
 1301. INTRODUCTION TO CRIMINAL JUSTICE 
 An introductory course designed to familiarize students with the facets of the criminal 
 justice system, including the processing of offenders, punishment and its alternatives, and 
@@ -1380,14 +1350,13 @@ consent of instructor.
 3303. HISTORY OF THE CRIMINAL JUSTICE SYSTEM
 An exploration of the major social, economic, legal and political events that have 
 contributed to the formation of the criminal justice system in the United States. Emphasis 
-is on the common roots of the different components of the present system. 
-CRIJ 1301.
+is on the common roots of the different components of the present system.
 3304. CRIME AND GENDER
 An investigation of the definitions of gender, gender roles, and  how gender impacts 
 offending, victimization, and criminal justice processing. The influence of gender 
 on working in the criminal justice system as professionals is evaluated. In addition, 
 criminological theories are evaluated in light of gender and the relationship between 
-gender and the criminal justice system. Prerequisites. CRIJ 1301 and 2301.
+gender and the criminal justice system. Prerequisites.
 3307. THE JUVENILE JUSTICE SYSTEM 
 The nature and extent of delinquency, explanatory models and theories for delinquent 
 behavior, the juvenile justice system, juvenile court practices and procedures, and the 
@@ -1547,9 +1516,9 @@ experiences based on the requirements of the Texas public school curriculum and
 standards (TEKS) including cross curricular applications and the use of disciplinary 
 literacy. This course is designed for the senior level as part of the preparation for the 
 required curriculum unit prior to clinical teaching. 
-including BIOL 1301, EDUC 3350, Junior standing and admission to the Teacher 
+including Junior standing and admission to the Teacher 
 Education Program or Secondary Minor in Education or consent of the Education 
-Department. Prerequisites (if any): 6 hours science, EDUC 3350, admission to TE, or 
+Department. Prerequisites (if any): 6 hours science, admission to TE, or 
 permission of the department.
 4305. CURRICULUM AND ASSESSMENT
 This field-based course will prepare teacher candidates to design standards aligned 
@@ -1585,8 +1554,6 @@ improve instruction. The three tasks which must be completed and submitted to a 
 grading collective of educators include: 1. Planning for instruction and assessment, 2. 
 Instructing and engaging students in learning, 3. Assessment of student learning. Clinical 
 Teachers will complete this course and assessment during the 14-week clinical teaching 
-assignment on school campuses. (Course must be taken concurrently with EDUC 4621, 
-4622, 4623, or 4624. 
 4320 Clinical Seminar taken concurrently or prior semester).
 4380. DIRECTED STUDY IN EDUCATION
 Subjects not offered as regular courses may be investigated by directed study pursuant 
@@ -1607,12 +1574,12 @@ supervisor may be secured within that area at the cost to the intern.
 4604. INTERNSHIP I: TEACHER CERTIFICATION
 This is designed for a student admitted to a teacher certification program under a post-
 baccalaureate plan and approved for an internship will focus on specified educational 
-topic. Must register for EDUC 4604 during Fall term of the school year in which the 
+topic. Must registe during Fall term of the school year in which the 
 internship is to be completed.
 4605. INTERNSHIP II: TEACHER CERTIFICATION
 This is designed for a student admitted to a teacher certification program under a post-
 baccalaureate plan and approved for an internship will focus on specified educational 
-topic. Must register for EDUC 4605 during Spring term of the school year in which the 
+topic. Must register during Spring term of the school year in which the 
 internship is to be completed.
 4621. CLINICAL TEACHING (EC-6)
 Clinical Teaching is a field-based internship in partnership with the Schreiner University 
@@ -1849,13 +1816,13 @@ Certification Exam (if not successfully completed in Practicum I) and passing th
 Principal Certification Objective Exam and all standards aligned internship activities as 
 approved by the Site Supervisor. Candidates will be formally observed and evaluated a 
 minimum of three times over the period of Practicum I and II. 
-and concurrent enrollment in 6310.
+and concurrent enrollment.
 6310.  PRINCIPAL AS INSTRUCTIONAL LEADER TEST  
 AND PASL PREPARATION
 The Principal Test Preparation Course is a required course for the principal certification 
 program and provides additional tutoring in testing skills and a standards aligned review 
 of TExES state exam 268 and the PASL. Candidates must be concurrently enrolled in 
-EDUC 6304. The Principal Practicum and emphasis on Task 1: Problem Solving in the 
+. The Principal Practicum and emphasis on Task 1: Problem Solving in the 
 Field. Candidates will demonstrate the ability to address and resolve significant problems 
 or challenges in the school that influences instructional practice and student learning 
 through an analysis of test questions.
@@ -1896,8 +1863,7 @@ diagrams.
 Basic principles of classical vector mechanics applied to the kinematics and kinetics 
 of particles, systems of particles, and rigid bodies. The student will solve engineering 
 problems using freebody diagrams, equations of motion, force and acceleration, work 
-and energy, and momentum techniques. 
-ENGR 2310.
+and energy, and momentum techniques. .
 2330. MECHANICS OF MATERIALS 
 This course covers simple stress and strain in deformable bodies, mechanical properties 
 of materials, axial load, torsion, shear and bending moment, flexure and shear stresses in 
@@ -1934,18 +1900,17 @@ students will also practice learning strategies to aid their future continuing e
 3322. MATERIALS ENGINEERING 
 This course explores the microscopic and macroscopic properties, structure, and 
 performance of materials used in engineering applications including metals, concrete, 
-asphalt, wood, ceramics, and composites. Prerequisites (if any): CHEM 1301, ENGR 
-2330. 
+asphalt, wood, ceramics, and composites.
 3330. STRUCTURAL ANALYSIS 
 This course covers reactions, shear and bending moment, plane and space trusses, 
 influence lines, deflections, virtual work, energy methods, approximate analysis, 
 consistent deformations method, slope deflection and moment distribution methods, 
 introduction to matrix methods. Analytical and computer solution techniques will both 
-be covered. Prerequisites (if any): ENGR 2330 Mechanics of Materials.
+be covered. Prerequisites (if any): Mechanics of Materials.
 3340. DESIGN OF MACHINERY 
 This course covers analytical study of motions, velocities, accelerations, and forces for 
 design of machine elements. Spatial mechanisms, robotics, and actuator selection are also 
-introduced. Prerequisites (if any): ENGR 2320 Engineering Dynamics.
+introduced. Prerequisites (if any Engineering Dynamics.
 4101. GEOTECHNICAL ENGINEERING LABORATORY 
 This laboratory covers exploration, sampling, and measurement of soil for classification 
 and determination of physical properties needed for geotechnical engineering design. 
@@ -2016,8 +1981,7 @@ This course covers theory, analysis, and design of linear control systems. Topic
 include system modeling in state space and transfer function form, time and frequency 
 domain analysis, stability, PID feedback control, and linear quadratic regulators. Since 
 the applications of this field are rapidly evolving, students will also practice learning 
-strategies to aid their future continuing education. Prerequisites (if any): MATH 3425, 
-ENGR 2320.
+strategies to aid their future continuing education. Prerequisites (if any): MATH 3425, .
 4370. TOPICS IN ENGINEERING 
 This is an intensive study of a specific engineering topic. May be repeated when topics 
 vary. Prerequisites (if any): Prerequisites will vary for each topic.
@@ -2050,8 +2014,7 @@ Renaissance, this course emphasizes historical, generic, and thematic connection
 
 2341. (2333) WORLD LITERATURE FROM THE RENAISSANCE
 A survey of the masterpieces of world literature from the Age of Reason to the present, 
-this course emphasizes historical, generic, and thematic connections. 
-1302.
+this course emphasizes historical, generic, and thematic connections.
 2350. INTRODUCTION TO FILM
 This course will introduce students to the history of narrative film from an international 
 perspective, the technical components of filmmaking, and the function of film as both an 
@@ -2065,7 +2028,6 @@ literary text.
 2370. TOPICS IN ENGLISH
 This is an in-depth study of particular topics in English, including the possibility of a 
 travel component. The course may be repeated when topics vary. 
-1301.
 3303. TECHNICAL COMMUNICATION
 This course focuses on technical writing and communicating in the workplace with 
 emphasis on analyzing audience and purpose, organizing information, designing graphic 
@@ -2091,9 +2053,8 @@ their creative process through writing exercises, focus on one genre, close edit
 workshop discussion. 
 3321. STUDIES IN EARLY AMERICAN LITERATURE
 This survey of American literature through the nineteenth century emphasizes competing 
-discourses related to historical, social, intellectual, and aesthetic movements. 
-ENGL 2360 or concurrent enrollment in ENGL 2360 or consent of instructor.
-3330. STUDIES IN EARLY BRITISH LITERATURE
+discourses related to historical, social, intellectual, and aesthetic movements.  or consent of instructor.
+. STUDIES IN EARLY BRITISH LITERATURE
 This survey of British literature through the nineteenth century emphasizes representative 
 authors whose works are related to historical, social, intellectual, and aesthetic 
 movements. 
@@ -2144,7 +2105,7 @@ This survey course of twentieth-century American and British literature emphasiz
 representative authors whose works are connected to historical events, emphasizing 
 social, intellectual, and aesthetic movements, including but not limited to Modernism, 
 Post-modernism, and Post-colonialism. 
-enrollment in ENGL 2360 or consent of instructor.
+enrollment or consent of instructor.
 4380. DIRECTED STUDY IN ENGLISH
 Subjects not offered as regular courses may be investigated by directed study pursuant 
 to a plan proposed by the student and approved before registration by the supervising 
@@ -2268,9 +2229,9 @@ and Sport Management. It may be repeated when topics vary.
 3306. ADVANCED PHYSIOLOGY
 This is an advanced study of the physiology of human systems, including weekly 
 laboratory session. This course is intended for students preparing for graduate or 
-professional school in the health sciences. See BIOL 3306 and 3106. 
+professional school in the health sciences. See. 
 2301 and 2101, 2302 and 2102 and Junior standing, or consent of instructor. Concurrent 
-enrollment in lab EXSI 3106. (3-3)
+enrollment in la
 3307. EXERCISE PRESCRIPTION FOR SPECIAL POPULATIONS
 This course will focus on the study of aerobic and anaerobic concepts of fitness, focusing 
 on the relationships between lifestyle and risk factors of cardiovascular, metabolic and 
@@ -2328,7 +2289,7 @@ sport and exercise science (physical education) in the United States and the con
 of women, men, and various social movements to this history. To accomplish this 
 analysis, students study the historical issues of competition, race, ethnicity, and gender 
 in relation to social, political, cultural, and economic philosophies. 
-standing and EXSI 1301.
+standing and.
 3340. THE STRUCTURE AND ORGANIZATION OF SPORT
 This course analyzes the growth and development of sport in a global fashion with a 
 special emphasis on the structure and organization of various sports bodies. These 
@@ -2382,14 +2343,14 @@ standing.
 4126. EXERCISE TESTING-PRESCRIPTION LAB
 
 4322. EXERCISE PHYSIOLOGY
-This course is designed to first review the basic physiology concepts discussed in EXSI 
-2305 and previous Biology classes. This course will then provide an in-depth analysis 
+This course is designed to first review the basic physiology concepts discussed in
+ and previous Biology classes. This course will then provide an in-depth analysis 
 of major body systems including cardiovascular, nervous, pulmonary, endocrine and 
 muscular. Weekly laboratory exercises will include investigation of maximal oxygen 
 consumption, lactate and ventilator threshold, parameters of muscular strength and EKG 
 stress testing, among others. Concurrent enrollment in any of the prerequisites is not 
 allowed. 
-standing. Concurrent enrollment in lab EXSI 4122.
+standing. Concurrent enrollment in lab.
 4323. MOTOR LEARNING AND DEVELOPMENT
 The focus of this course is the motor development changes that occur through the lifetime. 
 There will be a focus on the motor development changes that occur from childhood 
@@ -2401,15 +2362,13 @@ development.
 4324.  ATHLETIC TRAINING: INJURY TREATMENT  
 AND PREVENTION
 This is a study of recognition, diagnosis, and treatment of athletic injuries. The study of 
-methods of conditioning to prevent injury and rehabilitate injured athletes. 
-BIOL 2301, 2101, 2302, 2102 or consent of instructor and Junior standing. (2-1)
+methods of conditioning to prevent injury and rehabilitate injured athletes.
 4325. NUTRITION AND EXERCISE PERFORMANCE
 This course will review the fundamental principles of human nutrition and the current 
 knowledge of the impact of diet on human performance. The dietary nutrients that provide 
 energy for movement, the factors that affect the sources of energy during exercise, and 
 the concept of energy balance and its effect on body weight and body composition will 
-be discussed. 
-1103, and EXSI 4322, 4122, Junior standing.
+be discussed.
 4326. EXERCISE TESTING AND PRESCRIPTION
 This course focuses on the study of methods of determining fitness levels and developing 
 safe exercise programs, and developing and administering group exercise programs. 
@@ -2493,8 +2452,7 @@ advanced focus on the most recent financial data and latest references subjected
 level of practicality and rigorous analysis within the context of financial management 
 problems that executives commonly face. In addition, related case studies analyze the 
 same set of companies throughout the text to provide a common thread that reinforces the 
-principles and practices of value creation. Optional travel may be included. 
-FIN 2342.
+principles and practices of value creation. Optional travel may be included.
 3371. THE EUROPEAN UNION AND BEYOND
 The European Union and Beyond investigates a wide range of market realities, tensions 
 and public policy decisions that have shaped the history, as well as current societal and 
@@ -2505,8 +2463,7 @@ shared readings, daily discussions and weekly writing assignments.
 4361. INVESTMENT MANAGEMENT
 This course is a study of stocks, bonds and options, basic mechanics and principles of 
 investing and portfolio management, pricing and analysis of securities and derivative 
-instruments, and option strategies. 
-and MATH 2330.
+instruments, and option strategies.
 4362. INTERMEDIATE FINANCIAL MANAGEMENT
 This is a study of corporate valuations, strategic investment decisions, working capital 
 management, and tactical and strategic financing decisions. Special topics also include 
@@ -2518,8 +2475,7 @@ appraising, and measuring risks that may cause severe loss or interrupt an organ
 functional continuity. The techniques utilized to analyze and manage risk exposures are 
 also explored. Students will study the traditional tool of risk management: insurance, 
 specifically, life, health, disability, property and casualty, liability, loss of income, business 
-interruption, and other forms of insurance will be examined in detail. 
-2342.
+interruption, and other forms of insurance will be examined in detail.
 4366. REAL ESTATE FINANCE AND INVESTING
 This is a study of real estate ownership, agency, contracts, disclosures, title transfer, 
 deeds, leasing, mortgage instruments, and career opportunities. Students will explore the 
@@ -2534,8 +2490,7 @@ repeated.
 4380. DIRECTED STUDY IN FINANCE
 Subjects not offered as regular courses may be investigated by directed study pursuant 
 to a plan proposed by the student and approved before registration by the supervising 
-instructor and the dean. 
-and FIN 2342. May be repeated as topics vary.
+instructor and the dean.. May be repeated as topics vary.
 4398. PROFESSIONAL INTERNSHIP IN FINANCE
 This is supervised field employment which provides the opportunity for the student 
 to apply prior learning to practical job experiences. 
@@ -2551,14 +2506,14 @@ of the financial implications of program alternatives, cash and capital budgetin
 and return analysis, and long-range financial planning in the current day managerial 
 environment. 
 FRENCH (FREN)
-Students with a placement score at the level of FREN 1402 or above may, upon written 
+Students with a placement score at the level of or above may, upon written 
 request to the Registrar, be given credit for required courses at the appropriate level.
 1401. ELEMENTARY FRENCH I
 This is an introductory course which focuses upon basic reading, writing, listening and 
 speaking of French. Significant aspects of French-language cultures are also addressed. 
 This course is the first in a sequence of introductory French courses.
 1402. ELEMENTARY FRENCH II
-This course, a continuation of FREN 1401, expands reading, writing, listening and 
+This course, a continuation, expands reading, writing, listening and 
 speaking skills as it expands knowledge of French-language cultural traits. 
 2303. (2311) INTERMEDIATE FRENCH I
 This course provides a comprehensive review of major grammatical structures and 
@@ -2566,7 +2521,7 @@ vocabulary and expands upon them via cultural and contemporary readings. Course
 conducted primarily in French. 
 score.
 2304. (2312) INTERMEDIATE FRENCH II
-This course expands upon information presented in FREN 2303. Course conducted 
+This course expands upon information presented in. Course conducted 
 primarily in French. 
 4370. TOPICS IN FRENCH
 This is a study of subjects not otherwise offered. May be repeated when topics vary. 
@@ -2578,14 +2533,14 @@ instructor and the appropriate dean. Normally, students enrolling will have uppe
 status, a 2.0 GPA, and completed basic discipline courses. May be repeated with a change 
 in topic.
 GERMAN (GERM)
-Students with a placement score at the level of GERM 1402 or above may, upon written 
+Students with a placement score at the level or above may, upon written 
 request to the Registrar, be given credit for required courses at the appropriate level.
 1401. ELEMENTARY GERMAN I
 This is an introductory course which focuses upon basic reading, writing, listening and 
 speaking of German. Significant aspects of German-language cultures are also addressed. 
 This course is the first in a sequence of introductory German courses.
 1402. ELEMENTARY GERMAN II
-This course, a continuation of GERM 1401, expands reading, writing, listening and 
+This course, a continuation of, expands reading, writing, listening and 
 speaking skills as it expands knowledge of German-language cultural traits. 
 2303. (2311) INTERMEDIATE GERMAN I
 This course provides a comprehensive review of major grammatical structures and 
@@ -2593,7 +2548,7 @@ vocabulary and expands upon them via cultural and contemporary readings. Course
 conducted primarily in German. 
 test score.
 2304. (2312) INTERMEDIATE GERMAN II
-This course expands upon information presented in GERM 2303. Course conducted 
+This course expands upon information presented in. Course conducted 
 primarily in German. 
 4370. TOPICS IN GERMAN
 This is a study of subjects not otherwise offered. May be repeated when topics vary. 
@@ -2709,10 +2664,9 @@ design course explores corporate identity and advertising strategies focused on 
 immersive semester long single client experience. Students will select a client and 
 collaborate with the instructor and client to determine the development of a branding 
 and marketing strategy, including print and multimedia processes that satisfy client 
-needs. This course will also serve as preparation for DESN 4360-Professional Portfolio, 
+needs. This course will also serve as preparation for Professional Portfolio, 
 in which previously completed projects will be reviewed and polished for the student 
-portfolio. A studio supplies fee will be assessed. 
-and DESN 3350.
+portfolio. A studio supplies fee will be assessed.
 4310. PRE-PRESS AND PRINT MANAGEMENT
 This course includes the preparation and output of digital computer files on state-of-the-art 
 digital printers using a variety of software. The course will stress the correct preparation 
@@ -2753,7 +2707,7 @@ Working individually with an instructor, each student selects pieces showcasing 
 represents a unique style and demonstrates over-all conceptual abilities. In coordination 
 with the printed portfolio, students will develop and publish a web site that will serve as 
 their on-line portfolio. This course should be taken in the last year of the degree program 
-just prior to DESN 4399: Senior Project. A formal application process into DESN 4399: 
+just prior to  Senior Project. A formal application process into 
 Senior Project in Graphic Design course will be conducted. A studio supplies fee will be 
 assessed. 
 of instructor.
@@ -2767,10 +2721,10 @@ of the student to acquire the internship. Course may be repeated once for credit
 elective. 
 4399. SENIOR PROJECT IN GRAPHIC DESIGN
 This is the culmination of the degree program. This capstone course is the visualization 
-of the thesis developed and presented during DESN 4360: Professional Portfolio with 
+of the thesis developed and presented during  Professional Portfolio with 
 emphasis on visual and verbal communication. The student will produce an exhibition 
 of their work that demonstrates their creativity and professionalism as a designer. The 
-student will finalize their professional print and website portfolio begun in DESN 4360: 
+student will finalize their professional print and website portfolio begun in 
 Professional Portfolio. A senior exit interview will be conducted at the end of the semester. 
 
 proposals in the semester before the Senior Project course is to be taken.
@@ -2886,8 +2840,7 @@ political science.
 3361. MODERN EAST ASIA
 This course is an examination of contemporary Chinese and Japanese history designed to 
 acquaint students with the broad historical, cultural and economic factors that make these 
-countries unique and interesting. May also include Indochina and Korea. 
-HIST 1301/1302 or HIST 1350/ 1351 or consent of instructor.
+countries unique and interesting. May also include Indochina and Korea. or consent of instructor.
 3362. THE VIETNAM WARS, 1950-1This course provides a detailed analysis of U.S. involvement in Southeast Asia from the 
 1940s to 1970s. Students will discuss various topics during our semester: the origins 
 of Vietnamese nationalism, how the First Indochina War fit within a larger context 
@@ -3114,13 +3067,13 @@ management strategies. Topics include integrity, international trade agreements,
 monetary transactions, technology-driven global marketing, cultural differences, and the 
 roles of politics and economics. This is an online global flex course that incorporates 
 contemporary international business topics and may include optional travel. 
-Sophomore standing or above and BSAD 1301.
+Sophomore standing or above and
 3350. ORGANIZATIONAL BEHAVIOR
 This course focuses on providing an integrated social scientific approach to relationships 
 between the individual and the organization, and on administrative problems. Topics 
 include performance appraisal, leadership, motivation, interpersonal relationships, 
 decision-making, job satisfaction, and change. 
-See PSYC 3350.
+See.
 4330. HUMAN RESOURCE MANAGEMENT
 This course focuses on human resource management with emphasis on its impact on the 
 practice of management throughout the organization. Topics include equal employment 
@@ -3133,7 +3086,7 @@ repeated.
 Subjects not offered as regular courses may be investigated by directed study pursuant 
 to a plan proposed by the student and approved before registration by the supervising 
 instructor and the dean. 
-and MGMT 2341. May be repeated as topics vary.
+and. May be repeated as topics vary.
 4398. PROFESSIONAL INTERNSHIP IN MANAGEMENT
 This is supervised field employment which provides the opportunity for the student 
 to apply prior learning to practical job experiences. 
@@ -3250,15 +3203,13 @@ This is a study of the management practices typically employed in selling the re
 enterprises. The basic functions of merchandising, promotion, supply-chain, control, and 
 other activities involved in the sale of services and goods to consumers are examined 
 from an operational perspective. 
-ACCT 2301, and ACCT 2302.
 4370. TOPICS IN MARKETING
 This is a study of selected topics in the field of business. Topics will vary; course may be 
 repeated. 
 4380. DIRECTED STUDY IN MARKETING
 Subjects not offered as regular courses may be investigated by directed study pursuant 
 to a plan proposed by the student and approved before registration by the supervising 
-instructor and the dean. 
-and MKTG 2340. May be repeated as topics vary.
+instructor and the dean. May be repeated as topics vary.
 4398. PROFESSIONAL INTERNSHIP IN MARKETING
 This is supervised field employment which provides the opportunity for the student 
 to apply prior learning to practical job experiences. 
@@ -3290,23 +3241,21 @@ become teachers can use the required professional education courses as electives
 prescribed program.
 French or German is recommended as foreign language. 
 The major in Mathematics consists of 25 advanced hours.
-For the B.A. degree: 
-MATH 2330, 2340, 2422, 2423, 3310, 3312, 3313, 3324, 3336, 3425, and 4393, plus 9 
+For the B.A. degree:  
 advanced hours. PHYS recommended as electives.
-For the B.S. degree: 
-MATH 2330, 2340, 2422, 2423, 3310, 3312, 3313, 3324, 3336, 3425, and 4393, plus 
+For the B.S. degree:s 
 PHYS 2425, 2426, CIT 2410.
-Students completing MATH 1321 at Schreiner University with a grade of ‘‘C” or better 
-will, upon written request to the Registrar, be given credit for MATH 1310 or 1311. 
-Students completing either MATH 2422 or a more advanced mathematics course with a 
+Students completing at Schreiner University with a grade of ‘‘C” or better 
+will, upon written request to the Registrar, be given credit fo
+Students completing either or a more advanced mathematics course with a 
 grade of ‘‘C” or better or AP credit will, upon written request to the Registrar, be given 
-credit for MATH 1310 or 1311 and MATH 1321. Students completing MATH 2423 
+credit for or  an. Students completing
 at Schreiner University with a grade of “C” or better will, upon written request to the 
-Registrar, be given credit for MATH 2422.
+Registrar, be given credit for.
 Students who plan to major in Mathematics, Chemistry, or Engineering should enroll in 
-MATH 2422 and MATH 2423 if their background in mathematics is sufficiently good. 
-If not, they should enroll in MATH 1310 or MATH 1321 first. Students majoring in 
-Business Administration should enroll in MATH 1311.
+ if their background in mathematics is sufficiently good. 
+If not, they should enroll in first. Students majoring in 
+Business Administration should enroll in
 Students seeking teacher certification in mathematics should consult the Teacher 
 Education section of this catalog for specific course selection.
 Placement in mathematics courses is based on mathematics placement assessment.
@@ -3381,8 +3330,7 @@ be used to satisfy major upper division credit requirements.
 advanced mathematics and department approval.
 3310. INTRODUCTION TO REAL ANALYSIS
 This course is a study of the real number system, sequences, series, limits, derivatives and 
-integrals of real-valued functions; set theory, logic and techniques of proof. 
-MATH 2423 and MATH 2340.
+integrals of real-valued functions; set theory, logic and techniques of proof.
 3312. LINEAR ALGEBRA
 This is a study of abstract notions of linear algebra including vector spaces and linear 
 transformations and the applications of these concepts using matrices and determinants. 
@@ -3404,7 +3352,7 @@ sums of random variables, sampling, estimation of parameters, and testing of hyp
 This is a study of historical development, sets and propositions, coordinate geometry, 
 congruences, the complex plane, constructions, postulational systems, postulates for the 
 Euclidean Plane, and postulates for the Non-Euclidean Plane. 
-MATH 2422 or equivalent or consent of instructor.
+or equivalent or consent of instructor.
 3425. DIFFERENTIAL EQUATIONS
 This involves theory, solutions and application of ordinary differential equations with 
 introduction to Laplace transforms and partial differential equations. Topics include 
@@ -3420,16 +3368,15 @@ This is selected topics in the field of mathematics. Topics will vary; course ma
 repeated when topics vary. 
 4321. COMPLEX VARIABLES
 This is a study of the fundamentals of differentiation and integration theory of complex 
-variables. 
-MATH 2340.
+variables.
 4326. INTRODUCTION TO NUMERICAL ANALYSIS
 Interpolation; approximations; numerical integration and differentiation; roots of 
 polynomial equations; numerical linear algebra; solution of ordinary differential 
 equations; computer applications when appropriate are studied in this course. 
 4334. INTRODUCTION TO TOPOLOGY
 This course is an introductory course to topology, a study of topological spaces. It is 
-intended to expose a student to the basics of point-set topology. Prerequisites (if any): 
-MATH 2340 and MATH 2423 or consent of instructor.
+intended to expose a student to the basics of point-set topology. Prerequisites (if any): \
+or consent of instructor.
 4370. TOPICS IN MATHEMATICS
 This is selected topics in the field of mathematics. Topics will vary but may include 
 number theory, real analysis, topology, algebra and logic. Course may be repeated when 
@@ -3446,8 +3393,7 @@ mathematics including calculus, geometry, algebra, statistics, differential equa
 real analysis. The student is challenged to exhibit significant knowledge and understanding 
 from all previous mathematics coursework. During this semester the student will prepare 
 a written notebook, and complete the Mathematics Major Field Exam and the Oral 
-Examination. Prerequisite(s): MATH 2330, 2331, 3312, 3313, 3324, 3425, and 3310, or 
-consent of instructor.
+Examination.
 4399. SENIOR PROJECT IN MATHEMATICS – R
 This is an independent capstone research investigation culminating in a senior thesis or 
 comparable senior project.
@@ -3458,7 +3404,7 @@ This course introduces students to the personal challenges and competencies that
 critical for effective leadership and communication. Students will learn how the personal 
 development of life skills such as cultural understanding, goal setting, time management, 
 stress management, and comprehensive fitness relate to leadership, officership, and the 
-Army profession. As students become further acquainted with MILT 1201, they will learn 
+Army profession. As students become further acquainted with they will learn 
 the structure of the ROTC Basic Course program track; Fall and Spring Leadership Labs; 
 and CIET. The course focus is on developing basic knowledge and comprehension of 
 Army leadership dimensions, attributes and core leader competencies while gaining an 
@@ -3629,8 +3575,7 @@ opportunity for advanced level Schreiner University string, woodwind, brass, per
 and harp students to join with professional musicians in rehearsals and concerts of 
 outstanding orchestral repertoire with acclaimed guest artists. The symphony rehearses 
 one evening a week for three hours. May be repeated for credit. 
-advanced Schreiner University students by audition. Concurrent enrollment with MUSC 
-1113 String Orchestra.
+advanced Schreiner University students by audition. Concurrent enrollment with  String Orchestra.
 3104. ADVANCED APPLIED MUSIC: VOICE
 This is individual instruction in voice on an advanced level. One sixty-minute lesson per 
 week. Student is expected to practice at least 10 hours per week. 
@@ -4142,7 +4087,7 @@ motion, conservation of mass, momentum and energy, solid mechanics, fluid mechan
 oscillatory motion, and selected topics in thermal science. May be applied to physics 
 requirement for medical and other science and technology related degree programs. 
 
-score, or consent of the instructor. Concurrent enrollment in lab PHYS 1101 required.
+score, or consent of the instructor. Concurrent enrollment in lab required.
 1302. COLLEGE PHYSICS II
 Topics include electricity and magnetism, optics and modern physics. Maybe applied to 
 certain science and technology related degree programs. 
@@ -4157,13 +4102,12 @@ conservation of mass, momentum and energy, solid mechanics, fluid mechanics,
 oscillatory motion, and selected topics in thermal science. Partial fulfillment of physics 
 requirement for engineering, and other science, math and technology-related degree 
 programs. 
-2423 or consent of instructor. Concurrent enrollment in lab PHYS 2125.
+2423 or consent of instructor. Concurrent enrollment in lab.
 2326. UNIVERSITY PHYSICS II
-A continuation of PHYS 2425. Topics include electricity and magnetism, optics and 
+A continuation of. Topics include electricity and magnetism, optics and 
 modern physics. Completes the physics requirement for engineering, and other science, 
 math and technology-related degree programs. 
-and credit for or concurrent enrollment in MATH 2423. Concurrent enrollment in lab 
-PHYS 2126.
+and credit for or concurrent enrollment in. Concurrent enrollment in lab.
 3300. ASTROPHYSICS
 This course will consider topics such as planets, stars, galaxies, and cosmology. Their 
 properties, structure, kinematics, and interactions will be investigated using the tools 
@@ -4224,7 +4168,7 @@ of judicial decision-making. It then considers a number of critical processes, s
 agenda setting, opinion formation, lower court compliance, and the appointment of 
 judges. The course closes out with several contextual topics, including perceptions of 
 judicial legitimacy and the role of courts as venues for social change. 
-POLS 2301 or consent of instructor.
+ or consent of instructor.
 3340. THE ADMINISTRATIVE PROCESS
 This course offers an overview of the literature on administrative policy-making with an 
 emphasis on the theories that help us understand the purpose and structure of bureaucratic 
@@ -4300,8 +4244,7 @@ criminal justice systems. It focuses upon Southwestern political context and wil
 the specialized Texas/Oklahoma system of criminal appeals. It addresses the electoral 
 systems associated with state judgeships and the implications that electoral ties have 
 on judicial decision-making. It considers relevant topics such as wrongful convictions, 
-application of the death penalty and law enforcement organizations. 
-POLS 2301.
+application of the death penalty and law enforcement organizations.
 3383. INTERNATIONAL POLITICAL ECONOMY
 This is a study of the interrelationship between political and economic factors in 
 international relations with a focus on theoretical perspectives on the relationship between 
@@ -4373,11 +4316,11 @@ college life. Students will gain practical, hands-on experience in applying psyc
 concepts and principles and will use advanced interpersonal skills to develop rapport 
 with their mentees. Students will be expected to meet individually with an assigned 
 mentee for a minimum of two hours per week, and to meet weekly with the other peer 
-mentors and the course instructor. Junior standing, completion of PSYC 3101 with a 
+mentors and the course instructor. Junior standing, completion of with a 
 grade of B or higher, recommendation by two faculty members, one of whom must be in 
 the psychology department.
 3103. PRACTICUM III: AUTISM SPECTRUM
-This is a continuation of PSYC 3101 and 3102 that provides additional hands-on 
+This is a continuation of that provides additional hands-on 
 experience for upper-level psychology majors working as peer mentors to assist new 
 freshmen who are on the autism spectrum with the transition to college life. Students will 
 be expected to meet individually with an assigned mentee for a minimum of two hours 
@@ -4409,7 +4352,7 @@ standing or consent of instructor.
 This course focuses on social factors that influence individual behavior, thoughts, and 
 feelings. Topics covered include attitude formation and change, altruism, aggression, 
 attraction, conformity, interpersonal relationships, and group processes. 
-PSYC 1301 and Junior standing, or consent of instructor.
+ and Junior standing, or consent of instructor.
 3307. HUMAN SEXUALITY
 This course provides an overview of human sexuality from the perspective of academic 
 psychology. Biological, social, developmental, interpersonal, and emotional aspects of 
@@ -4433,7 +4376,7 @@ authoritarianism, anxiety, achievement, locus of control, introversion-extravers
 dependency and approval, etc. Methods of scale construction and the relationship 
 of traits to situations will also be examined. Students will be able to assess their own 
 dimensions in many cases, and both clinical and workplace applications will be explored. 
-Prerequisite; PSYC 1301 and junior standing.
+Prerequisite; and junior standing.
 3341. CRIMINAL BEHAVIOR
 This course will provide an overview of research on crime including the social, 
 psychological and biological origins of crime, with emphasis on the psychological 
@@ -4451,7 +4394,7 @@ theory development, research design decisions, and validity and reliability conc
 Each student will be expected to design and run an experimental simulation and conduct 
 an in-depth literature review in the topic area of that simulation. Required for psychology 
 majors. 
-(Statistics) prior to enrolling in PSYC 3360 with the exception of instructor permission.
+(Statistics) prior to enrolling in with the exception of instructor permission.
 3361. RESEARCH METHODS II
 This course is the second of a two-part sequence. The student will learn to use parametric 
 and nonparametric inferential statistical analyses. In addition, instruction in professional 
@@ -4662,7 +4605,7 @@ each certification level for their assignments. Based on current research in the
 emphasis will be effective pedagogy for 21st century learning and applied to Tasks of 
 the Teacher Performance Assessment. 5 Hours of Video Observations and Reflections 
 are required. 
-Must be taken concurrently with EDUC 4305.
+Must be taken concurrently with.
 RELIGION (RELI)
 1303. SURVEY OF THE OLD TESTAMENT
 This is a study of the history, literature, and teachings of the Old Testament.
@@ -4698,7 +4641,7 @@ This is an introduction to particular topics in religion. May be repeated when t
 This is a study of the development of the various service formats of the Christian church, 
 the types of music developed for them and its relationship to secular music, and the 
 practical use of different styles of music in worship today. 
-or consent of instructor. See MUSC 3303.
+or consent of instructor.
 3321. THE REFORMATION ERA
 This is a comprehensive treatment of the period from 1500 through 1650, during which 
 time the unifying umbrella of Christianity was shattered. Topics include a causal analysis 
@@ -4795,14 +4738,14 @@ health care, and medical ethics. The majority of the course will focus on health
 in the United States but will make some references to health and health care in other 
 countries and regions.
 SPANISH (SPAN)
-Students with a placement score at the level of SPAN 1402 or above may, upon written 
+Students with a placement score at the level of or above may, upon written 
 request to the Registrar, be given credit for required courses at the appropriate level.
 1401. ELEMENTARY SPANISH I
 This is an introductory course which focuses upon basic reading, writing, listening and 
 speaking of Spanish. Significant aspects of Spanish-language cultures are also addressed. 
 This course is the first in a sequence of introductory Spanish courses.
 1402. ELEMENTARY SPANISH II
-This course, a continuation of SPAN 1401, expands reading, writing, listening and 
+This course, a continuation of, expands reading, writing, listening and 
 speaking skills as it expands knowledge of Spanish-language cultural traits. 
 2303. (2311) INTERMEDIATE SPANISH I
 This course provides a comprehensive review of major grammatical structures and 
@@ -4810,7 +4753,7 @@ vocabulary and expands upon them via cultural and contemporary readings. Course
 conducted primarily in Spanish. 
 test score.
 2304. (2312) INTERMEDIATE SPANISH II
-This course expands upon information presented in SPAN 2303. Course conducted 
+This course expands upon information presented i. Course conducted 
 primarily in Spanish. 
 2307. SPANISH FOR HEALTHCARE PROFESSIONS
 This is an intermediate-level Spanish course designed to help current and aspiring 
@@ -4887,7 +4830,7 @@ regularly-offered upper-division classes (e.g., specialized and/or comparative s
 cultural and linguistic phenomena and topics, and/or focused explorations of specific 
 genres, periods, movements, writers or artists, etc.). As an upper-division course, all 
 content, discussion, lecture, assignments will be in Spanish language. 
-SPAN 2304 or equivalent placement, or consent of the instructor.
+or equivalent placement, or consent of the instructor.
 4370. TOPICS IN SPANISH
 This is a study of subjects not otherwise offered. May be repeated when topics vary. 
 
@@ -4969,10 +4912,7 @@ instruction is emphasized in certain upper level theatre courses through interns
 opportunities, as well as performance responsibilities. This program emphasizes a strong, 
 general foundation in theatre basics. Majors may pursue either a technical or performance 
 theatre focus.
-The major consists of 27 advanced hours in theatre including: ENGL 3334, THRE 3301, 
-3302, 3305, 3306, 4325, 4333, 4340, 4350 or 4351, and 4398.
-The Minor in Theatre: 21 hours, THRE 1301, 2301, 3301, 3302 and 9 hours from 3305, 
-3335, 4333, 4340, 4350, 4351, 4370 or 4398.
+The major consists of 27 advanced hours in theatre including
 1101. THEATRE PRACTICUM
 This is a laboratory in acting, stage management, design, construction and handling of 
 scenery, lighting, sound, properties, costume and makeup. May be repeated for credit. 
@@ -5000,8 +4940,7 @@ instructor.
 3301. THEATRE HISTORY I
 This is a study of theatre history which traces the path of theatre from its beginnings 
 through the Renaissance. Emphasis is on the playwrighting, acting and directing styles, 
-scenic innovations and theatre architecture of various periods. 
-or HIST 1350 or HIST 1351.
+scenic innovations and theatre architecture of various periods.
 3302. THEATRE HISTORY II
 This is a historical survey of major trends of world theatre and drama. Emphasis is on 
 theatre of Europe and the United States, however, the eastern theatre is covered also. This 
@@ -5026,8 +4965,7 @@ course is structured to prepare theatre students for leadership roles within the
 team. 
 4333. PLAYWRIGHTING
 This is the study and practice of writing plays of various lengths. Use of dialogue, 
-movement and building of ideas into dramatic situations is emphasized. 
-ENGL 1302 or THRE 1301, 2301 and Junior standing.
+movement and building of ideas into dramatic situations is emphasized. 1 and Junior standing.
 4340. DRAMATIC LITERATURE
 This course includes readings in American, British, and Continental literature, with 
 emphasis on the development of ideas, themes, and motifs. 
