@@ -30,10 +30,15 @@ with open('cameron-university.txt', 'r', encoding='utf-8') as txt_file:
         if not corequisite:
             corequisite = "none"
 
+        # Enhance 'credits' field to replace with "no credit" when appropriate
+        credits = credits.strip().lower() if credits else '0'
+        if "no credit" in credits:
+            credits = '0'
+
         course_data.append({
             'code': code.strip(),
             'title': title.strip(),
-            'credits': credits.strip(),
+            'credits': credits,
             'description': description + prerequisites.strip() + corequisite.strip(),
         })
 

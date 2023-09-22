@@ -184,7 +184,7 @@ gonadal function, endocrine relationships, fertility, and
 factors affecting reproduction efficiency. Emphasis is 
 given to principles of artificial insemination in the 
 laboratory. Lecture , laboratory . 
-Prerequisite: AGRCnonenone"
+.nonenone"
 4434L,ANIMAL REPRODUCTION LAB,0,"LAB: Physiological processes of reproduction in farm 
 animals, gonadal function, endocrine relationships, 
 fertility, and factors affecting reproduction efficiency. 
@@ -198,7 +198,8 @@ General Education, Humanities–Diversity. (Fall)nonenone"
 2113*,INTERMEDIATE MODERN STANDARD ARABIC I,3,"An intermediate course in the language and 
 culture of the Arabic-speaking countries. Lecture . 
 Prerequisite: ARBCnonenone"
-2223*,INTERMEDIATE MODERN STANDARD ARABIC II,3,Continuation of ARBCnonenone
+2223*,INTERMEDIATE MODERN STANDARD ARABIC II,3,"Continuation of ARBC . Lecture . 
+Prerequisite: ARBC  or the equivalent. (Spring)nonenone"
 3113*,ADVANCED MODERN STANDARD ARABIC I,3,"An advanced course in the language and 
 culture of the Arabic-speaking countries. Lecture . 
 Prerequisite: ARBCnonenone"
@@ -484,13 +485,19 @@ MOVEMENTS",3,"Advanced Art History course
 with an emphasis on Modern Art movements and their 
 development. The course content covers the time period 
 ofnonenone"
-4663*,HISTORY OF ART SEMINAR: ART SINCE,1940,nonenone
-1213,and  of History.,4713,HISTORY OF GRAPHIC DESIGNnonenone
-4733,ART PORTFOLIO CAPSTONE,3,"Professional study on setting fees, writing contracts, 
-working with an agent, and other business practices. Final 
-preparation of a professional portfolio culminating in an 
-extensive design project and the design, organization, and 
-production of an exhibition of work. Studio/internshipnonenone"
+4663*,HISTORY OF ART SEMINAR: ART SINCE,3,"Advanced Art History course with an 
+emphasis on art sincenonenone"
+4713,HISTORY OF GRAPHIC DESIGN,3,"Evolution of graphic communication from prehistoric 
+times to the present. Investigation of the origins of 
+printing and typography in Europe leading to the design 
+of the printed page, the impact of industrial technology 
+upon visual communication and the study of the growth 
+and development of modern graphic design. Lecturenonenone"
+4823,ADVANCED CERAMICS,3,"Advanced 
+studio courses in the application of clay techniques 
+emphasizing the aesthetics of form. May be repeated for 
+credit under a different subtitle. Studio . 
+Prerequisite: ARTnonenone"
 4911-4,WORKSHOP,1-4,"A concentrated 
 course of specific exploration of various art forms, 
 designed to provide intensive experience in studio 
@@ -538,7 +545,8 @@ portion of the course will in part involve hands-on
 production of plant products, and where appropriate (and 
 legal) include sampling these products. Not applicable to 
 biology major or minor or medical technology major. 
-Lecture , laboratory . Corequisite: BIOLnonenone"
+Lecture , laboratory . . General Education Laboratory Science, Biological 
+Science.nonenone"
 1214*,HUMAN BIOLOGY,4,"Human Biology is 
 a general education science lab course that introduces the 
 basic concepts of biology, using humans and society as a 
@@ -571,7 +579,7 @@ general education science requirements. (Fall, Spring)nonenone"
 2034*,HUMAN ANATOMY,4,"Introductory 
 anatomy with emphasis on histology and human gross 
 anatomy. Includes cadaver dissection and study. Lecture 
-, laboratory . Prerequisite: BIOLnonenone"
+, laboratory . Student must be eligible to take MATHnonenone"
 1-2,"credit hours Selected 
 topics in biology which may include lecture, laboratory 
 and/or field trips. May be repeated for a maximum of",3,"credit hours. Lecture . Will not satisfy general 
@@ -597,10 +605,12 @@ classification as it reflects evolutionary adaptation.
 Economic impact of wild animals on society and natural 
 resource conservation are considered. Lecture , 
 laboratory .nonenone"
-3012*,PRACTICUM IN HUMAN ANATOMY,2,Students will serve as a teaching assistant for BIOLnonenone
-2034L,"Human Anatomy Lab and will obtain additional dissection 
+3012*,PRACTICUM IN HUMAN ANATOMY,2,"Students will serve as a teaching assistant for
+Human Anatomy Lab and will obtain additional dissection 
 experience and anatomical knowledge beyond material 
-covered in that course. in BIOL",2034,or BIOLnonenone
+covered in that course. in BIOL  or BIOL  and permission of instructor 
+and department chair. Will not satisfy general education 
+science requirements.nonenone"
 3014*,GENETICS,4,"A general course in the 
 cellular and molecular mechanisms of heredity. Lecturenonenone"
 3043*,EVOLUTION,3,"Historical development 
@@ -702,7 +712,7 @@ requirements.nonenone"
 PLANTS",3,"The chemical and cellular 
 organization of higher plants including selected aspects of 
 their metabolism, growth, responses to stress, and 
-molecular biology. Lecture . Prerequisite: BIOLnonenone"
+molecular biology. Lecture .nonenone"
 4174*,CELL BIOLOGY,4,"Structural and 
 functional organization of eukaryotic with an emphasis on 
 human cells. Biological membranes, organelles, intracellular 
@@ -741,8 +751,14 @@ communication;
 organizational communication theory; document design; 
 practice in preparing letters, memoranda, business 
 reports, and employment-related messages; professional 
-oral presentations. Lecture . Prerequisite: ENGLnonenone"
-1213,"or equivalent. (Fall, Spring)",2211-3,SPECIAL STUDIESnonenone
+oral presentations. Lecture .nonenone"
+2211-3,SPECIAL STUDIES,1-3,"A study of 
+special Business areas or problems. Areas of study will 
+vary from semester to semester and from one discipline 
+area of Business to another. The course may be repeated 
+for additional credit with permission of Chair. Lecture  
+hours. Prerequisite: As listed for each separate offering 
+and/or permission of the Chair.nonenone"
 2903*,MANAGEMENT SKILLS,3,"This course 
 covers 
 fundamental 
@@ -756,7 +772,7 @@ as
 career 
 planning 
 and 
-professionalism. Capstone/lecture . BUSnonenone"
+professionalism. Capstone/lecture . BUS  and BUS . (Fall, Spring)nonenone"
 3213,BUSINESS LAW I,3,"An overview of the 
 legal system, principles of contract law, Uniform 
 Commercial Code and how it has changed contract law, 
@@ -765,20 +781,15 @@ rights of debtors and creditors, and bankruptcy. Lecturenonenone"
 emphasize specific Business and/or Economic topics. 
 Combines the use of lectures and practical application 
 exercises. May be repeated for a maximum ofnonenone"
+4471-3,SEMINAR IN BUSINESS,1-3,"Group 
+projects designed to meet special needs of students in any 
+of the disciplines of the Business Department. Seminarnonenone"
 4481-3,BUSINESS INTERNSHIP,1-3,"Supervised work experience in a professional setting 
 directly relating to the student's business discipline. The 
 internship will allow students to encounter practical 
 workplace situations within their major field and gain 
 experience in corporate and other business settings. 
 Student may earn up tononenone"
-449,"Independent readings and/or study of specific 
-problems or special subjects, based on pre-approved 
-outlines of plans, with conferences and/or written 
-reports. Independent study/directed readings  hours. 
-the independent study and permission of the Chair. A 
-proposal must accompany the request when submitted 
-for approval.",4632,"BUSINESS CAPSTONE: PROFESSIONALISM & 
-CAREERSnonenone"
 4633,BUSINESS POLICY,3,"A capstone course 
 designed to integrate course work in various functional 
 areas of business. The focus of the course is understanding 
@@ -831,11 +842,9 @@ CHEMnonenone"
 1364*,GENERAL CHEMISTRY I,4,"Principles 
 of general chemistry, with emphasis on theory and its 
 application to structure and reactions. Lecture . 
-Prerequisite or Corequisite: MATHnonenone"
-1513,"or equivalent or 
+Prerequisite or Corequisite: MATH  or equivalent or 
 higher. It is also strongly advised that students who have 
-not successfully passed high school chemistry take CHEM",1004,"Descriptive Chemistry prior to taking this course. 
-General Education, Physical Science. (Fall, Spring)nonenone"
+not successfully passed high school chemistry take CHEMnonenone"
 1471*,GENERAL CHEMISTRY LABORATORY II,1,"credit 
 hour Selected laboratory experiments to test applications 
 of 
@@ -923,9 +932,8 @@ physicochemical measurements. Laboratory .
 CHEMnonenone"
 4353*,PHYSICAL CHEMISTRY I,3,"The study 
 of thermodynamics particularly as applied to chemical 
-systems. 
-Lecturenonenone"
-2215,and PHYS,1215,or PHYSnonenone
+systems. Lecture hours.
+Will not satisfy general education science requirements.nonenone"
 4361*,PHYSICAL CHEMISTRY LABORATORY II,1,"credit 
 hour A continuation of CHEMnonenone"
 4363*,PHYSICAL CHEMISTRY II,3,"A 
@@ -942,9 +950,13 @@ and enzymes, biological oxidations, bioenergetics. Lecture
 4411*,BIOCHEMISTRY II LABORATORY,1,"credit hour A 
 continuation of Biochemistry Laboratory CHEMnonenone"
 4413*,BIOCHEMISTRY II,3,"A continuation of 
-Biochemistry, CHEMnonenone"
-448,"This lecture-based course will focus on a topic or 
-topics of current interest to the chemical profession.",4491-4,SPECIAL PROBLEMS IN CHEMISTRYnonenone
+Biochemistry, CHEM , with emphasis on the catabolic 
+routes of metabolism. Lecture .
+ This lecture-based course will focus on a topic or 
+topics of current interest to the chemical profession.nonenone"
+4491-4,SPECIAL PROBLEMS IN CHEMISTRY,1-4,"Training in independent work. Experimental 
+investigations of an assigned problem . Normally graded 
+on S/U basis.nonenone"
 4541*,CHEMISTRY CAPSTONE,1,"credit hour The course 
 involves student preparation and presentation of original 
 and/or library chemical research topics. The course will 
@@ -961,21 +973,6 @@ component.
 Capstone/lecturenonenone"
 1113,CHILD GROWTH AND DEVELOPMENT,3,"A study of the major theories and research of child 
 development birth-nonenone"
-1-3,"credit hours Directed 
-individual or group study of selected topic(s) in Child 
-Development. The course may be repeated for additional 
-credit with departmental permission. Lecture  hours. 
-  
- 
- 
-Prerequisite: As listed for each separate offering and/or 
-departmental 
-permission. 
-Lecture 
- 
-hours. 
-Prerequisite: as listed for each separate offering and/or 
-department permission.",3223,CHILD GUIDANCEnonenone
 1113*,BEGINNING CHINESE (MANDARIN) I,3,"An introductory course in the language and culture 
 of the People’s Republic of China. Lecture . General 
 Education, Humanities–Diversity.nonenone"
@@ -983,7 +980,10 @@ Education, Humanities–Diversity.nonenone"
 2113*,INTERMEDIATE CHINESE I,3,"An 
 intermediate-level course in Chinese (Mandarin). Lecture 
 . Prerequisite: CHNSnonenone"
-2223*,INTERMEDIATE CHINESE II,3,Continuation of CHNSnonenone
+2223*,INTERMEDIATE CHINESE II,3,"Continuation of CHNS . Lecture . Prerequisite: 
+CHNS  or equivalent. 
+CLASSICS (CLSC) 
+Communication, English, and Foreign Languagesnonenone"
 4153*,WOMEN IN ANCIENT ROME,3,"Course 
 provides an introduction to the lives of women and the 
 roles that women played in everyday life both in ancient 
@@ -1349,42 +1349,29 @@ introduction to the notion of complexity. Lecture .nonenone"
 algorithms and implementations for sorting, searching, 
 matrix processing and other problems. Efficiency issues of 
 parallel algorithms on different architectures. Lecturenonenone"
-4001-3,"SEMINAR IN COMPUTER SCIENCE,  
-credit Advanced level current topics that are not part of a 
+4001-3,SEMINAR IN COMPUTER SCIENCE,0,"Advanced level current topics that are not part of a 
 common 
 core. 
 Lecture 
  
 hours. 
-Announced prerequisites.",4013,FORMAL LANGUAGE THEORYnonenone
+Announced prerequisites.nonenone"
+4013,FORMAL LANGUAGE THEORY,3,"An 
+introduction to grammars, finite state machines, push 
+down automata, regular languages, parsing techniques 
+and Turing machines. Lecture .nonenone"
+4204,SOFTWARE ENGINEERING,4,"This 
+course emphasizes the software development life cycle. 
+Topics will include: Uniform Modeling Language (UML), 
+testing methods, and software correctness. Acquisition of 
+the skills necessary to control complex programming 
+projects. 
+Lecturenonenone"
 4204L,SOFTWARE ENGINEERING LAB,0,"This course emphasizes the software development life 
 cycle. Topics will include: Uniform Modeling Language 
 (UML), testing methods, and software correctness. 
 Acquisition of the skills necessary to control complex 
 programming projects. Lecture , laboratorynonenone"
-4223,PROGRAMMING LANGUAGES AND COMPILERS,3,"Coverage of the concepts and constructs of 
-the major programming paradigms and an introduction to 
-the theory and techniques of compiler construction. 
-Lecture . Prerequisite: CSnonenone"
-4233,CAPSTONE PROJECT,3,"This course 
-provides students the opportunity to complete a 
-comprehensive software project. The project will be done 
-through team effort, and may involve the use of multiple 
-programming 
-languages. 
-Emphasis 
-will 
-be 
-on 
-professional 
-communication, 
-team 
-work, 
-and 
-comprehensive utilization of computing knowledge 
-obtained in previous courses. This is a hands-on and 
-lecture combined course. Capstone/lecture . 
-Prerequisite: Senior standing and CSnonenone"
 4443,"COMPUTER 
 USAGE 
 FOR 
@@ -1554,7 +1541,7 @@ research. Basic methodological and statistical (applied)
 issues in Criminology and Criminal Justice will be 
 discussed. Designed to provide students with a foundation 
 in Social Science research methods. Lecture . 
-Prerequisite: MATHnonenone"
+Prerequisite: MATH  or higher and CJnonenone"
 4133*,CRIMINAL JUSTICE ADMINISTRATION,3,"The administration of criminal justice agencies. 
 Includes organization theory, supervision, planning, 
 personnel policies, management styles, public relations 
@@ -1732,8 +1719,7 @@ Agriculture, Biology, and Health Sciencesnonenone"
 and environmental sciences including topics selected 
 from geology, meteorology, climatology, oceanography, 
 and astronomy. Lecture , laboratory . 
-General Education Laboratory Science, Physical Science. 
-Corequisite: ESCInonenone"
+General Education Laboratory Science, Physical Science.nonenone"
 2003*,ECONOMIC FOUNDATIONS OF FINANCE,3,"A first course in the economic underpinnings of 
 personal finance, incorporating the basic analytical 
 frameworks used by economists and financial planners. 
@@ -1765,7 +1751,7 @@ welfare
 effects 
 of 
 government regulations, and theory and policy related to 
-international trade. Lecture . Prerequisite: ECONnonenone"
+international trade. Lecture . . (Fall, Spring)nonenone"
 3013*,INTERMEDIATE MICROECONOMIC THEORY,3,"This course is an extension of introductory 
 microeconomics. The course will explore the decision 
 making behavior of consumers and households and their 
@@ -1789,7 +1775,7 @@ banks and other financial institutions; the role of the
 Federal Reserve System and financial institutions in the 
 money supply process, demand for money; monetary 
 policy, regulations of the financial system, foreign 
-exchange market. Lecture . Prerequisite: ECONnonenone"
+exchange market. Lecture . . (Cross-listed with FINnonenone"
 3823*,QUANTITATIVE METHODS,3,"Decision-making processes and techniques. This course 
 emphasizes the quantitative skills needed in all areas of 
 business and economics. These skills include statistical, 
@@ -1921,8 +1907,37 @@ industry needs. Lecture .nonenone"
 representation of forces and movement. Resultants of 
 force systems, static equilibrium of rigid bodies, statics of 
 structures, and fluid statics. Free body, shear and moment 
-diagrams. Lecture . PHYSnonenone"
-2015,or concurrent enrollment. (Spring),2153,MECHANICS OF MATERIALSnonenone
+diagrams. Lecture . PHYS  or concurrent enrollment. (Spring)nonenone"
+2153,MECHANICS OF MATERIALS,3,"Introduction to basic principles of mechanics. Topics in 
+stress and strain, transformations, kinematic relations 
+and review of conservation equations will be covered. 
+Hooke's Law, Young's modulus and Poisson's ratio will be 
+utilized. Solutions of one and two dimensional mechanics 
+problems, including thermal stresses and strains, torsion, 
+and beam flexure, shear and deflection, and buckling of 
+columns. Lecture .nonenone"
+2213,THERMODYNAMICS,3,"First and 
+Second Laws of Thermodynamics are developed and 
+applied to the solution of problems from a variety of 
+engineering fields. The study of properties of substances 
+and principles governing changes in form of energy. 
+Extensive use is made of partial differential calculus to 
+interrelate the thermodynamic functions. Lecture .nonenone"
+2223,FLUID MECHANICS,3,"The study of fluid 
+properties, statics, conservation equations, dimensional 
+analysis and similitude, viscous flow in ducts, inviscid 
+flow, boundary layer theory, open channel flow, 
+turbomachinery and fluid measurement techniques: e.g., 
+Navier-Stokes Equations, Eulers Equations, Bernoulli 
+Equations, etc., and their applications. It will also include 
+examples of ideal fluid flow and viscous fluid flow, such as 
+flow in open and closed conduits. Lecture .nonenone"
+2314,INTRODUCTION TO DIGITAL DESIGN,4,"This course involves the study of number systems 
+and their applications, Boolean algebra, minimization 
+procedures, combinatorial logic functions, introduction to 
+sequential logic design, finite state machines and clocked 
+(synchronous) sequential circuits. Analysis, synthesis and 
+implementation are appropriately emphasized. Lecturenonenone"
 2314L,INTRODUCTION TO DIGITAL DESIGN LAB,0,"LAB: This course involves the study of 
 number systems and their applications, Boolean algebra, 
 minimization procedures, combinatorial logic functions, 
@@ -1947,21 +1962,26 @@ the elements of electrical engineering: AC and DC circuits,
 mech and node formulation of network equations, steady-
 state response to sinusoids, energy, power and power 
 factor. Lecture . MATHnonenone"
+0113,"DEVELOPMENTAL 
+WRITING 
+Developmental 
+course,",0,"Provides practice in reading, writing and 
+interpretation for students whose experiences as writers 
+have not prepared them for ENGLnonenone"
 0403,"ENGLISH 
 FOR 
 ACADEMIC 
 PURPOSES 
 I 
-Developmental course, no credit This course is designed to 
+Developmental course",0,"This course is designed to 
 prepare intermediate-level ESL students for academic 
 reading/writing and listening/speaking tasks in college. 
 Attention to the development of language skills is 
 integrated into the course’s emphasis upon writing 
 paragraphs and short essays. May be used as an 
-alternative to ENGL",0103,"by students for whom English is 
-a foreign language and who score below anonenone"
-16,"on the 
-English ACT test or below",65,"on the CPT Sentence Skills 
+alternative to ENGL  by students for whom English is 
+a foreign language and who score below a  on the 
+English ACT test or below  on the CPT Sentence Skills 
 Test. Does not satisfy degree requirements for any degree 
 program at Cameron University. Lecture .nonenone"
 0413,"ENGLISH 
@@ -1969,7 +1989,7 @@ FOR
 ACADEMIC 
 PURPOSES 
 II 
-Developmental course, no credit This course is designed to 
+Developmental course,",0,"This course is designed to 
 prepare high-intermediate and advanced ESL students for 
 higher 
 level 
@@ -1979,10 +1999,9 @@ and
 listening/speaking tasks in college. Attention to the 
 development of language skills is integrated into the 
 course’s emphasis upon essay writing. May be used as an 
-alternative to ENGL",0113,"by students for whom English is 
-a foreign language and who score abovenonenone"
-15,but below,19,on the English ACT test or abovenonenone
-64,but below,96,"on the 
+alternative to ENGL  by students for whom English is 
+a foreign language and who score above  but below  
+on the English ACT test or above  but below on the 
 CPT Sentence Skills Test. Does not satisfy degree 
 requirements for any degree program at Cameron 
 University. Lecture .nonenone"
@@ -2028,25 +2047,31 @@ literature, with emphasis on women writers. Lecturenonenone"
 literary approach to the Old and New Testaments. 
 Students analyze form, structure and influence of 
 representative biblical literature. Lecture . 
-Prerequisite: ENGLnonenone"
+Prerequisite: ENGL.nonenone"
 2980-3*,SELECTED TOPICS IN LANGUAGE ARTS,0-3,"Directed individual or group study of selected 
 topics or problems in Language Arts. Areas of study will 
 vary from semester to semester. The course may be 
 repeated for additional credit with departmental 
 permission. Independent study/directed readings  and/or department permission. 
-Completion of ENGLnonenone"
-1213,"English Composition II and 
+Completion of ENGL  English Composition II and 
 junior standing or permission of Department of English is 
-required for enrollment in classes numbered",3000,"or 
+required for enrollment in classes numbered or 
 above.nonenone"
 3003*,INTRODUCTION TO LITERARY STUDIES,3,"Prepares students for upper division literature 
 courses by introducing them to the terms, critical skills, 
 and literary concepts useful for advanced literary study. 
 Lecture . (Fall)nonenone"
-3023*,SURVEY OF AMERICAN LITERATURE TO,1865,nonenone
-3033*,SURVEY OF AMERICAN LITERATURE SINCE,1865,nonenone
-3043*,SURVEY OF ENGLISH LITERATURE TO,1800,nonenone
-3053*,SURVEY OF ENGLISH LITERATURE SINCE,1800,nonenone
+3023*,SURVEY OF AMERICAN LITERATURE TO,3,"A survey of American literature from its 
+beginning to Whitman. Lecture . Prerequisite: 
+ENGLnonenone"
+3033*,SURVEY OF AMERICAN LITERATURE SINCE,3,"A survey of American literature from 
+Whitman to the present. Lecture . Prerequisite: 
+ENGLnonenone"
+3043*,SURVEY OF ENGLISH LITERATURE TO,3,"A survey of English literature from its 
+beginning to the close of the eighteenth century. Lecturenonenone"
+3053*,SURVEY OF ENGLISH LITERATURE SINCE,3,"A survey of English literature from the 
+beginning of the nineteenth century to the present. 
+Lecture . Prerequisite: ENGLnonenone"
 3063*,"SURVEY OF WORLD LITERATURE THROUGH 
 THE RENAISSANCE",3,"Readings in world 
 literature from classical antiquity tononenone"
@@ -2072,7 +2097,7 @@ appreciation of literature. Students will acquaint
 themselves with different theoretical approaches to 
 literature and apply those approaches to specific texts so 
 as to better understand the role of literary theory in the 
-study of literature. Lecture . Prerequisite: ENGLnonenone"
+study of literature. Lecture . . (Fall)nonenone"
 3881-3*,WORKSHOP,1-3,"Designed to 
 emphasize special topics in English and the Language 
 Arts. May be repeated with department permission. 
@@ -2141,13 +2166,17 @@ school English. Teacher Certification students must be
 admitted to teacher education prior to enrollment in this 
 course. Lecture , laboratory . Prerequisite: 
 department permission. (Fall)nonenone"
-4961-3*,"DIRECTED READINGS IN ENGLISH  Intensive independent reading and research on a 
+4961-3*,DIRECTED READINGS IN ENGLISH,0,"Intensive independent reading and research on a 
 selected topic, writer, or movement in literature or 
 language, under the supervision of a qualified member of 
 the faculty. May be repeated to a total of . 
 Independent 
 study/directed 
-readings",4983,WRITING INTERNSHIPnonenone
+readingsnonenone"
+4983,WRITING INTERNSHIP,3,"Field 
+experience in writing under close supervision of a field-
+based supervisor and professor. May be repeated once. 
+Internship/field experience .nonenone"
 4993*,ENGLISH CAPSTONE,3,"Relevant 
 reading and discussion assists graduating English majors 
 in reflecting on their own growth as readers and writers 
@@ -2226,8 +2255,6 @@ students
 for 
 understanding and working with military families. 
 Lecture . Prerequisite: FAMSnonenone"
-1123,or PSY,1113,"or 
-SOCInonenone"
 4143*,CRISIS MANAGEMENT AND RESOURCES,3,"Examination of crisis and management theories and 
 strategies used to help individuals and families deal 
 productively 
@@ -2243,27 +2270,31 @@ department. (FA)nonenone"
 demographic changes due to longevity; differences 
 between aging and illness; and effects of aging that may be 
 reversible. Lecture . Prerequisite: Prerequisite: 
-FAMSnonenone"
+FAMS  or PSY .nonenone"
 4173,FUNCTIONAL FAMILY SYSTEMS,3,"Emphasizes the family unit as a communicational, 
 instructional, and interactional system. Lecture . 
-Prerequisite: FAMSnonenone"
+Prerequisite: FAMS , junior standing, or permission 
+of the department.nonenone"
 4333,CURRENT ISSUES IN FAMILY DIVERSITY,3,"An in-depth study of the historical, current, and 
 projected demographic trends of American families. 
 Students will examine the impact of increasing cultural 
 diversity of American families on family theory, research, 
 and service delivery. Emphasis placed on the experiences, 
 challenges, and strengths, of families in poverty in the U.S. 
-Prerequisite: FAMSnonenone"
-4702,"CAREER 
+Prerequisite: FAMS  or SOCI . (Spring, Odd 
+Years) 
+ 
+CAREER 
 RESEARCH 
 AND 
 PROFESSIONAL 
-DEVELOPMENT",2,"This course will include 
-supervised research and observation in areas of career 
-interest to students, and development in resume building, 
-interviewing skills, and professionalism. Prerequisite: CDnonenone"
-4333,"(Fall, Spring, Summer)",4803,FAMILY LIFE EDUCATIONnonenone
-1-4,"credit hours Directed research and intensive study on 
+DEVELOPMENTnonenone"
+4803,FAMILY LIFE EDUCATION,3,"This 
+course will emphasize the theoretical and research 
+foundations of family life education, including principles 
+and methods for reaching out to the public, and how to 
+form and use community collaborations. Lecture .nonenone"
+4881-4,INDEPENDENT STUDY IN FAMILY SCIENCE,1-4,"Directed research and intensive study on 
 selected problems or special topics. No more than four 
 credit hours of independent study may be counted toward 
 the requirements for a major in the department. 
@@ -2271,8 +2302,8 @@ Independent
 study/directed 
 readings 
  
-Prerequisite: Permission of the department.",4901-3,SEMINAR IN FAMILY SCIENCEnonenone
-1-3,"credit hours A 
+Prerequisite: Permission of the department.nonenone"
+4901-3,SEMINAR IN FAMILY SCIENCE,1-3,"A 
 course designed to meet the special needs within the 
   
  
@@ -2281,14 +2312,24 @@ department. May be repeated with a different topic for a
 total of . Seminar : 
 Permission of the department. 
 FINANCE (FIN) 
-Business",2113,PERSONAL FINANCEnonenone
+Businessnonenone"
+2113,PERSONAL FINANCE,3,"Problems and 
+applications 
+in 
+personal 
+finance. 
+Study 
+includes 
+budgeting, credit use, financial institutions, insurance, 
+real estate, taxes, investment, retirement, and estate 
+planning. Lecture . (Fall, Spring)nonenone"
 3313*,MONEY AND BANKING,3,"Evolution of 
 money and banking; organization operation of chartered 
 banks and other financial institutions; the role of the 
 Federal Reserve System and financial institutions in the 
 money supply process, demand for money; monetary 
 policy, regulations of the financial system, foreign 
-exchange market. Lecture . Prerequisite: ECONnonenone"
+exchange market. Lecture . . (Cross-listed with ECONnonenone"
 3603*,PRINCIPLES OF FINANCE,3,"An 
 introductory course in financial management of a firm. 
 Areas covered include an overview of financial 
@@ -2342,11 +2383,19 @@ French-speaking countries. Lecture . General
 Education, Humanities–Diversity. (Fall)nonenone"
 1223*,"BEGINNING 
 FRENCH 
-II",3,Continuation of FRENnonenone
+II",3,"Continuation of FREN . Lecture . Prerequisite: 
+FREN 
+ 
+or 
+equivalent. 
+General 
+Education, 
+Humanities–Diversity. (Spring)nonenone"
 2113*,INTERMEDIATE FRENCH I,3,"Emphasis is placed on active use of the spoken language. 
 More complex syntactic and grammatical forms are 
 presented. Course taught largely in French. Lecturenonenone"
-2223*,INTERMEDIATE FRENCH II,3,Continuation of FRENnonenone
+2223*,INTERMEDIATE FRENCH II,3,"Continuation of FREN . Lecture . Prerequisite: 
+FREN  or the equivalent. (Spring)nonenone"
 3113*,FRENCH GRAMMAR AND LINGUISTICS,3,"A systematic review of French grammar and the 
 cultivation of facility in reading French newspapers, 
 magazines, and books, with additional emphasis on 
@@ -2357,15 +2406,15 @@ review of French culture. Conducted in French. Lecture:nonenone"
 3133*,FRENCH COMPOSITION,3,"A 
 systematic review of French grammar, with a view toward 
 improving the student's control of written French. 
-Conducted in French. Lecture . FRENnonenone"
+Conducted in French. Lecture . FREN  andnonenone"
 3143*,FRENCH CONVERSATION,3,"Total 
 emphasis on improving the student's control of spoken 
 French, with a special emphasis on idiomatic French. 
-Conducted in French. Lecture . FRENnonenone"
+Conducted in French. Lecture . FREN  andnonenone"
 4113*,L'HISTOIRE DE FRANCE,3,"A survey of 
 the important political, social, economic, diplomatic, 
 intellectual, and religious developments in French history. 
-Conducted in French. Lecture . Prerequisite: FRENnonenone"
+Conducted in French. Lecture .  or equivalent.nonenone"
 4123*,FRENCH ECRIVAINS PROSODIQUES,3,"A course oriented toward the study of major French 
 prose literary works, from the Middle Ages to the present. 
 Relationships between literature and society will also be 
@@ -2375,7 +2424,7 @@ Relationships between literature and society will also be
 examined. Conducted in French. Lecture . 
 Prerequisite: FRENnonenone"
 4133*,FRENCH POETS AND DRAMATISTS,3,"A study of the various trends in French poetry and drama. 
-Conducted in French. Lecture . Prerequisite: FRENnonenone"
+Conducted in French. Lecture .  or equivalent.nonenone"
 4143*,FRENCH FOR BUSINESS AND INDUSTRY,3,"The French language as a means of communication 
 in the world of business; basic commercial and economic 
 vocabulary; 
@@ -2388,16 +2437,6 @@ largely
 in 
 French. 
 Lecturenonenone"
-4961-3*,"DIRECTED READINGS IN FRENCH  Provides an opportunity for gifted and qualified 
-students to work at a special project not offered in a 
-regular course. May be repeated to a total of . 
-Independent 
-study/directed 
-readings 
-. 
-Prerequisite: FREN",4143,"or equivalent. 
-GEOGRAPHY (GEOG) 
-Social Sciencesnonenone"
 1014*,PHYSICAL GEOGRAPHY,4,"A basic 
 introduction to the physical elements of the Earth as they 
 relate to humans. The influence of such factors as soils and 
@@ -2436,11 +2475,13 @@ Education, Humanities–Diversity. (Fall)nonenone"
 GERMAN 
 II",3,"Continuation 
 of 
-GERMnonenone"
+GERM 
+. 
+Lecturenonenone"
 2213*,INTERMEDIATE GERMAN I,3,"An 
 intermediate-level course in the German language, with 
 emphasis on the more complex idiomatic, syntactic, and 
-grammatical forms. Lecture . Prerequisite: GERMnonenone"
+grammatical forms. Lecture .  or equivalent. (Fall)nonenone"
 2223*,INTERMEDIATE GERMAN II,3,Continuation of GERMnonenone
 3013*,GERMAN GRAMMAR AND LINGUISTICS,3,"A systematic review of German grammar; a study of 
 the phonology, morphology, syntax, and semantics of 
@@ -2459,8 +2500,14 @@ world history from the earliest times tononenone"
 1123*,MODERN WORLD HISTORY,3,"Survey 
 of world history fromnonenone"
 1400,to the present. Lecture,3,"hours. General Education, Humanities–Diversity. (Spring)nonenone"
-1483*,UNITED STATES HISTORY TO,1865,nonenone
-1493*,UNITED STATES HISTORY SINCE,1865,nonenone
+1483*,UNITED STATES HISTORY TO,3,"Introductory survey from European backgrounds 
+through the Civil War. Lecture . Prerequisite: 
+Students must be eligible for ENGL . General 
+Education, U.S. History. (Fall, Spring)nonenone"
+1493*,UNITED STATES HISTORY SINCE,3,"A survey of the development of the United States 
+from  to the present. Lecture . Prerequisite: 
+Students must be eligible for ENGL . General 
+Education, U.S. History. (Fall, Spring)nonenone"
 2113*,WESTERN CIVILIZATION I,3,"Using an 
 interdisciplinary approach that incorporates materials 
   
@@ -2489,16 +2536,49 @@ music, this course will provide the student a firm
 grounding in the History of Europe from the Renaissance 
 to the present. Lecture . General Education, 
 Humanities–Diversity. (Spring)nonenone"
-3033*,"RACE AND THE ATLANTIC WORLD,",1400-1850,nonenone
+3033*,"RACE AND THE ATLANTIC WORLD,",3,"This course examines the relationships 
+which developed among Africa, the Americas and Europe 
+betweennonenone"
 3043*,OKLAHOMA HISTORY,3,"A survey of 
 the development of Oklahoma from the time of the 
 discovery of America to the present. Lecture . 
 HISTnonenone"
-3123*,"THE CRUSADES,",1095-1798,nonenone
+3123*,"THE CRUSADES,",3,"From 
+the middle of the  century C.E. through the early  
+century, Europeans and the peoples of North Africa and 
+the Eastern Mediterranean interacted with a greater 
+intensity than ever before, inaugurating a complex history 
+of interaction that has been with us ever since. In origin a 
+religiously motivated enterprise on the European side 
+that aimed at nothing less than the reclamation of the Holy 
+Land for Christianity, the Crusades rapidly became both 
+more and less than this. Less in the sense that conflict did 
+not always happen for religious reasons, more in that the 
+practices of crusading spread far beyond the Holy Land to 
+encompass the Iberian peninsula, Eastern Europe, and, 
+perhaps most ironically of all, the Christian Byzantine 
+empire.  In this course we will address crusading in all of 
+its forms form the High Middle Ages to the dawn of the 
+Reformation. We will also seek to tell the stories of all 
+involved to explore crusading as a cultural, economic, and 
+social phenomenon as well as examining its more familiar 
+military, religious, and political sides. In the process we 
+will explore current controversies among scholars and in 
+popular culture concerning what the Crusades were and 
+what they mean to people today. Lecture .nonenone"
 3133*,AMERICAN MILITARY HISTORY,3,"A 
 survey of American military history from American 
 Revolution to the present. Lecturenonenone"
-3243*,BRITAIN SINCE,1689,nonenone
+3243*,BRITAIN SINCE,3,"Emergence of 
+cabinet government, the Industrial Revolution, the 
+Napoleonic 
+era 
+and 
+empire 
+problems, 
+and 
+the 
+development of Britain to the present. Lecture .nonenone"
 3391-3*,INDEPENDENT STUDY,1-3,"Intensive independent readings or study on definite 
 problems or special historical subjects, based upon 
 pre-approved outlines or plans, with regular conferences 
@@ -2537,17 +2617,51 @@ formation of political parties, territorial expansion,
 foreign policy, economic development, and the emerging 
 conflict between nationalism and sectionalism throughnonenone"
 4273*,"THE AGE OF JACKSON AND AMERICAN 
-EXPANSION,",1815-1848,nonenone
-4293*,"THE GILDED AGE AND PROGRESSIVE ERA,",1877-1920,nonenone
-4313*,"WAR AND DEPRESSION,",1917-1945,nonenone
-4323*,"COLD WAR AMERICA,",1945-1991,nonenone
-4353*,"FRONTIER EUROPE,",1300-1800,nonenone
-4373*,EUROPE,1789-1914,nonenone
+EXPANSION,",3,"A political history 
+of the period betweennonenone"
+4293*,"THE GILDED AGE AND PROGRESSIVE ERA,",3,"A study of the major events and 
+movements in the United States betweennonenone"
+4313*,"WAR AND DEPRESSION,",3,"The United States in the aftermath of World War I; 
+the Roaring Twenties; the Great Depression; and World 
+recommended.nonenone"
+4323*,"COLD WAR AMERICA,",3,"A study of the political, economic, social, cultural and 
+diplomatic changes in America betweennonenone"
+4353*,"FRONTIER EUROPE,",3,"Europe, too, had a frontier that definitively shaped its pre-
+modern foundations. This course focuses on the major 
+cultural, social, political and economic developments in 
+those European cultures bordering on the Baltic Sea and 
+the North Sea, with particular emphasis on Britain, 
+Denmark-Norway, northern Germany, Sweden, Poland, 
+and the northern Low Countries, which collectively, 
+constituted the heart of the European frontier. Lecturenonenone"
+4373*,EUROPE,3,"Europe during 
+the French Revolution and Napoleonic Era; the Congress 
+of Vienna and the Congress system; the revolutions ofnonenone"
 4413*,"RELIGION AND MAGIC IN EARLY MODERN 
-EUROPE,",1400-1650,nonenone
+EUROPE,",3,"From the  to the 
+mid- centuries, religious relationships changed 
+dramatically within European societies. One path of 
+change led to the Reformation, producing Protestant 
+alternatives to what we now know as Catholicism. 
+Another path led to bureaucratized and centralized power 
+that tied community membership to shared religious 
+outlooks. From care for the poor, the sick, and the elderly 
+to marriage and tolerance of diversity, peoples’ lives were 
+transformed, while politics took on a more religious and, 
+often, deadly turn, culminating in the Thirty Years’ War. 
+Perhaps the most dramatic path of all concerned the 
+reform, even repression of popular religion as European 
+societies attempted to root out witchcraft and newly 
+vigilant and pious elites struggled to stamp out what they 
+saw as superstition and worse. In this course, we explore 
+these and other manifestations of the cataclysmic change 
+that 
+characterized 
+this 
+era. 
+ 
+Lecturenonenone"
 4443*,CENTURY EUROPEAN HISTORY,3,The quest for security in thenonenone
-4473*,"HEROES AND VILLAINS OF THE FRENCH 
-REVOLUTION,",1780-1815,nonenone
 4793*,SENIOR SEMINAR IN HISTORY,3,"An 
 intensive study of a historical event or person and the 
 historiography concerning that event or person. Research 
@@ -2580,8 +2694,33 @@ Spring) (Formerly CISnonenone"
 1063,INTRODUCTION TO NETWORKING,3,"An overview of computer networking. Topics include 
 network topologies, network software, the client-server 
 model, the OSI/ISO model, network components, TCP/IP, 
-and network security. Lecture . Prerequisite: ITnonenone"
-1013,"or concurrent enrollment. (Fall, Spring)",1213,PROGRAMMING LOGICnonenone
+and network security. Lecture . Prerequisite: IT 
+ or concurrent enrollment. (Fall, Spring)nonenone"
+1213,PROGRAMMING LOGIC,3,"A basic 
+introduction to the knowledge and skills that are used in 
+computer programming. Topics include: the third 
+generation programming environment, program design 
+and pseudocode, coding, debugging, basic control 
+structures, basic classes and objects, and methods. 
+Lecture .nonenone"
+1414,PROGRAMMING I,4,"The first course in 
+computer programming using an Object Oriented 
+approach. 
+Topics 
+include: 
+the 
+third 
+generation 
+programming 
+environment, 
+program 
+design 
+and 
+pseudocode, coding, debugging, basic control structures 
+including conditional statements, loops, methods, basic 
+classes and objects. Other topics include array processing 
+and basic GUI issues. Lecture , laboratory . 
+Prerequisite: MATHnonenone"
 1414L,PROGRAMMING I LAB,0,"The first 
 course in computer programming using an Object 
 Oriented approach. Topics include: the third generation 
@@ -2717,7 +2856,7 @@ study of the necessary skills for the improvement,
 expansion, and enrichment of employer health and safety 
 policies to promote accident-free work experiences for 
 American workers in various settings. Lecture . 
-Prerequisite: Junior standing. (Formerly TECHnonenone"
+Prerequisite: Junior standing. (Formerly TECH )nonenone"
 4443,IT CAPSTONE,3,"The IT Capstone course 
 is designed to integrate course work in various 
 specializations of IT classes. This class emphasizes critical 
@@ -2756,7 +2895,8 @@ II",3,Continuation of ITALnonenone
 intermediate-level course in the Italian language. A review 
 of grammar, writing, and speaking. Conducted in Italian. 
 Lecture . Prerequisite: ITALnonenone"
-2223*,INTERMEDIATE ITALIAN II,3,Continuation of ITALnonenone
+2223*,INTERMEDIATE ITALIAN II,3,"Continuation of ITAL . Conducted in Italian. Lecture 
+. Prerequisite: ITAL  or the equivalent.nonenone"
 4961-3*,"DIRECTED READINGS IN ITALIAN  Provides an opportunity for gifted and qualified 
 students to work at a special project not offered in a 
 regular course. May be repeated to a total of . 
@@ -2769,7 +2909,7 @@ JOURNALISM (JOUR)
 Communication, English, and Foreign Languagesnonenone"
 2113*,INTRODUCTION TO JOURNALISM,3,"Mass communication and the importance of the media’s 
 role in American society. Lecture . Corequisite: 
-ENGLnonenone"
+ENGL  or ENGLnonenone"
 3133,NEWSPAPER REPORTING,3,"A 
 laboratory for students to expand the techniques 
 developed in News Writing (JOURnonenone"
@@ -2914,13 +3054,6 @@ significance of social mass media technologies. Students
 study new social media, develop an analysis model to 
 examine emergent social media, research current social 
 media uses and present findings to their peers. Lecturenonenone"
-1-3,"credit hours Workshop designed 
-to give intensive emphasis to a specific area of media. May 
-be repeated with a different topic for additional credit up 
-to a maximum of six hours. Journalism and Media 
-Production majors may count only three hours of 
-workshops towards their degree. Workshop, .",3811-2,"MEDIA 
-PRACTICUMnonenone"
 4153*,MEDIA HISTORY,3,"Background and 
 development of the early press. Emergence of the partisan 
 press. Evolution of personal and independent journalism. 
@@ -2939,7 +3072,7 @@ continued study of the principles of photography with an
 emphasis on composition and design. Students will 
 continue to employ digital darkroom techniques in 
 coordination with various modes of expression: print, 
-video and online. Lecture . Prerequisite: JRMPnonenone"
+video and online. Lecture .  or instructor’s permission.nonenone"
 4353*,CORPORATE VIDEO,3,"Theory and 
 uses of video in business and industry including writing, 
 planning, and production, as well as television programs 
@@ -3008,28 +3141,24 @@ introductory course in understanding, speaking, reading,
 and writing Latin. Lecture . General Education, 
 Humanities–Diversity. (Fall)nonenone"
 1223*,BEGINNING LATIN II,3,"Continuation 
-of LATNnonenone"
+of LATN . Lecture .nonenone"
 2113*,INTERMEDIATE LATIN I,3,"An 
 intermediate-level course in Latin. A review of grammar, 
 writing, and speaking. Lecture . Prerequisite: 
 LATNnonenone"
-2223*,INTERMEDIATE LATIN II,3,Continuation of LATNnonenone
+2223*,INTERMEDIATE LATIN II,3,"Continuation of LATN . Lecture . Prerequisite: 
+LATN  or equivalent. (Spring)nonenone"
 3113*,ROMAN WRITERS I,3,"Beginning study 
 of various authors of Roman literature. Topics may 
 include Roman prose, poetry, or drama. Lecture . 
 Prerequisite: LATNnonenone"
 3223*,ROMAN WRITERS II,3,"A continuation 
 of LATNnonenone"
-4961-3*,"DIRECTED READINGS IN LATIN  Intensive independent readings and research on a 
+4961-3*,"DIRECTED READINGS IN LATIN ,",0,"Intensive independent readings and research on a 
 selected topic, writer, or movement in Latin literature or 
 language under supervision of a faculty member. May be 
 repeated to a total of  with departmental 
-permission. Independent study/directed readings . Prerequisite: LATN",3223,"or equivalent. 
-  
- 
- 
-LIBRARY SCIENCE (LIBS) 
-Educationnonenone"
+permission. Independent study/directed readings . Prerequisite: LATNnonenone"
 3423*,CHILDREN'S LITERATURE,3,"General 
 survey of the literature available for children. Criteria for 
 evaluation of materials in terms of needs, interests, and 
@@ -3065,7 +3194,7 @@ of
 management: 
 planning, 
 organizing, and controlling. Lecture . Prerequisite: 
-BUSnonenone"
+BUS . (Fall, Spring)nonenone"
 3513,HUMAN RESOURCE MANAGEMENT,3,"A comprehensive review of human resources policy 
 development, along with a description and analysis of 
 human resources techniques. The interdependence of 
@@ -3153,7 +3282,7 @@ selected
 software 
 for 
 microcomputer systems. Course may be repeated for 
-credit with different software packages. Lecture . Prerequisite: MISnonenone"
+credit with different software packages. Lecture . Prerequisite: MIS .nonenone"
 3033,DATABASE DESIGN AND MANAGEMENT,3,"This course introduces the basic theories, skills, and 
 techniques of data and database systems. The course will 
 primarily focus on database design and implementation. 
@@ -3173,7 +3302,7 @@ processing,
 spreadsheet, graphics, and database software. Emphasis 
 on hands-on use of these packages to develop software 
 applications for solving complex business problems. 
-Lecture . Prerequisite: MISnonenone"
+Lecture . Prerequisite: MIS .nonenone"
 3183,STRUCTURED QUERY LANGUAGE,3,"An in-depth study of the Structured Query Language 
 (SQL) and relational database processing. Topics will 
 include general application development using basic and 
@@ -3213,7 +3342,7 @@ complex field as well as practical experience in basic web
 programming. Course topics include: business models, 
 revenue models, e-commerce security, payment systems, 
 as well as legal, social and ethical issues. Lecture . 
-Prerequisite: MISnonenone"
+Prerequisite: MIS .nonenone"
 4433,PROJECT MANAGEMENT,3,"The course 
 presents basic principles of project management, tools of 
 project management, and the role of project manager in 
@@ -3243,7 +3372,7 @@ study/directed readings s:nonenone"
 introductory course utilizing a managerial approach to 
 the study and development of marketing with emphasis 
 on marketing strategy and development of marketing mix. 
-Lecture . Prerequisite: BUSnonenone"
+Lecture . Prerequisite: BUS . (Fall, Spring)nonenone"
 3423,CONSUMER MOTIVATION AND BEHAVIOR,3,"An examination of the internal and external 
 influences on buyer behavior; analysis of the buying 
   
@@ -3305,40 +3434,41 @@ the
 communication 
 gap. 
 Lecturenonenone"
-0013,"PRE-ALGEBRA Developmental course, no credit This 
+0013,"PRE-ALGEBRA Developmental course,",0,"This 
 course provides a solid foundation in whole and signed 
 number operations, fractions, decimals and percent. Does 
 not satisfy any requirements for any degree program at 
-Cameron University. Lecture .",0103,"BEGINNING ALGEBRA Developmental course, no 
+Cameron University. Lecture .nonenone"
+0103,"BEGINNING ALGEBRA Developmental course, no 
 credit This course is an introduction to algebra. Topics 
 covered include introduction to the real number system, 
 solving and graphing linear equations and inequalities, 
 arithmetic operations using polynomials, factoring, and 
 simplifying rational expressions. Does not satisfy any 
 requirements for any degree program at Cameron 
-University. Lecture .nonenone"
-0115,"BEGINNING AND INTERMEDIATE ALGEBRA 
-Developmental course, no credit A combined beginning 
-and intermediate algebra course. This course is designed 
-for students who are able to cover the material in both 
-beginning and intermediate algebra in one semester. Does 
-not satisfy any requirements for any degree program at 
-Cameron University. Lecture .",0142,"SUPPLEMENTAL SURVEY OF MATHEMATICS 
+University. Lecture .",0115,"BEGINNING AND INTERMEDIATE ALGEBRA  ,nonenone"
+0142,"SUPPLEMENTAL SURVEY OF MATHEMATICS 
 INSTRUCTION 
 Developmental 
 course, 
 no 
 credit 
 Remediation and support for students who are enrolled in 
-MATHnonenone"
-1413,who score less than,19,"on the ACT 
+MATH , but whose test scores and prior coursework 
+do 
+not 
+indicate 
+preparedness 
+for 
+college-level 
+mathematics classes. Recommended for students enrolled 
+in MATH  who score less than",19,"on the ACT 
 Mathematics test and have not completed MATHnonenone"
 1513,who score less than,19,"on the ACT 
 Mathematics test and have not completed MATHnonenone"
 1463,who score less than,19,"on the ACT 
 Mathematics test and have not completed MATHnonenone"
-0213,"INTERMEDIATE ALGEBRA Developmental course, 
-no credit This course is designed to help students develop 
+0213,INTERMEDIATE ALGEBRA Developmental,0,"This course is designed to help students develop 
 the skills needed for general education courses. Topics 
 include radical and rational exponents, inequalities, 
   
@@ -3346,7 +3476,12 @@ include radical and rational exponents, inequalities,
  
 quadratics, complex numbers, and an introduction to 
 functions. Does not satisfy any requirements for any 
-degree program at Cameron University. Lecture .",1001,TECHNOLOGY FOR MATHEMATICSnonenone
+degree program at Cameron University. Lecture .nonenone"
+1001,TECHNOLOGY FOR MATHEMATICS,1,"credit hour 
+An introduction to technology used in the practice and 
+teaching of mathematics. Topics will vary by semester. 
+Course may be repeated for credit for different topics. 
+Lecturenonenone"
 1413*,SURVEY OF MATHEMATICS,3,"An 
 introductory course in Mathematics designed to acquaint 
 the 
@@ -3582,37 +3717,77 @@ special
 education 
 methodology, and special projects in selected areas. 
 Department permission required. Lecture/laboratorynonenone"
-1012,"must be successfully completed 
-before credit is given in this course.",1012,FOUNDATIONS OF OFFICERSHIPnonenone
-1112,PHYSICAL FITNESS,2,"Explore 
+1012,FOUNDATIONS OF OFFICERSHIP,2,"Introduces students to issues and competencies that are 
+central to a commissioned officer’s responsibilities. 
+Establish framework for understanding officership, 
+leadership and Army values followed and “life skills” such 
+as physical fitness and time management. Participation in 
+Leadership Lab and Physical Fitness training is optional 
+for “Non-Contracted” cadets (but highly encouraged); 
+Mandatory for “Contracted” cadets. Lecture .nonenone"
+1021,BASIC LEADERSHIP LAB,1,"credit hour Leadership 
+laboratory is a weekly period emphasizing practical 
+application of leadership and military skills. Activities 
+include: rifle marksmanship, map reading and land 
+navigation, team building exercises, physical conditioning 
+and small unit tactics. The availability of an outdoor 
+training area on campus and the proximity of Fort Sill 
+allows students to get out of the classroom and apply the 
+skills they have learned in fast-paced exercises. 
+Participation in Leadership Lab and Physical Fitness 
+training is optional for “Non-Contracted” cadets (but 
+highly encouraged); mandatory for “Contracted” cadets. 
+Laboratory .nonenone"
+1022,BASIC LEADERSHIP,2,"Establishes 
+foundation of basic leadership fundamentals such as 
+problem solving, communications, briefings and effective 
+writing, goal setting, techniques for improving listening 
+and speaking skills and an introduction to counseling. 
+Participation in Leadership Lab and Physical Fitness 
+training is optional for “Non-Contracted” cadets (but 
+highly encouraged); Mandatory for “Contracted” cadets. 
+Lecture .nonenone"
+1110,PHYSICAL FITNESS,0,"Explore 
 components of a fitness plan through practical experience 
-  
- 
- 
 and instruction with emphasis on aerobic and anaerobic 
 fitness, muscular strength and endurance, flexibility, and 
 nutrition. The course is modelled around the Army 
 Physical Readiness Training (PRT) Program. For 
 participating students who are not in the ROTC program, 
 the Army PRT Program offers a different approach to 
-fitness and fitness assessment. May be repeated for a 
-maximum of  credit. Laboratory . General 
-Education, Health and Wellness.nonenone"
-1212,RANGER CHALLENGE,2,"A Ranger 
-Challenge Team is made up of nine people competing in 
-various physically and mentally challenging events 
-including rifle disassembly/assembly, an Army Physical 
-Fitness Test, land navigation (written and actual), grenade 
-assault course, basic rifle marksmanship, obstacle course, 
-one-rope bridge, radio assembly, and a ten-kilometer road 
-march. Each year, Ranger Challenge teams across the 
-country compete against each other in this two day 
-competition. Lecture with Activity . Prerequisite: 
-Department permission.nonenone"
-2012,"must be successfully completed before credit is given in 
-this course.",2012,INDIVIDUAL LEADERSHIP STUDIESnonenone
-2022,"must be successfully completed before credit is 
-given in this course.",2022,LEADERSHIP AND TEAMWORKnonenone
+fitness and fitness assessment. Will not satisfy General 
+Education, Health and Wellness. May be repeated up tononenone"
+2012,INDIVIDUAL LEADERSHIP STUDIES,2,"Students identify successful leadership characteristics 
+through observation of others and self through 
+experimental 
+learning 
+exercises. 
+Students 
+record 
+observed traits (good and bad) in a dimensional 
+leadership journal and discuss observations in small 
+group settings. Participation in Leadership Lab and 
+Physical Fitness training is optional for “Non-Contracted” 
+cadets 
+(but 
+highly 
+encouraged); 
+Mandatory 
+for 
+“Contracted” cadets. Lecture .nonenone"
+2021,LEADERSHIP AND TEAMWORK LAB,1,"credit hour 
+Leadership laboratory is a weekly period emphasizing 
+practical application of leadership and military skills. 
+Activities include: rifle marksmanship, map reading and 
+land navigation, team building exercises, physical 
+conditioning and small unit tactics. The availability of an 
+outdoor training area on campus and the proximity of Fort 
+Sill allows students to get out of the classroom and apply 
+the skills they have learned in fast-paced exercises. 
+Participation in Leadership Lab and Physical Fitness 
+training is optional for “Non-Contracted” cadets (but 
+highly encouraged); mandatory for “Contracted” cadets. 
+Laboratorynonenone"
 3013,LEADERSHIP AND PROBLEM SOLVING,3,"Students conduct self-assessment of leadership 
 style, develop personal fitness regimen, and learn to plan 
 and conduct individual/small unit tactical training while 
@@ -3653,16 +3828,14 @@ proximity of Fort Sill allows students to get out of the
 classroom and apply the skills they have learned in fast-
 paced exercises. Mandatory attendance for Juniors and 
 Seniors. Laboratorynonenone"
-4023,"must be successfully 
-completed before credit is given in this course.",4023,OFFICERSHIPnonenone
-4031,INTERNSHIP/LAB IN MILITARY SCIENCE,1,"credit 
-hour Placement of advanced military science students in 
-applied job settings conducting company level duties 
-along side a serving platoon leader or staff officer within 
-the student's desired Army branch and/or students will 
-be in a weekly leadership laboratory emphasizing 
-advanced practical application of leadership and military 
-skills. Internship/lab,nonenone"
+4023,OFFICERSHIP,3,"Study includes case 
+study analysis of military law and practical exercises on 
+establishing an ethical command climate. Students must 
+complete a semester-long Senior Leadership Project that 
+requires them to plan, organize, collaborate, analyze and 
+demonstrate their leadership skills. Participation in 
+Physical Fitness training, Leadership Lab, and one 
+weekend Field Training Exercise is required. Lecturenonenone"
 4032,SEMINAR IN MILITARY SCIENCE,2,"Students will learn various theories of leadership and 
 organizational 
 culture 
@@ -3696,9 +3869,20 @@ understanding of Instructional Systems Design, students
 will learn to create desktop and on-screen multimedia 
 applications.  This class will also include a brief 
 introduction to authoring software. Lecture , 
-laboratory . Prerequisite: ITnonenone"
-1013,"or concurrent 
-enrollment.",1133,MULTIMEDIA PRODUCTION TECHNIQUESnonenone
+laboratory . Prerequisite: IT  or concurrent 
+enrollment.nonenone"
+1133,MULTIMEDIA PRODUCTION TECHNIQUES,3,"This course familiarizes students with basic 
+techniques, using hardware and software tools to create 
+various media for multimedia productions. Students will 
+learn basic techniques such as scanning and enhancing 
+photographs, 
+creating 
+simple 
+animations 
+and 
+incorporating graphics into presentations with an 
+understanding of display color. Lecture , 
+laboratory . Prerequisite: MMnonenone"
 1143,"INSTRUCTIONAL 
 DESIGN",3,"Introduction to the systematic design of instruction that 
 includes learner, task and content analysis, writing 
@@ -3708,13 +3892,6 @@ developing
 instructional 
 strategies, materials and assessment instruments, and 
 evaluating and revising instructional materials. Lecturenonenone"
-1154,INTRODUCTION TO MULTIMEDIA AUTHORING,4,"Introduction to program logic, problem 
-solving techniques, scripting, and the design theories on 
-which authoring is based within the context of an 
-authoring tool. This course makes extensive use of 
-structure charts, flow charts, and storyboarding to 
-illustrate the logic necessary to create instructional 
-materials using authoring software. Lecture , labnonenone"
 2023,CORPORATE MULTIMEDIA PRODUCTION I,3,"Planning and development of modern 
 interactive educational applications in a corporate 
 environment using modern learning theory. Students will 
@@ -3940,14 +4117,23 @@ week.
 Prerequisite: Department permission. May be repeated 
 for credit. (Fall, Spring)nonenone"
 3313*,HARMONY AND STRUCTURE III,3,"A 
-continuation of MUSCnonenone"
+continuation of MUSC . Lecture . Prerequisite: 
+MUSC . (Fall)nonenone"
 3321*,SIGHT-SINGING AND EAR TRAINING III,1,"credit 
 hour A continuation of MUSCnonenone"
 3333*,HARMONY AND STRUCTURE IV,3,"A 
-continuation of MUSCnonenone"
+continuation of MUSC , the study of the harmony and 
+structure of music through music analysis, composition, 
+and the development of associated functional keyboard 
+skills. Included will be a study of the standard polyphonic 
+and homophonic forms of the  and  centuries. 
+Lecture . Prerequisite: MUSC . (Spring)nonenone"
 3341*,SIGHT-SINGING AND EAR TRAINING IV,1,"credit 
-hour A continuation of MUSCnonenone"
-3333,recommended. (Spring),3351-3,COMPOSITIONnonenone
+hour A continuation ofnonenone"
+3351-3,COMPOSITION,1-3,"An exploration of 
+various compositional styles and techniques. One half-
+hour lesson per week per credit hour enrolled. 
+Prerequisite: MUSCnonenone"
 3513*,MUSIC HISTORY I,3,"A general study 
 of music development from antiquity through the 
 Baroque era. Lecture . (Fall)nonenone"
@@ -4003,25 +4189,19 @@ for Vocal Music Education and Keyboard Music Education
 majors. Students will learn basic techniques, performance 
 skills, and methodology for all instrumental families. 
 Lecturenonenone"
-1-2,"credit hours A course designed to 
-give students the opportunity to study a subject not 
-covered in the regular course offerings or not covered in 
-sufficient depth for their needs. Seminar . 
-Prerequisite: Departmental permission.",3983,"SPECIAL TOPICS IN THE ADVANCED STUDY OF 
-MUSICnonenone"
 4312*,COUNTERPOINT,2,"A study of 
 Eighteenth Century species counterpoint through analysis 
-and composition. Lecture . Prerequisite: MUSCnonenone"
+and composition. Lecture . .nonenone"
 4322*,POST TONAL TECHNIQUES,2,"A study 
 of  Century harmonic and melodic techniques 
 approached through original composition, analysis and 
 performance. Lecture . Prerequisite: MUSCnonenone"
 4332*,FORM AND ANALYSIS,2,"A study of the 
 standard polyphonic and homophonic forms of the  
-and  centuries. Lecture . Prerequisite: MUSCnonenone"
+and  centuries. Lecture . . (Fall, Odd Years)nonenone"
 4343*,ARRANGING,3,"The study of the art of 
 arranging for instrumental and vocal ensembles. Lecture 
-. Prerequisite: MUSCnonenone"
+. Prerequisite: MUSC . (Fall, Even Years)nonenone"
 4351-3,COMPOSITION,1-3,"An exploration of 
 various compositional styles and techniques. One half-
 hour lesson per week per credit hour enrolled. Lecturenonenone"
@@ -4095,26 +4275,6 @@ and Music History Sequence. (Fall, Spring)nonenone"
 4910-4,WORKSHOP,0-4,"A concentrated 
 specific activity utilizing lectures and practical application 
 exercises. May be repeated for credit to a maximum ofnonenone"
-1-3,"credit hours A special 
-study based on the needs of the individual student directly 
-related to the student’s major. Individual guidance will be 
-provided 
-by 
-a 
-faculty 
-member. 
-Independent 
-study/directed 
-readings 
-. 
-Prerequisite: 
-Department permission. The total number of hours 
-earned in independent study may not exceed four.",4990,SENIOR RECITALnonenone
-2nd,"year PLUS students. Lecture . 
-Prerequisite: Permission of PLUS advisor.",3113,"FOUNDATIONS 
-OF 
-ORGANIZATIONAL 
-LEADERSHIP AND PERSONAL DEVELOPMENTnonenone"
 4993,INTERNSHIP IN ORGANIZATIONAL LEADERSHIP,3,"Supervised professional-level assignment 
 with an organization, firm, government agency, or not-for-
 profit entity within the selected area of focus. Internship 
@@ -4128,7 +4288,16 @@ independent study, one hour lab. Prerequisite: ENGLnonenone"
 introductory course in the language and cultures of Iran 
 and Afghanistan. Lecture . General Education, 
 Humanities–Diversity.nonenone"
-1223*,BEGINNING PERSIAN (FARSI) II,3,Continuation of PRSNnonenone
+1223*,BEGINNING PERSIAN (FARSI) II,3,"Continuation of PRSN . Lecture . Prerequisite: 
+PRSN 
+ 
+or 
+equivalent. 
+General 
+Education, 
+Humanities–Diversity. 
+PHILOSOPHY (PHIL) 
+Social Sciencesnonenone"
 1113*,INTRODUCTION TO PHILOSOPHY,3,"This class aims to introduce students to philosophy as an 
 academic discipline and as a distinctive intellectual and 
 moral attitude towards the world and oneself, one marked 
@@ -4261,9 +4430,23 @@ MEASUREMENTS
 AND 
 ELECTRONICS LABORATORY",1,"credit hour Construction 
 and testing of electrical circuits which are applications of 
-the devices studied in PHYSnonenone"
-3024,"or concurrent enrollment. Will 
-not satisfy general education science requirements.",3043,INTRODUCTION TO QUANTUM MECHANICSnonenone
+the devices studied in PHYS. Laboratory . 
+Prerequisite: PHYS or concurrent enrollment. Will 
+not satisfy general education science requirements.nonenone"
+3043,INTRODUCTION TO QUANTUM MECHANICS,3,"An introduction to quantum mechanics. 
+Schrodinger 
+equation, 
+probabilities, 
+Heisenberg 
+uncertainty 
+principle, 
+and 
+angular 
+momentum. 
+Applications to atomic physics, molecular physics, 
+condensed matter and nuclear physics. Lecture . 
+concurrent enrollment. Will not satisfy general education 
+science requirements. (Spring, Even Years)nonenone"
 3303*,CLASSICAL MECHANICS,3,"A vector 
 analytical approach to the mechanics of particles, systems 
 of particles, and rigid bodies. Lecture .nonenone"
@@ -4386,7 +4569,7 @@ international finance organizations, and globalization.
 The course introduces students to perspectives of 
 economic liberalism, mercantilism, and structuralism that 
 they can use to analyze global political problems. Lecture 
-. Prerequisite: PSnonenone"
+. Prerequisite: PS  and ENGLnonenone"
 3333*,COMPARATIVE GOVERNMENT,3,"A 
 survey of concepts, approaches, and models used in 
   
@@ -4447,14 +4630,15 @@ system in American policy processes. Lecture .nonenone"
 4491-3*,SELECTED TOPICS IN POLITICAL SCIENCE,1-3,"An intensive analysis of a selected political 
 problem or special topic in political science. May be 
 repeated with a different topic for a total of  credit. 
-Lecture s: PSnonenone"
+Lecture s: PS  and ENGLnonenone"
 4591-3*,INDEPENDENT STUDY IN POLITICAL SCIENCE,1-3,"Intensive independent reading on or 
 study of a specific problem or subject in political science, 
 based on a pre-approved outline or plan, with regular 
 conferences with the instructor and submission of 
 extensive written work. May be repeated with different 
 topics for a total of  credit. Independent 
-study/directed readings s: PSnonenone"
+study/directed readings s: PS 
+ and ENGLnonenone"
 4683*,ACADEMIC RESEARCH IN POLITICAL SCIENCE,3,"This course consists of relevant readings and 
 discussion to assist Political Science majors with 
 developing a more complete understanding of the 
@@ -4531,7 +4715,8 @@ and present schools of psychological thought. Lecturenonenone"
 2223*,"APPLIED 
 PSYCHOLOGY",3,"Psychological principles in relation to problems of 
 Business, Industry, Education, Mental Health, or other 
-human enterprises. Lecture . Prerequisite: PSYnonenone"
+human enterprises. Lecture . Prerequisite: PSY 
+.nonenone"
 2373*,INTRODUCTION TO HEALTH PSYCHOLOGY,3,"Comprehensive inquiry focusing on the 
 branch of psychology that concerns individual behaviors 
 and lifestyles affecting a person’s physical health. 
@@ -4540,13 +4725,13 @@ application orientation include: enhancement of health,
 the prevention and treatment of disease, the identification 
 of health risk factors, the improvement of the health care 
 system and the shaping of public opinion with regard to 
-health. Lecture . Prerequisite: PSYnonenone"
+health. Lecture . Prerequisite: PSY .nonenone"
 3313*,COGNITIVE PSYCHOLOGY,3,"Examines cognition involving language, thinking, problem 
 solving, memory, intelligence, and categorization. Lecture 
-. Prerequisite: PSYnonenone"
+. Prerequisite: PSY .nonenone"
 3333,COUNSELING AND CLINICAL PSYCHOLOGY,3,"An introduction to the helping profession for 
 students considering counseling or clinical psychology as 
-a career. Lecture . Prerequisite: PSYnonenone"
+a career. Lecture . Prerequisite: PSY .nonenone"
 3353*,"LIFESPAN 
 HUMAN 
 GROWTH 
@@ -4556,7 +4741,8 @@ of
 the 
 psychological changes across the life span. Cognitive, 
 social, emotional, and physical changes from birth to 
-death will be examined. Lecture . Prerequisite: PSYnonenone"
+death will be examined. Lecture . Prerequisite: PSY 
+. (Fall, Spring)nonenone"
 3363*,PSYCHOLOGY OF MIDDLE CHILDHOOD,3,"This course will include and in-depth study of the 
 theories, research, and findings in the biological, 
 psychological, and social development of middle 
@@ -4577,7 +4763,7 @@ human behavior as affected by social stimuli. Lecturenonenone"
 3413*,PSYCHOLOGY OF LEARNING,3,"Investigations into the processes of learning in humans 
 and animals. Emphasis is given to behavioral and 
 cognitive approaches. Lecture . Lecture . 
-Prerequisite: PSYnonenone"
+Prerequisite: PSY . (Fall, Spring)nonenone"
 3423,APPLIED QUANTITATIVE METHODS,3,"A strong emphasis will be placed on inferential 
 procedures used in published articles in psychological 
 journals. Topics include correlational testing, linear 
@@ -4610,7 +4796,7 @@ variance, and post-hoc analyses will be included.nonenone"
 survey of the principles, backgrounds, and procedures of 
 psychological testing. Attention is given to interpretation 
 of measuring instruments in the fields of personality and 
-intelligence. Lecture . Prerequisite: PSYnonenone"
+intelligence. Lecture . Prerequisite: PSY .nonenone"
 4323*,SENSATION AND PERCEPTION,3,"An 
 in-depth study of the biological properties of sensory 
 systems and major phenomena in sensation and 
@@ -4623,14 +4809,14 @@ touch,
 imagery, 
 individual differences, time and motion, attention and 
 theories of psychophysical judgment including STD and 
-classical). Lecture . Prerequisite: PSYnonenone"
+classical). Lecture . Prerequisite: PSY .nonenone"
 4331-3,SEMINAR IN PSYCHOLOGY,1-3,"Specific problems or issues of concern to Psychology are 
 given in depth exploration and analysis. A different topic 
 may be presented each semester. (May be repeated for a 
 total of six hours credit.) Seminar .nonenone"
 4363*,ABNORMAL PSYCHOLOGY,3,"The 
 study of various abnormalities as described in DSM. 
-Lecture . Prerequisite: PSYnonenone"
+Lecture . Prerequisite: PSY . (Fall, Spring)nonenone"
 4393*,PERSONALITY,3,"Factors determining 
 and 
 affecting 
@@ -4638,10 +4824,12 @@ personality,
 its 
 development 
 and 
-assessment. Lecture . Prerequisite: PSYnonenone"
+assessment. Lecture . Prerequisite: PSY . 
+(Fall, Spring)nonenone"
 4423,EXPERIMENTAL PSYCHOLOGY,3,"Studies in the major designs, methods employed and 
 problems in conducting experiments in psychological 
-research. Lecture . Prerequisite: PSYnonenone"
+research. Lecture . Prerequisite: PSY . (Fall, 
+Spring)nonenone"
 4433,PSYCHOLOGICAL RESEARCH,3,"Students will design and conduct a psychological research 
 project of sufficient quality for conference presentation. 
 Material covered will include APA format research ethics, 
@@ -4651,7 +4839,7 @@ Lecture/capstone . of “C” or higher in PSYnonenone"
 behavior in terms of the physiological events inside the 
 body with emphasis on vision, audition, psychoactive 
 drugs, eating, sex, and sleep. Lecture . 
-Prerequisite: PSYnonenone"
+Prerequisite: PSY .nonenone"
 4453,PROFESSIONAL RESEARCH IN PSYCHOLOGY,3,"Students will work individually with a 
 department faculty member to develop and present a 
 psychological research project of professional quality. The 
@@ -5196,14 +5384,41 @@ upon completion of the course, the student will be
 expected to apply the knowledge gained to successfully 
 complete mock registry examinations. Seminar . 
 Prerequisite: RADnonenone"
-0223,"READING FUNDAMENTALS Developmental course, 
-no credit This course is designed to improve the student's 
+0223,READING FUNDAMENTALS Developmental course,0,"This course is designed to improve the student's 
 ability to read academic materials, by learning to apply a 
 step-by-step academic reading process and improving 
 skills in critical reading and thinking. DOES NOT COUNT 
 TOWARD GRADUATION. Lecture . 
 RESPIRATORY CARE (RESP) 
-Agriculture, Biology, and Health Sciences",2100,RESPIRATORY CARE RECITATION Inonenone
+Agriculture, Biology, and Health Sciencesnonenone"
+2100,RESPIRATORY CARE RECITATION I,0,"Review and integrated discussion of information 
+presented in lecture, labs, and clinical experiences during 
+semester 
+one 
+of 
+the 
+clinical 
+training 
+program. 
+Lecture/discussion .   
+ 
+ 
+into the Respiratory Care Clinical Training Program and 
+departmental permission. Will not satisfy general 
+education science requirements. (Fall)nonenone"
+2113,RESPIRATORY MECHANICS,3,"Introduction to infection control procedures, sterilization 
+of common equipment, gas laws, humidity and bland 
+aerosol administration, cardiopulmonary resuscitation, 
+and mock simulations of common respiratory care 
+procedures. Lecture , laboratory . 
+Prerequisite: Acceptance to the Respiratory Care Clinical 
+Training 
+Program 
+and 
+departmental 
+permission. 
+Corequisite: RESP L. Will not satisfy general 
+education science requirements. (Fall)nonenone"
 2113L,RESPIRATORY MECHANICS LAB,0,"LAB: Introduction to infection control procedures, 
 sterilization of common equipment, gas laws, humidity 
 and bland aerosol administration, cardiopulmonary 
@@ -5216,7 +5431,8 @@ common
 respiratory care procedures. Lecture , laboratory 
 . Prerequisite: Acceptance to the Respiratory Care 
 Clinical Training Program and departmental permission. 
-Corequisite: RESPnonenone"
+Corequisite: RESP . Will not satisfy general education 
+science requirements. (Fall)nonenone"
 2123,RESPIRATORY THERAPY PROCEDURES I,3,"Introduction to respiratory therapy including 
 physical assessment with chart review, medical gas 
 therapy with delivery systems, lung expansion therapy, 
@@ -5326,17 +5542,7 @@ Romance language or permission of the department.nonenone"
 introductory course in the language and culture of the 
 Russian Federation. Lecture . General Education, 
 Humanities–Diversity.nonenone"
-1223*,"BEGINNING 
-RUSSIAN 
-II",3,Continuation of RUSNnonenone
-4961-3*,"DIRECTED READINGS IN RUSSIAN  This course provides an opportunity for gifted and 
-qualified students of Russian to work with an instructor 
-on individualized topics in Russian language, linguistics, 
-and literature. Course may be repeated to a total of six 
-hours with departmental permission. Independent 
-study/directed readings : RUSN",1223,"or equivalent. 
-SOCIOLOGY (SOCI) 
-Social Sciencesnonenone"
+1223*,BEGINNING RUSSIAN II,3,"General Education, Humanities–Diversity.nonenone"
 1113*,INTRODUCTION TO SOCIOLOGY,3,"A 
 survey of the fundamental concepts and scope of 
 sociology focusing on the understanding of human 
@@ -5358,7 +5564,7 @@ behavior, along with a discussion of various types of
 deviant behavior, including violent and property crime, 
 mental illness, diverse lifestyles, substance use and abuse, 
 and white-collar/corporate crime. Lecture . 
-Prerequisite: SOCInonenone"
+Prerequisite: SOCI .nonenone"
 3013*,RACE AND ETHNIC RELATIONS,3,"An 
 examination of the historical, political, economic, and 
 sociological dynamics of race and ethnic relations in the 
@@ -5367,7 +5573,8 @@ race and ethnicity are created and re-created in society,
 particularly by culture and social institutions, and the 
 manner in which these processes create and perpetuate 
 social inequality. Lecture . Prerequisite: Must be 
-ENGLnonenone"
+ENGL  eligible (i.e., have no English deficiencies). 
+General Education, Humanities-Diversity.nonenone"
 3113*,SOCIAL STATISTICS,3,"An overview of 
 descriptive and inferential statistics and their application 
 in sociological research. Topics include: measures of 
@@ -5392,7 +5599,8 @@ The course stresses Marx, Weber, and Durkheim in
 relation to social criticism, social evolution, and social 
 modernity respectively, on one hand and, on the other, 
 their contemporary relevance and theoretical offshoots in 
-the field. Lecture . Prerequisite: SOCInonenone"
+the field. Lecture . Prerequisite: SOCI . 
+(Spring)nonenone"
 3133*,SOCIOLOGICAL RESEARCH METHODS,3,"Introduction to the basic concepts of sociological 
 research. 
 Topics 
@@ -5404,7 +5612,7 @@ and
 measurement, 
 sampling, 
 qualitative and quantitative data collection techniques, 
-and analyses of data. Lecture . Prerequisite: SOCInonenone"
+and analyses of data. Lecture . . (Spring, Odd Years)nonenone"
 3223,SOCIAL PSYCHOLOGY,3,"This course 
 examines social psychological phenomena from a 
 sociological 
@@ -5414,7 +5622,7 @@ covered
 include 
 socialization, attitudes, communication, aggression, group 
 behavior, and gender roles. Lecture . Prerequisite: 
-SOCInonenone"
+SOCI .nonenone"
 3323*,"COLLECTIVE 
 BEHAVIOR 
 AND 
@@ -5429,7 +5637,7 @@ strategy, outcome, movement ideology, and social-
 political environments. The course stresses the questions 
 that competing perspectives and different research ask 
 about collective actions and characteristic ways that they 
-try to answer them. Lecture . Prerequisite: SOCInonenone"
+try to answer them. Lecture . .nonenone"
 3343*,POLITICAL SOCIOLOGY,3,"A study of 
 politics as politicized everyday social world and as 
 interrelated activities that shape and are shaped by 
@@ -5449,7 +5657,7 @@ corporate communities over policy issues. Lecturenonenone"
 of the influence of social and cultural settings on natality, 
 mortality and migration. This course also includes an 
 assessment of the impact of demographic change on social 
-systems. Lecture . Prerequisite: SOCInonenone"
+systems. Lecture . Prerequisite: SOCI .nonenone"
 3373*,SOCIOLOGY OF THE COMMUNITY,3,"The community, its structure, systems and processes. This 
 course covers the influence of geography, demography 
 and patterns of settlement upon social life. Lecturenonenone"
@@ -5459,10 +5667,10 @@ the American family, along with the intersections of social
 class, gender, and race/ethnicity in family contexts. Topics 
 include mate selection, connections between work and 
 family life, marriage, parenting, divorce, stepfamilies, and 
-violence in families. Lecture . Prerequisite: SOCInonenone"
+violence in families. Lecture . .nonenone"
 3413*,GERONTOLOGY,3,"An in-depth study 
 of various aspects of aging from a broad interdisciplinary 
-perspective. Lecture . Prerequisite: SOCInonenone"
+perspective. Lecture . Prerequisite: SOCI .nonenone"
 3503*,POPULAR CULTURE,3,"A study of 
 culture as the mass production, circulation, and 
 consumption of visual texts and behavioral practices in 
@@ -5483,19 +5691,19 @@ The
 course 
 stresses 
 interpretive analyses and theories advanced in the field. 
-Lecture . Prerequisite: SOCInonenone"
+Lecture . Prerequisite: SOCI .nonenone"
 3513*,"INTRODUCTION TO SOCIAL WELFARE AND 
 HUMAN SERVICES",3,"An introduction to 
 social welfare institutions, including the purposes, 
 concepts, methods, and theories used in the delivery of 
-human services. Lecture . Prerequisite: SOCInonenone"
+human services. Lecture . Prerequisite: SOCI .nonenone"
 3733*,SOCIOLOGY OF GENDER,3,"This 
 course will examine the processes by which gender is 
 socially constructed, along with the distinction between 
 biological sex and sociological gender, the causes and 
 consequences of gender inequality, and a historical 
 overview of gender relations in different social 
-institutions and societies. Lecture , Prerequisite: SOCInonenone"
+institutions and societies. Lecture , Prerequisite: SOCI .nonenone"
 3853*,SELECTED TOPICS IN SOCIOLOGY,3,"An intensive analysis of a selected problem or topic in 
 Sociology. May be repeated with a different topic for a 
 total of  credit. Lecture .nonenone"
@@ -5517,7 +5725,7 @@ delinquency from a sociological perspective. Larger social
 contexts will also be considered, including the role of 
 schools, peers, community, and the family. Aspects of the 
 juvenile justice system in the U.S. will also be examined. 
-Lecture . Prerequisite: SOCInonenone"
+Lecture . Prerequisite: SOCI .nonenone"
 4103*,SOCIOLOGY OF RELIGION,3,"A study 
 of religion as a social institution organized into groups.  
 Attention is given to social explanations of religious 
@@ -5547,11 +5755,6 @@ Lecture .nonenone"
 4491-3*,INDEPENDENT STUDY,1-3,"Independent study of sociologically relevant topics not 
 covered in current sociology courses. May be repeated 
 with a different topic for a total ofnonenone"
-4533,HUMAN SERVICES COUNSELING STRATEGIES,3,"A study of counseling and interviewing 
-strategies useful in a human service context. Role playing 
-using such techniques as paraphrasing, reflecting, and 
-open questions will be part of the classroom experience. 
-Lecture .nonenone"
 4903*,SOCIOLOGY CAPSTONE,3,"This course 
 provides an overview of the major concepts in sociology 
 with an emphasis on the integration of these concepts at 
@@ -5559,7 +5762,8 @@ an advanced level. This course will also cover career
 options and graduate education in sociology. Sociology 
 program assessment is a component of the course. 
 Sociology majors are required to take this course during 
-their Senior year. Capstone . Student must be a sociology major, have taken SOCInonenone"
+their Senior year. Capstone . Student must be a sociology major, have taken SOCI , 
+SOCInonenone"
 4153*,INTENSIVE STUDIES IN SOMALI I,3,"An intensive introductory study of Somali combining 
 guided independent study of the written language with 
 regular oral practice of the spoken language. Two hours 
@@ -5571,12 +5775,20 @@ Spanish-speaking countries. Lecture . General
 Education, Humanities–Diversity. (Fall)nonenone"
 1223*,"BEGINNING 
 SPANISH 
-II",3,Continuation of SPANnonenone
+II",3,"Continuation of SPAN . Lecture . Prerequisite: 
+SPAN 
+ 
+or 
+equivalent. 
+General 
+Education, 
+Humanities–Diversity. (Spring)nonenone"
 2113*,INTERMEDIATE SPANISH I,3,"An 
 intermediate-level course in the Spanish language. A 
 review of grammar, writing, and speaking. Conducted in 
 Spanish. Lecture . Prerequisite: SPANnonenone"
-2223*,INTERMEDIATE SPANISH II,3,Continuation of SPANnonenone
+2223*,INTERMEDIATE SPANISH II,3,"Continuation of SPAN . Conducted in Spanish. 
+Lecture . Prerequisite: SPAN . (Spring)nonenone"
 3113*,SPANISH GRAMMAR AND LINGUISTICS,3,"A systematic review of Spanish grammar; a study of 
 the phonology, morphology, syntax, and semantics of 
 modern standard Spanish. Lecture . Prerequisite: 
@@ -5601,19 +5813,18 @@ GRAMMAR
 AND 
 LINGUISTICS",3,"An expansion and refinement 
 of complex structures including nuances of the language 
-not addressed in SPANnonenone"
-3113,"which may include archaic 
+not addressed in which may include archaic 
 and literary tenses, special verb forms for indirect 
 discourse, infrequently used compound tenses, advanced 
 vocabulary, and expanded use of the subjunctive mood. 
 Conducted in Spanish. Lecture . Prerequisite: 
-SPAN",3113,or equivalent.nonenone
+SPAN  or equivalent.nonenone"
 3223*,ADVANCED SPANISH CONVERSATION,3,"Provides additional training in oral mastery of the 
 Spanish language. Focuses on the automation of spoken 
 language in all tenses/moods. Aims to achieve command 
 of idiomatic expressions and advanced vocabulary. 
 Conducted in Spanish. Lecture . Prerequisite: 
-SPANnonenone"
+SPAN  or equivalent.nonenone"
 4113*,LA HISTORIA DEL MUNDO HISPANICO,3,"A survey of the important political, social, economic, 
 diplomatic, intellectual, and religious developments in the 
 Spanish speaking world. Conducted in Spanish. Lecturenonenone"
@@ -5621,12 +5832,12 @@ Spanish speaking world. Conducted in Spanish. Lecturenonenone"
 study of the major literary works of Spain from the Middle 
 Ages through the  Century. Relationships between 
 literature and society will also be examined. Conducted in 
-Spanish. Lecture . Prerequisite: SPANnonenone"
+Spanish. Lecture . Prerequisite: SPAN .nonenone"
 4133*,ESPANA EN SU LITERATURA II,3,"The 
 study of the major literary works of Spain from the  
 Century to the present. Relationships between literature 
 and society will also be examined. Conducted in Spanish. 
-Lecture . Prerequisite: SPANnonenone"
+Lecture . Prerequisite: SPAN  or equivalent.nonenone"
 4143*,HISPANOAMERICA EN SU LITERATURA I,3,"The study of the major literary works of Spanish 
 America from pre-colonial literature to the first half of the 
  Century. Relationships between literature and 
@@ -5638,7 +5849,7 @@ society will be discussed. Conducted in Spanish. Lecturenonenone"
 4163*,SPANISH FOR BUSINESS AND INDUSTRY,3,"The Spanish language as a means of communication 
 in the world of business; basic commercial and economic 
 vocabulary; trade and advertisement practices. Lecturenonenone"
-4961-3*,"DIRECTED READING IN SPANISH  This course provides an opportunity for gifted and 
+4961-3*,DIRECTED READING IN SPANISH,0,"This course provides an opportunity for gifted and 
 qualified students to work at a special project not offered 
 in a regular course. May be repeated to a total of . 
   
@@ -5648,7 +5859,7 @@ Independent
 study/directed 
 readings 
 . 
-Prerequisite: SPAN",4143,"or equivalent. 
+Prerequisite: SPAN or equivalent. 
 SPECIAL EDUCATION (SPED) 
 Educationnonenone"
 2103,"INCLUSIVE 
@@ -5800,15 +6011,16 @@ Prerequisite: SESnonenone"
 3103,LEADERSHIP AND COACHING,3,"Develop individual skills in the practice of coaching as 
 well as a broad understanding of leadership within the 
 larger context of organizational performance and change. 
-Lecture . Prerequisite: SESnonenone"
+Lecture . Prerequisite: SES .nonenone"
 3113,EVENT PLANNING AND FUNDRAISING,3,"Planning and management of special events. 
 Overview of fundraising components and operation, as 
 well as guidelines to implement and manage effective 
-sports related events. Lecture . Prerequisite: SESnonenone"
+sports related events. Lecture . Prerequisite: SES 
+.nonenone"
 3123*,SPORT PSYCHOLOGY,3,"Explore the 
 psychological factors involved in sport and physical 
 activity with an emphasis on performance enhancement. 
-Lecture . Prerequisite: SESnonenone"
+Lecture . Prerequisite: SES .nonenone"
 3131-3,SPECIAL STUDIES,1-3,"Special 
 studies courses, of one to three credits, that are designed 
 to give variety to the present curriculum or educational 
@@ -5816,34 +6028,37 @@ activities under the direct supervision of a faculty
 member. Up to  of special studies courses may be 
 applied to a student's program. (A special studies course 
 may be repeated if a different topic is offered.) 
-Independent study, : SESnonenone"
+Independent study, : SES .nonenone"
 3143,PERSONAL TRAINING,3,"Examine 
 training principles and develop appropriate exercise plan 
 based on the goals, indications, contraindications, and 
 physical evaluation of the individual. Lecture . 
-Prerequisite: SESnonenone"
+Prerequisite: SES .nonenone"
 3153,STRENGTH TRAINING,3,"Examine and 
 apply the proper strength training and conditioning 
-exercises for the athletic or sedentary populations. 
-Lecture . Prerequisite: SESnonenone"
+exercises for the athletic or  populations. 
+Lecture . Prerequisite: SES .nonenone"
 4003,MOTOR LEARNING,3,"Examine 
 variables that affect the learning processes associated 
 with the acquisition and performance of motor skills. 
-Lecture . Prerequisite: SESnonenone"
+Lecture . Prerequisite: SES . (Fall)nonenone"
 4013,PHYSIOLOGY OF EXERCISE LAB,3,"Apply practical skills and cutting-edge technologies to 
 evaluate the effects of exercise and physical activity on 
 health. Lecture . Prerequisite: SESnonenone"
 4023,EXERCISE PRESCRIPTION,3,"Examine 
 and apply principles used in exercise testing and 
 prescription for normal healthy individuals and special 
-populations. Lecture . Prerequisite: SESnonenone"
+populations. Lecture . Prerequisite: SES . 
+(Spring)nonenone"
 4033,LEGAL ASPECTS,3,"Examine legal and 
 social policy issues most often encountered in sport and 
-physical activity. Lecture . Prerequisite: SESnonenone"
+physical activity. Lecture . Prerequisite: SES . 
+(Fall)nonenone"
 4043,RESEARCH METHODS,3,"Analyze 
 scientific literature and apply appropriate methods for 
 reading, presenting, and interpreting data involved in 
-research design. Lecture . Prerequisite: SESnonenone"
+research design. Lecture . Prerequisite: SES . 
+(Spring)nonenone"
 4053,PRACTICUM,3,"Intensive, senior-level 
 work experience at an approved internship site while 
 under the direction of a qualified site supervisor. 
@@ -5866,11 +6081,29 @@ estimates of mean, variance and proportion, confidence
 intervals, 
 test 
 of 
-hypotheses. 
+hypotheses.  
+hours. 
+Prerequisite: MATH  or higher. (Spring)nonenone"
+2023,INTRODUCTORY PROBABILITY AND STATISTICS II,3,A continuation of STATnonenone
+2613,BUSINESS STATISTICS,3,"An 
+introduction to quantitative tools used in business 
+analysis. Measures of central tendency, distributions, 
+regression and correlation, and statistical inference, 
+including confidence intervals and test of hypothesis are 
+covered. Business applications will be emphasized. 
+Lecture .nonenone"
+3113,MATHEMATICAL STATISTICS I,3,"Introduction to combinatorial methods, probability 
+random 
+variables 
+and 
+expected 
+value, 
+discrete 
+distributions, continuous probability functions, and 
+moment 
+generating 
+functions. 
 Lecturenonenone"
-2023,"INTRODUCTORY PROBABILITY AND STATISTICS 
-II",3,A continuation of STATnonenone
-2013,or departmental permission.,2613,BUSINESS STATISTICSnonenone
 3123,MATHEMATICAL STATISTICS II,3,"A 
 continuation of STATnonenone"
 1113*,BEGINNING SWAHILI I,3,"An 
@@ -5887,14 +6120,9 @@ culminating experience based on previous required major
 TECH coursework. Students will work individually and in 
 teams to analyze technology issues through research and 
 application. Capstone/lecture . Prerequisite: ITnonenone"
-1001,THEATRE PRACTICUM,1,"credit hour A required 
-course open only to theatre majors. Each theatre major, 
-while in residence, must contribute 
-hours per week per semester to assignments in one or 
-more of the following areas: Box Office, Costuming, 
-Promotion, and Scenery Construction. These three hours 
-are independent of and in addition to any other course, 
-work-study, or laboratory assignments. Practicumnonenone"
+4033,"and IT . 
+THEATRE ARTS (THTR) 
+Art, Music, and Theatre Arts",1001,THEATRE PRACTICUMnonenone
 1103*,INTRODUCTION TO THEATRE,3,"An 
 exploration of the theatre as an art form including forms 
 of drama, styles of production, relationship of performer 

@@ -315,16 +315,14 @@ gonadal function, endocrine relationships, fertility, and
 factors affecting reproduction efficiency. Emphasis is 
 given to principles of artificial insemination in the 
 laboratory. Lecture , laboratory . 
-Prerequisite: AGRC 1124/1124L. Corequisite: ANIM 
-4434L. 
+. 
 4434L ANIMAL REPRODUCTION LAB 0 credit hours 
 LAB: Physiological processes of reproduction in farm 
 animals, gonadal function, endocrine relationships, 
 fertility, and factors affecting reproduction efficiency. 
 Emphasis is given to principles of artificial insemination 
 in the laboratory. Lecture , laboratory . 
-Prerequisite: AGRC 1124/1124L. Corequisite: ANIM 
-4434. 
+Prerequisite: AGRC 1124/1124L. . 
 ARABIC (ARBC) 
 Communication, English, and Foreign Languages 
 1113* BEGINNING MODERN STANDARD ARABIC I 3 
@@ -338,15 +336,15 @@ credit hours Continuation of ARBC 1113. Lecture .
 culture of the Arabic-speaking countries. Lecture . 
 Prerequisite: ARBC 1223 or equivalent. (Fall) 
 2223* INTERMEDIATE MODERN STANDARD ARABIC II 
-3 credit hours Continuation of ARBC 2113. Lecture . 
-Prerequisite: ARBC 2113 or the equivalent. (Spring) 
+3 credit hours Continuation of ARBC . Lecture . 
+Prerequisite: ARBC  or the equivalent. (Spring) 
 3113* ADVANCED MODERN STANDARD ARABIC I 3 
 credit hours An advanced course in the language and 
 culture of the Arabic-speaking countries. Lecture . 
 Prerequisite: ARBC 2223 or the equivalent. (Fall) 
 3223* ADVANCED MODERN STANDARD ARABIC II 3 
 credit hours A continuation of ARBC 3113. Lecture . 
-Prerequisite: ARBC 3113 or equivalent. (Spring) 
+Prerequisite: equivalent. (Spring) 
 4961-3* DIRECTED READINGS IN MODERN STANDARD ARABIC 1-3 credit hours This course 
 provides an opportunity for students to work on 
 individualized topics in Arabic language, linguistics, and 
@@ -669,10 +667,10 @@ MOVEMENTS 3 credit hours Advanced Art History course
 with an emphasis on Modern Art movements and their 
 development. The course content covers the time period 
 of 1910-1940. Lecture . and  of History. (Fall, Even Years) 
-4663* HISTORY OF ART SEMINAR: ART SINCE 1940 3 
+4663* HISTORY OF ART SEMINAR: ART SINCE  3 
 credit hours Advanced Art History course with an 
 emphasis on art since 1940. The course content covers the 
-time period of 1940-1980. Lecture . ENGL 1213 and  of History. 
+time period of. 
 4713 HISTORY OF GRAPHIC DESIGN 3 credit hours 
 Evolution of graphic communication from prehistoric 
 times to the present. Investigation of the origins of 
@@ -731,7 +729,7 @@ and natural resources, human population growth, and
 global environmental changes. Not applicable to the 
 Biology major or minor, Medical Technology major, or 
 Allied Health Science major. Lecture , laboratory 2 
-hours. MATH 1413 or higher. Corequisite: BIOL 1004L. General 
+hours. MATH  or higher. Corequisite: BIOL 1004L. General 
 Education Laboratory Science, Biological Science.  
 1004L* GENERAL BIOLOGY LAB 0 credit hours LAB: A 
 life science laboratory course for non-science majors. 
@@ -743,7 +741,7 @@ conservation of biodiversity and natural resources,
 human population growth, and global environmental 
 changes. Not applicable to the Biology major or minor, 
 Medical Technology major, or Allied Health Science major. 
-Lecture , laboratory . Student must be eligible to take MATH 1413 or higher. 
+Lecture , laboratory . Student must be eligible to take MATH  or higher. 
 Corequisite: BIOL 1004. General Education Laboratory 
 Science, Biological Science. 
 1114* PLANTS AND CULTURE 4 credit hours A general 
@@ -757,8 +755,7 @@ portion of the course will in part involve hands-on
 production of plant products, and where appropriate (and 
 legal) include sampling these products. Not applicable to 
 biology major or minor or medical technology major. 
-Lecture , laboratory . Corequisite: BIOL 
-1114L. General Education Laboratory Science, Biological 
+Lecture , laboratory . . General Education Laboratory Science, Biological 
 Science. 
 1114L* PLANTS AND CULTURE LAB 0 credit hours LAB: 
 A general education course that will explore the historical, 
@@ -809,8 +806,7 @@ General Education Laboratory Science, Biological Science.
 (Fall, Spring) 
 1474* PRINCIPLES OF BIOLOGY II 4 credit hours A 
 continuation of BIOL 1364. Lecture , laboratory 3 
-hours. Prerequisite: BIOL 1364/1364L. Corequisite: BIOL 
-1474L. Will not satisfy general education science 
+hours. Prerequisite: BIOL 1364/1364L. . Will not satisfy general education science 
 requirements. (Fall, Spring) 
 1474L* PRINCIPLES OF BIOLOGY II LAB 0 credit hours 
 LAB: A continuation of BIOL 1364. Lecture , 
@@ -833,9 +829,7 @@ general education science requirements. (Fall, Spring)
 2034* HUMAN ANATOMY 4 credit hours Introductory 
 anatomy with emphasis on histology and human gross 
 anatomy. Includes cadaver dissection and study. Lecture 
-, laboratory . Prerequisite: BIOL 
-1004/1004L or 1214/1214L or 1364/1364L. Corequisite: 
-BIOL 2034L. Student must be eligible to take MATH 1513 
+, laboratory . Student must be eligible to take MATH 1513 
 or higher. Will not satisfy general education science 
 requirements. (Fall, Spring) 
 2034L* HUMAN ANATOMY LAB 0 credit hours LAB: 
@@ -897,10 +891,10 @@ evolutionary adaptation. Economic impact of wild animals
 on society and natural resource conservation are 
 considered. Lecture , laboratory . 
 3012* PRACTICUM IN HUMAN ANATOMY 2 credit hours 
-Students will serve as a teaching assistant for BIOL 2034L 
+Students will serve as a teaching assistant for
 Human Anatomy Lab and will obtain additional dissection 
 experience and anatomical knowledge beyond material 
-covered in that course. in BIOL 2034 or BIOL 3104 and permission of instructor 
+covered in that course. in BIOL  or BIOL  and permission of instructor 
 and department chair. Will not satisfy general education 
 science requirements. 
 3014* GENETICS 4 credit hours A general course in the 
@@ -937,16 +931,13 @@ biotic and abiotic interrelationships including sampling
 techniques, productivity, energy flow, interspecific 
 association and biomes. Field trips arranged. Lecture 3 
 hours, laboratory . 
-Prerequisite: BIOL 2144/2144L or BIOL 2154/2154L. Corequisite: BIOL 
-3064L. Will not satisfy general education science 
+Prerequisite: BIOL 2144/2144L or BIOL 2154/2154L. . Will not satisfy general education science 
 requirements. 
 3064L* ECOLOGY LAB 0 credit hours LAB: General 
 principles of biotic and abiotic interrelationships 
 including sampling techniques, productivity, energy flow, 
 interspecific association and biomes. Field trips arranged. 
-Lecture , laboratory . Prerequisite: BIOL 
-2144/2144L or BIOL 2154/2154L. Corequisite: BIOL 
-3064. Will not satisfy general education science 
+Lecture , laboratory . . Will not satisfy general education science 
 requirements. 
 3074* NATURAL HISTORY OF THE VERTEBRATES 4 
 credit hours Ecology, taxonomy and life histories of 
@@ -1057,9 +1048,7 @@ human tissues, organs, and organ systems. The course
 uses a systemic approach, with an emphasis on integrated 
 structure-function relationships at the cell, tissue, and 
 organ level. Includes extensive cadaver dissection. 
-Lecture , laboratory . Prerequisite: BIOL 
-2154/2154L. Corequisite: BIOL 3184. Will not satisfy 
-general education requirements. 
+Lecture , laboratory .  
 3194* FUNDAMENTALS OF MICROBIOLOGY 4 credit 
 hours Course content includes cell structure, physiology, 
 and phylogeny of bacteria, archae, and eukaryotic 
@@ -1101,8 +1090,7 @@ Will not satisfy General Education science requirements.
 4054L* VASCULAR PLANT MORPHOLOGY LAB 0 credit 
 hours LAB: Morphology, evolution and ecology of vascular 
 plants. Field trips arranged. Lecture , laboratory 3 
-hours. Prerequisite: BIOL 2144/2144L. Corequisite: BIOL 
-4054. Will not satisfy general education science 
+hours. Prerequisite: BIOL 2144/2144L. . Will not satisfy general education science 
 requirements. 
 4064* ADVANCED ECOLOGY 4 credit hours Ecological 
 principles as related to population dynamics, ecosystems, 
@@ -1151,9 +1139,7 @@ requirements.
 PLANTS 3 credit hours The chemical and cellular 
 organization of higher plants including selected aspects of 
 their metabolism, growth, responses to stress, and 
-molecular biology. Lecture . Prerequisite: BIOL 
-2144/2144L. Will not satisfy general education science 
-requirements. 
+molecular biology. Lecture . 
 4174* CELL BIOLOGY 4 credit hours Structural and 
 functional organization of eukaryotic with an emphasis on 
 human cells. Biological membranes, organelles, intracellular 
@@ -1203,8 +1189,7 @@ communication;
 organizational communication theory; document design; 
 practice in preparing letters, memoranda, business 
 reports, and employment-related messages; professional 
-oral presentations. Lecture . Prerequisite: ENGL 
-1213 or equivalent. (Fall, Spring) 
+oral presentations. Lecture .  
 2211-3 SPECIAL STUDIES 1-3 credit hours A study of 
 special Business areas or problems. Areas of study will 
 vary from semester to semester and from one discipline 
@@ -1225,7 +1210,7 @@ as
 career 
 planning 
 and 
-professionalism. Capstone/lecture . BUS 1113 and BUS 2113. (Fall, Spring) 
+professionalism. Capstone/lecture . BUS  and BUS . (Fall, Spring) 
 3213 BUSINESS LAW I 3 credit hours An overview of the 
 legal system, principles of contract law, Uniform 
 Commercial Code and how it has changed contract law, 
@@ -1248,7 +1233,7 @@ hours. Lecture s: Junior standing
  
  
 and permission of the Chair; permission of the Chair if 
-taken for no credit. 
+taken for 0 credit hours. 
 4471-3 SEMINAR IN BUSINESS 1-3 credit hours Group 
 projects designed to meet special needs of students in any 
 of the disciplines of the Business Department. Seminar 1-
@@ -1263,9 +1248,9 @@ Student may earn up to 6 internship credit hours;
 however, a maximum of 3 credit hours can be earned at 
 one business. Fifty hours of on-the-job training/work is 
 required per credit hour for a maximum of 3 credit hours 
-per semester. Internship : 30 
+per semester. Internship :  
 credit hours in business courses and Junior standing. 
-449 Independent readings and/or study of specific 
+ Independent readings and/or study of specific 
 problems or special subjects, based on pre-approved 
 outlines of plans, with conferences and/or written 
 reports. Independent study/directed readings  hours. 
@@ -1354,7 +1339,7 @@ Physical Science. (Fall, Spring)
 1364* GENERAL CHEMISTRY I 4 credit hours Principles 
 of general chemistry, with emphasis on theory and its 
 application to structure and reactions. Lecture . 
-Prerequisite or Corequisite: MATH 1513 or equivalent or 
+Prerequisite or Corequisite: MATH  or equivalent or 
 higher. It is also strongly advised that students who have 
 not successfully passed high school chemistry take CHEM 
 1004 Descriptive Chemistry prior to taking this course. 
@@ -1444,14 +1429,12 @@ Spring)
 3324* ORGANIC CHEMISTRY II 4 credit hours A 
 continuation of CHEM 3314. The second semester of a 
 two-semester sequence. Lecture , laboratory 3 
-hours. Prerequisite: CHEM 3314. Corequisite: CHEM 
-3324L. Will not satisfy general education science 
+hours. Prerequisite: CHEM 3314. . Will not satisfy general education science 
 requirements. (Fall, Spring) 
 3324L* ORGANIC CHEMISTRY II LAB 0 credit hours LAB: 
 A continuation of CHEM 3314. The second semester of a 
 two-semester sequence. Lecture , laboratory 3 
-hours. Prerequisite: CHEM 3314. Corequisite: CHEM 
-3324. Will not satisfy general education science 
+hours. Prerequisite: CHEM 3314. . Will not satisfy general education science 
 requirements. (Fall, Spring) 
 3334* CHEMISTRY OF WATER AND WASTEWATER 4 
 credit hours Inorganic chemistry of natural water 
@@ -1536,12 +1519,7 @@ CHEM 3232. Will not satisfy general education science
 requirements. 
 4353* PHYSICAL CHEMISTRY I 3 credit hours The study 
 of thermodynamics particularly as applied to chemical 
-systems. 
-Lecture 
-3 
-hours. 
-CHEM 
-1474/1471, MATH 2215 and PHYS 1215 or PHYS 2025. 
+systems. Lecture hours.
 Will not satisfy general education science requirements. 
 4361* PHYSICAL CHEMISTRY LABORATORY II 1 credit 
 hour A continuation of CHEM 4351. Laboratory . 
@@ -1550,8 +1528,7 @@ not satisfy general education science requirements.
 4363* PHYSICAL CHEMISTRY II 3 credit hours A 
 continuation of CHEM 4353. Study of kinetics, quantum 
 mechanics, and statistical thermodynamics as related to 
-chemical systems. Lecture . Prerequisite: CHEM 
-4353. Will not satisfy general education science 
+chemical systems. Lecture . . Will not satisfy general education science 
 requirements. 
 4401* BIOCHEMISTRY I LABORATORY 1 credit hour 
 Qualitative and quantitative examination of biochemical 
@@ -1569,9 +1546,9 @@ requirements.
 continuation of Biochemistry Laboratory CHEM 4401. 
 Laboratory .
 4413* BIOCHEMISTRY II 3 credit hours A continuation of 
-Biochemistry, CHEM 4403, with emphasis on the catabolic 
+Biochemistry, CHEM , with emphasis on the catabolic 
 routes of metabolism. Lecture .
-448 This lecture-based course will focus on a topic or 
+ This lecture-based course will focus on a topic or 
 topics of current interest to the chemical profession. 
 4491-4 SPECIAL PROBLEMS IN CHEMISTRY 1-4 credit 
 hours Training in independent work. Experimental 
@@ -1619,7 +1596,7 @@ for teacher certification. Lecture . (Fall)
 CHILDHOOD 3 credit hours A study of social-emotional 
 development and developmentally appropriate, evidence-
 based practices in child guidance. Lecture . 
-2881-3 SPECIAL TOPICS 1-3 credit hours Directed 
+2881-3 SPECIAL TOPICS 3 credit hours Directed 
 individual or group study of selected topic(s) in Child 
 Development. The course may be repeated for additional 
 credit with departmental permission. Lecture  hours. 
@@ -1694,8 +1671,8 @@ Education, Humanities–Diversity.
 intermediate-level course in Chinese (Mandarin). Lecture 
 . Prerequisite: CHNS 1223 or equivalent. 
 2223* INTERMEDIATE CHINESE II 3 credit hours 
-Continuation of CHNS 2113. Lecture . Prerequisite: 
-CHNS 2113 or equivalent. 
+Continuation of CHNS . Lecture . Prerequisite: 
+CHNS  or equivalent. 
 CLASSICS (CLSC) 
 Communication, English, and Foreign Languages 
 4153* WOMEN IN ANCIENT ROME 3 credit hours Course 
@@ -1948,7 +1925,7 @@ program assessment is a component of the course.
 Communication majors are required to take this course 
 during their senior year. Capstone/lecture 1 hour. 
 have taken COMM 1113, COMM 2393, COMM 4673 or 
-PBRL 2113, RTV 1013, and JOUR 2113. Student must have 
+PBRL , RTV 1013, and JOUR . Student must have 
 completed at least 18 credit hours of communication 
 coursework. (Fall, Spring) 
 4991-3* SPECIAL TOPICS 1-3 credit hours Directed 
@@ -2171,8 +2148,8 @@ algorithms and implementations for sorting, searching,
 matrix processing and other problems. Efficiency issues of 
 parallel algorithms on different architectures. Lecture 3 
 hours. Prerequisite: CS 2413. 
-4001-3 SEMINAR IN COMPUTER SCIENCE,  
-credit Advanced level current topics that are not part of a 
+4001-3 SEMINAR IN COMPUTER SCIENCE 0 credit hours  
+Advanced level current topics that are not part of a 
 common 
 core. 
 Lecture 
@@ -2194,20 +2171,19 @@ Lecture
 hours, 
 laboratory 
 2 
-hours. 
-Prerequisite: CS 2413. Corequisite: CS 4204L. (Fall) 
+hours. . Corequisite: CS . (Fall) 
 4204L SOFTWARE ENGINEERING LAB 0 credit hours 
 This course emphasizes the software development life 
 cycle. Topics will include: Uniform Modeling Language 
 (UML), testing methods, and software correctness. 
 Acquisition of the skills necessary to control complex 
 programming projects. Lecture , laboratory 2 
-hours. Prerequisite: CS 2413. Corequisite: CS 4204. (Fall) 
+hours. Corequisite: CS . (Fall) 
 4223 PROGRAMMING LANGUAGES AND COMPILERS 3 
 credit hours Coverage of the concepts and constructs of 
 the major programming paradigms and an introduction to 
 the theory and techniques of compiler construction. 
-Lecture . Prerequisite: CS 2413. 
+Lecture .
 4233 CAPSTONE PROJECT 3 credit hours This course 
 provides students the opportunity to complete a 
 comprehensive software project. The project will be done 
@@ -2439,7 +2415,7 @@ research. Basic methodological and statistical (applied)
 issues in Criminology and Criminal Justice will be 
 discussed. Designed to provide students with a foundation 
 in Social Science research methods. Lecture . 
-Prerequisite: MATH 1413 or higher and CJ 1013. (Fall) 
+Prerequisite: MATH  or higher and CJ 1013. (Fall) 
 4133* CRIMINAL JUSTICE ADMINISTRATION 3 credit 
 hours The administration of criminal justice agencies. 
 Includes organization theory, supervision, planning, 
@@ -2656,7 +2632,6 @@ and environmental sciences including topics selected
 from geology, meteorology, climatology, oceanography, 
 and astronomy. Lecture , laboratory . 
 General Education Laboratory Science, Physical Science. 
-Corequisite: ESCI 1135L. 
 1135L* EARTH SCIENCE LAB 0 credit hours LAB: A 
 survey of earth and environmental sciences including 
 topics selected from geology, meteorology, climatology, 
@@ -2704,8 +2679,7 @@ welfare
 effects 
 of 
 government regulations, and theory and policy related to 
-international trade. Lecture . Prerequisite: ECON 
-2013. (Fall, Spring) 
+international trade. Lecture . . (Fall, Spring) 
   
  
  
@@ -2735,8 +2709,7 @@ banks and other financial institutions; the role of the
 Federal Reserve System and financial institutions in the 
 money supply process, demand for money; monetary 
 policy, regulations of the financial system, foreign 
-exchange market. Lecture . Prerequisite: ECON 
-2023. (Cross-listed with FIN 3313.) 
+exchange market. Lecture . . (Cross-listed with FIN 3313.) 
 3823* QUANTITATIVE METHODS 3 credit hours 
 Decision-making processes and techniques. This course 
 emphasizes the quantitative skills needed in all areas of 
@@ -2997,7 +2970,7 @@ industry needs. Lecture .
 representation of forces and movement. Resultants of 
 force systems, static equilibrium of rigid bodies, statics of 
 structures, and fluid statics. Free body, shear and moment 
-diagrams. Lecture . PHYS 2015 or concurrent enrollment. (Spring) 
+diagrams. Lecture . PHYS  or concurrent enrollment. (Spring) 
 2153 MECHANICS OF MATERIALS 3 credit hours 
 Introduction to basic principles of mechanics. Topics in 
 stress and strain, transformations, kinematic relations 
@@ -3061,7 +3034,7 @@ Communication, English, and Foreign Languages
 DEVELOPMENTAL 
 WRITING 
 Developmental 
-course, no credit Provides practice in reading, writing and 
+course, 0 credit hours Provides practice in reading, writing and 
 interpretation for students whose experiences as writers 
 have not prepared them for ENGL 1113. Attention to the 
 development of language skills is integrated into the 
@@ -3075,15 +3048,15 @@ FOR
 ACADEMIC 
 PURPOSES 
 I 
-Developmental course, no credit This course is designed to 
+Developmental course 0 credit hours This course is designed to 
 prepare intermediate-level ESL students for academic 
 reading/writing and listening/speaking tasks in college. 
 Attention to the development of language skills is 
 integrated into the course’s emphasis upon writing 
 paragraphs and short essays. May be used as an 
-alternative to ENGL 0103 by students for whom English is 
-a foreign language and who score below a 16 on the 
-English ACT test or below 65 on the CPT Sentence Skills 
+alternative to ENGL  by students for whom English is 
+a foreign language and who score below a  on the 
+English ACT test or below  on the CPT Sentence Skills 
 Test. Does not satisfy degree requirements for any degree 
 program at Cameron University. Lecture . 
 0413 
@@ -3092,7 +3065,7 @@ FOR
 ACADEMIC 
 PURPOSES 
 II 
-Developmental course, no credit This course is designed to 
+Developmental course, 0 credit hours This course is designed to 
 prepare high-intermediate and advanced ESL students for 
 higher 
 level 
@@ -3102,9 +3075,9 @@ and
 listening/speaking tasks in college. Attention to the 
 development of language skills is integrated into the 
 course’s emphasis upon essay writing. May be used as an 
-alternative to ENGL 0113 by students for whom English is 
-a foreign language and who score above 15 but below 19 
-on the English ACT test or above 64 but below 96 on the 
+alternative to ENGL  by students for whom English is 
+a foreign language and who score above  but below  
+on the English ACT test or above  but below on the 
 CPT Sentence Skills Test. Does not satisfy degree 
 requirements for any degree program at Cameron 
 University. Lecture . 
@@ -3191,43 +3164,42 @@ Humanities–Diversity.
 literary approach to the Old and New Testaments. 
 Students analyze form, structure and influence of 
 representative biblical literature. Lecture . 
-Prerequisite: ENGL 1213. 
+Prerequisite: ENGL. 
 2980-3* SELECTED TOPICS IN LANGUAGE ARTS 0-3 
 credit hours Directed individual or group study of selected 
 topics or problems in Language Arts. Areas of study will 
 vary from semester to semester. The course may be 
 repeated for additional credit with departmental 
 permission. Independent study/directed readings  and/or department permission. 
-Completion of ENGL 1213 English Composition II and 
+Completion of ENGL  English Composition II and 
 junior standing or permission of Department of English is 
-required for enrollment in classes numbered 3000 or 
+required for enrollment in classes numbered or 
 above. 
 3003* INTRODUCTION TO LITERARY STUDIES 3 credit 
 hours Prepares students for upper division literature 
 courses by introducing them to the terms, critical skills, 
 and literary concepts useful for advanced literary study. 
 Lecture . (Fall) 
-3023* SURVEY OF AMERICAN LITERATURE TO 1865 3 
+3023* SURVEY OF AMERICAN LITERATURE TO  3 
 credit hours A survey of American literature from its 
 beginning to Whitman. Lecture . Prerequisite: 
 ENGL 1213. (Fall) 
 3033* SURVEY OF AMERICAN LITERATURE SINCE 
-1865 3 credit hours A survey of American literature from 
+ 3 credit hours A survey of American literature from 
 Whitman to the present. Lecture . Prerequisite: 
 ENGL 1213. (Spring) 
-3043* SURVEY OF ENGLISH LITERATURE TO 1800 3 
+3043* SURVEY OF ENGLISH LITERATURE TO  3 
 credit hours A survey of English literature from its 
 beginning to the close of the eighteenth century. Lecture 3 
 hours. Prerequisite: ENGL 1213. (Fall) 
-3053* SURVEY OF ENGLISH LITERATURE SINCE 1800 
+3053* SURVEY OF ENGLISH LITERATURE SINCE  
 3 credit hours A survey of English literature from the 
 beginning of the nineteenth century to the present. 
 Lecture . Prerequisite: ENGL 1213. (Spring) 
 3063* SURVEY OF WORLD LITERATURE THROUGH 
 THE RENAISSANCE 3 credit hours Readings in world 
 literature from classical antiquity to 1700, with emphasis 
-on major authors. Lecture . Prerequisite: ENGL 
-1213. (Fall) 
+on major authors. Lecture . . (Fall) 
 3073* SURVEY OF WORLD LITERATURE SINCE THE 
 RENAISSANCE 3 credit hours Reading of major works in 
 world literature from the post-Renaissance period to the 
@@ -3262,8 +3234,7 @@ appreciation of literature. Students will acquaint
 themselves with different theoretical approaches to 
 literature and apply those approaches to specific texts so 
 as to better understand the role of literary theory in the 
-study of literature. Lecture . Prerequisite: ENGL 
-3003. (Fall) 
+study of literature. Lecture . . (Fall) 
 3881-3* WORKSHOP 1-3 credit hours Designed to 
 emphasize special topics in English and the Language 
 Arts. May be repeated with department permission. 
@@ -3342,7 +3313,7 @@ school English. Teacher Certification students must be
 admitted to teacher education prior to enrollment in this 
 course. Lecture , laboratory . Prerequisite: 
 department permission. (Fall) 
-4961-3* DIRECTED READINGS IN ENGLISH  Intensive independent reading and research on a 
+4961-3* DIRECTED READINGS IN ENGLISH 0 credit hours Intensive independent reading and research on a 
 selected topic, writer, or movement in literature or 
 language, under the supervision of a qualified member of 
 the faculty. May be repeated to a total of . 
@@ -3436,7 +3407,7 @@ interpersonal relationships. Lecture . (Fall, Spring)
 4123* MARRIAGE 3 credit hours Identification and 
 analysis of stressors in contemporary marriages. 
 Strategies for enrichment will be emphasized. Lecture 3 
-hours. Prerequisite: FAMS 1123 or PSY 1113. 
+hours. Prerequisite: FAMS 1123 or PSY . 
 4133* MILITARY FAMILIES 3 credit hours This course 
 will emphasize the unique culture of military families, 
 their resilience, and the challenges of military life. A 
@@ -3449,8 +3420,8 @@ prepare
 students 
 for 
 understanding and working with military families. 
-Lecture . Prerequisite: FAMS 1123 or PSY 1113 or 
-SOCI 1113. 
+Lecture . Prerequisite: FAMS 1123 or PSY  or 
+SOCI . 
 4143* CRISIS MANAGEMENT AND RESOURCES 3 credit 
 hours Examination of crisis and management theories and 
 strategies used to help individuals and families deal 
@@ -3467,11 +3438,11 @@ department. (FA)
 demographic changes due to longevity; differences 
 between aging and illness; and effects of aging that may be 
 reversible. Lecture . Prerequisite: Prerequisite: 
-FAMS 1123 or PSY 1113. 
+FAMS  or PSY . 
 4173 FUNCTIONAL FAMILY SYSTEMS 3 credit hours 
 Emphasizes the family unit as a communicational, 
 instructional, and interactional system. Lecture . 
-Prerequisite: FAMS 1123, junior standing, or permission 
+Prerequisite: FAMS , junior standing, or permission 
 of the department. 
 4333 CURRENT ISSUES IN FAMILY DIVERSITY 3 credit 
 hours An in-depth study of the historical, current, and 
@@ -3480,9 +3451,9 @@ Students will examine the impact of increasing cultural
 diversity of American families on family theory, research, 
 and service delivery. Emphasis placed on the experiences, 
 challenges, and strengths, of families in poverty in the U.S. 
-Prerequisite: FAMS 1123 or SOCI 1113. (Spring, Odd 
+Prerequisite: FAMS  or SOCI . (Spring, Odd 
 Years) 
-4702 
+ 
 CAREER 
 RESEARCH 
 AND 
@@ -3490,8 +3461,7 @@ PROFESSIONAL
 DEVELOPMENT 2 credit hours This course will include 
 supervised research and observation in areas of career 
 interest to students, and development in resume building, 
-interviewing skills, and professionalism. Prerequisite: CD 
-1113, CD 1123, CD 3223, FAMS 1123, FAMS 3143, FAMS 
+interviewing skills, and professionalism. Prerequisite: 
 4333 (Fall, Spring, Summer) 
 4803 FAMILY LIFE EDUCATION 3 credit hours This 
 course will emphasize the theoretical and research 
@@ -3534,8 +3504,7 @@ banks and other financial institutions; the role of the
 Federal Reserve System and financial institutions in the 
 money supply process, demand for money; monetary 
 policy, regulations of the financial system, foreign 
-exchange market. Lecture . Prerequisite: ECON 
-2023. (Cross-listed with ECON 3313.) 
+exchange market. Lecture . . (Cross-listed with ECON 3313.) 
 3603* PRINCIPLES OF FINANCE 3 credit hours An 
 introductory course in financial management of a firm. 
 Areas covered include an overview of financial 
@@ -3599,9 +3568,9 @@ II
 3 
 credit 
 hours 
-Continuation of FREN 1113. Lecture . Prerequisite: 
+Continuation of FREN . Lecture . Prerequisite: 
 FREN 
-1113 
+ 
 or 
 equivalent. 
 General 
@@ -3613,8 +3582,8 @@ More complex syntactic and grammatical forms are
 presented. Course taught largely in French. Lecture 3 
 hours. Prerequisite: FREN 1223 or equivalent. (Fall) 
 2223* INTERMEDIATE FRENCH II 3 credit hours 
-Continuation of FREN 2113. Lecture . Prerequisite: 
-FREN 2113 or the equivalent. (Spring) 
+Continuation of FREN . Lecture . Prerequisite: 
+FREN  or the equivalent. (Spring) 
 3113* FRENCH GRAMMAR AND LINGUISTICS 3 credit 
 hours A systematic review of French grammar and the 
 cultivation of facility in reading French newspapers, 
@@ -3627,16 +3596,15 @@ hours. Prerequisite: FREN 2223 or equivalent.
 3133* FRENCH COMPOSITION 3 credit hours A 
 systematic review of French grammar, with a view toward 
 improving the student's control of written French. 
-Conducted in French. Lecture . FREN 2113 and 2223. 
+Conducted in French. Lecture . FREN  and 2223. 
 3143* FRENCH CONVERSATION 3 credit hours Total 
 emphasis on improving the student's control of spoken 
 French, with a special emphasis on idiomatic French. 
-Conducted in French. Lecture . FREN 2113 and 2223. 
+Conducted in French. Lecture . FREN  and 2223. 
 4113* L'HISTOIRE DE FRANCE 3 credit hours A survey of 
 the important political, social, economic, diplomatic, 
 intellectual, and religious developments in French history. 
-Conducted in French. Lecture . Prerequisite: FREN 
-3143 or equivalent. 
+Conducted in French. Lecture .  or equivalent. 
 4123* FRENCH ECRIVAINS PROSODIQUES 3 credit 
 hours A course oriented toward the study of major French 
 prose literary works, from the Middle Ages to the present. 
@@ -3648,8 +3616,7 @@ examined. Conducted in French. Lecture .
 Prerequisite: FREN 4113 or equivalent. 
 4133* FRENCH POETS AND DRAMATISTS 3 credit hours 
 A study of the various trends in French poetry and drama. 
-Conducted in French. Lecture . Prerequisite: FREN 
-4123 or equivalent. 
+Conducted in French. Lecture .  or equivalent. 
 4143* FRENCH FOR BUSINESS AND INDUSTRY 3 credit 
 hours The French language as a means of communication 
 in the world of business; basic commercial and economic 
@@ -3673,7 +3640,7 @@ Independent
 study/directed 
 readings 
 . 
-Prerequisite: FREN 4143 or equivalent. 
+Prerequisite: FREN  or equivalent. 
 GEOGRAPHY (GEOG) 
 Social Sciences 
 1014* PHYSICAL GEOGRAPHY 4 credit hours A basic 
@@ -3728,13 +3695,13 @@ hours
 Continuation 
 of 
 GERM 
-1113. 
+. 
 Lecture 
 3 
 hours. 
 Prerequisite: 
 GERM 
-1113 
+ 
 or 
 equivalent. 
 General 
@@ -3742,8 +3709,7 @@ Education, Humanities–Diversity. (Spring)
 2213* INTERMEDIATE GERMAN I 3 credit hours An 
 intermediate-level course in the German language, with 
 emphasis on the more complex idiomatic, syntactic, and 
-grammatical forms. Lecture . Prerequisite: GERM 
-1223 or equivalent. (Fall) 
+grammatical forms. Lecture .  or equivalent. (Fall) 
 2223* INTERMEDIATE GERMAN II 3 credit hours 
 Continuation of GERM 2213. Conducted largely in 
 German. Lecture . Prerequisite: GERM 2213 or 
@@ -3781,15 +3747,15 @@ hours. General Education, Humanities–Diversity. (Fall)
 1123* MODERN WORLD HISTORY 3 credit hours Survey 
 of world history from 1400 to the present. Lecture 3 
 hours. General Education, Humanities–Diversity. (Spring) 
-1483* UNITED STATES HISTORY TO 1865 3 credit 
+1483* UNITED STATES HISTORY TO  3 credit 
 hours Introductory survey from European backgrounds 
 through the Civil War. Lecture . Prerequisite: 
-Students must be eligible for ENGL 1113. General 
+Students must be eligible for ENGL . General 
 Education, U.S. History. (Fall, Spring) 
-1493* UNITED STATES HISTORY SINCE 1865 3 credit 
+1493* UNITED STATES HISTORY SINCE  3 credit 
 hours A survey of the development of the United States 
-from 1865 to the present. Lecture . Prerequisite: 
-Students must be eligible for ENGL 1113. General 
+from  to the present. Lecture . Prerequisite: 
+Students must be eligible for ENGL . General 
 Education, U.S. History. (Fall, Spring) 
 2113* WESTERN CIVILIZATION I 3 credit hours Using an 
 interdisciplinary approach that incorporates materials 
@@ -3821,7 +3787,7 @@ music, this course will provide the student a firm
 grounding in the History of Europe from the Renaissance 
 to the present. Lecture . General Education, 
 Humanities–Diversity. (Spring) 
-3033* RACE AND THE ATLANTIC WORLD, 1400-1850 
+3033* RACE AND THE ATLANTIC WORLD,  
 3 credit hours This course examines the relationships 
 which developed among Africa, the Americas and Europe 
 between 1400 and 1850. Students will examine European 
@@ -3832,7 +3798,7 @@ creation of new American societies and cultures.
 the development of Oklahoma from the time of the 
 discovery of America to the present. Lecture . 
 HIST 2133 strongly recommended. (Spring) 
-3123* THE CRUSADES, 1095-1798 3 credit hours From 
+3123* THE CRUSADES,  3 credit hours From 
 the middle of the  century C.E. through the early  
 century, Europeans and the peoples of North Africa and 
 the Eastern Mediterranean interacted with a greater 
@@ -3858,7 +3824,7 @@ what they mean to people today. Lecture .
 3133* AMERICAN MILITARY HISTORY 3 credit hours A 
 survey of American military history from American 
 Revolution to the present. Lecture 
-3243* BRITAIN SINCE 1689 3 credit hours Emergence of 
+3243* BRITAIN SINCE  3 credit hours Emergence of 
 cabinet government, the Industrial Revolution, the 
 Napoleonic 
 era 
@@ -3915,7 +3881,7 @@ formation of political parties, territorial expansion,
 foreign policy, economic development, and the emerging 
 conflict between nationalism and sectionalism through 
 4273* THE AGE OF JACKSON AND AMERICAN 
-EXPANSION, 1815-1848 3 credit hours A political history 
+EXPANSION,  3 credit hours A political history 
 of the period between 1815 and 1848. The impact of 
 nationalism, liberalism, and sectionalism upon American 
 strongly recommended. 
@@ -3928,20 +3894,20 @@ and an intensive study of the major challenges facing the
 United States in the aftermath of the Civil War. Lecture 3 
 hours. 
 4293* THE GILDED AGE AND PROGRESSIVE ERA, 
-1877-1920 3 credit hours A study of the major events and 
+ 3 credit hours A study of the major events and 
 movements in the United States between 1877 and 
 approximately 1920. Special attention is given to the rise 
 of modern industrialism and the organization of labor and 
 recommended. 
-4313* WAR AND DEPRESSION, 1917-1945 3 credit 
+4313* WAR AND DEPRESSION,  3 credit 
 hours The United States in the aftermath of World War I; 
 the Roaring Twenties; the Great Depression; and World 
 recommended. 
-4323* COLD WAR AMERICA, 1945-1991 3 credit hours 
+4323* COLD WAR AMERICA,  3 credit hours 
 A study of the political, economic, social, cultural and 
 diplomatic changes in America between 1945 and 1991. 
 Topics include civil rights, the Cold War, consumerism, 
-4353* FRONTIER EUROPE, 1300-1800 3 credit hours 
+4353* FRONTIER EUROPE,  3 credit hours 
 Europe, too, had a frontier that definitively shaped its pre-
 modern foundations. This course focuses on the major 
 cultural, social, political and economic developments in 
@@ -3951,14 +3917,14 @@ Denmark-Norway, northern Germany, Sweden, Poland,
 and the northern Low Countries, which collectively, 
 constituted the heart of the European frontier. Lecture 3 
 hours.
-4373* EUROPE 1789-1914 3 credit hours Europe during 
+4373* EUROPE  3 credit hours Europe during 
 the French Revolution and Napoleonic Era; the Congress 
 of Vienna and the Congress system; the revolutions of 
 1830 and 1848; the unification of Italy and Germany; 
 industrialism, social change, and the coming of World War 
 I. Lecture .
 4413* RELIGION AND MAGIC IN EARLY MODERN 
-EUROPE, 1400-1650 3 credit hours From the  to the 
+EUROPE,  3 credit hours From the  to the 
 mid- centuries, religious relationships changed 
 dramatically within European societies. One path of 
 change led to the Reformation, producing Protestant 
@@ -3988,8 +3954,8 @@ hours The quest for security in the 1920's; the rise of the
 dictators; the road to World War II; the emergence of an 
 integrated Europe; and the Cold War and its aftermath. 
 Lecture .
-4473* HEROES AND VILLAINS OF THE FRENCH 
-REVOLUTION, 1780-1815 3 credit hours The French 
+4473* "HEROES AND VILLAINS OF THE FRENCH 
+REVOLUTION 1780-1815" 3 credit hours The French 
 Revolution is, in the minds of some, the first modern 
 revolution, making it one of the pivotal moments 
 informing the shape of modernity. In this course we take 
@@ -4047,7 +4013,7 @@ An overview of computer networking. Topics include
 network topologies, network software, the client-server 
 model, the OSI/ISO model, network components, TCP/IP, 
 and network security. Lecture . Prerequisite: IT 
-1013 or concurrent enrollment. (Fall, Spring) 
+ or concurrent enrollment. (Fall, Spring) 
 1213 PROGRAMMING LOGIC 3 credit hours A basic 
 introduction to the knowledge and skills that are used in 
 computer programming. Topics include: the third 
@@ -4235,7 +4201,7 @@ study of the necessary skills for the improvement,
 expansion, and enrichment of employer health and safety 
 policies to promote accident-free work experiences for 
 American workers in various settings. Lecture . 
-Prerequisite: Junior standing. (Formerly TECH 4143) 
+Prerequisite: Junior standing. (Formerly TECH ) 
 4443 IT CAPSTONE 3 credit hours The IT Capstone course 
 is designed to integrate course work in various 
 specializations of IT classes. This class emphasizes critical 
@@ -4283,8 +4249,8 @@ intermediate-level course in the Italian language. A review
 of grammar, writing, and speaking. Conducted in Italian. 
 Lecture . Prerequisite: ITAL 1223. 
 2223* INTERMEDIATE ITALIAN II 3 credit hours 
-Continuation of ITAL 2113. Conducted in Italian. Lecture 
-. Prerequisite: ITAL 2113 or the equivalent. 
+Continuation of ITAL . Conducted in Italian. Lecture 
+. Prerequisite: ITAL  or the equivalent. 
 4961-3* DIRECTED READINGS IN ITALIAN  Provides an opportunity for gifted and qualified 
 students to work at a special project not offered in a 
 regular course. May be repeated to a total of . 
@@ -4298,7 +4264,7 @@ Communication, English, and Foreign Languages
 2113* INTRODUCTION TO JOURNALISM 3 credit hours 
 Mass communication and the importance of the media’s 
 role in American society. Lecture . Corequisite: 
-ENGL 1113 or ENGL 1123. 
+ENGL  or ENGL 1123. 
 3133 NEWSPAPER REPORTING 3 credit hours A 
 laboratory for students to expand the techniques 
 developed in News Writing (JOUR 3013). Students will 
@@ -4387,16 +4353,14 @@ machines, lighting, staging and directing, on-camera
  
  
 announcing and interviewing. Lecture , laboratory 
-. Prerequisite: JRMP 1313. Corequisite: JRMP 
-2333L. (Spring) 
+. Prerequisite: JRMP 1313. . (Spring) 
 2333L* TV STUDIO PRODUCTION LAB 0 credit hours An 
 introduction to the basic principles, procedures, and 
 techniques of television studio production. The course 
 includes video control, operation of cameras and editing 
 machines, lighting, staging and directing, on-camera 
 announcing and interviewing. Lecture , laboratory 
-. Prerequisite: JRMP 1313. Corequisite: JRMP 
-2333. (Spring) 
+. Prerequisite: JRMP 1313. . (Spring) 
 2513* WRITING FOR MASS MEDIA 3 credit hours This 
 course will introduce students to the various strategies 
 and styles of writing for mass media organizations that 
@@ -4494,19 +4458,14 @@ study new social media, develop an analysis model to
 examine emergent social media, research current social 
 media uses and present findings to their peers. Lecture 3 
 hours.  
-3721-3 WORKSHOP 1-3 credit hours Workshop designed 
+3721-3 WORKSHOP 3 credit hours Workshop designed 
 to give intensive emphasis to a specific area of media. May 
 be repeated with a different topic for additional credit up 
 to a maximum of six hours. Journalism and Media 
 Production majors may count only three hours of 
 workshops towards their degree. Workshop, .  
-3811-2 
-MEDIA 
-PRACTICUM 
-1-2 
-credit 
-hours 
-Participation in all aspects media: radio, television; print 
+3811-2 MEDIA PRACTICUM 1-2 
+credit hours Participation in all aspects media: radio, television; print 
 online. Practicum, : Sophomore 
 standing. (Fall, Spring) 
 4153* MEDIA HISTORY 3 credit hours Background and 
@@ -4531,8 +4490,7 @@ continued study of the principles of photography with an
 emphasis on composition and design. Students will 
 continue to employ digital darkroom techniques in 
 coordination with various modes of expression: print, 
-video and online. Lecture . Prerequisite: JRMP 
-2243 or instructor’s permission. 
+video and online. Lecture .  or instructor’s permission. 
 4353* CORPORATE VIDEO 3 credit hours Theory and 
 uses of video in business and industry including writing, 
 planning, and production, as well as television programs 
@@ -4623,14 +4581,14 @@ introductory course in understanding, speaking, reading,
 and writing Latin. Lecture . General Education, 
 Humanities–Diversity. (Fall) 
 1223* BEGINNING LATIN II 3 credit hours Continuation 
-of LATN 1113. Lecture .
+of LATN . Lecture .
 2113* INTERMEDIATE LATIN I 3 credit hours An 
 intermediate-level course in Latin. A review of grammar, 
 writing, and speaking. Lecture . Prerequisite: 
 LATN 1223 or equivalent. (Fall) 
 2223* INTERMEDIATE LATIN II 3 credit hours 
-Continuation of LATN 2113. Lecture . Prerequisite: 
-LATN 2113 or equivalent. (Spring) 
+Continuation of LATN . Lecture . Prerequisite: 
+LATN  or equivalent. (Spring) 
 3113* ROMAN WRITERS I 3 credit hours Beginning study 
 of various authors of Roman literature. Topics may 
 include Roman prose, poetry, or drama. Lecture . 
@@ -4639,7 +4597,7 @@ Prerequisite: LATN 2223 or equivalent.
 of LATN 3113. Topics may include Roman prose, poetry, 
 or drama. Lecture . Prerequisite: LATN 3113 or 
 equivalent. 
-4961-3* DIRECTED READINGS IN LATIN  Intensive independent readings and research on a 
+4961-3* DIRECTED READINGS IN LATIN , 0 credit hours  Intensive independent readings and research on a 
 selected topic, writer, or movement in Latin literature or 
 language under supervision of a faculty member. May be 
 repeated to a total of  with departmental 
@@ -4684,7 +4642,7 @@ of
 management: 
 planning, 
 organizing, and controlling. Lecture . Prerequisite: 
-BUS 1113. (Fall, Spring) 
+BUS . (Fall, Spring) 
 3513 HUMAN RESOURCE MANAGEMENT 3 credit hours 
 A comprehensive review of human resources policy 
 development, along with a description and analysis of 
@@ -4806,7 +4764,7 @@ selected
 software 
 for 
 microcomputer systems. Course may be repeated for 
-credit with different software packages. Lecture . Prerequisite: MIS 2113. 
+credit with different software packages. Lecture . Prerequisite: MIS . 
 3033 DATABASE DESIGN AND MANAGEMENT 3 credit 
 hours This course introduces the basic theories, skills, and 
 techniques of data and database systems. The course will 
@@ -4832,7 +4790,7 @@ processing,
 spreadsheet, graphics, and database software. Emphasis 
 on hands-on use of these packages to develop software 
 applications for solving complex business problems. 
-Lecture . Prerequisite: MIS 2113. 
+Lecture . Prerequisite: MIS . 
 3183 STRUCTURED QUERY LANGUAGE 3 credit hours 
 An in-depth study of the Structured Query Language 
 (SQL) and relational database processing. Topics will 
@@ -4874,7 +4832,7 @@ complex field as well as practical experience in basic web
 programming. Course topics include: business models, 
 revenue models, e-commerce security, payment systems, 
 as well as legal, social and ethical issues. Lecture . 
-Prerequisite: MIS 2113. 
+Prerequisite: MIS . 
 4433 PROJECT MANAGEMENT 3 credit hours The course 
 presents basic principles of project management, tools of 
 project management, and the role of project manager in 
@@ -4919,7 +4877,7 @@ Business
 introductory course utilizing a managerial approach to 
 the study and development of marketing with emphasis 
 on marketing strategy and development of marketing mix. 
-Lecture . Prerequisite: BUS 1113. (Fall, Spring) 
+Lecture . Prerequisite: BUS . (Fall, Spring) 
 3423 CONSUMER MOTIVATION AND BEHAVIOR 3 
 credit hours An examination of the internal and external 
 influences on buyer behavior; analysis of the buying 
@@ -4992,7 +4950,7 @@ hours.
 Prerequisite: MKTG 3413. 
 MATHEMATICS (MATH) 
 Mathematical Sciences 
-0013 PRE-ALGEBRA Developmental course, no credit This 
+0013 PRE-ALGEBRA Developmental course, 0 credit hours This 
 course provides a solid foundation in whole and signed 
 number operations, fractions, decimals and percent. Does 
 not satisfy any requirements for any degree program at 
@@ -5005,8 +4963,8 @@ arithmetic operations using polynomials, factoring, and
 simplifying rational expressions. Does not satisfy any 
 requirements for any degree program at Cameron 
 University. Lecture .
-0115 BEGINNING AND INTERMEDIATE ALGEBRA 
-Developmental course, no credit A combined beginning 
+0115 BEGINNING AND INTERMEDIATE ALGEBRA  , 0 credit hours
+Developmental course, 0 credit hours A combined beginning 
 and intermediate algebra course. This course is designed 
 for students who are able to cover the material in both 
 beginning and intermediate algebra in one semester. Does 
@@ -5019,7 +4977,7 @@ course,
 no 
 credit 
 Remediation and support for students who are enrolled in 
-MATH 1413, but whose test scores and prior coursework 
+MATH , but whose test scores and prior coursework 
 do 
 not 
 indicate 
@@ -5027,7 +4985,7 @@ preparedness
 for 
 college-level 
 mathematics classes. Recommended for students enrolled 
-in MATH 1413 who score less than 19 on the ACT 
+in MATH  who score less than 19 on the ACT 
 Mathematics test and have not completed MATH 0213. 
 Does not satisfy major requirements for any degree 
 program at Cameron University. Lecture . 
@@ -5072,8 +5030,8 @@ in MATH 1463 who score less than 19 on the ACT
 Mathematics test and have not completed MATH 0213. 
 Does not satisfy degree requirements for any degree 
 program at Cameron University. Lecture . 
-0213 INTERMEDIATE ALGEBRA Developmental course, 
-no credit This course is designed to help students develop 
+0213 INTERMEDIATE ALGEBRA Developmental 0
+credit hours This course is designed to help students develop 
 the skills needed for general education courses. Topics 
 include radical and rational exponents, inequalities, 
   
@@ -5409,8 +5367,8 @@ encouraged);
 mandatory 
 for 
 “Contracted” cadets. Laboratory 1 hour. Prerequisite: 
-Foundations of Officership (MSL 1012) or concurrent 
-enrollment. MSL 1012 must be successfully completed 
+Foundations of Officership (MSL ) or concurrent 
+enrollment. MSL must be successfully completed 
 before credit is given in this course. 
 1012 FOUNDATIONS OF OFFICERSHIP 2 credit hours 
 Introduces students to issues and competencies that are 
@@ -5500,7 +5458,7 @@ Participation in Leadership Lab and Physical Fitness
 training is optional for “Non-Contracted” cadets (but 
 highly encouraged); mandatory for “Contracted” cadets. 
 Laboratory 1 hour. Prerequisite: Individual Leadership 
-Studies (MSL 2012) or concurrent enrollment. MSL 2012 
+Studies (MSL ) or concurrent enrollment. MSL  
 must be successfully completed before credit is given in 
 this course. 
 2012 INDIVIDUAL LEADERSHIP STUDIES 2 credit hours 
@@ -5535,8 +5493,8 @@ Participation in Leadership Lab and Physical Fitness
 training is optional for “Non-Contracted” cadets (but 
 highly encouraged); mandatory for “Contracted” cadets. 
 Laboratory 1 hour. Prerequisite: Leadership and 
-Teamwork (MSL 2022) or concurrent enrollment. MSL 
-2022 must be successfully completed before credit is 
+Teamwork (MSL ) or concurrent enrollment. MSL 
+ must be successfully completed before credit is 
 given in this course. 
 2022 LEADERSHIP AND TEAMWORK 2 credit hours 
 Study examines how to build successful teams, various 
@@ -5657,8 +5615,8 @@ training area on campus and the proximity of Fort Sill
 allows students to get out of the classroom and apply the 
 skills they have learned in fast-paced exercises. 
 Attendance is mandatory for Juniors and Seniors. 
-Laboratory 1 hour. Prerequisite: Officership (MSL 4023) 
-or concurrent enrollment. MSL 4023 must be successfully 
+Laboratory 1 hour. Prerequisite: Officership  
+or concurrent enrollment. MSL  must be successfully 
 completed before credit is given in this course. 
 4023 OFFICERSHIP 3 credit hours Study includes case 
 study analysis of military law and practical exercises on 
@@ -5720,7 +5678,7 @@ understanding of Instructional Systems Design, students
 will learn to create desktop and on-screen multimedia 
 applications.  This class will also include a brief 
 introduction to authoring software. Lecture , 
-laboratory . Prerequisite: IT 1013 or concurrent 
+laboratory . Prerequisite: IT  or concurrent 
 enrollment.  
 1133 MULTIMEDIA PRODUCTION TECHNIQUES 3 
 credit hours This course familiarizes students with basic 
@@ -5749,7 +5707,7 @@ developing
 instructional 
 strategies, materials and assessment instruments, and 
 evaluating and revising instructional materials. Lecture 2 
-hours, lab . Prerequisite: ENGL 1113 or concurrent 
+hours, lab . Prerequisite: ENGL  or concurrent 
 enrollment. 
 1154 INTRODUCTION TO MULTIMEDIA AUTHORING 4 
 credit hours Introduction to program logic, problem 
@@ -6065,23 +6023,23 @@ week.
 Prerequisite: Department permission. May be repeated 
 for credit. (Fall, Spring) 
 3313* HARMONY AND STRUCTURE III 3 credit hours A 
-continuation of MUSC 2332. Lecture . Prerequisite: 
-MUSC 2332. (Fall) 
+continuation of MUSC . Lecture . Prerequisite: 
+MUSC . (Fall) 
 3321* SIGHT-SINGING AND EAR TRAINING III 1 credit 
 hour A continuation of MUSC 2341. Laboratory . 
-Prerequisite: MUSC 2341. Concurrent enrollment with 
+Prerequisite: MUSC . Concurrent enrollment with 
 MUSC 3313 recommended. (Fall) 
 3333* HARMONY AND STRUCTURE IV 3 credit hours A 
-continuation of MUSC 3313, the study of the harmony and 
+continuation of MUSC , the study of the harmony and 
 structure of music through music analysis, composition, 
 and the development of associated functional keyboard 
 skills. Included will be a study of the standard polyphonic 
 and homophonic forms of the  and  centuries. 
-Lecture . Prerequisite: MUSC 3313. (Spring) 
+Lecture . Prerequisite: MUSC . (Spring) 
 3341* SIGHT-SINGING AND EAR TRAINING IV 1 credit 
-hour A continuation of MUSC 3321. Laboratory . 
-Prerequisite: MUSC 3321. Concurrent enrollment with 
-MUSC 3333 recommended. (Spring) 
+hour A continuation of  3321. Laboratory . 
+Prerequisite: MUSC . Concurrent enrollment with 
+MUSC  recommended. (Spring) 
 3351-3 COMPOSITION 1-3 credit hours An exploration of 
 various compositional styles and techniques. One half-
 hour lesson per week per credit hour enrolled. 
@@ -6104,8 +6062,7 @@ hour. Prerequisite: Recommended for music majors only.
 3622 ADVANCED CONDUCTING 2 credit hours The 
 techniques of reading scores, use of the baton and 
 interpretation. Practical experience in conducting. 
-Lecture 1 hour, laboratory 1 hour. Prerequisite: MUSC 
-3612. (Spring, Even Years) 
+Lecture 1 hour, laboratory 1 hour. . (Spring, Even Years) 
 3642 WOODWIND METHODS 2 credit hours The study of 
 flute, oboe, clarinet, bassoon, and saxophone. Basic 
 concepts of playing and teaching woodwind instruments; 
@@ -6156,7 +6113,7 @@ for Vocal Music Education and Keyboard Music Education
 majors. Students will learn basic techniques, performance 
 skills, and methodology for all instrumental families. 
 Lecture 1 hour, laboratory . 
-3981-3 SEMINAR 1-2 credit hours A course designed to 
+3981-3 SEMINAR 2 credit hours A course designed to 
 give students the opportunity to study a subject not 
 covered in the regular course offerings or not covered in 
 sufficient depth for their needs. Seminar . 
@@ -6173,8 +6130,7 @@ normally one half-hour in length. Performance .
 Prerequisite: Permission of the Chair. (Fall, Spring) 
 4312* COUNTERPOINT 2 credit hours A study of 
 Eighteenth Century species counterpoint through analysis 
-and composition. Lecture . Prerequisite: MUSC 
-3333. 
+and composition. Lecture . . 
 4322* POST TONAL TECHNIQUES 2 credit hours A study 
 of  Century harmonic and melodic techniques 
 approached through original composition, analysis and 
@@ -6182,11 +6138,10 @@ performance. Lecture . Prerequisite: MUSC 3333.
 (Spring, Odd Years) 
 4332* FORM AND ANALYSIS 2 credit hours A study of the 
 standard polyphonic and homophonic forms of the  
-and  centuries. Lecture . Prerequisite: MUSC 
-3333. (Fall, Odd Years) 
+and  centuries. Lecture . . (Fall, Odd Years) 
 4343* ARRANGING 3 credit hours The study of the art of 
 arranging for instrumental and vocal ensembles. Lecture 
-. Prerequisite: MUSC 3333. (Fall, Even Years) 
+. Prerequisite: MUSC . (Fall, Even Years) 
 4351-3 COMPOSITION 1-3 credit hours An exploration of 
 various compositional styles and techniques. One half-
 hour lesson per week per credit hour enrolled. Lecture 1-
@@ -6266,19 +6221,10 @@ and Music History Sequence. (Fall, Spring)
 specific activity utilizing lectures and practical application 
 exercises. May be repeated for credit to a maximum of 8 
 hours credit. Lecture .  
-4981-3 INDEPENDENT STUDY 1-3 credit hours A special 
+4981-3 INDEPENDENT STUDY 3 credit hours A special 
 study based on the needs of the individual student directly 
 related to the student’s major. Individual guidance will be 
-provided 
-by 
-a 
-faculty 
-member. 
-Independent 
-study/directed 
-readings 
-. 
-Prerequisite: 
+provided by a faculty member. Independent study/directed readings 
 Department permission. The total number of hours 
 earned in independent study may not exceed four. 
 4990 SENIOR RECITAL 0 credit hours Culminating 
@@ -6293,7 +6239,7 @@ theoretical and practical underpinnings of transformative
 leadership within the public and private sectors. 
 Knowledge, skills, and foundation in leadership necessary 
 to be an effective leader in a variety of settings is provided. 
-Restricted to 2nd year PLUS students. Lecture . 
+Restricted to  year PLUS students. Lecture . 
 Prerequisite: Permission of PLUS advisor. 
 3113 
 FOUNDATIONS 
@@ -6410,9 +6356,9 @@ introductory course in the language and cultures of Iran
 and Afghanistan. Lecture . General Education, 
 Humanities–Diversity. 
 1223* BEGINNING PERSIAN (FARSI) II 3 credit hours 
-Continuation of PRSN 1113. Lecture . Prerequisite: 
+Continuation of PRSN . Lecture . Prerequisite: 
 PRSN 
-1113 
+ 
 or 
 equivalent. 
 General 
@@ -6610,8 +6556,7 @@ requirements (except PHYS 2015/2015L.
 2025* PHYSICS II FOR SCIENCE AND ENGINEERING 
 MAJORS 5 credit hours A continuation of PHYS 2015. 
 Includes topics from electricity, light, and modern physics. 
-Lecture , laboratory . Prerequisite: PHYS 
-2015. Corequisite: PHYS 2025L. Will not satisfy general 
+Lecture , laboratory . . Corequisite: PHYS 2025L. Will not satisfy general 
 education science requirements. (Fall) 
 2025L* PHYSICS II FOR SCIENCE AND ENGINEERING 
 MAJORS LAB 0 credit hours LAB: A continuation of PHYS 
@@ -6667,8 +6612,8 @@ MEASUREMENTS
 AND 
 ELECTRONICS LABORATORY 1 credit hour Construction 
 and testing of electrical circuits which are applications of 
-the devices studied in PHYS 3024. Laboratory . 
-Prerequisite: PHYS 3024 or concurrent enrollment. Will 
+the devices studied in PHYS. Laboratory . 
+Prerequisite: PHYS or concurrent enrollment. Will 
 not satisfy general education science requirements. 
 3043 INTRODUCTION TO QUANTUM MECHANICS 3 
 credit hours An introduction to quantum mechanics. 
@@ -6843,7 +6788,7 @@ international finance organizations, and globalization.
 The course introduces students to perspectives of 
 economic liberalism, mercantilism, and structuralism that 
 they can use to analyze global political problems. Lecture 
-. Prerequisite: PS 1113 and ENGL 1213. 
+. Prerequisite: PS  and ENGL 1213. 
 3333* COMPARATIVE GOVERNMENT 3 credit hours A 
 survey of concepts, approaches, and models used in 
   
@@ -6912,7 +6857,7 @@ system in American policy processes. Lecture .
 credit hours An intensive analysis of a selected political 
 problem or special topic in political science. May be 
 repeated with a different topic for a total of  credit. 
-Lecture s: PS 1113 and ENGL 1213. 
+Lecture s: PS  and ENGL 1213. 
 4591-3* INDEPENDENT STUDY IN POLITICAL SCIENCE 
 1-3 credit hours Intensive independent reading on or 
 study of a specific problem or subject in political science, 
@@ -6921,7 +6866,7 @@ conferences with the instructor and submission of
 extensive written work. May be repeated with different 
 topics for a total of  credit. Independent 
 study/directed readings s: PS 
-1113 and ENGL 1213, Political Science major, junior 
+ and ENGL 1213, Political Science major, junior 
 standing, and instructor permission.  
 4683* ACADEMIC RESEARCH IN POLITICAL SCIENCE 3 
 credit hours This course consists of relevant readings and 
@@ -7025,7 +6970,7 @@ presented each semester.
 2113* HISTORY OF PSYCHOLOGY 3 credit hours A study 
 of modern psychology as a science with emphasis on past 
 and present schools of psychological thought. Lecture 3 
-hours. Prerequisite: PSY 1113. (Fall, Spring) 
+hours. Prerequisite: PSY . (Fall, Spring) 
 2223* 
 APPLIED 
 PSYCHOLOGY 
@@ -7035,7 +6980,7 @@ hours
 Psychological principles in relation to problems of 
 Business, Industry, Education, Mental Health, or other 
 human enterprises. Lecture . Prerequisite: PSY 
-1113. 
+. 
 2373* INTRODUCTION TO HEALTH PSYCHOLOGY 3 
 credit hours Comprehensive inquiry focusing on the 
 branch of psychology that concerns individual behaviors 
@@ -7045,15 +6990,15 @@ application orientation include: enhancement of health,
 the prevention and treatment of disease, the identification 
 of health risk factors, the improvement of the health care 
 system and the shaping of public opinion with regard to 
-health. Lecture . Prerequisite: PSY 1113. 
+health. Lecture . Prerequisite: PSY . 
 3313* COGNITIVE PSYCHOLOGY 3 credit hours 
 Examines cognition involving language, thinking, problem 
 solving, memory, intelligence, and categorization. Lecture 
-. Prerequisite: PSY 1113. 
+. Prerequisite: PSY . 
 3333 COUNSELING AND CLINICAL PSYCHOLOGY 3 
 credit hours An introduction to the helping profession for 
 students considering counseling or clinical psychology as 
-a career. Lecture . Prerequisite: PSY 1113. 
+a career. Lecture . Prerequisite: PSY . 
 3353* 
 LIFESPAN 
 HUMAN 
@@ -7069,7 +7014,7 @@ the
 psychological changes across the life span. Cognitive, 
 social, emotional, and physical changes from birth to 
 death will be examined. Lecture . Prerequisite: PSY 
-1113. (Fall, Spring) 
+. (Fall, Spring) 
 3363* PSYCHOLOGY OF MIDDLE CHILDHOOD 3 credit 
 hours This course will include and in-depth study of the 
 theories, research, and findings in the biological, 
@@ -7088,15 +7033,15 @@ EMERGING ADULTHOOD 3 credit hours An in-depth
 study of the theories, research, and findings in the 
 biological, psychological, and social development of 
 adolescence and emerging adulthood (ages 12-30). 
-Prerequisite: PSY 1113. (Spring) 
+Prerequisite: PSY . (Spring) 
 3383* SOCIAL PSYCHOLOGY 3 credit hours The study of 
 human behavior as affected by social stimuli. Lecture 3 
-hours. Prerequisite: PSY 1113. 
+hours. Prerequisite: PSY . 
 3413* PSYCHOLOGY OF LEARNING 3 credit hours 
 Investigations into the processes of learning in humans 
 and animals. Emphasis is given to behavioral and 
 cognitive approaches. Lecture . Lecture . 
-Prerequisite: PSY 1113. (Fall, Spring) 
+Prerequisite: PSY . (Fall, Spring) 
 3423 APPLIED QUANTITATIVE METHODS 3 credit 
 hours A strong emphasis will be placed on inferential 
 procedures used in published articles in psychological 
@@ -7132,7 +7077,7 @@ variance, and post-hoc analyses will be included.
 survey of the principles, backgrounds, and procedures of 
 psychological testing. Attention is given to interpretation 
 of measuring instruments in the fields of personality and 
-intelligence. Lecture . Prerequisite: PSY 1113. 
+intelligence. Lecture . Prerequisite: PSY . 
 4323* SENSATION AND PERCEPTION 3 credit hours An 
 in-depth study of the biological properties of sensory 
 systems and major phenomena in sensation and 
@@ -7145,7 +7090,7 @@ touch,
 imagery, 
 individual differences, time and motion, attention and 
 theories of psychophysical judgment including STD and 
-classical). Lecture . Prerequisite: PSY 1113. 
+classical). Lecture . Prerequisite: PSY . 
 4331-3 SEMINAR IN PSYCHOLOGY 1-3 credit hours 
 Specific problems or issues of concern to Psychology are 
 given in depth exploration and analysis. A different topic 
@@ -7153,7 +7098,7 @@ may be presented each semester. (May be repeated for a
 total of six hours credit.) Seminar . 
 4363* ABNORMAL PSYCHOLOGY 3 credit hours The 
 study of various abnormalities as described in DSM. 
-Lecture . Prerequisite: PSY 1113. (Fall, Spring) 
+Lecture . Prerequisite: PSY . (Fall, Spring) 
 4393* PERSONALITY 3 credit hours Factors determining 
 and 
 affecting 
@@ -7161,12 +7106,12 @@ personality,
 its 
 development 
 and 
-assessment. Lecture . Prerequisite: PSY 1113. 
+assessment. Lecture . Prerequisite: PSY . 
 (Fall, Spring) 
 4423 EXPERIMENTAL PSYCHOLOGY 3 credit hours 
 Studies in the major designs, methods employed and 
 problems in conducting experiments in psychological 
-research. Lecture . Prerequisite: PSY 1113. (Fall, 
+research. Lecture . Prerequisite: PSY . (Fall, 
 Spring) 
 4433 PSYCHOLOGICAL RESEARCH 3 credit hours 
 Students will design and conduct a psychological research 
@@ -7179,7 +7124,7 @@ PSY 4423. (Fall, Spring)
 behavior in terms of the physiological events inside the 
 body with emphasis on vision, audition, psychoactive 
 drugs, eating, sex, and sleep. Lecture . 
-Prerequisite: PSY 1113. 
+Prerequisite: PSY . 
 4453 PROFESSIONAL RESEARCH IN PSYCHOLOGY 3 
 credit hours Students will work individually with a 
 department faculty member to develop and present a 
@@ -7445,7 +7390,7 @@ concepts and principles will be presented. Students will
 examine a variety of ethical and legal issues found in 
 clinical practice. Lecture 1 hour, lab . Prerequisite: 
 Acceptance into Radiologic Technology Program and 
-departmental permission. Corequisite: RAD 2113L. Will 
+departmental permission. Corequisite: RAD L. Will 
 not satisfy general education science requirements. (Fall) 
 2113L PATIENT CARE IN RADIOLOGIC SCIENCES LAB 0 
 credit hours LAB: Content provides the concepts of 
@@ -7909,8 +7854,8 @@ Prerequisite: RAD 2433. Will not satisfy general education
 science requirements. (Spring) 
 READING (READ) 
 Education 
-0223 READING FUNDAMENTALS Developmental course, 
-no credit This course is designed to improve the student's 
+0223 READING FUNDAMENTALS Developmental course 0 
+credit hours This course is designed to improve the student's 
 ability to read academic materials, by learning to apply a 
 step-by-step academic reading process and improving 
 skills in critical reading and thinking. DOES NOT COUNT 
@@ -7945,7 +7890,7 @@ Program
 and 
 departmental 
 permission. 
-Corequisite: RESP 2113L. Will not satisfy general 
+Corequisite: RESP L. Will not satisfy general 
 education science requirements. (Fall) 
 2113L RESPIRATORY MECHANICS LAB 0 credit hours 
 LAB: Introduction to infection control procedures, 
@@ -7960,7 +7905,7 @@ common
 respiratory care procedures. Lecture , laboratory 
 . Prerequisite: Acceptance to the Respiratory Care 
 Clinical Training Program and departmental permission. 
-Corequisite: RESP 2113. Will not satisfy general education 
+Corequisite: RESP . Will not satisfy general education 
 science requirements. (Fall) 
 2123 RESPIRATORY THERAPY PROCEDURES I 3 credit 
 hours Introduction to respiratory therapy including 
@@ -8173,8 +8118,7 @@ clinical experience. Clinical practice is coordinated to
 cover adult, pediatric, and neonatal critical care, advanced 
 airway care, mechanical ventilation, blood gas sampling 
 techniques, and analysis and critical care monitoring. 
-Clinical Practice/Practicum . Prerequisite: RESP 
-2313. Will not satisfy general education science 
+Clinical Practice/Practicum . . Will not satisfy general education science 
 requirements. (Fall) 
 ROMANIAN (ROMN) 
 Communication, English, and Foreign Languages 
@@ -8201,28 +8145,14 @@ Communication, English, and Foreign Languages
 introductory course in the language and culture of the 
 Russian Federation. Lecture . General Education, 
 Humanities–Diversity. 
-1223* 
-BEGINNING 
-RUSSIAN 
-II 
-3 
-credit 
-hours 
-Continuation of RUSN 1113. Lecture . Prerequisite: 
-RUSN 
-1113 
-or 
-equivalent. 
-General 
-Education, 
-Humanities–Diversity. 
+1223* BEGINNING RUSSIAN II 3 
+credit hours General Education, Humanities–Diversity. 
 4961-3* DIRECTED READINGS IN RUSSIAN  This course provides an opportunity for gifted and 
 qualified students of Russian to work with an instructor 
 on individualized topics in Russian language, linguistics, 
 and literature. Course may be repeated to a total of six 
 hours with departmental permission. Independent 
-study/directed readings : RUSN 
-1223 or equivalent. 
+study/directed reading. 
 SOCIOLOGY (SOCI) 
 Social Sciences 
 1113* INTRODUCTION TO SOCIOLOGY 3 credit hours A 
@@ -8250,7 +8180,7 @@ behavior, along with a discussion of various types of
 deviant behavior, including violent and property crime, 
 mental illness, diverse lifestyles, substance use and abuse, 
 and white-collar/corporate crime. Lecture . 
-Prerequisite: SOCI 1113. 
+Prerequisite: SOCI . 
 3013* RACE AND ETHNIC RELATIONS 3 credit hours An 
 examination of the historical, political, economic, and 
 sociological dynamics of race and ethnic relations in the 
@@ -8259,7 +8189,7 @@ race and ethnicity are created and re-created in society,
 particularly by culture and social institutions, and the 
 manner in which these processes create and perpetuate 
 social inequality. Lecture . Prerequisite: Must be 
-ENGL 1113 eligible (i.e., have no English deficiencies). 
+ENGL  eligible (i.e., have no English deficiencies). 
 General Education, Humanities-Diversity. 
 3113* SOCIAL STATISTICS 3 credit hours An overview of 
 descriptive and inferential statistics and their application 
@@ -8285,7 +8215,7 @@ The course stresses Marx, Weber, and Durkheim in
 relation to social criticism, social evolution, and social 
 modernity respectively, on one hand and, on the other, 
 their contemporary relevance and theoretical offshoots in 
-the field. Lecture . Prerequisite: SOCI 1113. 
+the field. Lecture . Prerequisite: SOCI . 
 (Spring) 
 3133* SOCIOLOGICAL RESEARCH METHODS 3 credit 
 hours Introduction to the basic concepts of sociological 
@@ -8299,8 +8229,7 @@ and
 measurement, 
 sampling, 
 qualitative and quantitative data collection techniques, 
-and analyses of data. Lecture . Prerequisite: SOCI 
-1113. (Spring, Odd Years) 
+and analyses of data. Lecture . . (Spring, Odd Years) 
 3223 SOCIAL PSYCHOLOGY 3 credit hours This course 
 examines social psychological phenomena from a 
 sociological 
@@ -8310,7 +8239,7 @@ covered
 include 
 socialization, attitudes, communication, aggression, group 
 behavior, and gender roles. Lecture . Prerequisite: 
-SOCI 1113. 
+SOCI . 
 3323* 
 COLLECTIVE 
 BEHAVIOR 
@@ -8326,8 +8255,7 @@ strategy, outcome, movement ideology, and social-
 political environments. The course stresses the questions 
 that competing perspectives and different research ask 
 about collective actions and characteristic ways that they 
-try to answer them. Lecture . Prerequisite: SOCI 
-1113. 
+try to answer them. Lecture . . 
 3343* POLITICAL SOCIOLOGY 3 credit hours A study of 
 politics as politicized everyday social world and as 
 interrelated activities that shape and are shaped by 
@@ -8343,28 +8271,27 @@ arena toward the realm of culture and identity; and (c)
  
 corporate-class politics or the preponderant power of 
 corporate communities over policy issues. Lecture 3 
-hours. Prerequisite: SOCI 1113. 
+hours. Prerequisite: SOCI . 
 3353* SOCIAL DEMOGRAPHY 3 credit hours An analysis 
 of the influence of social and cultural settings on natality, 
 mortality and migration. This course also includes an 
 assessment of the impact of demographic change on social 
-systems. Lecture . Prerequisite: SOCI 1113. 
+systems. Lecture . Prerequisite: SOCI . 
 3373* SOCIOLOGY OF THE COMMUNITY 3 credit hours 
 The community, its structure, systems and processes. This 
 course covers the influence of geography, demography 
 and patterns of settlement upon social life. Lecture 3 
-hours. Prerequisite: SOCI 1113. 
+hours. Prerequisite: SOCI . 
 3403* SOCIOLOGY OF THE FAMILY 3 credit hours This 
 course introduces the student to a historical overview of 
 the American family, along with the intersections of social 
 class, gender, and race/ethnicity in family contexts. Topics 
 include mate selection, connections between work and 
 family life, marriage, parenting, divorce, stepfamilies, and 
-violence in families. Lecture . Prerequisite: SOCI 
-1113. 
+violence in families. Lecture . . 
 3413* GERONTOLOGY 3 credit hours An in-depth study 
 of various aspects of aging from a broad interdisciplinary 
-perspective. Lecture . Prerequisite: SOCI 1113. 
+perspective. Lecture . Prerequisite: SOCI . 
 3503* POPULAR CULTURE 3 credit hours A study of 
 culture as the mass production, circulation, and 
 consumption of visual texts and behavioral practices in 
@@ -8385,19 +8312,19 @@ The
 course 
 stresses 
 interpretive analyses and theories advanced in the field. 
-Lecture . Prerequisite: SOCI 1113. 
+Lecture . Prerequisite: SOCI . 
 3513* INTRODUCTION TO SOCIAL WELFARE AND 
 HUMAN SERVICES 3 credit hours An introduction to 
 social welfare institutions, including the purposes, 
 concepts, methods, and theories used in the delivery of 
-human services. Lecture . Prerequisite: SOCI 1113. 
+human services. Lecture . Prerequisite: SOCI . 
 3733* SOCIOLOGY OF GENDER 3 credit hours This 
 course will examine the processes by which gender is 
 socially constructed, along with the distinction between 
 biological sex and sociological gender, the causes and 
 consequences of gender inequality, and a historical 
 overview of gender relations in different social 
-institutions and societies. Lecture , Prerequisite: SOCI 1113. 
+institutions and societies. Lecture , Prerequisite: SOCI . 
 3853* SELECTED TOPICS IN SOCIOLOGY 3 credit hours 
 An intensive analysis of a selected problem or topic in 
 Sociology. May be repeated with a different topic for a 
@@ -8421,7 +8348,7 @@ delinquency from a sociological perspective. Larger social
 contexts will also be considered, including the role of 
 schools, peers, community, and the family. Aspects of the 
 juvenile justice system in the U.S. will also be examined. 
-Lecture . Prerequisite: SOCI 1113. 
+Lecture . Prerequisite: SOCI . 
 4103* SOCIOLOGY OF RELIGION 3 credit hours A study 
 of religion as a social institution organized into groups.  
 Attention is given to social explanations of religious 
@@ -8451,7 +8378,7 @@ Lecture . 4491-3* INDEPENDENT STUDY 1-3 credit hours
 Independent study of sociologically relevant topics not 
 covered in current sociology courses. May be repeated 
 with a different topic for a total of 3 credit hours. 
-Independent Study s: SOCI 1113, 
+Independent Study s: SOCI , 
 Junior standing, and Sociology major. 
 4533 HUMAN SERVICES COUNSELING STRATEGIES 3 
 credit hours A study of counseling and interviewing 
@@ -8468,7 +8395,7 @@ an advanced level. This course will also cover career
 options and graduate education in sociology. Sociology 
 program assessment is a component of the course. 
 Sociology majors are required to take this course during 
-their Senior year. Capstone . Student must be a sociology major, have taken SOCI 1113, 
+their Senior year. Capstone . Student must be a sociology major, have taken SOCI , 
 SOCI 3113, SOCI 3133, and completed at least 18 credit 
 hours of sociology coursework. (Spring, Even Years) 
 SOMALI (SMLI) 
@@ -8494,9 +8421,9 @@ II
 3 
 credit 
 hours 
-Continuation of SPAN 1113. Lecture . Prerequisite: 
+Continuation of SPAN . Lecture . Prerequisite: 
 SPAN 
-1113 
+ 
 or 
 equivalent. 
 General 
@@ -8508,8 +8435,8 @@ review of grammar, writing, and speaking. Conducted in
 Spanish. Lecture . Prerequisite: SPAN 1223 or the 
 equivalent. (Fall) 
 2223* INTERMEDIATE SPANISH II 3 credit hours 
-Continuation of SPAN 2113. Conducted in Spanish. 
-Lecture . Prerequisite: SPAN 2113. (Spring) 
+Continuation of SPAN . Conducted in Spanish. 
+Lecture . Prerequisite: SPAN . (Spring) 
 3113* SPANISH GRAMMAR AND LINGUISTICS 3 credit 
 hours A systematic review of Spanish grammar; a study of 
 the phonology, morphology, syntax, and semantics of 
@@ -8542,52 +8469,52 @@ GRAMMAR
 AND 
 LINGUISTICS 3 credit hours An expansion and refinement 
 of complex structures including nuances of the language 
-not addressed in SPAN 3113 which may include archaic 
+not addressed in which may include archaic 
 and literary tenses, special verb forms for indirect 
 discourse, infrequently used compound tenses, advanced 
 vocabulary, and expanded use of the subjunctive mood. 
 Conducted in Spanish. Lecture . Prerequisite: 
-SPAN 3113 or equivalent. 
+SPAN  or equivalent. 
 3223* ADVANCED SPANISH CONVERSATION 3 credit 
 hours Provides additional training in oral mastery of the 
 Spanish language. Focuses on the automation of spoken 
 language in all tenses/moods. Aims to achieve command 
 of idiomatic expressions and advanced vocabulary. 
 Conducted in Spanish. Lecture . Prerequisite: 
-SPAN 3123 or equivalent. 
+SPAN  or equivalent. 
 4113* LA HISTORIA DEL MUNDO HISPANICO 3 credit 
 hours A survey of the important political, social, economic, 
 diplomatic, intellectual, and religious developments in the 
 Spanish speaking world. Conducted in Spanish. Lecture 3 
-hours. Prerequisite: SPAN 3143 or equivalent. 
+hours. Prerequisite: SPAN  or equivalent. 
 4123* ESPANA EN SU LITERATURA I 3 credit hours The 
 study of the major literary works of Spain from the Middle 
 Ages through the  Century. Relationships between 
 literature and society will also be examined. Conducted in 
-Spanish. Lecture . Prerequisite: SPAN 3143. 
+Spanish. Lecture . Prerequisite: SPAN . 
 4133* ESPANA EN SU LITERATURA II 3 credit hours The 
 study of the major literary works of Spain from the  
 Century to the present. Relationships between literature 
 and society will also be examined. Conducted in Spanish. 
-Lecture . Prerequisite: SPAN 4123 or equivalent. 
+Lecture . Prerequisite: SPAN  or equivalent. 
 4143* HISPANOAMERICA EN SU LITERATURA I 3 credit 
 hours The study of the major literary works of Spanish 
 America from pre-colonial literature to the first half of the 
  Century. Relationships between literature and 
 society will be discussed. Conducted in Spanish. Lecture 3 
-hours. Prerequisite: SPAN 3143. 
+hours. Prerequisite: SPAN . 
 4153* HISPANOAMERICA EN SU LITERATURA II 3 
 credit hours The study of the major literary works of 
 Spanish America from the second half of the  Century 
 to the present. Relationships between literature and 
 society will be discussed. Conducted in Spanish. Lecture 3 
-hours. Prerequisite: SPAN 4143 or equivalent. 
+hours. Prerequisite: SPAN  or equivalent. 
 4163* SPANISH FOR BUSINESS AND INDUSTRY 3 credit 
 hours The Spanish language as a means of communication 
 in the world of business; basic commercial and economic 
-vocabulary; trade and advertisement practices. Lecture 3 
-hours. Prerequisite: SPAN 3143. 
-4961-3* DIRECTED READING IN SPANISH  This course provides an opportunity for gifted and 
+vocabulary; trade and advertisement practices. Lecture
+4961-3* DIRECTED READING IN SPANISH 0 
+credit hours This course provides an opportunity for gifted and 
 qualified students to work at a special project not offered 
 in a regular course. May be repeated to a total of . 
   
@@ -8597,7 +8524,7 @@ Independent
 study/directed 
 readings 
 . 
-Prerequisite: SPAN 4143 or equivalent. 
+Prerequisite: SPAN or equivalent. 
 SPECIAL EDUCATION (SPED) 
 Education 
 2103 
@@ -8782,17 +8709,17 @@ Prerequisite: SES 2003.
 Develop individual skills in the practice of coaching as 
 well as a broad understanding of leadership within the 
 larger context of organizational performance and change. 
-Lecture . Prerequisite: SES 2043. 
+Lecture . Prerequisite: SES . 
 3113 EVENT PLANNING AND FUNDRAISING 3 credit 
 hours Planning and management of special events. 
 Overview of fundraising components and operation, as 
 well as guidelines to implement and manage effective 
 sports related events. Lecture . Prerequisite: SES 
-2043. 
+. 
 3123* SPORT PSYCHOLOGY 3 credit hours Explore the 
 psychological factors involved in sport and physical 
 activity with an emphasis on performance enhancement. 
-Lecture . Prerequisite: SES 2003. 
+Lecture . Prerequisite: SES . 
 3131-3 SPECIAL STUDIES 1-3 credit hours Special 
 studies courses, of one to three credits, that are designed 
 to give variety to the present curriculum or educational 
@@ -8800,20 +8727,20 @@ activities under the direct supervision of a faculty
 member. Up to  of special studies courses may be 
 applied to a student's program. (A special studies course 
 may be repeated if a different topic is offered.) 
-Independent study, : SES 3023. 
+Independent study, : SES . 
 3143 PERSONAL TRAINING 3 credit hours Examine 
 training principles and develop appropriate exercise plan 
 based on the goals, indications, contraindications, and 
 physical evaluation of the individual. Lecture . 
-Prerequisite: SES 3033. 
+Prerequisite: SES . 
 3153 STRENGTH TRAINING 3 credit hours Examine and 
 apply the proper strength training and conditioning 
-exercises for the athletic or sedentary populations. 
-Lecture . Prerequisite: SES 3033. 
+exercises for the athletic or  populations. 
+Lecture . Prerequisite: SES . 
 4003 MOTOR LEARNING 3 credit hours Examine 
 variables that affect the learning processes associated 
 with the acquisition and performance of motor skills. 
-Lecture . Prerequisite: SES 3043. (Fall) 
+Lecture . Prerequisite: SES . (Fall) 
 4013 PHYSIOLOGY OF EXERCISE LAB 3 credit hours 
 Apply practical skills and cutting-edge technologies to 
 evaluate the effects of exercise and physical activity on 
@@ -8821,16 +8748,16 @@ health. Lecture . Prerequisite: SES 3033. (Fall)
 4023 EXERCISE PRESCRIPTION 3 credit hours Examine 
 and apply principles used in exercise testing and 
 prescription for normal healthy individuals and special 
-populations. Lecture . Prerequisite: SES 4013. 
+populations. Lecture . Prerequisite: SES . 
 (Spring) 
 4033 LEGAL ASPECTS 3 credit hours Examine legal and 
 social policy issues most often encountered in sport and 
-physical activity. Lecture . Prerequisite: SES 3023. 
+physical activity. Lecture . Prerequisite: SES . 
 (Fall) 
 4043 RESEARCH METHODS 3 credit hours Analyze 
 scientific literature and apply appropriate methods for 
 reading, presenting, and interpreting data involved in 
-research design. Lecture . Prerequisite: SES 3043. 
+research design. Lecture . Prerequisite: SES . 
 (Spring) 
 4053 PRACTICUM 3 credit hours Intensive, senior-level 
 work experience at an approved internship site while 
@@ -8845,7 +8772,7 @@ INTRODUCTION
 TO 
 STATISTICS INSTRUCTION Developmental course, no 
 credit Remediation and support for students who are 
-enrolled in STAT 1513, but whose test scores and prior 
+enrolled in STAT , but whose test scores and prior 
 coursework do not indicate preparedness for college-level 
 mathematics classes. Recommended for students enrolled  
 Does not satisfy major requirements for any degree 
@@ -8867,17 +8794,15 @@ estimates of mean, variance and proportion, confidence
 intervals, 
 test 
 of 
-hypotheses. 
-Lecture 
-3 
+hypotheses.  
 hours. 
-Prerequisite: MATH 1413 or higher. (Spring) 
-2023 INTRODUCTORY PROBABILITY AND STATISTICS 
-II 3 credit hours A continuation of STAT 2013. Emphasis 
+Prerequisite: MATH  or higher. (Spring) 
+2023 INTRODUCTORY PROBABILITY AND STATISTICS II 3
+credit hours A continuation of STAT 2013. Emphasis 
 on various experimental designs-chi square tests, analysis 
 of variance, regression and correlation, sampling, and 
 introduction to nonparametric statistics. Lecture . 
-Prerequisite: STAT 2013 or departmental permission.  
+Prerequisite: departmental permission.  
 2613 BUSINESS STATISTICS 3 credit hours An 
 introduction to quantitative tools used in business 
 analysis. Measures of central tendency, distributions, 
@@ -8927,7 +8852,7 @@ TECH coursework. Students will work individually and in
 teams to analyze technology issues through research and 
 application. Capstone/lecture . Prerequisite: IT 
 3013; Prerequisite or Concurrent Enrollment: IT 4033 
-and IT 4143. 
+and IT . 
 THEATRE ARTS (THTR) 
 Art, Music, and Theatre Arts 
 1001 THEATRE PRACTICUM 1 credit hour A required 
