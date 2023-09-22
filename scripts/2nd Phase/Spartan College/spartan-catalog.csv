@@ -1,4 +1,27 @@
 code,title,credits,description
+ELT1001LAB,DC Fundamentals Lab,2,"Semester Credit Hours (61 Hours Lab)
+Preferred Prerequisite: None
+Corequisite: ELT1001LEC
+This course focuses on basic direct-current (DC) electronics, along with the technical math required for 
+an electronics technician. Students are introduced to the concepts of voltage, current, and resistance, 
+along with Ohm’s law. Components discussed include conductors, semiconductors, insulators, and 
+resistors, along with their characteristics in circuits. The course also covers the application of resistors in 
+series, parallel, and complex circuits. Magnetism concepts, transducers, and basic types of switches are 
+introduced, along with the use of a digital multimeter, and an introduction to schematics. Students are 
+also introduced to the basic concepts of soldering. Shop safety is stressed throughout the 
+course. Towards the end of the course, students will be given a “Benchmark Lab. Upon completion of 
+this class, students should understand the concepts of voltage, current, and resistance, and how various 
+DC components act in series, parallel, and complex circuits."
+ELT1001LEC,DC Fundamentals Lecture,2,"Corequisite: ELT1001LAB
+This course focuses on basic direct-current (DC) electronics, along with the technical math required for 
+an electronics technician. Students are introduced to the concepts of voltage, current, and resistance, 
+along with Ohm’s law. Components discussed include conductors, semiconductors, insulators, and 
+resistors, along with their characteristics in circuits. The course also covers the mathematical application 
+of resistors in series, parallel, and complex circuits. Magnetism concepts, transducers, and basic types of 
+switches are introduced, along with the use of a digital multimeter, and an introduction to schematics. 
+Students are also introduced to the basic concepts of soldering. Upon completion of this class, students 
+should understand the concepts of voltage, current, and resistance, and how various DC components act 
+in series, parallel, and complex circuits."
 ELT1002LEC,AC Theory and Control Devices Lecture,2,"This course focuses on basic alternating current (AC) electronics. Students are introduced to the 
 concepts of voltage, current, reactance, and impedance, AC components such as inductors and 
 capacitors, and specific AC circuits such as reactance circuits and filters. This course also introduces basic 
@@ -222,6 +245,19 @@ voltage, inductance, capacitance, impedance, and power.  Also, included in this 
 electrical schematics and their application to aircraft. Upon successful completion of this course, 
 students should have a sound foundation of electrical theory and its application to aircraft systems and 
 components, as well as knowing how to read and apply basic electrical schematics to aircraft."
+GEN1003LEC,Aviation Maintenance Practices Lecture,3,"Semester Credits (71.5 Didactic Hours)
+Preferred Prerequisite: MAT1001
+Corequisite: GEN1003LAB 
+This course covers topics, including technical writing in maintenance publications and maintenance 
+forms and records, Students will read, select, and use FAA and manufacturer's aircraft maintenance 
+specifications, data sheets, manuals, publications, technical data, related Federal Aviation Regulations 
+and aircraft records keeping. The course covers a detailed study of aircraft weight and balance. The 
+student will also study maintenance human factors which affect aircraft maintenance as well as 
+mechanics privileges and limitations. Upon successful completion of this course, students should be able 
+to read in interpret maintenance publication, complete aircraft maintenance forms and 
+records, understand basic ground operations and servicing of aircraft, visualize the weighing of 
+an aircraft and perform all calculations, be aware of mechanic privileges and limitations and understand 
+Human Factors that can affect aircraft maintenance"
 GEN1002LEC,Aviation Science Lecture,2,"This course will continue the study of electrical concepts to include, batteries, and additional 
 information on reading and interpreting aircraft electrical circuit diagrams that include digital and solid-
 state circuits and logic functions. Students study aircraft drawings of aircraft parts and repairs. This 
@@ -235,6 +271,22 @@ techniques and corrosion inspections. Upon successful completion of this course,
 knowledge of servicing batteries, reading wiring diagrams, reading and completing drawings, 
 demonstrate knowledge of aircraft materials and processes, aircraft fluid lines and corrosion control 
 process."
+GEN1003LAB,Aviation Maintenance Practices Lab,1," Semester Credits (52 Lab Hours)
+Preferred Prerequisite: MAT1001 
+Corequisite: GEN1003LEC 
+This course covers all lab requirements for Aviation Maintenance Practices. Topics, including technical 
+writing in maintenance publications and maintenance forms and records, Students will read, select, and 
+use FAA and manufacturer's aircraft maintenance specifications, data sheets, manuals, publications, 
+technical data, related Federal Aviation Regulations and aircraft records keeping. The course also 
+incorporates aircraft ground operations and servicing procedures with several different lab projects. The 
+course covers a detailed study of aircraft weight and balance, including the actual weighing of an 
+aircraft. The student will also study maintenance human factors which affect aircraft maintenance as 
+well as mechanics privileges and limitations. Lab projects for these topics are performed enhance 
+classroom lecture. Upon successful completion of this course, students should be able to read in 
+interpret maintenance publication, complete aircraft maintenance forms and records, perform basic 
+ground operations and servicing of aircraft, weigh aircraft and perform all calculations, be aware of 
+mechanic privileges and limitations and understand Human Factors that can affect aircraft 
+maintenance"
 GEN1002LAB,Aviation Science Lab,2,"This course will complete the lab requirements of electrical concepts to include, batteries, 
 and additional information on reading and interpreting aircraft electrical circuit diagrams that include 
 digital and solid-state circuits and logic functions. Students make drawings of aircraft parts 
@@ -391,3 +443,21 @@ expectations and job trends, assessing and developing skills for the workplace, 
 portfolio with cover letters and resumes, projecting professionalism, and the practical applications of 
 networking.  This course also helps develop self-promotion strategies, successful interviewing, salary 
 negotiations, and overcoming rejection. Prerequisite: None"
+MAT1001,College Mathematics,4,"s (58 Didactic Hours, 7 Lab Hours)
+Preferred Prerequisite: None
+In this class, the student will study the concepts of mathematics which will include fractions, decimals, 
+ratios and proportions, percentages, sign numbers, transforming formulas, powers and roots, basic 
+geometry, number bases, scientific notation, basic trig functions, and basic vectors. This course also 
+meets the requirements for FAR Part 147"
+PHY1001,College Physics,3,"s (40 Didactic Hours, 18.5 Lab Hours)
+Preferred Prerequisite: None
+This class is an introductory course covering the principles of physics. Topics include simple mechanics, 
+aerodynamics, fluid dynamics, atmospheric properties, matter, work, power, energy, motion, heat and 
+temperature an"
+ENG1001,English Composition,3,"Semester Credits (48 Didactic Hours) Preferred Prerequisite: None This course is a practical expository writing experience in standard usage and essential writing skills. Emphasis is given to the development of the basic sentence, paragraph and essay."
+HIS1001,American History: 1865 to Present,3,"Semester Credits (48 Didactic Hours)
+Preferred Prerequisite: None
+Students trace the economic, political, social, and intellectual development that shaped modern 
+America. They investigate in detail the impact of industrialization in shaping the emerging nation."
+SOC1001,Modern Sociology,3,Semester Credits (48 Didactic Hours) Preferred Prerequisite: None This course is a study of the role society plays in the lives of individuals and groups. The increased diversity in an ever-shrinking world requires students to acquire a better understanding of the social and cultural factors that will influence their future lives and careers.
+SPH2001,Fundamentals of Public Speaking (Speech),3,"Semester Credits (48 Didactic Hours) Preferred Prerequisite: None This is an introductory course in oral communication emphasizing effective listening, group discussion and group problem-solving techniques, organizational skills, use of evidence and persuasion, and effective delivery techniques."
