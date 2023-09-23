@@ -44,8 +44,10 @@ class HoustonUniversityScraper(scrapy.Spider):
         if len(possible_desc) >= 1:
             item['description'] = possible_desc[-1][1]
         else:
-            item['description'] = ''
+            item['description'] = response.xpath("//h1[@id='course_preview_title']/text()").re_first(r'\s+(.*)')
 
+
+            
         yield item
 
     @staticmethod
