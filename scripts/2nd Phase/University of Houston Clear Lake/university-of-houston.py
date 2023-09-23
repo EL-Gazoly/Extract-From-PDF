@@ -44,7 +44,7 @@ class HoustonUniversityScraper(scrapy.Spider):
         if len(possible_desc) >= 1:
             item['description'] = possible_desc[-1][1]
         else:
-            item['description'] = ''
+            item['description'] = response.xpath("//td[@class='block_content']/p[2]/text()")
 
         yield item
 
